@@ -1,0 +1,131 @@
+
+=====PAGE 1=====
+BUILDING CODE 
+VARIANCE 
+ 
+Unless stated otherwise, all Code references in this STANDATA are to Division B of the Alberta Building Code 2014. 
+Issue of this STANDATA is authorized by  
+the Building Administrator 
+ 
+[Original Signed] 
+Paul Chang 
+ 
+Alberta Municipal Affairs – Community & Technical Support, 16th Floor, 10155 –102nd Street, Edmonton, Alberta, Canada, T5J 4L4 
+Phone: 1-866-421-6929  Email: safety.services@gov.ab.ca  Website: www.municipalaffairs.alberta.ca  
+June 2017 
+14-BCV-007 
+Page 1 of 3 
+INTERIOR STAIRWAYS FOR ROOF ACCESS 
+PURPOSE  
+This STANDATA has been developed to allow the use of fixed attic folding stairs, rung-type 
+ladders or “ship’s ladders/fixed industrial stairs” in place of the interior stairways required by the 
+Alberta Building Code 2014 (ABC 2014). 
+DISCUSSION 
+When access through a roof assembly is required by the ABC 2014 to facilitate the servicing of 
+HVAC equipment, or if it is required to gain access to tie-back and anchor systems for window 
+cleaning platforms, Article 3.6.4.7. specifies the access is to be provided by an interior stairway. 
+In buildings which are more than 3 storeys in building height and which have a low pitched or 
+flat roof, Article 3.2.5.3 requires that an interior means be provided for firefighters to gain access 
+to the roof. This may be accomplished by a stairway or a suitable fixed ladder and hatchway. 
+Normally, where ramps and stairways form part of an access to exit, then those ramps and 
+stairways must conform to the dimensional, guard, and handrail requirements that apply to exits. 
+However, if the ramps and stairways are only intended for occasional use for servicing 
+equipment and machinery, Sentence 3.3.1.14.(2) specifies that they do not need to conform to 
+those requirements. 
+CODE REFERENCES 
+1. Article 3.2.5.3. states: 
+3.2.5.3. Roof Access 
+(See also Article 3.6.4.7.) 
+1) On a building more than 3 storeys in building height where the slope of the roof is less 
+than 1 in 4, all main roof areas shall be provided with direct access from the floor areas 
+immediately below, either by 
+a) a stairway, or 
+b) a hatch not less than 550 mm by 900 mm with a fixed ladder. 
+2. Article 3.3.1.14. states: 
+3.3.1.14. Ramps and Stairways 
+1) Except as permitted by Sentence (2), Article 3.3.4.7. and Subsection 3.3.2., ramps and 
+stairways that do not serve as exits shall conform to the dimensional, guard, handrail and 
+slip-resistance requirements for exit ramps and stairways stated in Sentence 3.4.3.2.(8) 
+and Articles 3.4.3.4., and 3.4.6.1. to 3.4.6.8. 
+2) Ramps and stairways that do not conform to the requirements of Sentence (1) are 
+permitted to serve service rooms and service spaces and in industrial occupancies, 
+provided the ramps and stairways are intended only for occasional use for servicing 
+equipment and machinery. 
+Archived
+Archived
+
+=====PAGE 2=====
+ 
+14-BCV-007 
+Page 2 of 3 
+3. Article 3.6.4.7. states: 
+3.6.4.7. Roof Access 
+1) A building shall be provided with direct access to the roof by an interior stairway if 
+a) heating, ventilating or air-conditioning equipment is installed on the roof, and 
+b) the roof elevation is more than 4 m above grade. 
+2) Access shall be provided to roof areas in which tie back and anchor systems are 
+provided for window cleaning suspended power platforms and if access is through 
+a) the roof, it shall be by means of an interior staircase, or  
+b) a wall, the panels shall be openable from the outside without the use of keys or 
+any specialized device or knowledge. 
+(See Appendix A) 
+3) Fixed access shall be provided to rooftop heating, ventilating or air-conditioning 
+equipment that is installed on a sloped roof. 
+ 
+Occupational Health and Safety Code (OHS Code): 
+“fixed ladder” is defined in the OHS Code as “a ladder that is permanently fixed to a 
+supporting structure in a vertical position or at an angle of not more than 15 degrees from 
+vertical and that does not lean back” 
+ 
+VARIANCE 
+This variance provides approximately equivalent or greater safety performance with respect to 
+persons and property as that provided for by the Safety Codes Act and the ABC 2014. 
+The interior stairways and staircases required by Sentences 3.2.5.3.(1) and 3.6.4.7.(1) and (2) 
+are permitted to be provided, alone or in combination, by any of the following methods: 
+1. a fixed staircase similar to that depicted in Figure 1 in Appendix A (note that this is also 
+known as a “ship’s ladder” or “fixed industrial stairs”) with a maximum vertical height of 
+3.7 m,  
+Note: Readers interested in design specifications for fixed industrial stairs should consult 
+the following source (there are many other types that could also prove useful): 
+http://www.dir.ca.gov/title8/3234.html, 
+2. a suitable folding stair with a maximum vertical height of 3.7 m, certified load rating 
+suitable for its intended use, but no less than minimum certified load rating of 300 lbs, 
+complete with handrails.  
+3. a rung-type fixed ladder at an interior location meeting the requirements of section 130 
+of 
+the 
+OHS 
+Code 
+for 
+fixed 
+ladders. 
+https://work.alberta.ca/documents/WHS-
+LEG_ohsc_p08.pdf 
+Where the methods are used in combination, a landing conforming to Articles 3.4.6.3. and 
+3.4.6.4. (for Part 3 buildings) or Subsection 9.8.6. (for Part 9 buildings) shall be provided 
+between each different type of access method. 
+Note that while Sentence 3.3.1.14.(2) exempts these stairs from the dimensional, guard, 
+handrail and slip-resistance requirements of the ABC 2014, the OHS Code may contain 
+additional dimensional and handrail requirements. Refer to the OHS for more specific 
+information.  
+This VARIANCE applies throughout the province of Alberta. 
+Archived
+
+=====PAGE 3=====
+ 
+14-BCV-007 
+Page 3 of 3 
+APPENDIX A 
+Figure 1- SHIP'S LADDER/INDUSTRIAL STAIRS 
+NOTE: Figure provided for illustration purposes only. 
+ 
+Not intended to limit the design or configuration of any proposed design. 
+ 
+Maximum vertical height 3.7 m 
+ 
+OHS requirements for handrails 
+ 
+Readers interested in design specifications for fixed industrial stairs should consult the 
+following source (there are many others that could also prove 
+useful):http://www.dir.ca.gov/title8/3234.html, 
+Archived

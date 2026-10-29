@@ -1,0 +1,674 @@
+
+=====PAGE 1=====
+ 
+Building Codes Challenge 
+Built World Tech — Venture Pilots 2026 
+1. Challenge Overview 
+Problem Statement 
+Building codes are mostly prescriptive and quite static.  Innovators are creative.  
+When builders and innovators seek to introduce alternatives to what is prescribed 
+in the building codes, they must prepare an ‘alternative solution application’ that 
+objectively demonstrates it provides approximately equivalent or greater 
+performance to the existing code.  This application is reviewed by a Safety Codes 
+Officer responsible for the jurisdiction of the building.  There are over 430 
+jurisdictions in Alberta. Preparing a compliant alternative solution application asks 
+innovators and builders to identify the right code articles, functional objective 
+statements, and supporting analysis largely on their own — and many submissions 
+arrive incomplete or administratively non-compliant. That preparation gap drives 
+weeks-to-months of back-and-forth between innovators and approvers before a 
+decision is ever reached. 
+Solution 
+Create an AI-powered tool that ensures innovators and builders prepare a 
+complete, code-referenced alternative solution application before it ever reaches a 
+Safety Codes Officer. The tool must be able to receive key information about the 
+alternative solution, identify the relevant building codes, and review the full 
+application for completeness – not technical correctness. The tool also needs a 
+reviewer-facing interface that assists Safety Codes Officers in rapidly reviewing 
+and evaluating applications for administrative compliance with the building codes.  
+Background 
+Alberta's Safety Codes Act lets applicants, like owners, builders, and manufacturers, 
+demonstrate that an innovative product, assembly, or design performs as well as or 
+better than an existing acceptable solution in building codes, without waiting for 
+the prescriptive portions of the code itself to be modified through code change. 
+Anecdotally, many solutions fail to receive approval on the first submission. Much 
+of that failure traces back to the preparation stage, anecdotally: applicants often 
+don't know which code articles and functional objective statements apply, whether 
+professional (engineering) involvement is required, or what a complete, defensible 
+submission looks like. The solution is being scoped to work across any innovation 
+that requires approval in Alberta. 
+Target Customers 
+Production homebuilders, manufacturers, and the engineers, architects, and the 
+other professionals supporting them as they bring new products, assemblies, or 
+designs to market and need an alternative solution approved. Their design and 
+code-compliance leads carry this pain directly. Safety Codes Officers (SCOs) and 
+their employers reviewing these applications share the burden through incomplete 
+submissions and repeated “more information” requests. 
+Why Now 
+•​ Identified as a high priority pain point at the Edmonton Metro Region Building 
+Codes Innovation Meeting hosted by BILD Edmonton Metro Region and the 
+Safety Codes Council in March 2026. 
+•​ Growth in innovation categories that inherently require an alternative solution 
+— single-exit buildings, exterior insulation/cladding assemblies, engineered 
+ 
+
+=====PAGE 2=====
+ 
+wall systems — is increasing the volume of applications needing this kind of 
+support. 
+•​ Modern AI tools can plausibly parse code articles, functional objective 
+statements, and administrative requirements directly from the building codes, 
+like the National Building Code – Alberta Edition.. 
+•​ Desire from the building industry for innovation in this arena 
+ 
+Current Workflow to Obtain Approval of Alternate Solution 
+Stage 
+Trigger 
+Prepare 
+Submit 
+Evaluate 
+Decide 
+Innovator 
+Action 
+Identify a new 
+way of doing 
+things 
+Build a case of 
+equal or greater 
+performance to 
+existing 
+solutions 
+Submit a form 
+& support 
+materials, 
+potentially 
+unique to every 
+employer of 
+Safety Codes 
+Officers 
+Answer 
+questions and 
+provide 
+additional info 
+Receive 
+approval or 
+refusal from the 
+Safety Codes 
+Officer for their 
+specific 
+jurisdiction 
+Safety Codes 
+Officer Action 
+Provide an 
+application 
+form & 
+provincial code 
+requirements 
+Receive 
+form/materials 
+& assign to a 
+safety codes 
+officer through 
+software 
+Evaluate 
+submission 
+through 
+research, as 
+needed 
+ 
+Make a 
+decision, share 
+it & register 
+approvals with 
+the Safety 
+Codes Council 
+ 
+Pain severity 
+•​ Anecdotally, many alternative solutions fail to receive approval on their first 
+submission, across all innovators and approvers in the system. 
+•​ The back-and-forth to reach approval can take weeks to months; mistakes, 
+believed to be driven in large part by incomplete or under-supported 
+submissions at the preparation stage — creating labour costs for approvers 
+and labour and delay costs for innovators. 
+•​ Financial cost in labour, errors, and delay ranges from a few hundred dollars to 
+tens of thousands of dollars, depending on complexity and how much rework is 
+required. 
+•​ Left unresolved, innovation is discouraged or diverted to other jurisdictions — 
+delaying safer, more affordable, or more resilient building solutions from 
+reaching Albertans. 
+ 
+2. Detailed Technical Scope 
+Near-Term Build (4–8 Week Prototype) 
+The realistic prototype target is an AI agent that can receive the description of a building project or 
+product and guide the user through completion of the Safety Codes Variance Template Part 1, sections A-D 
+(Variance Template included in Appendix 1). The tool should also be able to review a completed application 
+for completeness and accuracy.  It follows the same three-stage pipeline an applicant moves through when 
+preparing a submission — intake, code identification, and supplemental case-building. The solution will use 
+the attached Safety Codes Variance Template as the application template (see Appendix 1).  Start with the 
+National Building Codes before trying to incorporate all codes into the solution. 
+ 
+
+=====PAGE 3=====
+ 
+ 
+1.​ Intake a project or product description from a user and return a completed Safety Codes Variance 
+Template, Sections A-C 
+a.​ Solution requires ability to prompt user for requisite information on the project, including 
+details on the applicant, building characteristics and location (All details required in 
+Sections A and B for the Safety Codes Variance Template) 
+b.​ Solution requires ability to map the project or product to relevant safety codes based on 
+information provided by the user 
+i.​
+Solution selects relevant safety codes and ranks them by importance to the project 
+ii.​
+Solution recommends most likely benchmark or accepted solution for the situation 
+described by the user with an explanation 
+c.​ Solution completes Section C of the Variance Template 
+i.​
+Note, once a specific Code is identified, this becomes a deterministic look-up 
+exercise to determine the relevant objective statements, function, and Intent 
+Statements for each article of the code. 
+ii.​
+This is completed in the Section C table: “Attributions of Acceptable Solutions” 
+iii.​
+Solution provides an explainer paragraph for each article included and why 
+2.​ Identify if and when a 3rd party professional or expert should be involved in the development of the 
+alternative solution 
+a.​ Explicitly identify when development of the alternative solution or evaluation of the 
+proposal constitutes the practice of Engineering. 
+3.​ Recommend technical issues or specific code sections to address in the preparation of supporting 
+documentation for the alternative solution (Section D) 
+a.​ Note, completion of the supporting documentation requires professional expertise in most 
+cases.  We do not expect the tool to complete this section on its own. 
+4.​ Review an Alternative solutions application for completion 
+a.​ Use the Safety Codes Variance Template as the application 
+b.​ Identify deficiencies in a completed application 
+i.​
+Designed to be used by an applicant or a reviewer 
+5.​ Design 
+a.​ Export the Application as a .pdf to match the format of the Safety Codes Variance 
+Template Part 1, Sections A-D in Appendix 1 
+b.​ Design and organize the data for portability.  Individual jurisdictions have local 
+modifications to the application form and process.  The tool should be designed such that it 
+is easily adaptable in the future. 
+ 
+Primary Reference Data 
+Full source documents are provided in the accompanying data package; core references include: 
+•​ Safety Codes Act, Building Code Regulation (AR 5/2024), Exemption Regulation (AR 351/2003), Permit 
+Regulation (AR 204/2007) 
+•​ National Building Code: 2023 Alberta Edition, plus NBC/NECB 2020 Supplements: Intent Statements, 
+Structural Commentaries, and the Illustrated User's Guide (Part 9, Housing and Small Buildings) 
+•​ National Energy Code of Canada for Buildings (NECB) 2020 and its User's Guide 
+•​ National Fire Code: 2023 Alberta Edition and its Supplement: Intent Statements 
+•​ National Plumbing Code of Canada (NPC) 2020 and its Supplement: Intent Statements 
+•​ Safety Codes Council variance form 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 4=====
+ 
+ 
+ 
+3. Judging Criteria and Weighting 
+Rubric for evaluating innovator team submissions at Semi-Finals and Demo Day.  These judging criteria 
+follow the criteria provided in Section 2 to the applicants. 
+ 
+ 
+# 
+Criterion 
+What judges are scoring (1–5) 
+Weight 
+1 
+Intake 
+Does the tool capture the information it needs across varied 
+application types, prompt for what's missing or incomplete, and 
+signal its own confidence rather than filling boxes regardless. 
+Evidence of internal testing/evals. 
+20% 
+2 
+Code Identification 
+Does it map the project to the right articles and rank them sensibly; 
+does it name a plausible benchmark acceptable solution; is Section 
+C's attribution table complete and accurate; do all citations resolve 
+to real articles in the correct edition; is the rationale for each article's 
+inclusion consistent with the code's structure. 
+20% 
+3 
+Recommendations 
+Does it identify the specific technical issues or code sections the 
+supplemental documentation must address, and does it correctly flag 
+where engineering or another licensed professional is required — 
+including knowing where to stop rather than generating professional 
+judgment itself. 
+10% 
+4 
+Review 
+Can it review a completed application, summarize it usefully for an 
+SCO or applicant including supplemental material, and flag gaps or 
+missing components. Does the reviewer-facing view actually save an 
+SCO time. 
+10% 
+5 
+General 
+Applicability 
+Could an inexperienced applicant of any type — manufacturer, 
+general contractor, homebuilder — use this without prior variance 
+experience or code fluency. 
+5% 
+6 
+Implementation 
+Plan 
+Is there a realistic path to beta. How will the product testing with 
+users inform final design?  How does the product integrate with 
+current user workflows? 
+10% 
+7 
+Business Plan 
+Is there a credible company here — buyer, willingness to pay, cost 
+per application, and a defensible position as the underlying models 
+improve. 
+10% 
+8 
+Usability and 
+Portability 
+Overall user experience for both sides. Would a design lead choose 
+this over their current process; would an SCO open it twice.  Is it 
+designed for adaptability to individual jurisdictions. 
+10% 
+9 
+The X Factor 
+Hard-to-quantify edge — team, insight, unfair advantage. 
+5% 
+ 
+
+=====PAGE 5=====
+ 
+ 
+ 
+ Variance Form for Proposed Alternative Solution 
+This form, in its entirety including all supporting documentation, must be forwarded to: 
+Safety Codes Council 
+Administrator of Accreditation 
+500, 1405 Jasper Avenue NW 
+Edmonton, AB T5J 3N4 
+Email: accreditation@safetycodes.ab.ca 
+PART 1 – Applicant 
+All sections of Part 1 must be filled out in full by the applicant (owner and/or owner’s representative) to request an 
+alternative solution/variance to build, install, process or otherwise act in a manner that is not consistent with the 
+provision of an applicable Code/Standard/Regulation. 
+Section A: Applicant Information 
+Owner’s Name 
+Owner’s Representative 
+Mailing Address 
+ 
+Date of Request 
+Section B: Details of Proposed Alternative Solution 
+     Check this box if the Proposed Alternative Solution is for a Jurisdiction and is not site-specific. 
+Permit Number (if applicable) 
+Legal description of property that this variance will apply to: 
+Municipal Address 
+ 
+Alberta Township 
+Survey (ATS) 
+Lot 
+Block 
+Plan  
+QTR 
+SEC  
+TWP 
+RGE 
+MER 
+Section C: Justification That Proposed Alternative Solution Will Meet or Exceed 
+Prescriptive Code/Standard Article  
+Applicable Code or Standard  
+Attributions to Acceptable Solutions  
+Article(s) 
+Objective 
+Function 
+Intent statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i
+i
+i
+
+=====PAGE 6=====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section D: Supporting Documentation 
+Name of Supporting Documentation and Name of the Individual/Professional and/or Professional Organization 
+Responsible 
+ 
+ 
+ 
+ 
+ 
+Signatures and Disclosures 
+The collection of personal information is authorized under section 4(c) of the Protection of Privacy Act. This personal 
+information will be used to review and assess the variance application, including verifying information provided. 
+I understand that the information provided will be shared with the Safety Codes Council in accordance with the 
+municipality's Quality Management System agreement. The following information may also be published on the Safety 
+Codes Council website under section of the Protection of Privacy Act: permit number, municipality, issue date and 
+completion date, permit type, project type, work class, address, description of the project, total square footage, and 
+project value range. By checking this box, I acknowledge and agree to the described use of the information provided. 
+By signing below, the owner and/or owner’s agent expressly acknowledges and agrees that the proposed alternative 
+design, installation or process will provide an alternative that provides equal or better performance to the provisions of 
+the Code, Standard, and/or regulation stated above. 
+     Yes 
+Owner’s Signature 
+ 
+ 
+Date 
+ 
+OWNER’S NAME (PLEASE PRINT)  
+Owner’s Representative’s Signature 
+ 
+ 
+Date 
+ 
+OWNER’S REPRESENTATIVE’S NAME (PLEASE PRINT) 
+ 
+i
+SIGN
+SIGN
+
+=====PAGE 7=====
+ 
+ 
+PART 2(a) – Acceptance of Proposed Alternative Solution 
+This portion to be completed by Safety Codes Officer (SCO) responsible for reviewing the variance form for proposed 
+alternative solution and issuing/refusing the specific variance. 
+Section A: Reviewer Information 
+Date of Review 
+Authority Having Jurisdiction 
+ 
+Agency Reviewing the Proposed Variance (if applicable) 
+ 
+Name of Safety Codes Officer Responsible for Reviewing 
+the Variance 
+ 
+Discipline 
+Certification Number 
+Designation Number 
+Section B: Acceptance Of Proposed Alternative Solution 
+     I have reviewed the terms of the proposed variance/alternative solution as provided in Part 1. Based on the    
+submitted information, the proposed alternative solution will provide equal or better performance to the provisions of 
+the Code, Standard, and/or regulation. A Variance is issued. 
+In issuing a Variance, the following conditions must also be met: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safety Codes Officer Signature 
+ 
+ 
+Date 
+SIGN
+
+=====PAGE 8=====
+ 
+ 
+PART 2(b) – Refusal of Proposed Alternative Solution 
+This portion to be completed by Safety Codes Officer (SCO) responsible for reviewing the variance form for proposed 
+alternative solution and refusing the specific variance. 
+Section A: Reviewer Information 
+Date of Review 
+Authority Having Jurisdiction 
+ 
+Agency Reviewing the Proposed Variance (if applicable) 
+ 
+Name of Safety Codes Officer Responsible for Reviewing 
+the Variance 
+ 
+Discipline 
+Certification Number 
+Designation Number 
+Section B: Acceptance Of Proposed Alternative Solution 
+I have reviewed the terms of the proposed variance/alternative solution as provided in Part 1. This Variance is refused 
+for the following reasons (check all that apply): 
+     Information provided in Part 1 is incorrect. 
+     Information provided in Part 1 does NOT provide sufficient or complete information for SCO to determine if 
+proposed alternative solutions will provide equal or better performance to the provisions of the Code, Standard, and/or 
+regulation. 
+     Based on information provided in Part 1, the proposed alternative solution(s) will NOT provide equal or better 
+performance to the provisions of the Code, Standard, and/or regulation. 
+Additional rationale and reasons for refusal: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safety Codes Officer Signature 
+ 
+ 
+Date 
+ 
+SIGN
+
+=====PAGE 9=====
+PART 3 – Option to Appeal Written Refusals 
+The applicant (owner and/or owner’s representative) to whom this written Notice of Refusal for Specific Variance may 
+appeal it to the Safety Codes Council in conformance with the Bylaws of the Council, within 30 days of the date the 
+Written Notice was served in person. 
+Section A: Reviewer Information 
+A request for an Appeal shall: 
+•
+be in writing, in the form of the Council’s Notice of Appeal and signed by the appellant,
+•
+contain a copy of the Written Notice being appealed,
+•
+contain a concise statement concerning the matter being appealed setting out the grounds for appeal,
+•
+contain the name, address, telephone number, and email of the person appealing; and
+•
+be accompanied by the appropriate fee set out in the Council fee schedule.
+Note: If you have reached out to an Administrator and received a written decision, you are not able to pursue the 
+Council appeal process with respect to this notice of refusal. 
+Section B: Contact 
+Request for an Appeal shall be made to: 
+Safety Codes Council 
+Coordinator of Appeals 
+500, 1405 Jasper Avenue NW 
+Edmonton, AB T5J 3N4 
+Telephone: 
+780-413-0099 toll free 1-888-413-0099
+Email: 
+ appeals@safetycodes.ab.ca 
+Website: 
+  safetycodes.ab.ca/council-information/appeals 
+Appeals Info
+
+=====PAGE 10=====
+ 
+ 
+Part 4 – Appendix 
+Category 
+Code Reference 
+Article Text 
+Division A — 
+Definitions 
+1.4.1.2. Defined Terms 
+“Alternative solution” means a building design or construction method 
+that differs from the acceptable solutions in Division B but achieves at 
+least the same level of performance. 
+Division A — 
+Compliance 
+Framework 
+1.2.1.1.(1) 
+“Compliance with this Code shall be achieved by (a) complying with 
+the acceptable solutions in Division B, or (b) using alternative 
+solutions that will achieve at least the minimum level of performance 
+required by Division B…” 
+ 
+1.2.1.1.(3) 
+“Alternative solutions shall (a) achieve at least the same level of 
+performance as the acceptable solutions, and (b) be assessed 
+against the objectives and functional statements.” 
+ 
+1.2.1.2.(1) 
+“Division B contains acceptable solutions that are deemed to satisfy 
+the requirements of this Code when used in compliance with this 
+Code.” 
+ 
+1.2.1.3.(1) 
+“Where an alternative solution is used, the level of performance shall 
+be determined in relation to the objectives and functional statements 
+attributed to the acceptable solutions.” 
+Division C — 
+Administrative 
+Requirements 
+2.2.1.2.(1) Variances 
+“A variance may be issued where the authority having jurisdiction is 
+satisfied that the proposed alternative provides approximately 
+equivalent or greater safety performance.” 
+ 
+2.2.2.1.(1) Information 
+Required 
+“Information required to establish compliance with this Code shall be 
+submitted in a form acceptable to the authority having jurisdiction.” 
+ 
+2.2.3.1.(1) Documents 
+and Drawings 
+“Drawings and specifications shall be submitted where required to 
+show that the proposed work will conform to this Code.” 
+ 
+2.2.2.5.(1) Review and 
+Acceptance 
+“Where required, the authority having jurisdiction shall review and 
+accept documents submitted to demonstrate compliance with this 
+Code.” 
+ 
+Section 2.3.1.1. 
+Alternative Solutions 
+1) Documentation conforming to this Subsection shall be provided by 
+the person requesting the use of an alternative solution to 
+demonstrate that the proposed alternative solution complies with this 
+Code. 
+2) The documentation referred to in Sentence (1) shall include 
+a) a Code analysis outlining the analytical methods and rationales 
+used to determine that a proposed alternative solution will achieve at 
+least the level of performance required by Clause 1.2.1.1.(1)(b) of 
+Division A, and 
+b) information concerning any special maintenance or operational 
+requirements, including any building component commissioning 
+requirements, that are necessary for the alternative solution to 
+achieve compliance with the Code after the building is constructed. 
+3) The Code analysis referred to in Clause (2)(a) shall identify the 
+applicable objectives, functional statements and acceptable solutions, 
+and any assumptions, limiting or restricting factors, testing 
+procedures, engineering studies or building performance parameters 
+that will support a Code compliance assessment. 
+4) The Code analysis referred to in Clause (2)(a) shall include 
+information about the qualifications, experience and background of 
+the person or persons taking responsibility for the design. 
+
+=====PAGE 11=====
+ 
+ 
+5) The information provided under Sentence (3) shall be in sufficient 
+detail to convey the design intent and to support the validity, 
+accuracy, relevance and precision of the Code analysis. 
+6) Where the design of a building includes proposed alternative 
+solutions that involve more than one person taking responsibility for 
+different aspects of the design, the applicant for the permit shall 
+identify a single person to co-ordinate the preparation 
+of the design, Code analysis and documentation referred to in this 
+Subsection. 
+ 
+2.4.2.1.(1) 
+Professional Design 
+“Where required, the design and field review shall be carried out by a 
+registered professional skilled in the appropriate discipline.” 
+Safety Codes Act 
+(Alberta) 
+Variance Authority 
+The authority having jurisdiction may issue a variance where a 
+proposed alternative provides for equivalent or greater safety 
+performance. (Legislative basis for alternative solutions in Alberta) 
+ 
+Compliance 
+Requirement 
+No person shall commence work unless it complies with the Act, the 
+regulations, and the adopted codes. 
+Permit Regulation 
+(Alberta) 
+Permit Application 
+Requirements 
+An application for a permit shall include sufficient information to 
+enable the authority having jurisdiction to determine whether the 
+proposed work complies with the Act and the codes. 
+ 
+Conditions of Permit 
+A permit may include conditions necessary to ensure compliance with 
+the Act and the codes. 
+ 

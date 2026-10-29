@@ -1,0 +1,11 @@
+{
+ "k1": 1.8,
+ "b": 0.6,
+ "w_title": 6.0,
+ "w_sect": 3.0,
+ "w_body": 1.0,
+ "stem": true,
+ "phrase_boost": 0.0,
+ "noise_filter": true,
+ "cross_code_factor": 1.3
+}

@@ -1,0 +1,303 @@
+
+=====PAGE 1=====
+01
+alternative solution
+guide
+for point access blocks
+
+=====PAGE 2=====
+Point Access Blocks, also known as buildings with 
+Single Egress Stairs (SES), are compact multi-family 
+residential buildings with a limited number of 
+dwelling units clustered around one exit stair.
+ 
+These are the typical family-sized apartments in 
+many jurisdictions worldwide, including Germany, 
+the UK, and France, but are not common in North 
+America, where building code provisions have 
+prescriptively enforced a minimum of two means of 
+egress to achieve life safety requirements. However, 
+Point Access Blocks can be designed in a manner 
+that offers an equal or greater degree of safety 
+than prescriptive apartment building designs with a 
+number of additional benefits:
+•	
+Allow for greater flexibility in the 
+design and development of multi-
+family residential buildings
+•	
+Are 
+generally 
+smaller 
+in 
+scale 
+(relative to standard types) and 
+therefore may produce opportunities 
+for more sensitive infill in existing 
+neighbourhoods and aid in providing 
+gentle density
+•	
+Can be built with less quantity of 
+building materials to improve building 
+efficiency.
+•	
+Potential for higher quality units 
+with features like 3+ bedrooms, cross 
+ventilation, improved common space, 
+less lengthy double loaded corridors, 
+etc
+As many Canadian jurisdictions respond to the 
+ongoing crisis in housing, many are reviewing 
+their building codes to better support a diversity 
+of housing options, including supporting the 
+development of Point Access Blocks. Recently, 
+British Columbia modified their provincial building 
+code through Ministerial Order to enable buildings 
+with one stair up to 6 storeys with a number of 
+compensatory fire and life safety provisions.
+ 
+There has been a code change proposal made to 
+the Canadian Board for Harmonized Construction 
+Codes (CBHCC) to address single egress buildings 
+in future editions of the National Building Code. In 
+line with the code change request to the National 
+Building Code that is being developed, this guide will 
+focus on residential buildings 6-storeys or less with 
+not more than 4 units per floor served by a Single 
+Egress Stair.
+In Edmonton and the rest of Alberta, Point 
+Access Blocks over two storeys as defined by 
+the Code can only be legally constructed via 
+a successful application for building permit to 
+the Authority Having Jurisdiction (AHJ) that 
+contains an accepted Alternative Solution 
+that demonstrates an equal or greater 
+level of safety than the current code. It is 
+expected that professional involvement will 
+be required in the design of a Point Access 
+Block in Edmonton, whether they fall under 
+Part 9 or Part 3 of the building code relative 
+to scale and occupancy. This guide will assist 
+with understanding how to take part in this 
+Alternative Solution process.
+Issued Feb 28, 2025
+1.01/ what are 
+point access blocks?
+
+=====PAGE 3=====
+1.02/ alternative solution pathway
+for PAB Proposals
+Building and fire code standards are adopted by the provinces, based on the model National Building and Fire 
+Codes. The City of Edmonton, through its administrative responsibility as the Authority Having Jurisdiction 
+(AHJ), has no ability to change or reduce the level of performance required by the provincially adopted codes. 
+However, innovative designs like Point Access Blocks can be considered on a building-by-building basis through 
+an Alternative Solution proposal to the AHJ.
+ 
+An Alternative Solution is not a deviation from the safety standards in the code – it is a variance to the specific 
+rules of the codes that demonstrates an alternative pathway to achieve compliance. Therefore a successful 
+Alternative Solution must demonstrate that the proposed building is designed in such a manner that it meets an 
+equal or greater level of performance than the prescriptive conditions required by the current code.
+ 
+The Building Code Guide and more detailed Technical Report sections of the document will help proponents 
+understand the layers of safety system implicit in typical, double egress designs and describe strategies that 
+designers can pursue to help achieve code compliance with a single egress stair. 
+Issued Feb 28, 2025
+Capitol Hill Urban Cohousing (CHUC) in Seattle, 
+designed by Schemata Workshop
+
+=====PAGE 4=====
+1.03/ application process
+for PAB Proposals
+The City of Edmonton is open to reviewing 
+Alternative Solutions for achieving compliance 
+with the current in-force version of the NBC(AE). 
+Alternative Solutions derived by a designer must 
+be considered to perform to an equivalent or 
+enhanced level of performance to that of the 
+assigned objectives and functional statements of the 
+identified Acceptable Solutions of the NBC(AE). 
+Applicants that are interested in pursuing the design 
+and construction of a Point Access Block may 
+submit an Alternative Solution that contemplates a 
+code variance for the number of exits that would 
+be required in a building, or any other aspect 
+which may not adhere to the acceptable solutions 
+prescribed by the Code. This guide is intended to 
+inform potential applicants of how a Point Access 
+Block can be approached beyond the prescriptive 
+limitations of the applicable Acceptable Solutions.
+This guide includes a Technical Report prepared 
+in consultation with Safety Codes, Permits, and 
+Inspections (SCPI) and Edmonton Fire Rescue 
+Services (EFRS). This Technical Report presents a 
+technical rationale, methodology, and analysis for 
+Point Access Block design in the context of Alberta, 
+and intends to facilitate an equivalent level of 
+compliance with the NBC(AE) through Alternative 
+Solutions. The analysis presented is an example and 
+this guide only contemplates this specific variances.
+Applications that put forward a Point Access Block 
+are required to submit an Alternative Solution 
+prepared by a qualified Fire Protection or Life 
+Safety Code Consultant. It is important to ensure 
+appropriate qualifications of professionals involved 
+in Alternative Solutions for Point Access Blocks. 
+Given the specific characteristics of a single exit 
+building, it is important that professionals exhibit 
+the skills associated with fire protection engineering, 
+as described in the Society of Fire Protection 
+Engineers “Recommended Minimum Technical 
+Core Competencies for the Practice of Fire 
+Protection Engineering”. In addition, professionals 
+should already be familiar with the engineering best 
+practices referenced in this guideline, as well as the 
+regulatory aspects of Alternative Solutions as per 
+the NBC(AE).  
+These applications must demonstrate compliance 
+to the NBC(AE) and are required to include 
+Professional Involvement. While each application 
+must fulfill these minimum criteria, this Guide 
+demonstrates an exemplar methodology, which can 
+assist applicants in the consideration and preparation 
+of their own respective Alternative Solutions.
+Issued Feb 28, 2025
+
+=====PAGE 5=====
+1.04/ Example Alternative Solution 
+Risk Mitigation Measures
+The Technical Report included in this Guide Technical 
+Report is demonstrative, but does not prescribe 
+a specific approach. It sets out the technical basis 
+for a specific problem statement, risk evaluation, 
+and mitigation measures to guide to Alternative 
+Solution development. The Report structure can 
+be summarized as follows:
+Regulatory Framework 
+This chapter explores the expectations and 
+structure of alternative solutions, and seeks to 
+identify and rationalize variance of the Acceptable 
+Solutions to support a Single Exit Stair.
+Problem Definition 
+This chapter concerns the problem definition that 
+will form the basis of an alternative solution, and 
+explores in detail the implicit assumptions and 
+expectations of exit stairs including who is at risk, 
+NBC(AE) implicit assumptions, and performance-
+based design approaches. 
+Risk Assessment 
+This chapter details the risk assessment process 
+initiated by the problem definition, and utilises event 
+trees, fault trees, and reliability diagrams to identify 
+and evaluate failure modes and vulnerabilities 
+of Point Access Block design. Risk is quantified 
+for multiple generic scenarios that serve as a 
+comparative benchmark for Alternative Solution 
+acceptance. 
+Alternative Solutions 
+This chapter identifies and describes potential 
+Alternative Solution risk mitigation measures 
+extrapolated from the problem definition and 
+failure modes of the risk assessment process. 
+Based on assumptions and limitations of the 
+Technical Report, respective mitigation features 
+were demonstrated as effectively providing an 
+Alternative Solution. The exemplar assessment 
+identifies the main components that could lead to 
+stair failure relate to compartmentation and smoke 
+management, and outlines respective risk mitigation 
+measures which are appropriate to that specific 
+analysis, demonstrating how risk assessments are 
+used to consider appropriate mitigations for a 
+specific Point Access Block design.
+Issued Feb 28, 2025
+Design studies are included in the accompanying Design Guide 
+
+=====PAGE 6=====
+1.05/ Application Review Process 
+for PAB Proposals
+The City of Edmonton has formalized a procedure 
+(“The Professional Review of Building Permit 
+Alternative Solutions”) for collaborating between 
+Safety Codes, Permits, and Inspections (SCPI) 
+and Edmonton Fire Rescue Services (EFRS) when 
+reviewing building permit applications that involve 
+Alternative Solutions to the National Building 
+Code, Alberta Edition (NBC(AE)), specifically those 
+which may impact emergency services. This review 
+procedure is not specific to Point Access Block 
+applications, and more generally applies to any 
+Alternative Solution to the NBC(AE).
+Overall, the documents establish a framework for 
+collaboration between SCPI and EFRS to ensure that 
+Alternative Solutions are thoroughly reviewed to 
+ensure they do not negatively impact fire safety and 
+emergency response in the City of Edmonton. They 
+emphasize the importance of clear communication, 
+professional oversight and accountability, and 
+adherence to industry best practices.
+The procedure details the specific roles and 
+responsibilities of different parties involved in the 
+review process, including the Authority Having 
+Jurisdiction (AHJ), the AHJ Engineer, EFRS Engineer, 
+and the Alternative Solution applicant/professional. 
+It emphasizes the importance of professional 
+accountability and coordination between SCPI and 
+EFRS.
+The associated “Guideline for Alternative Solutions 
+Affecting Emergency Services” supplements the 
+standard operating procedure by providing guidance 
+to design professionals on how to consider the 
+impact of their alternative solutions on emergency 
+services. 
+This 
+guideline 
+helps 
+professionals 
+understand the specific procedures, capabilities, and 
+limitations of EFRS, as well as the review process 
+Alternative Solutions are subject to.
+Issued Feb 28, 2025
+Design studies are included in the accompanying Design Guide 
+
+=====PAGE 7=====
+1.06/ Pre-Application Meetings 
+for PAB Proposals
+If you are planning to propose an Alternative Solution for a Point Access Block building we recommend booking 
+a pre-application meeting prior to submission.
+The City of Edmonton offers Pre-Application Meetings for all residential infill development, including larger-
+scale residential (apartments with five or more units), and mixed-use (mix of residential and non-residential) 
+developments are treated as Major Development Permit applications. For Point Access Block proposals, 
+this review meeting will also include Building Permit reviewers. During the meeting, you will meet with a 
+Development Planner and Safety Codes officers to review your proposal against the Zoning Bylaw and gather 
+input from them. 
+The meeting may also include discussion to help you submit a well-informed development application and 
+building permit application that includes an Alternative Solution proposal. To arrange a pre-application infill 
+meeting for residential infill developments, use the Pre-Application Meeting request process.
+Issued Feb 28, 2025
+Design studies are included in the accompanying Design Guide 
+
+=====PAGE 8=====
+1.07/ mandatory criterIa
+for PAB applications
+Application submissions must meet certain minimum criteria:
+•	
+Professional involvement is required. Professional involvement 
+means that registered professional architect and/or engineers 
+are involved in the design and field review of a project, as 
+well as the preparation of the Alternative Solution. Plans and 
+specifications must be properly authenticated and validated, 
+as per the practice standards of the professional organizations. 
+•	
+Applications that put forward a Point Access Block are 
+required to submit an Alternative Solution prepared by a 
+qualified Fire Protection or Life Safety Code Consultant. 
+•	
+An Alternative Solution derived by a designer and Fire 
+Protection or Life Safety Code Consultant must demonstrate 
+compliance to the NBC(AE) by showing how a Single Egress 
+Stair will perform to an equivalent or enhanced level of 
+resiliency as a development with two egress stairs.
+•	
+A Pre-Application Meeting with Development Services for 
+Point Access Block Proposals is recommended.
+Issued Feb 28, 2025

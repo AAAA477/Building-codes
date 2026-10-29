@@ -1,0 +1,76 @@
+<h2>Reviewer view: which layout feels right?</h2>
+<p class="subtitle">Sample application: single-exit 4-storey residential building. Green = complete, amber = needs a look, red = missing.</p>
+
+<style>
+  .m{font-size:12px;line-height:1.4}
+  .sum{background:#f3f6fa;border:1px solid #cfd8e3;border-radius:8px;padding:10px;margin-bottom:10px}
+  .sum b{display:block;font-size:13px;margin-bottom:4px}
+  .pill{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;margin:2px 2px 0 0;color:#fff}
+  .g{background:#2e9e5b}.a{background:#d99a1e}.r{background:#d64545}
+  .map{position:relative;height:250px;background:#fbfcfe;border:1px dashed #cfd8e3;border-radius:8px}
+  .node{position:absolute;padding:5px 9px;border-radius:14px;color:#fff;font-size:11px;white-space:nowrap}
+  .hub{background:#1d3b64;left:50%;top:50%;transform:translate(-50%,-50%);padding:8px 12px;font-weight:bold}
+  .cols{display:flex;gap:8px}
+  .col{flex:1;border:1px solid #cfd8e3;border-radius:8px;padding:8px;background:#fff}
+  .col h4{margin:0 0 6px;font-size:12px;text-transform:uppercase;color:#5a6b80}
+  .row{padding:4px 6px;border-left:4px solid;margin-bottom:4px;background:#f7f9fc;font-size:11px}
+  .row.g{border-color:#2e9e5b;color:#222;background:#f7f9fc}
+  .row.a{border-color:#d99a1e;color:#222;background:#f7f9fc}
+  .row.r{border-color:#d64545;color:#222;background:#f7f9fc}
+</style>
+
+<div class="cards">
+
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image m">
+      <div class="sum"><b>Summary (30 seconds)</b>
+        4-storey wood-frame residential, single exit stair. Variance from NBC 3.4.2.1. 11 of 14 items complete.
+        <br><span class="pill r">3 gaps</span><span class="pill a">2 to verify</span><span class="pill g">9 complete</span></div>
+      <div class="map">
+        <div class="node hub">Application</div>
+        <div class="node g" style="left:8%;top:12%">A Applicant</div>
+        <div class="node g" style="left:8%;top:72%">B Location</div>
+        <div class="node a" style="right:8%;top:12%">C Code table</div>
+        <div class="node r" style="right:8%;top:72%">D Evidence</div>
+        <div class="node r" style="left:38%;top:6%">Engineer sign-off</div>
+      </div>
+    </div>
+    <div class="card-body"><h3>A. Summary on top, map below</h3><p>Officer reads the headline first, then explores the map. Simple, fast to scan.</p></div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image m">
+      <div class="cols">
+        <div class="col" style="flex:.8"><h4>Checklist</h4>
+          <div class="row g">A Applicant</div><div class="row g">B Location</div>
+          <div class="row a">C Art. 3.4.2.1</div><div class="row r">D Fire study</div><div class="row r">Engineer stamp</div></div>
+        <div class="col" style="flex:1.4"><h4>Mind map</h4>
+          <div class="map" style="height:190px">
+            <div class="node hub">Application</div>
+            <div class="node a" style="left:6%;top:10%">C Code table</div>
+            <div class="node r" style="right:6%;top:14%">D Evidence</div>
+            <div class="node g" style="left:6%;top:76%">A + B</div>
+          </div></div>
+        <div class="col" style="flex:1"><h4>Evidence for "C"</h4>
+          <div class="row a">Cites 3.4.2.1(1). Objective OS3 present, intent statement missing.</div>
+          <div class="row g">Source: NBC AB 2023 p.3-41</div></div>
+      </div>
+    </div>
+    <div class="card-body"><h3>B. Three panes: checklist, map, evidence</h3><p>Click a node and see exactly why it is flagged plus the source. Most useful, busier screen.</p></div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image m">
+      <div class="map" style="height:300px">
+        <div class="node hub">Application</div>
+        <div class="node g" style="left:5%;top:15%">A Applicant</div>
+        <div class="node g" style="left:5%;top:70%">B Location</div>
+        <div class="node a" style="right:5%;top:15%">C Code table</div>
+        <div class="node r" style="right:5%;top:70%">D Evidence</div>
+        <div class="sum" style="position:absolute;left:30%;bottom:6px;width:40%;margin:0"><b>Summary</b>11 of 14 complete. <span class="pill r">3 gaps</span></div>
+      </div>
+    </div>
+    <div class="card-body"><h3>C. Map is the whole screen</h3><p>Most striking for a demo. The summary floats in a corner; details open on click.</p></div>
+  </div>
+
+</div>

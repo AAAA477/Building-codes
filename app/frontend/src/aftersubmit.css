@@ -1,0 +1,46 @@
+/* After-submit panel and officer-question tracking. Uses the binder tokens from styles.css. */
+.as { display: flex; flex-direction: column; gap: var(--s5); padding-bottom: 48px; }
+.as-head { max-width: 68ch; }
+.as-head h1 { margin-bottom: var(--s2); }
+.as-juris { font-size: 14.5px; color: var(--ink-2); margin: 0; }
+.as-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s6) 48px; align-items: start; }
+.as-sec { border-top: 2px solid var(--ink); padding-top: var(--s3); min-width: 0; }
+.as-sec h2 { margin-bottom: var(--s3); }
+.as-facts { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--s3); }
+.as-facts li { border-left: 3px solid var(--hue); padding-left: var(--s3); }
+.as-facts p { margin: 0 0 3px; font-size: 16px; line-height: 24px; }
+.srctag { display: inline-block; font-size: 12px; color: var(--ink-2); overflow-wrap: anywhere; }
+.as-unk { margin-top: var(--s4); padding: var(--s3) var(--s4); background: var(--leaf-2); border: 1px dashed var(--ink-2); }
+.as-unk h3 { font-size: 14.5px; margin-bottom: var(--s2); }
+.as-unk ul { margin: 0; padding-left: 18px; font-size: 15px; line-height: 22px; }
+.as-unk li + li { margin-top: 4px; }
+
+.oq { border-top: 2px solid var(--ink); padding-top: var(--s4); max-width: 900px; }
+.oq h2 { margin-bottom: var(--s2); }
+.oq .oq-h2 { margin-top: var(--s7); }
+.oq-add { display: flex; flex-direction: column; gap: var(--s3); margin-bottom: var(--s5); }
+.oq-row, .oq-mark, .qact { display: flex; align-items: flex-end; gap: var(--s4); flex-wrap: wrap; }
+.oq-mark { margin-bottom: var(--s4); align-items: center; }
+.qsel { display: flex; flex-direction: column; gap: 3px; font-family: var(--font-head); font-weight: 700; font-size: 14px; }
+.qlist { list-style: none; margin: 0 0 var(--s4); padding: 0; display: flex; flex-direction: column; gap: var(--s4); }
+.qitem { border: 2px solid var(--ink); border-left-width: 8px; padding: var(--s3) var(--s4); background: var(--leaf); }
+.qitem.q-open { border-left-color: var(--h-yellow); }
+.qitem.q-answered { border-left-color: var(--h-grass); }
+.qitem.q-needs_professional { border-left-color: var(--h-violet); }
+.qtop { display: flex; justify-content: space-between; gap: var(--s4); align-items: flex-start; }
+.qtext { margin: 0 0 var(--s2); font-weight: 500; }
+.qstat { flex: none; font-family: var(--font-head); font-weight: 700; font-size: 13px; padding: 1px 8px; border: 1px solid var(--ink); }
+.qs-open { background: var(--st-uncertain-bg); color: var(--st-uncertain); }
+.qs-answered { background: var(--st-complete-bg); color: var(--st-complete); }
+.qs-needs_professional { background: var(--st-needs_professional-bg); color: var(--st-needs_professional); }
+.qlink { margin: 0 0 var(--s2); }
+.qitem .field textarea { min-height: 76px; }
+.qact { margin-top: var(--s2); justify-content: space-between; }
+.qdiff { width: 100%; border-collapse: collapse; font-size: 14.5px; line-height: 21px; }
+.qdiff th, .qdiff td { text-align: left; vertical-align: top; padding: 6px 10px; border-bottom: 1px solid var(--rule); overflow-wrap: anywhere; }
+.qdiff thead th { font-family: var(--font-head); border-bottom: 2px solid var(--ink); }
+.qdiff tbody th { font-weight: 400; font-size: 12.5px; width: 34%; }
+.rvq { max-width: none; }
+.rvq-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 48px; align-items: start; }
+.rvq h3 { margin-bottom: var(--s2); }
+.qlist.compact { gap: var(--s3); }

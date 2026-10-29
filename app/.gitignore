@@ -1,0 +1,21 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# environments and build output
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+frontend/node_modules/
+frontend/dist/
+
+# runtime data
+data/store/
+data/forms/preview/
+
+# extra secret/runtime safety
+*.pem
+*.key
+backend/.env.local
+data/store/evidence/

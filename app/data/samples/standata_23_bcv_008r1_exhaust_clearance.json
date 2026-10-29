@@ -1,0 +1,127 @@
+{
+ "id": "sample-standata-23-bcv-008r1",
+ "jurisdiction": "scc",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "applicant": {
+  "owner_name": "[to be completed by applicant]",
+  "owner_representative": "[to be completed by applicant]",
+  "mailing_address": "[to be completed by applicant]",
+  "email": "[to be completed by applicant]",
+  "date_of_request": ""
+ },
+ "project": {
+  "description": "",
+  "occupancy": "Individual dwelling unit or house with a secondary suite, per STANDATA Application section",
+  "storeys": null,
+  "building_area_m2": null,
+  "units_per_floor": null,
+  "sprinklered": null,
+  "new_or_renovation": null,
+  "part": null
+ },
+ "location": {
+  "jurisdiction_wide": true,
+  "permit_number": "",
+  "municipal_address": "",
+  "lot": "",
+  "block": "",
+  "plan": "",
+  "qtr": "",
+  "sec": "",
+  "twp": "",
+  "rge": "",
+  "mer": ""
+ },
+ "variance": {
+  "topic": "residential_exhaust_outlet_clearance",
+  "code_or_standard": "NBC(AE) 2023 Division B",
+  "acceptable_solution": {
+   "articles": [
+    "9.32.3.13.(4)"
+   ],
+   "explanation": "Articles named in the Code References of 23-BCV-008(REV1)."
+  },
+  "proposed_alternative": {
+   "summary": "The minimum clearances separating exhaust outlets that discharge air containing moisture from air intakes are permitted to comply with Figure A.",
+   "mitigations": [
+    {
+     "id": "C1",
+     "label": "Condition 1 (verbatim from 23-BCV-008(REV1))",
+     "detail": "The minimum clearances separating exhaust outlets that discharge air containing moisture from air intakes are permitted to comply with Figure A.",
+     "evidence_ids": []
+    }
+   ]
+  },
+  "section_c": [
+   {
+    "article": "9.32.3.13.(4)",
+    "objective": "OS2.3 (Structural Safety): damage to or deterioration of building elements; OP2.3 (Structural Sufficiency of the Building): damage to or deterioration of building elements",
+    "function": "F62: To facilitate the dissipation of water and moisture from the building; F63: To limit moisture condensation",
+    "intent": "Intent 1. To limit the probability of the ingress of condensation into the attic space, which could lead to the deterioration of building elements, which could lead to structural failure, which could lead to harm to persons. Intent 1. To limit the probability of the ingress of condensation into the attic space, which could lead to the deterioration of building elements, which could lead to structural failure, which could lead to damage to the building. [NBC 2020 Intent Statements, p.3047; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Minimum 1 800 mm clearance between moist-air exhaust outlets and air intakes/vented soffits; the variance permits the clearances of its Figure A.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 1221
+    },
+    "article_page": 1053,
+    "verified": true,
+    "provenance": "lookup"
+   }
+  ]
+ },
+ "section_d": [
+  {
+   "id": "D1",
+   "document_name": "Drawing showing exhaust outlet and air intake locations against Figure A of 23-BCV-008(REV1)",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": false,
+   "status": "to_be_prepared",
+   "date": ""
+  }
+ ],
+ "professional_flags": [],
+ "declarations": {
+  "privacy_consent": false,
+  "equal_or_better_ack": false,
+  "owner_signed": false,
+  "rep_signed": false
+ },
+ "provenance": {
+  "variance.section_c": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.summary": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.mitigations": {
+   "source": "lookup",
+   "confidence": 1.0
+  }
+ },
+ "completeness": {
+  "percent": 0,
+  "items": []
+ },
+ "derived_from": [
+  {
+   "doc": "ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+   "page": 1
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+   "page": 2
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+   "page": 3
+  }
+ ],
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+  "page": 1,
+  "standata": "23-BCV-008(REV1)"
+ },
+ "note": "Application-shaped record derived from real STANDATA variance 23-BCV-008(REV1) (Residential exhaust outlet clearance from air intakes). The STANDATA is issued by the Provincial Building Administrator, so applicant identity, dates and signatures are blank placeholders."
+}

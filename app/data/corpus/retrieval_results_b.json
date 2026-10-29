@@ -1,0 +1,1331 @@
+{
+ "shipped_config": {
+  "k1": 1.8,
+  "b": 0.6,
+  "w_title": 6.0,
+  "w_sect": 3.0,
+  "w_body": 1.0,
+  "stem": true,
+  "phrase_boost": 0.0,
+  "noise_filter": true,
+  "cross_code_factor": 1.3
+ },
+ "llm": "azure-openai",
+ "dense": {
+  "model": "BAAI/bge-small-en-v1.5",
+  "installed": true
+ },
+ "heldout": {
+  "V0 current BM25": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.5,
+   "hit@10": 0.575,
+   "recall@5": 0.255,
+   "recall@10": 0.306,
+   "MRR": 0.439,
+   "sec": 1.1
+  },
+  "V1+V2 shipped (tuned + noise filter)": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.6,
+   "hit@10": 0.675,
+   "recall@5": 0.306,
+   "recall@10": 0.349,
+   "MRR": 0.473,
+   "sec": 13.3
+  },
+  "V3 dense only (bge-small, local CPU)": {
+   "n": 40,
+   "hit@1": 0.25,
+   "hit@5": 0.625,
+   "hit@10": 0.675,
+   "recall@5": 0.256,
+   "recall@10": 0.276,
+   "MRR": 0.396,
+   "sec": 13.4
+  },
+  "V4 hybrid BM25+dense (RRF)": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.625,
+   "hit@10": 0.775,
+   "recall@5": 0.29,
+   "recall@10": 0.346,
+   "MRR": 0.509,
+   "sec": 14.9
+  },
+  "V5 shipped + LLM query expansion": {
+   "n": 40,
+   "hit@1": 0.35,
+   "hit@5": 0.65,
+   "hit@10": 0.725,
+   "recall@5": 0.329,
+   "recall@10": 0.401,
+   "MRR": 0.464,
+   "sec": 55.5
+  },
+  "V6 expansion + LLM re-rank (top 30)": {
+   "n": 40,
+   "hit@1": 0.425,
+   "hit@5": 0.65,
+   "hit@10": 0.7,
+   "recall@5": 0.358,
+   "recall@10": 0.388,
+   "MRR": 0.52,
+   "sec": 99.9
+  },
+  "classify suggested_articles (shipped, k=6)": {
+   "n": 40,
+   "hit@1": 0.325,
+   "hit@5": 0.55,
+   "hit@10": 0.575,
+   "recall@5": 0.316,
+   "recall@10": 0.317,
+   "MRR": 0.401
+  }
+ },
+ "tune": {},
+ "realistic": [
+  {
+   "query": "wheelchair platform lift instead of a ramp",
+   "family": [
+    [
+     "NBC",
+     "3.8."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.5.2.1 Elevators, Escalators and Dumbwaiters",
+     "NECB 4.3.1.3 Compliance",
+     "NBC 7.2.5.2 Platforms",
+     "NBC 9.4.2.3 Platforms Subject to Snow and Occupancy Loads"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.5.2.1 Elevators, Escalators and Dumbwaiters",
+     "NBC 7.2.5.2 Platforms",
+     "NBC 9.4.2.3 Platforms Subject to Snow and Occupancy Loads",
+     "NBC 7.2.3.13 Diving Boards or Platforms"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.5.2.1 Elevators, Escalators and Dumbwaiters",
+     "NBC 7.2.5.2 Platforms",
+     "NBC 7.2.3.13 Diving Boards or Platforms"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.5.1 Application",
+     "NBC 3.5.2.1 Elevators, Escalators and Dumbwaiters"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "single exit stair in a six storey residential building",
+   "family": [
+    [
+     "NBC",
+     "3.4.2."
+    ],
+    [
+     "NBC",
+     "3.4.4."
+    ],
+    [
+     "NBC",
+     "9.9.8."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.3.4.4 Egress from Dwelling Units",
+     "NBC 9.8.2.1 Stair Width",
+     "NBC 3.4.5.3 Signs for Stairs and Ramps at Exit Level",
+     "NBC 9.9.11.4 Signs for Stairs and Ramps at Exit Level"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.3.4.4 Egress from Dwelling Units",
+     "NBC 9.8.2.1 Stair Width",
+     "NBC 3.4.5.3 Signs for Stairs and Ramps at Exit Level",
+     "NBC 9.9.11.4 Signs for Stairs and Ramps at Exit Level"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.3.4.4 Egress from Dwelling Units",
+     "NBC 9.8.2.1 Stair Width",
+     "NBC 3.4.6.8 Treads and Risers",
+     "NBC 3.4.5.3 Signs for Stairs and Ramps at Exit Level",
+     "NBC 3.1.5.11 Combustible Stairs in Dwelling Units"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.3.4.4 Egress from Dwelling Units",
+     "NBC 9.8.2.1 Stair Width",
+     "NBC 3.4.5.3 Signs for Stairs and Ramps at Exit Level",
+     "NBC 9.9.11.4 Signs for Stairs and Ramps at Exit Level",
+     "NBC 9.9.4.7 Stairways in 2 Storey, Group D or E Buildings"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.2.1 Stair Width",
+     "NBC 9.9.4.7 Stairways in 2 Storey, Group D or E Buildings",
+     "NBC 3.4.3.2 Exit Width",
+     "NBC 9.9.4.4 Openings Near Unenclosed Exterior Exit Stairs and Ramps"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.2.1.7 Height of Combustible Residential Buildings",
+     "NBC 3.3.4.4 Egress from Dwelling Units",
+     "NBC 3.4.7.5 Stairs"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "window guard height where the window sill is low",
+   "family": [
+    [
+     "NBC",
+     "9.8.8."
+    ],
+    [
+     "NBC",
+     "3.3.4."
+    ],
+    [
+     "NBC",
+     "3.3.2.9"
+    ],
+    [
+     "NBC",
+     "3.4.6.6"
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.20.13.12 Drips beneath Window Sills",
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.10.20.1 Windows or Access Panels Required"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.20.13.12 Drips beneath Window Sills",
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.10.20.1 Windows or Access Panels Required"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.20.13.12 Drips beneath Window Sills",
+     "NBC 3.3.1.18 Guards",
+     "NBC 9.10.20.1 Windows or Access Panels Required"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.20.13.12 Drips beneath Window Sills",
+     "NBC 9.10.20.1 Windows or Access Panels Required"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.20.13.12 Drips beneath Window Sills",
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.10.20.1 Windows or Access Panels Required"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.3.5.10 Guards"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "bedroom egress window size in a basement",
+   "family": [
+    [
+     "NBC",
+     "9.9.10."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.32.2.3 Non-Heating-Season Mechanical Ventilation",
+     "NBC 9.7.2.2 Other Requirements for Windows, Doors and Skylights",
+     "NBC 9.9.2.3 Elevators, Slide Escapes and Windows as Means of Egress",
+     "NBC 10.4.4.1 Windows"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.32.2.3 Non-Heating-Season Mechanical Ventilation",
+     "NBC 9.9.2.3 Elevators, Slide Escapes and Windows as Means of Egress",
+     "NBC 9.7.2.2 Other Requirements for Windows, Doors and Skylights",
+     "NBC 9.10.4.3 Basement Storage Garages"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.9.6.2 Clear Opening Height at Doorways",
+     "NBC 9.5.5.2 Doorways to Public Water-Closet Rooms",
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.5.4.1 Hallway Width"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.9.9.1 Travel Limit to Exits or Egress Doors",
+     "NBC 9.10.20.2 Access to Basements",
+     "NBC 9.34.2.4 Basements"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.4.4.1 Windows",
+     "NBC 9.9.2.3 Elevators, Slide Escapes and Windows as Means of Egress",
+     "NBC 9.9.9.1 Travel Limit to Exits or Egress Doors",
+     "NBC 9.32.2.3 Non-Heating-Season Mechanical Ventilation"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.9.1.3 Occupant Load",
+     "NBC 3.3.5.3 Basements",
+     "NBC 9.10.20.2 Access to Basements",
+     "NBC 3.2.2.15 Storeys below Ground"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "spray foam insulation instead of a polyethylene vapour barrier",
+   "family": [
+    [
+     "NBC",
+     "9.25."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.5.15 Foamed Plastic Insulation",
+     "NBC 9.33.6.4 Coverings, Linings, Adhesives and Insulation"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.5.15 Foamed Plastic Insulation",
+     "NBC 9.33.6.4 Coverings, Linings, Adhesives and Insulation"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 5.5.1.2 Vapour Barrier Properties and Installation",
+     "NBC 5.5.1.1 Required Resistance to Vapour Diffusion"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.17.10 Protection of Foamed Plastics"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "wireless interconnected smoke alarms",
+   "family": [
+    [
+     "NBC",
+     "9.10.19."
+    ],
+    [
+     "NBC",
+     "3.2.4.20"
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.9.5 Interconnected Floor Spaces"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.9.5 Interconnected Floor Spaces"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.3.5 Smoke Alarms",
+     "NBC 9.10.18.5 Smoke Detectors in Recirculating Air-Handling Systems"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.3.5 Smoke Alarms"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.9.5 Interconnected Floor Spaces",
+     "NBC 9.10.18.5 Smoke Detectors in Recirculating Air-Handling Systems",
+     "NBC 3.2.4.12 Prevention of Smoke Circulation"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "sprinkler protected glass in a fire rated wall",
+   "family": [
+    [
+     "NBC",
+     "3.1.7."
+    ],
+    [
+     "NBC",
+     "9.10.3."
+    ],
+    [
+     "NBC",
+     "9.10.15."
+    ],
+    [
+     "NBC",
+     "3.2.3."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.8.16 Wired Glass and Glass Block",
+     "NBC 9.9.4.2 Fire Separations for Exits",
+     "NBC 3.1.5.14 Combustible Insulation",
+     "NBC 3.1.8.5 Installation of Closures"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.8.16 Wired Glass and Glass Block",
+     "NBC 9.9.4.2 Fire Separations for Exits",
+     "NBC 3.1.5.14 Combustible Insulation",
+     "NBC 9.9.4.5 Openings in Exterior Walls of Exits"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NFC 2.1.3.4 Protection of Combustible Sprinkler Piping",
+     "NBC 9.10.17.5 Walls in Public Corridors",
+     "NBC 3.2.5.13 Combustible Sprinkler Piping",
+     "NBC 9.10.17.11 Walls and Ceilings in Bathrooms"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.9.4.3 Wired Glass or Glass Block",
+     "NBC 3.1.8.16 Wired Glass and Glass Block",
+     "NBC 9.10.13.7 Glass Block as a Closure",
+     "NBC 9.10.13.5 Wired Glass as a Closure"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.8.16 Wired Glass and Glass Block",
+     "NBC 9.10.13.7 Glass Block as a Closure",
+     "NBC 9.9.4.3 Wired Glass or Glass Block",
+     "NBC 9.10.13.5 Wired Glass as a Closure"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.13.5 Wired Glass as a Closure",
+     "NBC 9.10.13.7 Glass Block as a Closure",
+     "NBC 3.1.8.16 Wired Glass and Glass Block",
+     "NBC 9.9.4.5 Openings in Exterior Walls of Exits"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "combustible cladding on a building taller than three storeys",
+   "family": [
+    [
+     "NBC",
+     "3.1.5."
+    ],
+    [
+     "NBC",
+     "3.2.3."
+    ],
+    [
+     "NBC",
+     "9.10.14."
+    ],
+    [
+     "NBC",
+     "9.10.15."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.9 Exterior Cladding",
+     "NBC 3.1.4.8 Exterior Cladding"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "kitchen exhaust duct termination near a property line",
+   "family": [
+    [
+     "NBC",
+     "9.32.3."
+    ],
+    [
+     "NBC",
+     "6.3.2."
+    ],
+    [
+     "NFC",
+     "2.6."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.4.2 Kitchen Hoods, Canopies and Exposed Exhaust Ducts",
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure",
+     "NBC 9.10.9.20 Exhaust Ducts Serving More Than One Fire Compartment"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.4.2 Kitchen Hoods, Canopies and Exposed Exhaust Ducts",
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure",
+     "NBC 9.10.9.20 Exhaust Ducts Serving More Than One Fire Compartment"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.4.2 Kitchen Hoods, Canopies and Exposed Exhaust Ducts",
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure",
+     "NBC 9.10.9.20 Exhaust Ducts Serving More Than One Fire Compartment",
+     "NBC 10.6.4.3 Exception for Existing Modules",
+     "NBC 9.33.6.12 Return-Air Inlets"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.4.2 Kitchen Hoods, Canopies and Exposed Exhaust Ducts",
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure",
+     "NBC 9.10.9.20 Exhaust Ducts Serving More Than One Fire Compartment",
+     "NBC 10.6.4.3 Exception for Existing Modules",
+     "NBC 6.9.2.3 Exhaust Ducts and Outlets"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 10.6.4.2 Kitchen Hoods, Canopies and Exposed Exhaust Ducts",
+     "NBC 9.8.7.3 Termination of Handrails",
+     "NBC 6.3.4.4 Enclosure Construction",
+     "NBC 9.10.12.1 Termination of Floors or Mezzanines",
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.6.3.4 Exhaust Duct Negative Pressure",
+     "NBC 3.1.18.3 Clearance to Other Structures",
+     "NBC 3.6.5.7 Supply, Return, Intake and Exhaust-Air Openings"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "handrail height on a stair",
+   "family": [
+    [
+     "NBC",
+     "9.8.7."
+    ],
+    [
+     "NBC",
+     "3.4.6."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.3.3 Maximum Height of Stairs",
+     "NBC 9.8.2.2 Height over Stairs",
+     "NBC 9.8.4.7 Spiral Stairs"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.3.3 Maximum Height of Stairs",
+     "NBC 9.8.2.2 Height over Stairs",
+     "NBC 9.8.6.4 Height over Landings",
+     "NBC 9.8.5.3 Height over Ramps"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.4.7 Spiral Stairs"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.3.3 Maximum Height of Stairs",
+     "NBC 9.8.4.7 Spiral Stairs",
+     "NBC 9.8.2.2 Height over Stairs"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.3.3 Maximum Height of Stairs",
+     "NBC 9.8.2.2 Height over Stairs",
+     "NBC 9.8.6.4 Height over Landings",
+     "NBC 9.8.5.3 Height over Ramps"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.8.3.3 Maximum Height of Stairs"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "zero lot line side wall of a house",
+   "family": [
+    [
+     "NBC",
+     "9.10.14."
+    ],
+    [
+     "NBC",
+     "9.10.15."
+    ],
+    [
+     "NBC",
+     "3.2.3."
+    ],
+    [
+     "NBC",
+     "9.10.9."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.36.5.10 Modeling Building Envelope of Proposed House",
+     "NBC 3.8.3.15 Water-Closet Stalls and Urinals for Persons with Limited Mobility"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.36.5.10 Modeling Building Envelope of Proposed House",
+     "NBC 9.36.5.14 Modeling Building Envelope of Reference House"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.29.6.4 Edge Support",
+     "NBC 9.20.7.2 Minimum Wall Thickness",
+     "NBC 9.23.12.1 Openings in Non-Loadbearing Walls",
+     "NBC 9.29.5.4 Support of Insulation",
+     "NBC 9.20.15.1 Amount of Reinforcement"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 4.1.5.16 Loads on Walls Acting As Guards",
+     "NBC 7.2.3.8 Vertical Wall Slopes",
+     "NBC 9.20.17.2 Reinforcement for Flat Insulating Concrete Form Walls",
+     "NBC 9.23.10.6 Studs at Sides of Openings",
+     "NBC 9.24.3.5 Framing around Openings"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.4,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.36.5.10 Modeling Building Envelope of Proposed House",
+     "NBC 9.36.5.14 Modeling Building Envelope of Reference House"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "roof trusses without sealed engineered drawings",
+   "family": [
+    [
+     "NBC",
+     "4.3.1."
+    ],
+    [
+     "NBC",
+     "9.23.13."
+    ],
+    [
+     "NBC",
+     "9.4.1."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 4.2.2.3 Field Review",
+     "NBC 9.4.2.4 Attics and Roof Spaces",
+     "NBC C:2.2.8.2 Information Required on Drawings and Specifications"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 4.2.2.3 Field Review",
+     "NBC 9.4.2.4 Attics and Roof Spaces",
+     "NBC 4.2.2.2 Drawings"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.4.2.1 Application",
+     "NBC 3.1.6.16 Exposed Construction Materials and Components in Concealed Spaces",
+     "NBC 9.23.14.9 Restraint of Joist Bottoms"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 9.4.2.4 Attics and Roof Spaces",
+     "NBC 9.27.3.6 Face Sealed Cladding",
+     "NBC 9.23.1.1 Limitations"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 4.2.2.3 Field Review",
+     "NBC 4.2.2.2 Drawings",
+     "NBC 4.1.1.4 Structural Drawings and Related Documents"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.23.14.11 Roof Trusses",
+     "NBC 9.23.5.5 Roof Trusses",
+     "NBC 4.1.1.4 Structural Drawings and Related Documents",
+     "NBC 6.2.1.1 Good Engineering Practice",
+     "NBC 9.23.1.1 Limitations"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "electric vehicle charging station in a parkade",
+   "family": null,
+   "V0 current BM25": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NFC 4.11.3.3 Static Electric Charges",
+     "NFC 4.1.8.2 Control of Static Electric Charge",
+     "NFC 4.7.4.5 Bonding and Grounding",
+     "NFC 3.1.3.3 Battery-Powered Industrial Trucks",
+     "NFC 4.11.3.7 Unloading"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NFC 4.11.3.3 Static Electric Charges",
+     "NFC 4.1.8.2 Control of Static Electric Charge",
+     "NFC 4.7.4.5 Bonding and Grounding",
+     "NFC 4.6.8.6 Fuel-Dispensing Procedures",
+     "NFC 4.11.3.7 Unloading"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.18.7 Electrical Systems",
+     "NBC 7.2.3.22 Electrical Installations",
+     "NBC 7.2.3.21 Emergency Lighting",
+     "NBC 9.34.1.3 Location of Equipment in Public Areas",
+     "NBC 3.6.2.8 Emergency Power Installations"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NFC 3.1.3.3 Battery-Powered Industrial Trucks",
+     "NFC 4.11.3.3 Static Electric Charges",
+     "NFC 4.1.8.2 Control of Static Electric Charge",
+     "NFC 4.7.4.5 Bonding and Grounding",
+     "NFC 4.6.8.6 Fuel-Dispensing Procedures"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NFC 4.11.3.3 Static Electric Charges",
+     "NFC 4.1.8.2 Control of Static Electric Charge",
+     "NBC 9.10.22.1 Installation of Cooktops and Ovens",
+     "NBC 9.10.22.2 Vertical Clearances above Cooktops",
+     "NBC 9.10.22.3 Protection around Cooktops"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.6.1.2 Electrical Wiring and Equipment",
+     "NFC 4.1.8.2 Control of Static Electric Charge",
+     "NBC 9.34.1.5 Wiring and Cables",
+     "NBC 3.1.5.21 Wires and Cables",
+     "NFC 4.6.8.6 Fuel-Dispensing Procedures"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "fire department connection location for a sprinkler system",
+   "family": [
+    [
+     "NBC",
+     "3.2.5."
+    ],
+    [
+     "NFC",
+     "2.5."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.20.3 Fire Department Access to Buildings",
+     "NFC C:2.2.10.1 Fire Department Building Access"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.20.3 Fire Department Access to Buildings"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NFC 5.6.1.4 Access for Firefighting"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.20.3 Fire Department Access to Buildings",
+     "NFC 5.6.1.4 Access for Firefighting"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NFC 2.1.3.1 Fire Alarm, Standpipe and Sprinkler Systems"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "backflow preventer in a restaurant",
+   "family": [
+    [
+     "NPC",
+     "2.6.2."
+    ],
+    [
+     "NPC",
+     "2.2.10."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "lighting power density in an office",
+   "family": [
+    [
+     "NECB",
+     "4."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NECB C:2.2.2.4 Documentation on Lighting Systems"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NECB 8.4.3.4 Interior Lighting"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.6,
+    "n": 5,
+    "irrelevant": [
+     "NECB 8.4.3.4 Interior Lighting",
+     "NECB 8.4.4.5 Lighting"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NECB 8.4.3.4 Interior Lighting"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NECB 8.4.3.4 Interior Lighting"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 1.0,
+    "n": 5,
+    "irrelevant": []
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "eight storey mass timber building",
+   "family": [
+    [
+     "NBC",
+     "3.2.2."
+    ],
+    [
+     "NBC",
+     "3.1.4."
+    ],
+    [
+     "NBC",
+     "3.1.5."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.8 Combustible Window Sashes and Frames",
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NFC 5.6.4.3 Protective Encapsulation",
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.6.13 Combustible Stairs"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.8 Combustible Window Sashes and Frames",
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.6.13 Combustible Stairs",
+     "NBC 3.1.6.2 Materials Permitted"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.6.16 Exposed Construction Materials and Components in Concealed Spaces",
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NBC 3.1.6.12 Combustible Flooring Elements"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NBC 3.1.6.8 Combustible Window Sashes and Frames",
+     "NBC 3.1.6.13 Combustible Stairs",
+     "NBC 3.1.6.2 Materials Permitted"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.6.8 Combustible Window Sashes and Frames",
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NBC 3.1.6.13 Combustible Stairs",
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.6.14 Combustible Interior Finishes"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.1.13.12 Encapsulated Mass Timber Construction",
+     "NBC 3.1.6.4 Encapsulation of Mass Timber Elements",
+     "NBC 3.1.6.3 Structural Mass Timber Elements",
+     "NBC 3.1.6.6 Encapsulation Materials",
+     "NBC 3.1.6.7 Combustible Roofing Materials"
+    ]
+   },
+   "no_good_match": false
+  },
+  {
+   "query": "secondary suites in a row house",
+   "family": [
+    [
+     "NBC",
+     "9.10.9."
+    ],
+    [
+     "NBC",
+     "9.10.8."
+    ],
+    [
+     "NBC",
+     "9.9.8."
+    ],
+    [
+     "NBC",
+     "9.10.19."
+    ]
+   ],
+   "V0 current BM25": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.8.2.1 Exceptions",
+     "NBC 9.36.7.1 Scope and Application",
+     "NBC A:3.1.1.2 Application of Functional Statements",
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.9.3.1 Application"
+    ]
+   },
+   "V1+V2 shipped (tuned + noise filter)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.8.2.1 Exceptions",
+     "NBC 9.36.7.1 Scope and Application",
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.9.3.1 Application",
+     "NBC 9.9.4.6 Openings Near Exit Doors"
+    ]
+   },
+   "V3 dense only (bge-small, local CPU)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.8.2.1 Exceptions",
+     "NBC 9.5.3.1 Ceiling Heights of Rooms or Spaces",
+     "NBC 9.9.9.3 Shared Egress Facilities",
+     "NBC 9.9.4.7 Stairways in 2 Storey, Group D or E Buildings",
+     "NBC 9.8.3.1 Permitted Configurations"
+    ]
+   },
+   "V4 hybrid BM25+dense (RRF)": {
+    "p@5": 0.0,
+    "n": 5,
+    "irrelevant": [
+     "NBC 3.8.2.1 Exceptions",
+     "NBC 9.9.9.3 Shared Egress Facilities",
+     "NBC 9.10.15.1 Application",
+     "NBC 9.8.3.1 Permitted Configurations",
+     "NBC 9.9.4.6 Openings Near Exit Doors"
+    ]
+   },
+   "V5 shipped + LLM query expansion": {
+    "p@5": 0.2,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.9.4.6 Openings Near Exit Doors",
+     "NBC 9.10.11.2 Firewalls Not Required",
+     "NBC 9.9.3.1 Application",
+     "NBC 9.9.9.3 Shared Egress Facilities"
+    ]
+   },
+   "V6 expansion + LLM re-rank (top 30)": {
+    "p@5": 0.8,
+    "n": 5,
+    "irrelevant": [
+     "NBC 9.10.11.2 Firewalls Not Required"
+    ]
+   },
+   "no_good_match": false
+  }
+ ],
+ "realistic_mean_p@5": {
+  "V0 current BM25": 0.4,
+  "V1+V2 shipped (tuned + noise filter)": 0.4,
+  "V3 dense only (bge-small, local CPU)": 0.424,
+  "V4 hybrid BM25+dense (RRF)": 0.388,
+  "V5 shipped + LLM query expansion": 0.4,
+  "V6 expansion + LLM re-rank (top 30)": 0.647
+ }
+}

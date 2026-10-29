@@ -1,0 +1,101 @@
+{
+  "title": "After you submit",
+  "intro": "This page only restates what the official documents in our package say about what follows a submission. Where they are silent we say so. It tracks process; it says nothing about whether any application will be accepted.",
+  "unknown_text": "Not published in the materials we have - ask your authority.",
+  "sections": [
+    {
+      "id": "who",
+      "title": "Who decides",
+      "common": [
+        {"text": "A written variance may be issued by an Administrator or a safety codes officer, who must be of the opinion that it provides approximately equivalent or greater safety performance. The decision is theirs, not this tool's.", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 31, "ref": "s.38(1)"}},
+        {"text": "The Safety Codes Council itself can also issue a variance, for example when it hears an appeal of a refusal.", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 43, "ref": "s.52(2)(b.1)"}},
+        {"text": "On the official form, Part 2 is completed by the Safety Codes Officer responsible for reviewing the variance, who either issues the variance (Part 2a) or refuses it (Part 2b).", "source": {"doc": "07_Variance_Form.pdf", "page": 3}}
+      ],
+      "by_jurisdiction": {
+        "scc": [
+          {"text": "The whole form, with all supporting documentation, is forwarded to the Safety Codes Council, Administrator of Accreditation (accreditation@safetycodes.ab.ca).", "source": {"doc": "07_Variance_Form.pdf", "page": 1}}
+        ],
+        "calgary": [
+          {"text": "Variances are requested by the owner or the owner's agent to a safety codes officer in the building discipline. A variance may only be issued by an SCO, a technical administrator, or the Safety Codes Council.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 1}},
+          {"text": "Your application and documents are reviewed by the applicable parties within Inspections & Permit Services, and the SCO may ask for further representation, for example that the Architect also take part.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 2}}
+        ],
+        "edmonton": [
+          {"text": "For Point Access Block proposals, the pre-application meeting is with a Development Planner and Safety Codes officers, including Building Permit reviewers.", "source": {"doc": "11_Edmonton_Point_Access_Block.pdf", "page": 7}}
+        ]
+      },
+      "unknown": {
+        "edmonton": ["Which Edmonton office issues the variance after you submit, and how you send it: no Edmonton-specific variance procedure was found in the materials."]
+      }
+    },
+    {
+      "id": "outcomes",
+      "title": "Possible outcomes",
+      "common": [
+        {"text": "Part 2(a): a variance is issued, and the officer may set conditions that must be met.", "source": {"doc": "07_Variance_Form.pdf", "page": 3}},
+        {"text": "Part 2(b): the variance is refused. The form lists three reasons the officer ticks: the Part 1 information is incorrect; it is not sufficient or complete enough for the officer to decide; or the officer is not satisfied the alternative gives approximately equivalent or greater safety performance. The officer may add written rationale.", "source": {"doc": "07_Variance_Form.pdf", "page": 4}},
+        {"text": "A refusal is served on the applicant in writing; the form records the date and the format in which it was served.", "source": {"doc": "07_Variance_Form.pdf", "page": 4}},
+        {"text": "Once a variance is issued, the owner or other responsible person must ensure its terms and conditions are complied with.", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 14, "ref": "s.10(1)"}}
+      ],
+      "by_jurisdiction": {
+        "calgary": [
+          {"text": "A request may be accepted, refused, or you may be asked for further information. If accepted, the SCO issues a formal variance that includes any conditions.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 1}},
+          {"text": "A variance request can only be accepted if a building permit has been applied for; a variance number cannot be issued without a building permit number.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 2}}
+        ]
+      },
+      "unknown": {
+        "all": ["What format an officer's questions arrive in, and how many rounds of questions are normal: the SCC form does not describe a request-for-information step. Only the Calgary guide says you may be asked for further information."]
+      }
+    },
+    {
+      "id": "appeal",
+      "title": "If a variance is refused: appeal",
+      "common": [
+        {"text": "An applicant who receives a written refusal may appeal it to the Safety Codes Council in line with the Council's bylaws, within 30 days. The Act counts from the date the notice is received; the form counts from the date the refusal was served. Check the date on your notice.", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 32, "ref": "s.38(7)"}},
+        {"text": "The form states: all appeals must be made within 30 days of the date the Refusal was served.", "source": {"doc": "07_Variance_Form.pdf", "page": 5}},
+        {"text": "An appeal request must be in writing on the Council's Notice of Appeal and signed by the appellant; include a copy of Part 1 and Part 2(b); concisely state the grounds; give the appellant's name, address, telephone and email; and be accompanied by the fee in the Council fee schedule.", "source": {"doc": "07_Variance_Form.pdf", "page": 5}},
+        {"text": "Send it to the Safety Codes Council, Coordinator of Appeals, 500, 1405 Jasper Avenue NW, Edmonton AB T5J 3N4; appeals@safetycodes.ab.ca; 780-413-0099 (toll free 1-888-413-0099).", "source": {"doc": "07_Variance_Form.pdf", "page": 5}},
+        {"text": "The appeal process is not available to applications that were reviewed and refused by an Administrator of the Safety Codes Act; an Administrator's decision on a variance is final.", "source": {"doc": "07_Variance_Form.pdf", "page": 5}},
+        {"text": "On an appeal the Council may confirm the refusal, or revoke it and issue a written variance on terms it considers appropriate.", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 43, "ref": "s.52(2)(b.1)"}}
+      ],
+      "by_jurisdiction": {
+        "calgary": [
+          {"text": "Calgary's guide states the appeal needs a Notice of Appeal Form, a copy of the Written Notice, and the $500 appeal fee, within 30 days from the date of service of the Written Notice of Variance Refusal. It applies to refusals issued since December 1, 2021.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 1}}
+        ]
+      },
+      "unknown": {
+        "scc": ["The appeal fee amount: the form refers to the Council fee schedule, which is not in the materials. The $500 figure is stated only in Calgary's guide."],
+        "edmonton": ["The appeal fee amount: the form refers to the Council fee schedule, which is not in the materials. The $500 figure is stated only in Calgary's guide."],
+        "all": ["How long the Council takes to decide an appeal."]
+      }
+    },
+    {
+      "id": "timing",
+      "title": "Timelines and fees",
+      "common": [
+        {"text": "General guidance (not an Alberta authority's commitment): allow one to two months for correspondence, depending on complexity. Few or no jurisdictions publish approval timelines, since approval depends on the submission.", "source": {"doc": "08_CWC_Alt_Solutions_Guide.pdf", "page": 6}},
+        {"text": "General guidance: some jurisdictions give feedback within a month, but that is a documentation check, not a full review; it is good practice to allow two to four months to receive comments.", "source": {"doc": "08_CWC_Alt_Solutions_Guide.pdf", "page": 6}}
+      ],
+      "by_jurisdiction": {},
+      "unknown": {
+        "all": [
+          "How long your authority takes to review a variance and respond: no authority-specific review timeline is published in the materials.",
+          "Any fee for submitting a variance request: none is stated in the form or the guides."
+        ]
+      }
+    },
+    {
+      "id": "record",
+      "title": "What happens to the information",
+      "common": [
+        {"text": "By signing, you accept that the information is shared with the Safety Codes Council, and that some non-personal information from the form may be published on the Council website.", "source": {"doc": "07_Variance_Form.pdf", "page": 2}},
+        {"text": "An Administrator may place an entry on the information system briefly indicating the subject of a variance and the location it applies to (a variance register).", "source": {"doc": "01_Safety_Codes_Act.pdf", "page": 51, "ref": "s.62"}}
+      ],
+      "by_jurisdiction": {
+        "calgary": [
+          {"text": "Variances are site specific: a variance covering more than one permit or building needs a separate request for each permit or site, and a separate form for each different issue.", "source": {"doc": "09_Calgary_Alt_Solution_Guide.pdf", "page": 2}}
+        ]
+      },
+      "unknown": {}
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+
+=====PAGE 1=====
+Building STANDATA | Alberta.ca 
+©2024 Government of Alberta  |  Published: April 2024 | 
+ 
+ 
+STANDATA variance 23-BCV-001 
+Building 
+Window opening control devices (WOCD)  
+Date Issued: 
+ April 2024 
+Page 1 of 3 
+Purpose 
+To provide an alternative solution in meeting the requirements of Sentences 9.8.8.1 (4) and (5) Guards on 
+windows of residential occupancy in the National Building Code – 2023 Alberta Edition (NBC (AE)).  
+Discussion 
+The National Building Code - 2023 Alberta Edition introduced a new requirement in Clause 9.8.8.1 (4) (b) and 
+Sentence 9.8.8.1.(5) by requiring a mechanism that can only be released with the use of tools or special 
+knowledge to control the free swinging or sliding operation of all openable windows that are less than 900mm 
+from the ﬁnished ﬂoor and more than 1800mm from the ﬂoor or ground level on the other side of the window. The 
+intention of this requirement is to reduce the probability of  young children opening a window greater than 100mm 
+and falling out of that window opening. 
+The Appendix Note A-9.8.8.1 (4) refers to ASTM F2090 “Standard Speciﬁcation for Window Fall Prevention 
+Devices with Emergency Escape (Egress) Release Mechanisms” as a way of providing the protection required in 
+9.8.8.1 (4) (b) and (5). 
+Also, Sentence 9.9.10.1 (1) requires that each bedroom must have at least one outside window or exterior door 
+openable from the inside without the use of keys, tools, or special knowledge. However, there is no reference 
+under Sentence 9.9.10.1.(1) to ASTM F2090 “Standard Speciﬁcation for Window Fall Prevention Devices with 
+Emergency Escape (Egress) Release Mechanisms” as a means of providing the required window (openable with 
+a minimum dimension of 380mm, and a minimum unobstructed area of .35m²). 
+This variance allows for the installation of a mechanism that complies with ASTM F2090 “Standard Speciﬁcation for 
+Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” to be installed. 
+Code References 
+Sentences 9.8.8.1.(4) & (5) 
+9.8.8.1. Required Guards 
+4) Except as provided in Sentence (5), openable windows in buildings of residential occupancy shall be 
+protected by 
+a) a guard, or 
+b) a mechanism that can only be released with the use of tools or special knowledge to control the free 
+swinging or sliding operation of the openable part of the window so as to limit any clear unobstructed 
+opening to not more than 100 mm measured either vertically or horizontally. 
+(See Note A-9.8.8.1.(4).) 
+ 
+5) Windows need not be protected in accordance with Sentence (4), where the bottom edge of the 
+openable portion of the window is located  
+a) more than 900 mm above the finished floor, or 
+
+=====PAGE 2=====
+ 
+STANDATA 23-BCV-001 
+ 
+Page 2 of 3 
+Building STANDATA | Alberta.ca 
+©2024 Government of Alberta  |  April 2024  |  Municipal Affairs 
+ 
+ 
+b) less than 1 800 mm above the floor or ground on the other side of the window. 
+(See Note A-9.8.8.1.(4).) 
+A-9.8.8.1.(4) Window Fall Prevention. The primary intent of the requirement is to minimize the 
+likelihood of small children falling significant heights from open windows. Reflecting reported cases, the 
+requirement applies to openable windows in dwelling units and generally those located on the second 
+floor or higher of residential or mixed use buildings. 
+ 
+Once cracked open, some openable windows can be opened further by simply pushing on the openable 
+part of the window. Care must be taken in selecting windows, as some with special operating hardware 
+can still be opened further by simply pushing on the window or by deactivating a spring-loaded button or 
+other mechanism that is not considered a window opening control device (WOCD) that could be 
+inadvertently operated by a young child. A technical description of WOCDs can be found in ASTM F2090, 
+“Standard Specification for Window Fall Prevention Devices With Emergency Escape (Egress) Release 
+Mechanisms.” 
+ 
+Examples of WOCDs that can limit window openings to a maximum of 100 mm as required by 
+Clause 9.8.8.1.(4)(b) include, but are not limited to, a fixed-stop lever, a fixed-length cable and a fixed-
+position stop block. It is important to note that rotary opening mechanisms cannot limit window openings 
+to 100 mm as required by Clause 9.8.8.1.(4)(b) and that windows with such mechanisms cannot act as 
+guards as required by Clause 9.8.8.1.(4)(a), even when the crank handle is removed. Similarly, awning 
+windows with scissor hardware may not keep the window from swinging open once it is unlatched. 
+Hopper windows would be affected only if an opening is created at the bottom as well as at the top of the 
+window. The requirement will impact primarily on the use of sliding windows which do not incorporate 
+devices in their construction that can be used to limit the openable area of the window. 
+ 
+The 100 mm opening limit stated in Sentence 9.8.8.1.(4) is recognized as the maximum opening size 
+required to protect small children from falling through open windows. The minimum 900 mm height of the 
+openable portion of windows required by Sentence 9.8.8.1.(5) corresponds to the minimum height of 
+guards required by Sentence 9.8.8.3.(2) as a means of fall protection in residential occupancies. 
+ 
+ 
+Sentence 9.9.10.1.(1) 
+9.9.10.1. Egress Windows or Doors for Bedrooms 
+1) Except where the suite is sprinklered, each bedroom or combination bedroom shall have at least one 
+outside window or exterior door openable from the inside without the use of keys, tools or special 
+knowledge and without the removal of sashes or hardware. (See Article 9.5.1.2. and Note A-9.9.10.1.(1).) 
+ 
+ 
+Application 
+This variance applies to buildings of residential occupancy covered by Part 9 of the National Building Code – 
+2023 Alberta Edition. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 3=====
+ 
+STANDATA 23-BCV-001 
+ 
+Page 3 of 3 
+Building STANDATA | Alberta.ca 
+©2024 Government of Alberta  |  April 2024  |  Municipal Affairs 
+ 
+ 
+Variance 
+A WOCD mechanism that complies with ASTM F2090 “Standard Speciﬁcation for Window Fall Prevention 
+Devices with Emergency Escape (Egress) Release Mechanisms” as a means of complying with the requirements 
+of 9.8.8.1 (4) and 9.9.10.1 (1) with the following condition. 
+1. WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units. 
+ 
+ This VARIANCE is applicable throughout the Province of Alberta. 
+ 
+ 
+Unless stated otherwise, all Code references in this STANDATA are to Division B of the National Building Code  - 
+2023 Alberta Edition 
+Issued by the Provincial Building Administrator 
+ 
+ 
+ 
+[Original signed] 
+Paul Chang 
+Alberta Municipal Affairs – Technical and Corporate Services 
+Email: safety.services@gov.ab.ca  Phone: 1-866-421-6929 
+To sign up for our List Subscription Service go to: municipalaffairs.gov.ab.ca/am_list_subscription_services 

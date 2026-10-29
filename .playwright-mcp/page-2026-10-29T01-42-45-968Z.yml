@@ -1,0 +1,172 @@
+- generic [ref=f1e3]:
+  - link "Skip to main content" [ref=f1e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f1e5]:
+    - generic [ref=f1e6]:
+      - link "Variance Workspace, home" [ref=f1e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e8]: Variance Workspace
+        - generic [ref=f1e9]: Alberta building code variances
+      - generic [ref=f1e10]:
+        - status [ref=f1e11]: Saved automatically
+        - group "View as" [ref=f1e12]:
+          - button "Applicant" [pressed] [ref=f1e13] [cursor=pointer]
+          - button "Reviewer" [ref=f1e14] [cursor=pointer]
+  - main [ref=f1e15]:
+    - generic [ref=f1e16]:
+      - navigation "Application steps" [ref=f1e17]:
+        - list [ref=f1e18]:
+          - listitem [ref=f1e19]:
+            - button "Describe, 14 open" [ref=f1e20] [cursor=pointer]:
+              - generic [ref=f1e21]: "1"
+              - generic [ref=f1e22]: Describe
+              - generic [ref=f1e23]: 14 open
+          - listitem [ref=f1e24]:
+            - button "Rules, 1 open, locked" [disabled] [ref=f1e25]:
+              - generic [ref=f1e26]: "2"
+              - generic [ref=f1e27]: Rules
+              - generic [ref=f1e28]: 1 open
+          - listitem [ref=f1e29]:
+            - button "Fill and review, 21 open, locked" [disabled] [ref=f1e30]:
+              - generic [ref=f1e31]: "3"
+              - generic [ref=f1e32]: Fill and review
+              - generic [ref=f1e33]: 21 open
+          - listitem [ref=f1e34]:
+            - button "Submit, 3 open, locked" [disabled] [ref=f1e35]:
+              - generic [ref=f1e36]: "4"
+              - generic [ref=f1e37]: Submit
+              - generic [ref=f1e38]: 3 open
+      - generic [ref=f1e39]:
+        - generic [ref=f1e40]: Step 1 of 4 · Describe
+        - generic [ref=f1e42]:
+          - generic [ref=f1e43]:
+            - generic [ref=f1e44]:
+              - generic [ref=f1e45]:
+                - heading "Tell us what you want to build or do differently" [level=1] [ref=f1e46]
+                - paragraph [ref=f1e47]: Write it the way you would explain it to a neighbour. Nothing here needs code language. We will find the matching code articles next.
+              - generic [ref=f1e48]:
+                - generic [ref=f1e50]:
+                  - generic [ref=f1e51]: What do you want to build or do differently?
+                  - paragraph [ref=f1e52]: "Example: A 5-storey apartment building with one exit stair instead of two, because the lot is narrow."
+                  - textbox "What do you want to build or do differently?" [ref=f1e53]
+                - region [ref=f1e54]:
+                  - heading "What we understood" [level=2] [ref=f1e55]
+                  - paragraph [ref=f1e56]: AI reads your description and proposes values for the form. Nothing is filled in until you accept it.
+                  - generic [ref=f1e57]:
+                    - button "Check my description" [disabled] [ref=f1e58]
+                    - button "Improve my wording" [disabled] [ref=f1e59]
+                - group [ref=f1e60]:
+                  - heading "Who will review it?" [level=2] [ref=f1e62]
+                  - paragraph [ref=f1e63]: This decides which extra checks appear in step 3.
+                  - radiogroup "Jurisdiction" [ref=f1e64]:
+                    - generic [ref=f1e65] [cursor=pointer]:
+                      - radio "Safety Codes Council form Any Alberta municipality or agency" [checked] [ref=f1e66]
+                      - generic [ref=f1e67]:
+                        - strong [ref=f1e68]: Safety Codes Council form
+                        - generic [ref=f1e69]: Any Alberta municipality or agency
+                    - generic [ref=f1e70] [cursor=pointer]:
+                      - radio "Edmonton Adds the emergency-services questions" [ref=f1e71]
+                      - generic [ref=f1e72]:
+                        - strong [ref=f1e73]: Edmonton
+                        - generic [ref=f1e74]: Adds the emergency-services questions
+                    - generic [ref=f1e75] [cursor=pointer]:
+                      - radio "Calgary Adds the permit rule and the Calgary request form" [ref=f1e76]
+                      - generic [ref=f1e77]:
+                        - strong [ref=f1e78]: Calgary
+                        - generic [ref=f1e79]: Adds the permit rule and the Calgary request form
+                - generic [ref=f1e80]:
+                  - heading "The building" [level=2] [ref=f1e81]
+                  - paragraph [ref=f1e82]: Approximate answers are fine. These help find the right code rules.
+                  - generic [ref=f1e83]:
+                    - generic [ref=f1e84]:
+                      - generic [ref=f1e85]: Site address
+                      - paragraph [ref=f1e86]: Street address of the building. If the request covers a whole municipality, say so in the description.
+                      - textbox "Site address" [ref=f1e87]
+                    - generic [ref=f1e88]:
+                      - generic [ref=f1e89]: Permit number (if you have one)
+                      - textbox "Permit number (if you have one)" [ref=f1e90]
+                    - generic [ref=f1e91]:
+                      - generic [ref=f1e92]: What is the building used for?
+                      - paragraph [ref=f1e93]: "Occupancy: the main use of the building."
+                      - combobox "What is the building used for?" [ref=f1e94]:
+                        - option "Choose..." [selected]
+                        - option "Homes or apartments (residential)"
+                        - option "Offices and services"
+                        - option "Shops and stores"
+                        - option "Gathering places"
+                        - option "Care or detention"
+                        - option "Industrial"
+                        - option "Something else"
+                    - generic [ref=f1e95]:
+                      - generic [ref=f1e96]: New building or renovation?
+                      - combobox "New building or renovation?" [ref=f1e97]:
+                        - option "Choose..." [selected]
+                        - option "New building"
+                        - option "Renovation of an existing building"
+                    - generic [ref=f1e98]:
+                      - generic [ref=f1e99]: Number of storeys
+                      - spinbutton "Number of storeys" [ref=f1e101]
+                    - generic [ref=f1e102]:
+                      - generic [ref=f1e103]: Building area
+                      - paragraph [ref=f1e104]: Footprint of the largest floor, in square metres.
+                      - generic [ref=f1e105]:
+                        - spinbutton "Building area" [ref=f1e106]
+                        - generic [aria-hidden]: m²
+                    - generic [ref=f1e107]:
+                      - generic [ref=f1e108]: Dwelling units per floor
+                      - paragraph [ref=f1e109]: Leave blank if the building has no dwelling units.
+                      - spinbutton "Dwelling units per floor" [ref=f1e111]
+                    - generic [ref=f1e112]:
+                      - generic [ref=f1e113]: Is the building sprinklered?
+                      - paragraph [ref=f1e114]: Sprinklered means an automatic sprinkler system is installed.
+                      - combobox "Is the building sprinklered?" [ref=f1e115]:
+                        - option "Choose..." [selected]
+                        - option "Yes"
+                        - option "No"
+                    - generic [ref=f1e116]:
+                      - generic [ref=f1e117]: Code Part (if you know it)
+                      - paragraph [ref=f1e118]: A professional can confirm this later.
+                      - combobox "Code Part (if you know it)" [ref=f1e119]:
+                        - option "Not sure" [selected]
+                        - option "Part 3 (larger or complex buildings)"
+                        - option "Part 9 (houses and small buildings)"
+                - generic [ref=f1e120]:
+                  - heading "About you" [level=2] [ref=f1e121]
+                  - paragraph [ref=f1e122]: This fills Section A of the official form.
+                  - generic [ref=f1e123]:
+                    - generic [ref=f1e124]:
+                      - generic [ref=f1e125]: Owner name
+                      - paragraph [ref=f1e126]: The legal owner of the property (a person or a company). This is who signs the form.
+                      - textbox "Owner name" [ref=f1e127]
+                    - generic [ref=f1e128]:
+                      - generic [ref=f1e129]: Owner representative (optional)
+                      - paragraph [ref=f1e130]: Only if someone applies on the owner's behalf, such as a contractor or designer.
+                      - textbox "Owner representative (optional)" [ref=f1e131]
+                    - generic [ref=f1e132]:
+                      - generic [ref=f1e133]: Mailing address
+                      - textbox "Mailing address" [ref=f1e134]
+                    - generic [ref=f1e135]:
+                      - generic [ref=f1e136]: Email
+                      - textbox "Email" [ref=f1e137]
+                    - generic [ref=f1e138]:
+                      - generic [ref=f1e139]: Date of request
+                      - textbox "Date of request" [ref=f1e140]
+            - complementary [ref=f1e141]:
+              - generic [ref=f1e142]:
+                - heading "What is a variance?" [level=2] [ref=f1e143]
+                - paragraph [ref=f1e144]:
+                  - text: A
+                  - generic [ref=f1e145]: variance
+                  - text: is a request to meet the intent of the Building Code in a different way than the prescribed one. A Safety Codes Officer reviews it.
+              - generic [ref=f1e146]:
+                - heading "Good to know" [level=2] [ref=f1e147]
+                - list [ref=f1e148]:
+                  - listitem [ref=f1e149]: Your answers save automatically.
+                  - listitem [ref=f1e150]: Skip anything you do not know. You can return to it in step 3.
+                  - listitem [ref=f1e151]: You are never asked to sign until the last step.
+          - generic [ref=f1e152]:
+            - generic [ref=f1e153]: Describe your project to continue (at least a sentence).
+            - 'button "Next: Rules" [disabled] [ref=f1e154]'
+  - contentinfo [ref=f1e157]:
+    - generic [ref=f1e158]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f1e159]: Approval stays with registered professionals and the Authority Having Jurisdiction.

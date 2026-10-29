@@ -1,0 +1,20 @@
+{
+ "build_seconds": 2.81,
+ "size_bytes": 3500846,
+ "nodes_by_type": {
+  "article": 3539,
+  "part": 47,
+  "section": 245,
+  "subsection": 886,
+  "objective": 92,
+  "function": 119,
+  "precedent": 173
+ },
+ "edges_by_type": {
+  "parent_of": 4670,
+  "attributed_to": 16551,
+  "xref": 3021,
+  "cites": 1973
+ },
+ "unresolved_objective_or_function_codes": {}
+}

@@ -1,0 +1,229 @@
+{
+ "jurisdiction": "edmonton",
+ "label": "City of Edmonton",
+ "note": "No separate Edmonton variance form was found; the SCC form is the baseline. Confirm with Safety Codes, Permits and Inspections. Completeness screening only; not a finding about the design.",
+ "checks": [
+  {
+   "id": "PREAPP",
+   "label": "Pre-application meeting booked with Development Services and Safety Codes officers",
+   "kind": "meeting",
+   "why": "The PAB guide recommends booking a pre-application meeting before submission; for Point Access Block proposals building permit reviewers attend. Recommended, not mandatory.",
+   "group": "Process",
+   "priority": 2,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 7
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Have you booked or held a pre-application meeting?"
+  },
+  {
+   "id": "PROFESSIONAL",
+   "label": "Registered architect and/or engineer involved in design, field review and preparation of the Alternative Solution",
+   "kind": "info",
+   "why": "Professional involvement is a mandatory criterion for Point Access Block applications; plans and specifications must be authenticated per professional practice standards.",
+   "group": "Professionals",
+   "priority": 4,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   }
+  },
+  {
+   "id": "CONSULTANT",
+   "label": "Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant",
+   "kind": "document",
+   "why": "Applications that put forward a Point Access Block are required to submit an Alternative Solution prepared by such a consultant.",
+   "group": "Professionals",
+   "priority": 4,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 4
+   },
+   "applies_when": "topic:single_exit_stair"
+  },
+  {
+   "id": "ES1",
+   "label": "Does the alternative solution modify any specific firefighting requirement of the NBC(AE), including Division B, Subsection 3.2.5., or other specific firefighting provisions?",
+   "kind": "question",
+   "why": "If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.",
+   "group": "Emergency-services screen",
+   "priority": 4,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  {
+   "id": "ES2",
+   "label": "Do the life safety or property protection features of the alternative solution design rely on timely intervention by the local fire service, including for spatial separation/exposure protection?",
+   "kind": "question",
+   "why": "If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.",
+   "group": "Emergency-services screen",
+   "priority": 4,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  {
+   "id": "ES3",
+   "label": "Does the alternative solution introduce equipment, technology, or processes which are novel to Edmonton Fire Rescue Services, or which may be incompatible with technology and equipment used by responders?",
+   "kind": "question",
+   "why": "If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.",
+   "group": "Emergency-services screen",
+   "priority": 4,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  {
+   "id": "ES4",
+   "label": "Does the alternative solution require special operational plans for occupants which may affect emergency response and intervention?",
+   "kind": "question",
+   "why": "If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.",
+   "group": "Emergency-services screen",
+   "priority": 4,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  {
+   "id": "FSTMT",
+   "label": "Section C functional statements F06, F12 or F13 referenced",
+   "kind": "field",
+   "why": "Any variance which includes reference to Functional Statements F06, F12, or F13 likely impacts emergency services.",
+   "group": "Emergency-services screen",
+   "priority": 4,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "applies_when": "auto:functions"
+  },
+  {
+   "id": "BOUNDARY",
+   "label": "Is the project outside the Outside 10-minute Boundary (maps.edmonton.ca, layer ERD Public Data)?",
+   "kind": "question",
+   "why": "For projects outside this response area, careful consideration must be given to the impact on spatial separation and on delayed emergency response.",
+   "group": "Emergency-services screen",
+   "priority": 3,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 15
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  {
+   "id": "FIREFLOW",
+   "label": "Available fire flow confirmed with the EFRS Engineer",
+   "kind": "document",
+   "why": "Specific Available Fire Flow information can be obtained from the EFRS Engineer; designers should verify water supply for firefighters.",
+   "group": "Emergency-services documentation",
+   "priority": 3,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 12
+   },
+   "applies_when": "screen:triggered"
+  },
+  {
+   "id": "SWEPT",
+   "label": "Swept path analysis for fire apparatus access (only if apparatus access is varied)",
+   "kind": "question",
+   "why": "A swept path analysis conforming to the City of Edmonton Swept Path Analysis guideline ensures access and maneuverability by aerial apparatus.",
+   "group": "Emergency-services documentation",
+   "priority": 3,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 18
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Does the variance change fire apparatus access?"
+  },
+  {
+   "id": "ITM",
+   "label": "Inspection, testing and maintenance (ITM) and commissioning documentation for systems introduced by the alternative solution",
+   "kind": "document",
+   "why": "ITM procedures, including commissioning, are required to be provided with documentation of an alternative solution.",
+   "group": "Emergency-services documentation",
+   "priority": 3,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 22
+   },
+   "applies_when": "screen:triggered"
+  },
+  {
+   "id": "EVIDENCE",
+   "label": "Documented assumptions and objective demonstration of performance relative to the Division B acceptable solutions",
+   "kind": "document",
+   "why": "Assumptions and limiting factors for affected emergency response are to be documented; conclusions must not rest on judgement without demonstration.",
+   "group": "Emergency-services documentation",
+   "priority": 3,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 21
+   },
+   "applies_when": "screen:triggered"
+  },
+  {
+   "id": "PEER",
+   "label": "Peer review notice: alternative solutions that impact emergency response are reviewed by SCPI and EFRS professionals",
+   "kind": "info",
+   "why": "Practitioners are encouraged to contact the guideline authors before submitting, particularly if assumptions about emergency services are ambiguous.",
+   "group": "Process",
+   "priority": 1,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "NOFORM",
+   "label": "No separate Edmonton variance form was found; the SCC form is the baseline. Confirm with Safety Codes, Permits and Inspections.",
+   "kind": "info",
+   "why": "The supplied Edmonton documents were searched; none contains a separate variance form.",
+   "group": "Process",
+   "priority": 1,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 6
+   }
+  }
+ ]
+}

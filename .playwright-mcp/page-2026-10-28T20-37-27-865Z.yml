@@ -1,0 +1,578 @@
+- generic [ref=f7e3]:
+  - link "Skip to main content" [ref=f7e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f7e5]:
+    - generic [ref=f7e6]:
+      - link "Variance Workspace, home" [ref=f7e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f7e8]: Variance Workspace
+        - generic [ref=f7e9]: Alberta building code variances
+      - generic [ref=f7e10]:
+        - status [ref=f7e24]: Saved automatically
+        - group "View as" [ref=f7e11]:
+          - button "Applicant" [pressed] [ref=f7e12] [cursor=pointer]
+          - button "Reviewer" [ref=f7e13] [cursor=pointer]
+  - main [ref=f7e14]:
+    - generic [ref=f7e25]:
+      - navigation "Application steps" [ref=f7e26]:
+        - list [ref=f7e27]:
+          - listitem [ref=f7e28]:
+            - button "Describe, 12 open" [ref=f7e29] [cursor=pointer]:
+              - generic [ref=f7e30]: "1"
+              - generic [ref=f7e31]: Describe
+              - generic [ref=f7e32]: 12 open
+          - listitem [ref=f7e33]:
+            - button "Rules, nothing open" [ref=f7e34] [cursor=pointer]:
+              - generic [ref=f7e35]: "2"
+              - generic [ref=f7e36]: Rules
+              - generic [ref=f7e37]: clear
+          - listitem [ref=f7e38]:
+            - button "Fill and review, 25 open" [ref=f7e39] [cursor=pointer]:
+              - generic [ref=f7e40]: "3"
+              - generic [ref=f7e41]: Fill and review
+              - generic [ref=f7e42]: 25 open
+          - listitem [ref=f7e43]:
+            - button "Submit, 3 open" [ref=f7e44] [cursor=pointer]:
+              - generic [ref=f7e45]: "4"
+              - generic [ref=f7e46]: Submit
+              - generic [ref=f7e47]: 3 open
+      - generic [ref=f7e48]:
+        - generic [ref=f7e49]: Step 3 of 4 · Fill and review
+        - generic [ref=f7e51]:
+          - generic [ref=f7e53]:
+            - generic [ref=f7e54]:
+              - heading "Fill and review" [level=1] [ref=f7e55]
+              - paragraph [ref=f7e56]: 25 things need your attention. Fix them here, or leave them and come back.
+            - generic [ref=f7e57]:
+              - generic [ref=f7e58]:
+                - generic [ref=f7e60]:
+                  - generic [ref=f7e61]:
+                    - text: Items complete
+                    - generic [ref=f7e62]: 10/45
+                  - progressbar "Items complete" [ref=f7e63]
+                - tablist "View" [ref=f7e65]:
+                  - tab "To-do list" [selected] [ref=f7e66] [cursor=pointer]
+                  - tab "Overview map" [ref=f7e69] [cursor=pointer]
+              - region [ref=f7e72]:
+                - heading "You need a registered professional for this part" [level=2] [ref=f7e73]
+                - paragraph [ref=f7e74]: "Part of this request is engineering work. This tool does not write it for you and leaves those items blank on purpose. Your professional must address:"
+                - generic [ref=f7e75]:
+                  - list [ref=f7e76]:
+                    - listitem [ref=f7e77]: Code analysis of the acceptable solution being varied and the alternative proposed
+                    - listitem [ref=f7e78]: Assumptions and limits of the analysis
+                    - listitem [ref=f7e79]: Testing, studies or modelling relied upon
+                    - listitem [ref=f7e80]: Commissioning, inspection, testing and maintenance of mitigating features
+                    - listitem [ref=f7e81]: Qualifications of the responsible professional (single coordinating professional, Division C 2.3.1.1)
+                    - listitem [ref=f7e82]: Emergency-services (fire department) access and operations considerations
+                  - paragraph [ref=f7e83]: "Related articles: 3.4.2.1.(1), 3.4.2.3.(1), 3.4.4.1.(1)"
+              - tabpanel "To-do list" [ref=f7e84]:
+                - region [ref=f7e85]:
+                  - generic [ref=f7e86]:
+                    - generic [ref=f7e87]:
+                      - 'heading "Section A: About you" [level=2] [ref=f7e88]'
+                      - paragraph [ref=f7e89]: Owner and contact details
+                    - generic [ref=f7e90]: 4 to do
+                  - list [ref=f7e91]:
+                    - listitem [ref=f7e92]:
+                      - generic [ref=f7e93]:
+                        - generic [ref=f7e94]: Missing
+                        - generic [ref=f7e97]:
+                          - strong [ref=f7e98]: Owner name
+                          - generic [ref=f7e99]: Owner name not provided
+                          - button "Suggest" [ref=f7e101] [cursor=pointer]
+                        - button "Fix now" [ref=f7e103] [cursor=pointer]
+                    - listitem [ref=f7e104]:
+                      - generic [ref=f7e105]:
+                        - generic [ref=f7e106]: Missing
+                        - generic [ref=f7e109]:
+                          - strong [ref=f7e110]: Mailing address
+                          - generic [ref=f7e111]: Mailing address not provided
+                          - button "Suggest" [ref=f7e113] [cursor=pointer]
+                        - button "Fix now" [ref=f7e115] [cursor=pointer]
+                    - listitem [ref=f7e116]:
+                      - generic [ref=f7e117]:
+                        - generic [ref=f7e118]: Missing
+                        - generic [ref=f7e121]:
+                          - strong [ref=f7e122]: Email
+                          - generic [ref=f7e123]: Email not provided
+                          - button "Suggest" [ref=f7e125] [cursor=pointer]
+                        - button "Fix now" [ref=f7e127] [cursor=pointer]
+                    - listitem [ref=f7e128]:
+                      - generic [ref=f7e129]:
+                        - generic [ref=f7e130]: Missing
+                        - generic [ref=f7e133]:
+                          - strong [ref=f7e134]: Date of request
+                          - generic [ref=f7e135]: Date of request not provided
+                          - button "Suggest" [ref=f7e137] [cursor=pointer]
+                        - button "Fix now" [ref=f7e139] [cursor=pointer]
+                - region [ref=f7e140]:
+                  - generic [ref=f7e141]:
+                    - generic [ref=f7e142]:
+                      - 'heading "Section B: The project" [level=2] [ref=f7e143]'
+                      - paragraph [ref=f7e144]: Building facts and location
+                    - generic [ref=f7e145]: 8 to do
+                  - form "Building facts" [ref=f7e146]:
+                    - heading "Building facts" [level=3] [ref=f7e147]
+                    - paragraph [ref=f7e148]: 5 facts are missing. Fill in what you know; leave the rest for later.
+                    - generic [ref=f7e149]:
+                      - generic [ref=f7e150]:
+                        - generic [ref=f7e151]: Number of storeys
+                        - spinbutton "Number of storeys" [ref=f7e153]
+                      - generic [ref=f7e154]:
+                        - generic [ref=f7e155]: Building area
+                        - paragraph [ref=f7e156]: Footprint of the largest floor, in square metres.
+                        - generic [ref=f7e157]:
+                          - spinbutton "Building area" [ref=f7e158]
+                          - generic [aria-hidden]: m²
+                      - generic [ref=f7e159]:
+                        - generic [ref=f7e160]: Dwelling units per floor
+                        - paragraph [ref=f7e161]: Leave blank if the building has no dwelling units.
+                        - spinbutton "Dwelling units per floor" [ref=f7e163]
+                      - generic [ref=f7e164]:
+                        - generic [ref=f7e165]: Is the building sprinklered?
+                        - paragraph [ref=f7e166]: Sprinklered means an automatic sprinkler system is installed.
+                        - combobox "Is the building sprinklered?" [ref=f7e167]:
+                          - option "Choose..." [selected]
+                          - option "Yes"
+                          - option "No"
+                      - generic [ref=f7e168]:
+                        - generic [ref=f7e169]: New building or renovation?
+                        - combobox "New building or renovation?" [ref=f7e170]:
+                          - option "Choose..." [selected]
+                          - option "New building"
+                          - option "Renovation of an existing building"
+                    - button "Save facts" [disabled] [ref=f7e171]
+                  - list [ref=f7e172]:
+                    - listitem [ref=f7e173]:
+                      - generic [ref=f7e174]:
+                        - generic [ref=f7e175]: Missing
+                        - generic [ref=f7e178]:
+                          - strong [ref=f7e179]: Project location
+                          - generic [ref=f7e180]: Municipal address or legal description (or jurisdiction-wide) required
+                          - button "Suggest" [ref=f7e182] [cursor=pointer]
+                        - button "Fix now" [ref=f7e184] [cursor=pointer]
+                    - listitem [ref=f7e185]:
+                      - generic [ref=f7e186]:
+                        - generic [ref=f7e187]: Please confirm
+                        - generic [ref=f7e191]:
+                          - strong [ref=f7e192]: Permit number
+                          - generic [ref=f7e193]: No permit number given; confirm if one exists
+                          - button "Suggest" [ref=f7e195] [cursor=pointer]
+                        - button "Fix now" [ref=f7e197] [cursor=pointer]
+                    - listitem [ref=f7e198]:
+                      - generic [ref=f7e199]:
+                        - generic [ref=f7e200]: Missing
+                        - generic [ref=f7e203]:
+                          - strong [ref=f7e204]: Part 3 / Part 9
+                          - generic [ref=f7e205]: Storeys and building area are needed to decide between Part 3 and Part 9.
+                          - button "Suggest" [ref=f7e207] [cursor=pointer]
+                        - button "Fix now" [ref=f7e209] [cursor=pointer]
+                  - group [ref=f7e210]:
+                    - generic "2 completed" [ref=f7e211] [cursor=pointer]
+                - region [ref=f7e212]:
+                  - generic [ref=f7e213]:
+                    - generic [ref=f7e214]:
+                      - 'heading "Section C: Code and your alternative" [level=2] [ref=f7e215]'
+                      - paragraph [ref=f7e216]: Articles, and what you propose instead
+                    - generic [ref=f7e217]: 2 to do
+                  - list [ref=f7e218]:
+                    - listitem [ref=f7e219]:
+                      - generic [ref=f7e220]:
+                        - generic [ref=f7e221]: Please confirm
+                        - generic [ref=f7e225]:
+                          - strong [ref=f7e226]: "Evidence for: Compartmentation"
+                          - generic [ref=f7e227]: No evidence document referenced
+                          - button "Suggest" [ref=f7e229] [cursor=pointer]
+                        - button "Go to Rules" [ref=f7e230] [cursor=pointer]
+                    - listitem [ref=f7e231]:
+                      - generic [ref=f7e232]:
+                        - generic [ref=f7e233]: Please confirm
+                        - generic [ref=f7e237]:
+                          - strong [ref=f7e238]: "Evidence for: Smoke management"
+                          - generic [ref=f7e239]: No evidence document referenced
+                          - button "Suggest" [ref=f7e241] [cursor=pointer]
+                        - button "Go to Rules" [ref=f7e242] [cursor=pointer]
+                  - generic [ref=f7e243]:
+                    - heading "Options others have used" [level=3] [ref=f7e244]
+                    - paragraph [ref=f7e245]: Options others have used. Whether they achieve equivalent performance is for your registered professional.
+                    - button "Show options" [ref=f7e246] [cursor=pointer]
+                  - group [ref=f7e247]:
+                    - generic "3 code articles in Section C" [ref=f7e248] [cursor=pointer]
+                  - group [ref=f7e249]:
+                    - generic "8 completed" [ref=f7e250] [cursor=pointer]
+                - region [ref=f7e251]:
+                  - generic [ref=f7e252]:
+                    - generic [ref=f7e253]:
+                      - 'heading "Section D: Supporting documents" [level=2] [ref=f7e254]'
+                      - paragraph [ref=f7e255]: What must be attached to the request
+                    - generic [ref=f7e256]: 1 to do
+                  - list [ref=f7e257]:
+                    - listitem [ref=f7e258]:
+                      - generic [ref=f7e259]:
+                        - generic [ref=f7e260]: Missing
+                        - generic [ref=f7e263]:
+                          - strong [ref=f7e264]: Registered professional named in Section D
+                          - generic [ref=f7e265]: No registered professional or organisation is named as responsible for any supporting document (Edmonton PAB guide p.8 requires professional involvement)
+                          - button "Suggest" [ref=f7e267] [cursor=pointer]
+                        - button "Name them" [ref=f7e269] [cursor=pointer]
+                    - listitem [ref=f7e270]:
+                      - generic [ref=f7e271]:
+                        - generic [ref=f7e272]: Professional needed
+                        - generic [ref=f7e276]:
+                          - strong [ref=f7e277]: Registered professional involvement
+                          - generic [ref=f7e278]: A registered professional is required (Edmonton PAB guide p.8). They prepare the Alternative Solution and the analysis (fire protection / life safety code consultant); this tool writes none of it.
+                  - generic [ref=f7e279]:
+                    - heading "Documents to attach" [level=3] [ref=f7e280]
+                    - paragraph [ref=f7e281]: A registered professional will prepare the documents marked below. This tool leaves them for them.
+                    - list [ref=f7e282]:
+                      - listitem [ref=f7e283]:
+                        - generic [ref=f7e284]:
+                          - text: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant, including Code analysis (applicable objectives, functional statements and acceptable solutions, assumptions, limiting or restricting factors, testing procedures, engineering studies) per Division C 2.3.1.1.(2)(a), (3)
+                          - generic [ref=f7e285]: Prepared by a professional
+                        - generic [ref=f7e286]: Status of Alternative Solution prepared by a quali
+                        - combobox "Status of Alternative Solution prepared by a quali" [ref=f7e287]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                      - listitem [ref=f7e288]:
+                        - generic [ref=f7e289]:
+                          - text: "Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory framework, problem definition, risk assessment, alternative solutions)"
+                          - generic [ref=f7e290]: Prepared by a professional
+                        - generic [ref=f7e291]: Status of Risk assessment and problem definition f
+                        - combobox "Status of Risk assessment and problem definition f" [ref=f7e292]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                      - listitem [ref=f7e293]:
+                        - generic [ref=f7e294]:
+                          - text: Special maintenance or operational requirements, including commissioning and inspection, testing and maintenance (ITM) documentation for systems not regulated by the NFC(AE) (Division C 2.3.1.1.(2)(b); Emergency Services Guideline p.22)
+                          - generic [ref=f7e295]: Prepared by a professional
+                        - generic [ref=f7e296]: Status of Special maintenance or operational requi
+                        - combobox "Status of Special maintenance or operational requi" [ref=f7e297]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                      - listitem [ref=f7e298]:
+                        - generic [ref=f7e299]:
+                          - text: Qualifications, experience and background of the person or persons taking responsibility for the design (Division C 2.3.1.1.(4))
+                          - generic [ref=f7e300]: Prepared by a professional
+                        - generic [ref=f7e301]: Status of Qualifications, experience and backgroun
+                        - combobox "Status of Qualifications, experience and backgroun" [ref=f7e302]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                      - listitem [ref=f7e303]:
+                        - generic [ref=f7e304]:
+                          - text: Identification of a single person to co-ordinate the design, Code analysis and documentation (Division C 2.3.1.1.(6))
+                          - generic [ref=f7e305]: Prepared by a professional
+                        - generic [ref=f7e306]: Status of Identification of a single person to co-
+                        - combobox "Status of Identification of a single person to co-" [ref=f7e307]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                      - listitem [ref=f7e308]:
+                        - generic [ref=f7e309]:
+                          - text: Screening against the four emergency-services questions (Emergency Services Guideline p.8-9) and, if triggered, impact on emergency services
+                          - generic [ref=f7e310]: Prepared by a professional
+                        - generic [ref=f7e311]: Status of Screening against the four emergency-ser
+                        - combobox "Status of Screening against the four emergency-ser" [ref=f7e312]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                - region [ref=f7e313]:
+                  - generic [ref=f7e314]:
+                    - generic [ref=f7e315]:
+                      - heading "Local rules" [level=2] [ref=f7e316]
+                      - paragraph [ref=f7e317]: Checks for your authority, answered in the panel below
+                    - generic [ref=f7e318]: 9 to do
+                  - list [ref=f7e319]:
+                    - listitem [ref=f7e320]:
+                      - generic [ref=f7e321]:
+                        - generic [ref=f7e322]: Please confirm
+                        - generic [ref=f7e326]:
+                          - strong [ref=f7e327]: Pre-application meeting booked with Development Services and Safety Codes officers
+                          - generic [ref=f7e328]: Recommended before submission; not mandatory.
+                          - button "Suggest" [ref=f7e330] [cursor=pointer]
+                    - listitem [ref=f7e331]:
+                      - generic [ref=f7e332]:
+                        - generic [ref=f7e333]: Please confirm
+                        - generic [ref=f7e337]:
+                          - strong [ref=f7e338]: "6 items: Not answered yet"
+                          - group [ref=f7e339]:
+                            - generic "Show the 6 items" [ref=f7e340] [cursor=pointer]
+                    - listitem [ref=f7e341]:
+                      - generic [ref=f7e342]:
+                        - generic [ref=f7e343]: Please confirm
+                        - generic [ref=f7e347]:
+                          - strong [ref=f7e348]: Section C functional statements F06, F12 or F13 referenced
+                          - generic [ref=f7e349]: "Section C references F06, F12: likely impacts emergency services; documentation of the impact is required (guideline p.8)."
+                          - button "Suggest" [ref=f7e351] [cursor=pointer]
+                    - listitem [ref=f7e352]:
+                      - generic [ref=f7e353]:
+                        - generic [ref=f7e354]: Missing
+                        - generic [ref=f7e357]:
+                          - strong [ref=f7e358]: Available fire flow confirmed with the EFRS Engineer
+                          - generic [ref=f7e359]: Screen triggered and no matching document is listed in Section D.
+                          - button "Suggest" [ref=f7e361] [cursor=pointer]
+                    - listitem [ref=f7e362]:
+                      - generic [ref=f7e363]:
+                        - generic [ref=f7e364]: Professional needed
+                        - generic [ref=f7e368]:
+                          - strong [ref=f7e369]: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant
+                          - generic [ref=f7e370]: Consultant-prepared Alternative Solution listed but not yet provided.
+                    - listitem [ref=f7e371]:
+                      - generic [ref=f7e372]:
+                        - generic [ref=f7e373]: Professional needed
+                        - generic [ref=f7e377]:
+                          - strong [ref=f7e378]: Inspection, testing and maintenance (ITM) and commissioning documentation for systems introduced by the alternative solution
+                          - generic [ref=f7e379]: Listed in Section D but not yet provided.
+                    - listitem [ref=f7e380]:
+                      - generic [ref=f7e381]:
+                        - generic [ref=f7e382]: Professional needed
+                        - generic [ref=f7e386]:
+                          - strong [ref=f7e387]: Documented assumptions and objective demonstration of performance relative to the Division B acceptable solutions
+                          - generic [ref=f7e388]: Listed in Section D but not yet provided.
+                - region [ref=f7e389]:
+                  - generic [ref=f7e390]:
+                    - generic [ref=f7e391]:
+                      - heading "Earlier decisions" [level=2] [ref=f7e392]
+                      - paragraph [ref=f7e393]: Check whether a similar variance already exists
+                    - generic [ref=f7e394]: 1 to do
+                  - list [ref=f7e395]:
+                    - listitem [ref=f7e396]:
+                      - generic [ref=f7e397]:
+                        - generic [ref=f7e398]: Please confirm
+                        - generic [ref=f7e402]:
+                          - strong [ref=f7e403]: Existing variance, interpretation or policy
+                          - generic [ref=f7e404]: "A similar issued variance or policy may already cover this: STANDATA 23-BCI-026/23-FCI-014 (Single-Egress-Stairs (SES) for buildings of residential occupancy) p.1. Confirm it does not before filing."
+                          - button "Suggest" [ref=f7e406] [cursor=pointer]
+                        - button "Go to Rules" [ref=f7e407] [cursor=pointer]
+                - region [ref=f7e408]:
+                  - 'heading "Local rules: City of Edmonton" [level=2] [ref=f7e409]'
+                  - paragraph [ref=f7e410]: No separate Edmonton variance form was found; the SCC form is the baseline. Confirm with Safety Codes, Permits and Inspections. Completeness screening only; not a finding about the design.
+                  - generic [ref=f7e411]:
+                    - heading "Process" [level=3] [ref=f7e412]
+                    - list [ref=f7e413]:
+                      - listitem [ref=f7e414]:
+                        - generic [ref=f7e415]:
+                          - generic [ref=f7e416]: Please confirm
+                          - generic [ref=f7e420]:
+                            - strong [ref=f7e421]: Pre-application meeting booked with Development Services and Safety Codes officers
+                            - generic [ref=f7e422]: The PAB guide recommends booking a pre-application meeting before submission; for Point Access Block proposals building permit reviewers attend. Recommended, not mandatory.
+                            - generic [ref=f7e423]: "Source: 11_Edmonton_Point_Access_Block.pdf, page 7"
+                      - listitem [ref=f7e424]:
+                        - generic [ref=f7e425]:
+                          - generic [ref=f7e426]: Please confirm
+                          - generic [ref=f7e430]:
+                            - strong [ref=f7e431]: "Peer review notice: alternative solutions that impact emergency response are reviewed by SCPI and EFRS professionals"
+                            - generic [ref=f7e432]: Practitioners are encouraged to contact the guideline authors before submitting, particularly if assumptions about emergency services are ambiguous.
+                            - generic [ref=f7e433]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 3"
+                      - listitem [ref=f7e434]:
+                        - generic [ref=f7e435]:
+                          - generic [ref=f7e436]: Please confirm
+                          - generic [ref=f7e440]:
+                            - strong [ref=f7e441]: No separate Edmonton variance form was found; the SCC form is the baseline. Confirm with Safety Codes, Permits and Inspections.
+                            - generic [ref=f7e442]: The supplied Edmonton documents were searched; none contains a separate variance form.
+                            - generic [ref=f7e443]: "Source: 11_Edmonton_Point_Access_Block.pdf, page 6"
+                  - generic [ref=f7e444]:
+                    - heading "Professionals" [level=3] [ref=f7e445]
+                    - list [ref=f7e446]:
+                      - listitem [ref=f7e447]:
+                        - generic [ref=f7e448]:
+                          - generic [ref=f7e449]: Please confirm
+                          - generic [ref=f7e453]:
+                            - strong [ref=f7e454]: Registered architect and/or engineer involved in design, field review and preparation of the Alternative Solution
+                            - generic [ref=f7e455]: Professional involvement is a mandatory criterion for Point Access Block applications; plans and specifications must be authenticated per professional practice standards.
+                            - generic [ref=f7e456]: "Source: 11_Edmonton_Point_Access_Block.pdf, page 8"
+                      - listitem [ref=f7e457]:
+                        - generic [ref=f7e458]:
+                          - generic [ref=f7e459]: Professional needed
+                          - generic [ref=f7e463]:
+                            - strong [ref=f7e464]: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant
+                            - generic [ref=f7e465]: Applications that put forward a Point Access Block are required to submit an Alternative Solution prepared by such a consultant.
+                            - generic [ref=f7e466]: "Source: 11_Edmonton_Point_Access_Block.pdf, page 4"
+                  - generic [ref=f7e467]:
+                    - heading "Emergency-services screen" [level=3] [ref=f7e468]
+                    - list [ref=f7e469]:
+                      - listitem [ref=f7e470]:
+                        - generic [ref=f7e471]:
+                          - generic [ref=f7e472]: Please confirm
+                          - generic [ref=f7e476]:
+                            - strong [ref=f7e477]: Does the alternative solution modify any specific firefighting requirement of the NBC(AE), including Division B, Subsection 3.2.5., or other specific firefighting provisions?
+                            - generic [ref=f7e478]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                            - generic [ref=f7e479]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e480]:
+                        - generic [ref=f7e481]:
+                          - generic [ref=f7e482]: Please confirm
+                          - generic [ref=f7e486]:
+                            - strong [ref=f7e487]: Do the life safety or property protection features of the alternative solution design rely on timely intervention by the local fire service, including for spatial separation/exposure protection?
+                            - generic [ref=f7e488]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                            - generic [ref=f7e489]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e490]:
+                        - generic [ref=f7e491]:
+                          - generic [ref=f7e492]: Please confirm
+                          - generic [ref=f7e496]:
+                            - strong [ref=f7e497]: Does the alternative solution introduce equipment, technology, or processes which are novel to Edmonton Fire Rescue Services, or which may be incompatible with technology and equipment used by responders?
+                            - generic [ref=f7e498]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                            - generic [ref=f7e499]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e500]:
+                        - generic [ref=f7e501]:
+                          - generic [ref=f7e502]: Please confirm
+                          - generic [ref=f7e506]:
+                            - strong [ref=f7e507]: Does the alternative solution require special operational plans for occupants which may affect emergency response and intervention?
+                            - generic [ref=f7e508]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                            - generic [ref=f7e509]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e510]:
+                        - generic [ref=f7e511]:
+                          - generic [ref=f7e512]: Please confirm
+                          - generic [ref=f7e516]:
+                            - strong [ref=f7e517]: Section C functional statements F06, F12 or F13 referenced
+                            - generic [ref=f7e518]: Any variance which includes reference to Functional Statements F06, F12, or F13 likely impacts emergency services.
+                            - generic [ref=f7e519]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e520]:
+                        - generic [ref=f7e521]:
+                          - generic [ref=f7e522]: Please confirm
+                          - generic [ref=f7e526]:
+                            - strong [ref=f7e527]: Is the project outside the Outside 10-minute Boundary (maps.edmonton.ca, layer ERD Public Data)?
+                            - generic [ref=f7e528]: For projects outside this response area, careful consideration must be given to the impact on spatial separation and on delayed emergency response.
+                            - generic [ref=f7e529]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 15"
+                  - generic [ref=f7e530]:
+                    - heading "Emergency-services documentation" [level=3] [ref=f7e531]
+                    - list [ref=f7e532]:
+                      - listitem [ref=f7e533]:
+                        - generic [ref=f7e534]:
+                          - generic [ref=f7e535]: Missing
+                          - generic [ref=f7e538]:
+                            - strong [ref=f7e539]: Available fire flow confirmed with the EFRS Engineer
+                            - generic [ref=f7e540]: Specific Available Fire Flow information can be obtained from the EFRS Engineer; designers should verify water supply for firefighters.
+                            - generic [ref=f7e541]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 12"
+                      - listitem [ref=f7e542]:
+                        - generic [ref=f7e543]:
+                          - generic [ref=f7e544]: Please confirm
+                          - generic [ref=f7e548]:
+                            - strong [ref=f7e549]: Swept path analysis for fire apparatus access (only if apparatus access is varied)
+                            - generic [ref=f7e550]: A swept path analysis conforming to the City of Edmonton Swept Path Analysis guideline ensures access and maneuverability by aerial apparatus.
+                            - generic [ref=f7e551]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 18"
+                      - listitem [ref=f7e552]:
+                        - generic [ref=f7e553]:
+                          - generic [ref=f7e554]: Professional needed
+                          - generic [ref=f7e558]:
+                            - strong [ref=f7e559]: Inspection, testing and maintenance (ITM) and commissioning documentation for systems introduced by the alternative solution
+                            - generic [ref=f7e560]: ITM procedures, including commissioning, are required to be provided with documentation of an alternative solution.
+                            - generic [ref=f7e561]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 22"
+                      - listitem [ref=f7e562]:
+                        - generic [ref=f7e563]:
+                          - generic [ref=f7e564]: Professional needed
+                          - generic [ref=f7e568]:
+                            - strong [ref=f7e569]: Documented assumptions and objective demonstration of performance relative to the Division B acceptable solutions
+                            - generic [ref=f7e570]: Assumptions and limiting factors for affected emergency response are to be documented; conclusions must not rest on judgement without demonstration.
+                            - generic [ref=f7e571]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 21"
+                  - generic [ref=f7e572]:
+                    - heading "Questions for your authority" [level=3] [ref=f7e573]
+                    - list [ref=f7e574]:
+                      - listitem [ref=f7e575]:
+                        - group "Have you booked or held a pre-application meeting?" [ref=f7e576]:
+                          - paragraph [ref=f7e578]: The PAB guide recommends booking a pre-application meeting before submission; for Point Access Block proposals building permit reviewers attend. Recommended, not mandatory.
+                          - radiogroup [ref=f7e579]:
+                            - generic [ref=f7e580] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e581]
+                              - generic [ref=f7e582]: "Yes"
+                            - generic [ref=f7e583] [cursor=pointer]:
+                              - radio "No" [ref=f7e584]
+                              - generic [ref=f7e585]: "No"
+                            - generic [ref=f7e586] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e587]
+                              - generic [ref=f7e588]: Unsure
+                          - paragraph [ref=f7e589]: "Source: 11_Edmonton_Point_Access_Block.pdf, page 7"
+                      - listitem [ref=f7e590]:
+                        - group "Does the alternative solution modify any specific firefighting requirement of the NBC(AE), including Division B, Subsection 3.2.5., or other specific firefighting provisions?" [ref=f7e591]:
+                          - paragraph [ref=f7e593]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                          - radiogroup [ref=f7e594]:
+                            - generic [ref=f7e595] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e596]
+                              - generic [ref=f7e597]: "Yes"
+                            - generic [ref=f7e598] [cursor=pointer]:
+                              - radio "No" [ref=f7e599]
+                              - generic [ref=f7e600]: "No"
+                            - generic [ref=f7e601] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e602]
+                              - generic [ref=f7e603]: Unsure
+                          - paragraph [ref=f7e604]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e605]:
+                        - group "Do the life safety or property protection features of the alternative solution design rely on timely intervention by the local fire service, including for spatial separation/exposure protection?" [ref=f7e606]:
+                          - paragraph [ref=f7e608]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                          - radiogroup [ref=f7e609]:
+                            - generic [ref=f7e610] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e611]
+                              - generic [ref=f7e612]: "Yes"
+                            - generic [ref=f7e613] [cursor=pointer]:
+                              - radio "No" [ref=f7e614]
+                              - generic [ref=f7e615]: "No"
+                            - generic [ref=f7e616] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e617]
+                              - generic [ref=f7e618]: Unsure
+                          - paragraph [ref=f7e619]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e620]:
+                        - group "Does the alternative solution introduce equipment, technology, or processes which are novel to Edmonton Fire Rescue Services, or which may be incompatible with technology and equipment used by responders?" [ref=f7e621]:
+                          - paragraph [ref=f7e623]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                          - radiogroup [ref=f7e624]:
+                            - generic [ref=f7e625] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e626]
+                              - generic [ref=f7e627]: "Yes"
+                            - generic [ref=f7e628] [cursor=pointer]:
+                              - radio "No" [ref=f7e629]
+                              - generic [ref=f7e630]: "No"
+                            - generic [ref=f7e631] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e632]
+                              - generic [ref=f7e633]: Unsure
+                          - paragraph [ref=f7e634]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e635]:
+                        - group "Does the alternative solution require special operational plans for occupants which may affect emergency response and intervention?" [ref=f7e636]:
+                          - paragraph [ref=f7e638]: If any answer is yes, documentation of the impact on emergency services is required (guideline pp.8-9). This is a screen for the applicant's professional, not a finding about the design.
+                          - radiogroup [ref=f7e639]:
+                            - generic [ref=f7e640] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e641]
+                              - generic [ref=f7e642]: "Yes"
+                            - generic [ref=f7e643] [cursor=pointer]:
+                              - radio "No" [ref=f7e644]
+                              - generic [ref=f7e645]: "No"
+                            - generic [ref=f7e646] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e647]
+                              - generic [ref=f7e648]: Unsure
+                          - paragraph [ref=f7e649]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 8"
+                      - listitem [ref=f7e650]:
+                        - group "Is the project outside the Outside 10-minute Boundary (maps.edmonton.ca, layer ERD Public Data)?" [ref=f7e651]:
+                          - paragraph [ref=f7e653]: For projects outside this response area, careful consideration must be given to the impact on spatial separation and on delayed emergency response.
+                          - radiogroup [ref=f7e654]:
+                            - generic [ref=f7e655] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e656]
+                              - generic [ref=f7e657]: "Yes"
+                            - generic [ref=f7e658] [cursor=pointer]:
+                              - radio "No" [ref=f7e659]
+                              - generic [ref=f7e660]: "No"
+                            - generic [ref=f7e661] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e662]
+                              - generic [ref=f7e663]: Unsure
+                          - paragraph [ref=f7e664]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 15"
+                      - listitem [ref=f7e665]:
+                        - group "Does the variance change fire apparatus access?" [ref=f7e666]:
+                          - paragraph [ref=f7e668]: A swept path analysis conforming to the City of Edmonton Swept Path Analysis guideline ensures access and maneuverability by aerial apparatus.
+                          - radiogroup [ref=f7e669]:
+                            - generic [ref=f7e670] [cursor=pointer]:
+                              - radio "Yes" [ref=f7e671]
+                              - generic [ref=f7e672]: "Yes"
+                            - generic [ref=f7e673] [cursor=pointer]:
+                              - radio "No" [ref=f7e674]
+                              - generic [ref=f7e675]: "No"
+                            - generic [ref=f7e676] [cursor=pointer]:
+                              - radio "Unsure" [ref=f7e677]
+                              - generic [ref=f7e678]: Unsure
+                          - paragraph [ref=f7e679]: "Source: 10_Edmonton_Emergency_Services_Guideline.pdf, page 18"
+                - button "Pre-application brief" [ref=f7e682] [cursor=pointer]
+          - generic [ref=f7e683]:
+            - button "Back" [ref=f7e684] [cursor=pointer]
+            - generic [ref=f7e687]: 25 still open. You can submit with gaps, but the reviewer will ask for them.
+            - 'button "Next: Submit" [ref=f7e688] [cursor=pointer]'
+  - contentinfo [ref=f7e21]:
+    - generic [ref=f7e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f7e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

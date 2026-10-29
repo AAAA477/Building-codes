@@ -1,0 +1,82 @@
+- generic [ref=f12e3]:
+  - link "Skip to main content" [ref=f12e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f12e5]:
+    - generic [ref=f12e6]:
+      - link "Variance Workspace, home" [ref=f12e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f12e8]: Variance Workspace
+        - generic [ref=f12e9]: Alberta building code variances
+      - generic [ref=f12e10]:
+        - status [ref=f12e11]: Saved automatically
+        - generic [ref=f12e12]: "Demo data: backend offline"
+        - group "View as" [ref=f12e13]:
+          - button "Applicant" [pressed] [ref=f12e14] [cursor=pointer]
+          - button "Reviewer" [ref=f12e15] [cursor=pointer]
+  - main [ref=f12e16]:
+    - generic [ref=f12e17]:
+      - navigation "Application steps" [ref=f12e18]:
+        - list [ref=f12e19]:
+          - listitem [ref=f12e20]:
+            - button "Describe, 7 open" [ref=f12e21] [cursor=pointer]:
+              - generic [ref=f12e22]: "1"
+              - generic [ref=f12e23]: Describe
+              - generic [ref=f12e24]: 7 open
+          - listitem [ref=f12e25]:
+            - button "Rules, 1 open, locked" [disabled] [ref=f12e26]:
+              - generic [ref=f12e27]: "2"
+              - generic [ref=f12e28]: Rules
+              - generic [ref=f12e29]: 1 open
+          - listitem [ref=f12e30]:
+            - button "Fill and review, 8 open, locked" [disabled] [ref=f12e31]:
+              - generic [ref=f12e32]: "3"
+              - generic [ref=f12e33]: Fill and review
+              - generic [ref=f12e34]: 8 open
+          - listitem [ref=f12e35]:
+            - button "Submit, 3 open, locked" [disabled] [ref=f12e36]:
+              - generic [ref=f12e37]: "4"
+              - generic [ref=f12e38]: Submit
+              - generic [ref=f12e39]: 3 open
+          - listitem [ref=f12e40]:
+            - button "After submitting, nothing open, locked" [disabled] [ref=f12e41]:
+              - generic [ref=f12e42]: "5"
+              - generic [ref=f12e43]: After submitting
+              - generic [ref=f12e44]: clear
+      - generic [ref=f12e45]:
+        - generic [ref=f12e46]: After submitting · what happens next
+        - generic [ref=f12e48]:
+          - generic [ref=f12e49]:
+            - heading "After you submit" [level=1] [ref=f12e50]
+            - paragraph [ref=f12e51]: What the official documents say happens once a variance request reaches the authority.
+            - paragraph [ref=f12e52]:
+              - text: Showing facts for
+              - strong [ref=f12e53]: Safety Codes Council form
+              - text: . Every line names the document and page it comes from.
+          - alert [ref=f12e54]: The server cannot be reached.
+          - region [ref=f12e55]:
+            - heading "Questions from the officer" [level=2] [ref=f12e56]
+            - paragraph [ref=f12e57]: If the officer emails you questions, paste them here. Each one becomes an item you can answer, hand to your professional, and see counted in your to-do list. This is for tracking; the answers are yours to send.
+            - alert [ref=f12e58]: The server cannot be reached.
+            - generic [ref=f12e59]:
+              - generic [ref=f12e60]:
+                - generic [ref=f12e61]: Paste the officer's questions
+                - textbox "Paste the officer's questions" [ref=f12e62]:
+                  - /placeholder: "1. Please confirm ...\n2. Provide ..."
+              - generic [ref=f12e63]:
+                - generic [ref=f12e64]:
+                  - text: Relates to
+                  - combobox "Relates to" [ref=f12e65]:
+                    - option "No particular section" [selected]
+                    - option "A Applicant"
+                    - option "B Project"
+                    - option "C Code"
+                    - option "D Documents"
+                    - option "Signatures"
+                - button "Add as tracked questions" [disabled] [ref=f12e66]
+            - paragraph [ref=f12e67]: No officer questions tracked yet.
+            - heading "Changes since you last submitted" [level=2] [ref=f12e68]
+            - paragraph [ref=f12e69]: When you send your application yourself, come back and mark it here. This records a snapshot of key fields so you and the reviewer can see what changed before you send an updated version. Marking it does not send anything.
+            - 'button "I have sent my application: mark as submitted" [ref=f12e71] [cursor=pointer]'
+  - contentinfo [ref=f12e72]:
+    - generic [ref=f12e73]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f12e74]: Approval stays with registered professionals and the Authority Having Jurisdiction.

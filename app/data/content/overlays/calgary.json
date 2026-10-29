@@ -1,0 +1,187 @@
+{
+ "jurisdiction": "calgary",
+ "label": "City of Calgary",
+ "note": "Calgary requires its Request for Specific Variance form (R2014-06), tied to a building permit. Completeness screening only.",
+ "checks": [
+  {
+   "id": "PERMIT",
+   "label": "Building permit number",
+   "kind": "field",
+   "why": "A variance request can only be accepted if a building permit has been applied for; a variance number cannot be issued without a building permit number.",
+   "group": "Form",
+   "priority": 5,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 2
+   }
+  },
+  {
+   "id": "ONEISSUE",
+   "label": "This request covers one issue only (separate form for each different issue)",
+   "kind": "question",
+   "why": "A separate form must be submitted for each different issue; several articles may sit under one request if they concern the same issue.",
+   "group": "Form",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 2
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Does this request deal with a single issue?"
+  },
+  {
+   "id": "SCO",
+   "label": "Need for a variance discussed with a safety codes officer in the building discipline",
+   "kind": "meeting",
+   "why": "Step 1 of the guide: discuss the need for a variance with an SCO first.",
+   "group": "Process",
+   "priority": 3,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 1
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Have you discussed this with an SCO?"
+  },
+  {
+   "id": "CODEQUOTE",
+   "label": "Code, standard and sections being varied",
+   "kind": "field",
+   "why": "Details of variance: indicate what code, standard and sections are varied, and quote from the provision.",
+   "group": "Form: Details of Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "PROJDESC",
+   "label": "Description of the project the variance applies to",
+   "kind": "field",
+   "why": "Details of variance: provide a description of the project.",
+   "group": "Form: Details of Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "WORK",
+   "label": "Description of the work done under the variance",
+   "kind": "field",
+   "why": "Details of variance: describe the work that will be done under the variance.",
+   "group": "Form: Details of Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "OTHERNBC",
+   "label": "Effect, if any, on other NBC(AE) requirements",
+   "kind": "question",
+   "why": "Details of variance: describe what effect, if any, the work will have on other NBC-AE requirements.",
+   "group": "Form: Details of Variance",
+   "priority": 3,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Have you described the effect on other NBC(AE) requirements (or stated none)?"
+  },
+  {
+   "id": "FUNCOBJ",
+   "label": "Function and objective statements for the articles varied",
+   "kind": "field",
+   "why": "Details of variance: provide the function and objective statements associated with the articles you are seeking to vary.",
+   "group": "Form: Details of Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "CONDITIONS",
+   "label": "Conditions, if applicable",
+   "kind": "question",
+   "why": "Details of variance: include any conditions if applicable.",
+   "group": "Form: Details of Variance",
+   "priority": 2,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   },
+   "options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "prompt": "Have you listed any conditions (or confirmed none apply)?"
+  },
+  {
+   "id": "RATIONALE",
+   "label": "Rationale why the alternative should be accepted instead of the Division B prescriptive requirements",
+   "kind": "field",
+   "why": "Reason for Variance: rationale for the alternative method and how it achieves as good or better performance.",
+   "group": "Form: Reason for Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "EVID",
+   "label": "Supporting evidence for the rationale, naming attached documents",
+   "kind": "field",
+   "why": "Reason for Variance: supporting evidence; refer to attached documents by name and date issued.",
+   "group": "Form: Reason for Variance",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "SEALED",
+   "label": "Supporting documents stamped and sealed where a professional is required",
+   "kind": "document",
+   "why": "If a professional is required for the work, the supporting documents must also be stamped and sealed.",
+   "group": "Form: Supporting Documentation",
+   "priority": 4,
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "ADVISORY",
+   "label": "Calgary Building Advisories have no legal status",
+   "kind": "info",
+   "why": "Advisory Bulletins have no legal status and cannot be used as an official interpretation of codes and regulations; treat them as background only.",
+   "group": "Process",
+   "priority": 1,
+   "source": {
+    "doc": "calgary_advisories/advisory-egress-window-guidelines-jun-2022.pdf",
+    "page": 1
+   }
+  }
+ ]
+}

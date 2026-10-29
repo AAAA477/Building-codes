@@ -1,0 +1,134 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e24]: All changes saved
+        - group "View as" [ref=e11]:
+          - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+          - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e25]:
+      - navigation "Application steps" [ref=e26]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - button "Describe, 13 open" [ref=e161] [cursor=pointer]:
+              - generic [ref=e30]: "1"
+              - generic [ref=e31]: Describe
+              - generic [ref=e32]: 13 open
+          - listitem [ref=e33]:
+            - button "Rules, nothing open, locked" [disabled] [ref=e162]:
+              - generic [ref=e35]: "2"
+              - generic [ref=e36]: Rules
+              - generic [ref=e37]: clear
+          - listitem [ref=e38]:
+            - button "Fill and review, 16 open, locked" [disabled] [ref=e163]:
+              - generic [ref=e40]: "3"
+              - generic [ref=e41]: Fill and review
+              - generic [ref=e42]: 16 open
+          - listitem [ref=e43]:
+            - button "Submit, 3 open, locked" [disabled] [ref=e164]:
+              - generic [ref=e45]: "4"
+              - generic [ref=e46]: Submit
+              - generic [ref=e47]: 3 open
+      - generic [ref=e48]:
+        - generic [ref=e49]: Step 3 of 4 · Fill and review
+        - generic [ref=e165]:
+          - generic [ref=e167]:
+            - generic [ref=e168]:
+              - heading "Fill and review" [level=1] [ref=e169]
+              - paragraph [ref=e170]: 16 things need your attention. Fix them here, or leave them and come back.
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - generic [ref=e174]:
+                  - generic [ref=e175]:
+                    - text: Items complete
+                    - generic [ref=e176]: 10/33
+                  - progressbar "Items complete" [ref=e177]
+                - tablist "View" [ref=e179]:
+                  - tab "To-do list" [ref=e180] [cursor=pointer]
+                  - tab "Overview map" [active] [selected] [ref=e183] [cursor=pointer]
+              - region [ref=e186]:
+                - heading "You need a registered professional for this part" [level=2] [ref=e187]
+                - paragraph [ref=e188]: "Part of this request is engineering work. This tool does not write it for you and leaves those items blank on purpose. Your professional must address:"
+                - generic [ref=e189]:
+                  - list [ref=e190]:
+                    - listitem [ref=e191]: Code analysis of the acceptable solution being varied and the alternative proposed
+                    - listitem [ref=e192]: Assumptions and limits of the analysis
+                    - listitem [ref=e193]: Testing, studies or modelling relied upon
+                    - listitem [ref=e194]: Commissioning, inspection, testing and maintenance of mitigating features
+                    - listitem [ref=e195]: Qualifications of the responsible professional (single coordinating professional, Division C 2.3.1.1)
+                    - listitem [ref=e196]: Emergency-services (fire department) access and operations considerations
+                  - paragraph [ref=e197]: "Related articles: 3.4.2.1.(1), 3.4.2.3.(1), 3.4.4.1.(1)"
+              - tabpanel "Overview map" [ref=e198]:
+                - group "Application mind map. Use the checklist for a keyboard-friendly version." [ref=e199]:
+                  - application [ref=e200]:
+                    - generic [ref=e202]:
+                      - generic:
+                        - generic:
+                          - img:
+                            - group "Edge from root to sec.A" [ref=e203] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.B" [ref=e206] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.C"
+                          - img:
+                            - group "Edge from root to sec.D" [ref=e209] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.SIGN" [ref=e212] [cursor=pointer]
+                        - generic:
+                          - group [ref=e215] [cursor=pointer]:
+                            - generic [ref=e221]:
+                              - generic [ref=e222]: Application
+                              - generic [ref=e223]: Missing
+                          - group [ref=e225] [cursor=pointer]:
+                            - generic [ref=e231]:
+                              - generic [ref=e232]: A. Applicant
+                              - generic [ref=e233]: Missing, 0 of 4 done
+                          - group [ref=e235] [cursor=pointer]:
+                            - generic [ref=e241]:
+                              - generic [ref=e242]: B. Project and location
+                              - generic [ref=e243]: Missing, 2 of 10 done
+                          - group [ref=e245] [cursor=pointer]:
+                            - generic [ref=e252]:
+                              - generic [ref=e253]: C. Code variance
+                              - generic [ref=e254]: Please confirm, 8 of 10 done
+                          - group [ref=e256] [cursor=pointer]:
+                            - generic [ref=e262]:
+                              - generic [ref=e263]: D. Supporting documents
+                              - generic [ref=e264]: Missing, 0 of 8 done
+                          - group [ref=e266] [cursor=pointer]:
+                            - generic [ref=e272]:
+                              - generic [ref=e273]: Declarations
+                              - generic [ref=e274]: Missing, 0 of 3 done
+                    - generic "Control Panel" [ref=e276]:
+                      - button "Zoom In" [ref=e277] [cursor=pointer]
+                      - button "Zoom Out" [ref=e280] [cursor=pointer]
+                      - button "Fit View" [ref=e283] [cursor=pointer]
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: Click a section to open it.
+                    - button "Expand all" [ref=e289] [cursor=pointer]
+                  - list "Legend" [ref=e290]:
+                    - listitem [ref=e291]:
+                      - generic [ref=e292]: Complete
+                    - listitem [ref=e296]:
+                      - generic [ref=e297]: Missing
+                    - listitem [ref=e300]:
+                      - generic [ref=e301]: Please confirm
+                    - listitem [ref=e305]:
+                      - generic [ref=e306]: Professional needed
+                    - listitem [ref=e310]:
+                      - generic [ref=e311]: From code lookup
+                - paragraph [ref=e316]: Select an item on the checklist or the map to see its evidence here.
+          - generic [ref=e317]:
+            - button "Back" [ref=e318] [cursor=pointer]
+            - generic [ref=e321]: 16 still open. You can submit with gaps, but the reviewer will ask for them.
+            - 'button "Next: Submit" [ref=e322] [cursor=pointer]'
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

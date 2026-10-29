@@ -1,0 +1,174 @@
+{
+ "terms": [
+  {
+   "id": "objective",
+   "term": "Objective",
+   "plain": "A goal of the code that explains what harm it tries to prevent, for example fire safety, safety in use or protecting the building from fire. Each code rule in Division B is linked to one or more objectives.",
+   "official": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building ... a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. (OS1 Fire Safety)",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 68
+   },
+   "example": "3.4.2.1.(1) is linked to OS3.7: persons being delayed in or impeded from moving to a safe place during an emergency.",
+   "example_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 346
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 68
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "functional_statement",
+   "term": "Functional statement",
+   "plain": "A short statement of the job a part of the building has to do, for example to facilitate the timely movement of persons to a safe place in an emergency. A code rule is linked to both objectives and functional statements.",
+   "official": "F10: To facilitate the timely movement of persons to a safe place in an emergency. F12: To facilitate emergency response.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 80
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 80
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "intent_statement",
+   "term": "Intent statement",
+   "plain": "An explanation published by the code writers of why a rule exists. Intent statements help you understand what an alternative has to achieve. They are explanatory and are not part of the code.",
+   "official": "Intent statements serve explanatory purposes only and do not form an integral part of the Codes. They contain useful information that helps Code users understand the rationale behind requirements. This contributes to a more accurate interpretation and application of acceptable solutions and a clearer understanding of what alternative solutions should achieve.",
+   "official_source": {
+    "doc": "NBC_2020_Intent_Supplement.pdf",
+    "page": 2
+   },
+   "source": {
+    "doc": "NBC_2020_Intent_Supplement.pdf",
+    "page": 2
+   },
+   "kind": "plain_with_quote",
+   "edition_caveat": "The supplied intent statements are for NBC 2020; the attributions for the articles used here match NBC(AE) 2023."
+  },
+  {
+   "id": "acceptable_solution",
+   "term": "Acceptable solution",
+   "plain": "The ready-made rules in Division B (Parts 3 to 11). If you follow them, the code treats you as meeting the linked objectives and functional statements.",
+   "official": "Clause (a) makes it clear that the acceptable solutions in Division B are automatically deemed to satisfy the linked objectives and functional statements of Division A.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 12
+   },
+   "also_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 38
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 12
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "alternative_solution",
+   "term": "Alternative solution",
+   "plain": "A different way of building that is not in the acceptable solutions, accepted only if it performs at least as well in the areas the objectives and functional statements cover. It is not a lower standard.",
+   "official": "using alternative solutions that will achieve at least the minimum level of performance required by Division B in the areas defined by the objectives and functional statements attributed to the applicable acceptable solutions (Division A, Clause 1.2.1.1.(1)(b)).",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 38
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 38
+   },
+   "kind": "plain_with_quote",
+   "note": "'Alternative solution' is not among the italicised defined terms found in the NBC(AE) text used here; the meaning comes from 1.2.1.1.(1)(b). The Challenge Scope appendix quotes a Division A 1.4.1.2. definition that was not found in the NBC(AE) text."
+  },
+  {
+   "id": "variance",
+   "term": "Variance",
+   "plain": "Alberta's legal name for an alternative solution. A safety codes officer (or Administrator) issues it in writing, sometimes with conditions, if it gives approximately equivalent or greater safety performance.",
+   "official": "In Alberta, the Safety Codes Act recognizes 'alternative solutions' as Variances.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 12
+   },
+   "also_source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 3
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 12
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "ahj",
+   "term": "Authority having jurisdiction (AHJ)",
+   "plain": "The safety codes officer who reviews your application and decides whether to issue the variance. In Edmonton this is the City's Safety Codes, Permits and Inspections.",
+   "official": "Authority having jurisdiction means a safety codes officer in the building discipline exercising authority pursuant to designation of powers and terms of employment in accordance with the Safety Codes Act.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 42
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 42
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "registered_professional",
+   "term": "Registered professional",
+   "plain": "A registered architect, registered engineer or licensed interior designer. Some projects must have one involved; the single exit stair in Edmonton needs more (see professional rules).",
+   "official": "Registered professional means an individual who qualifies as a (a) registered architectural professional, (b) registered engineering professional, or (c) licensed interior designer.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 50
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 50
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "exit",
+   "term": "Exit",
+   "plain": "The part of the escape route that leads from a floor out to the outside or to a protected outdoor space, such as an enclosed exit stair.",
+   "official": "Exit means that part of a means of egress, including doorways, that leads from the floor area it serves to a separate building, an open public thoroughfare, or an exterior open space protected from fire exposure from the building and having access to an open public thoroughfare.",
+   "official_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 44
+   },
+   "also_source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 4
+   },
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 44
+   },
+   "kind": "plain_with_quote"
+  },
+  {
+   "id": "point_access_block",
+   "term": "Point Access Block (single exit stair building)",
+   "plain": "A compact apartment building with a limited number of homes clustered around one exit stair.",
+   "official": "Point Access Blocks, also known as buildings with Single Egress Stairs (SES), are compact multi-family residential buildings with a limited number of dwelling units clustered around one exit stair.",
+   "official_source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 2
+   },
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 2
+   },
+   "kind": "plain_with_quote"
+  }
+ ],
+ "note": "Plain-language wording is written for this tool; official wording is quoted from the cited page. NBC(AE) 2023 2nd printing."
+}

@@ -1,0 +1,6 @@
+{
+ "jurisdiction": "scc",
+ "label": "Safety Codes Council (baseline)",
+ "note": "Baseline: the SCC variance form applies. No municipality-specific checks are added.",
+ "checks": []
+}

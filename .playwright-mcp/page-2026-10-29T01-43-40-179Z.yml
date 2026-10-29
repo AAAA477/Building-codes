@@ -1,0 +1,98 @@
+- generic [ref=f1e3]:
+  - link "Skip to main content" [ref=f1e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f1e5]:
+    - generic [ref=f1e6]:
+      - link "Variance Workspace, home" [ref=f1e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e8]: Variance Workspace
+        - generic [ref=f1e9]: Alberta building code variances
+      - generic [ref=f1e10]:
+        - status [ref=f1e11]: All changes saved
+        - group "View as" [ref=f1e12]:
+          - button "Applicant" [pressed] [ref=f1e13] [cursor=pointer]
+          - button "Reviewer" [ref=f1e14] [cursor=pointer]
+  - main [ref=f1e15]:
+    - generic [ref=f1e16]:
+      - navigation "Application steps" [ref=f1e17]:
+        - list [ref=f1e18]:
+          - listitem [ref=f1e19]:
+            - button "Describe, 12 open" [ref=f1e160] [cursor=pointer]:
+              - generic [ref=f1e21]: "1"
+              - generic [ref=f1e22]: Describe
+              - generic [ref=f1e23]: 12 open
+          - listitem [ref=f1e24]:
+            - button "Rules, 1 open" [ref=f1e161] [cursor=pointer]:
+              - generic [ref=f1e26]: "2"
+              - generic [ref=f1e27]: Rules
+              - generic [ref=f1e28]: 1 open
+          - listitem [ref=f1e29]:
+            - button "Fill and review, 20 open" [ref=f1e162] [cursor=pointer]:
+              - generic [ref=f1e31]: "3"
+              - generic [ref=f1e32]: Fill and review
+              - generic [ref=f1e33]: 20 open
+          - listitem [ref=f1e34]:
+            - button "Submit, 3 open" [ref=f1e163] [cursor=pointer]:
+              - generic [ref=f1e36]: "4"
+              - generic [ref=f1e37]: Submit
+              - generic [ref=f1e38]: 3 open
+      - generic [ref=f1e39]:
+        - generic [ref=f1e40]: Step 2 of 4 · Rules
+        - generic [ref=f1e180]:
+          - generic [ref=f1e181]:
+            - generic [ref=f1e182]:
+              - generic [ref=f1e183]:
+                - heading "Find the rules that apply" [level=1] [ref=f1e184]
+                - paragraph [ref=f1e185]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=f1e186]:
+                - group [ref=f1e187]:
+                  - 'generic "Before you file: may this already be covered? No earlier decision found Show details" [ref=f1e188] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=f1e189]'
+                    - generic [ref=f1e190]: No earlier decision found
+                    - generic [ref=f1e191]: Show details
+                - paragraph [ref=f1e192]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=f1e195]:
+                  - heading "In your application 0" [level=2] [ref=f1e196]:
+                    - text: In your application
+                    - generic [ref=f1e197]: "0"
+                  - paragraph [ref=f1e199]: No articles selected yet. Search below to add the ones that apply.
+                  - list
+                - region [ref=f1e200]:
+                  - heading "Add another article" [level=2] [ref=f1e201]
+                  - generic [ref=f1e202]:
+                    - generic [ref=f1e203]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=f1e204]:
+                      - option "Not chosen yet" [disabled] [selected]
+                      - option "Single-exit stair (point access block)"
+                      - option "Any other NBC requirement"
+                  - search [ref=f1e205]:
+                    - generic [ref=f1e206]: Search by words or article number
+                    - searchbox "Search by words or article number" [active] [ref=f1e207]: wheelchair platform lift barrier-free
+                    - generic [ref=f1e208]: Search in
+                    - combobox "Search in" [ref=f1e209]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [ref=f1e210] [cursor=pointer]
+                  - status [ref=f1e214]:
+                    - strong [ref=f1e215]: We could not find a good match.
+                    - generic [ref=f1e216]: No good match in the code text for these words. Try the term the code itself would use, or check issued variances and policies in Similar issued.
+            - complementary [ref=f1e217]:
+              - generic [ref=f1e218]:
+                - heading "Why this step?" [level=2] [ref=f1e219]
+                - paragraph [ref=f1e220]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=f1e221]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=f1e222]:
+                - heading "Not sure?" [level=2] [ref=f1e223]
+                - paragraph [ref=f1e224]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=f1e225]:
+            - button "Back" [ref=f1e226] [cursor=pointer]
+            - generic [ref=f1e229]: You can continue and add articles later.
+            - 'button "Next: Fill and review" [ref=f1e230] [cursor=pointer]'
+  - contentinfo [ref=f1e157]:
+    - generic [ref=f1e158]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f1e159]: Approval stays with registered professionals and the Authority Having Jurisdiction.

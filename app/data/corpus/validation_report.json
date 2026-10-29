@@ -1,0 +1,52 @@
+{
+ "text_checked": 2164,
+ "text_failures": 5,
+ "failure_rate_pct": 0.23,
+ "failed": [
+  [
+   "3.2.3.1",
+   204,
+   [
+    true,
+    false
+   ]
+  ],
+  [
+   "4.1.6.5",
+   440,
+   [
+    true,
+    false
+   ]
+  ],
+  [
+   "4.1.6.8",
+   444,
+   [
+    true,
+    false
+   ]
+  ],
+  [
+   "4.1.7.8",
+   467,
+   [
+    true,
+    false
+   ]
+  ],
+  [
+   "8.3.1.1",
+   653,
+   [
+    true,
+    false
+   ]
+  ]
+ ],
+ "spot_pass": 18,
+ "spot_total": 18,
+ "random40_failures": [],
+ "unmatched_attribution_rows": 8,
+ "attribution_rows": 10009
+}

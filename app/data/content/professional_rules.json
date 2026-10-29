@@ -1,0 +1,226 @@
+{
+ "stop_language": {
+  "ui_text": "STOP. This is where the tool ends. Preparing the engineering analysis, risk assessment, fire-safety design or equivalence argument for a single exit stair is professional work. In Edmonton it must be done by registered professionals and a qualified Fire Protection or Life Safety Code Consultant. This tool will not write it, and it does not say whether the design is safe or equivalent. Below is what your professional must address. Hand this list to them.",
+  "short_text": "Professional required. The tool lists what must be addressed and leaves it blank. It does not judge whether the design is safe, equivalent or acceptable.",
+  "export_banner": "Professional required, Section D incomplete. This document checks completeness only, not technical correctness.",
+  "basis": "Tool wording written for this product; the requirements it states come from the cited rules.",
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  }
+ },
+ "rules": [
+  {
+   "id": "PR1",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "stop": true,
+   "text": "Professional involvement is required. Registered professional architect and/or engineers are involved in the design and field review of the project, as well as the preparation of the Alternative Solution. Plans and specifications must be properly authenticated and validated, as per the practice standards of the professional organizations.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   },
+   "quote_kind": "paraphrase_minimal"
+  },
+  {
+   "id": "PR2",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "stop": true,
+   "text": "Applications that put forward a Point Access Block are required to submit an Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   },
+   "supporting_source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 4
+   }
+  },
+  {
+   "id": "PR3",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "stop": true,
+   "text": "Professionals should exhibit skills associated with fire protection engineering as described in the Society of Fire Protection Engineers 'Recommended Minimum Technical Core Competencies for the Practice of Fire Protection Engineering'.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 4
+   }
+  },
+  {
+   "id": "PR4",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "stop": true,
+   "text": "The Alternative Solution must demonstrate compliance with the NBC(AE) by showing how a Single Egress Stair will perform to an equivalent or enhanced level of resiliency as a development with two egress stairs. Only the professional can make this demonstration; the tool must not.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   }
+  },
+  {
+   "id": "PR5",
+   "topic": "any",
+   "jurisdiction": "alberta",
+   "stop": false,
+   "text": "Involvement of a registered professional is not required for a residential building that is a single-family dwelling or a multiple-family dwelling that contains 4 dwelling units or less (and other classes listed), except where Sentence 2.4.1.1.(4) applies. For other buildings the drawings and specifications shall be authenticated by one or more registered professionals.",
+   "article_refs": [
+    "2.4.1.1"
+   ],
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "supporting_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 740
+   },
+   "tool_action": "If units on the site exceed 4 (for a multiple-family dwelling), set professional_required = true on Section D rows and raise a professional flag."
+  },
+  {
+   "id": "PR6",
+   "topic": "any",
+   "jurisdiction": "alberta",
+   "stop": true,
+   "text": "If the size or complexity of a project may give rise to special safety concerns, the authority having jurisdiction may require the involvement of one or more registered professionals to authenticate all or part of the drawings and specifications and perform field reviews.",
+   "article_refs": [
+    "2.4.1.1"
+   ],
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 740
+   }
+  },
+  {
+   "id": "PR7",
+   "topic": "any",
+   "jurisdiction": "alberta",
+   "stop": true,
+   "text": "For projects within the scope of Sentence 2.4.1.1.(3), the owner shall, before applying for a permit, retain a coordinating registered professional and registered professionals of record, and provide the authority having jurisdiction with Schedules A and B.",
+   "article_refs": [
+    "2.4.2.1",
+    "2.4.2.2"
+   ],
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 741
+   }
+  },
+  {
+   "id": "PR8",
+   "topic": "any",
+   "jurisdiction": "alberta",
+   "stop": false,
+   "text": "The Code analysis must include information about the qualifications, experience and background of the person or persons taking responsibility for the design; where more than one person takes responsibility for different aspects, the applicant for the permit shall identify a single person to co-ordinate the preparation of the design, Code analysis and documentation.",
+   "article_refs": [
+    "2.3.1.1"
+   ],
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   }
+  },
+  {
+   "id": "PR9",
+   "topic": "single_exit_stair",
+   "jurisdiction": "alberta",
+   "stop": false,
+   "text": "Provincial position: where compliance is addressed by an alternative solution, the qualification of the person developing it may include a registered professional but is not prescribed as such; Subclause 2.4.1.1.(1)(b)(ii) of Division C requires professional involvement for buildings containing more than 4 dwelling units.",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 2
+   }
+  },
+  {
+   "id": "PR10",
+   "topic": "any",
+   "jurisdiction": "alberta",
+   "stop": false,
+   "text": "If the work constitutes the practice of engineering or architecture, flag it explicitly. The tool must identify when development or evaluation of the proposal constitutes the practice of Engineering.",
+   "source": {
+    "doc": "00_Challenge_Scope.pdf",
+    "page": 3
+   }
+  },
+  {
+   "id": "PR11",
+   "topic": "any",
+   "jurisdiction": "calgary",
+   "stop": false,
+   "text": "If a professional is required for the project or the subject of the variance, the supporting documents must also be stamped and sealed.",
+   "source": {
+    "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+    "page": 3
+   }
+  }
+ ],
+ "stop_points": [
+  {
+   "id": "SP1",
+   "where": "Section D rows for code analysis, risk assessment, testing/studies, ITM/commissioning",
+   "action": "Show the list of required content; leave blank; mark provenance needs_professional.",
+   "rule_ids": [
+    "PR1",
+    "PR2",
+    "PR4"
+   ]
+  },
+  {
+   "id": "SP2",
+   "where": "Section C explainer paragraphs",
+   "action": "May explain what each article requires in plain words (lookup). Must not state that the alternative is equivalent or safe.",
+   "rule_ids": [
+    "PR4"
+   ]
+  },
+  {
+   "id": "SP3",
+   "where": "Proposed alternative and mitigations",
+   "action": "Record what the applicant says. Do not generate performance claims, numbers (travel distances, ratings, flow rates) or engineering sizing.",
+   "rule_ids": [
+    "PR4"
+   ]
+  },
+  {
+   "id": "SP4",
+   "where": "Declarations and signatures",
+   "action": "Never tick on the user's behalf.",
+   "rule_ids": []
+  }
+ ],
+ "source_conflicts": [
+  {
+   "id": "SC1",
+   "text": "The Challenge Scope appendix (00_Challenge_Scope.pdf p.11) quotes '2.4.2.1.(1) Professional Design' as 'Where required, the design and field review shall be carried out by a registered professional skilled in the appropriate discipline.' In NBC(AE) 2023 (2nd printing, p.741) Article 2.4.2.1. is titled 'Application' and says only that the Subsection applies to a project within the scope of Sentence 2.4.1.1.(3). The professional requirements are in 2.4.1.1.(3)-(4) (p.739-740) and 2.4.2.2.-2.4.2.3. (p.741). The tool cites the NBC text.",
+   "source": {
+    "doc": "00_Challenge_Scope.pdf",
+    "page": 11
+   },
+   "nbc_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 741
+   }
+  },
+  {
+   "id": "SC2",
+   "text": "The Challenge Scope appendix (p.10-11) also quotes Division A 1.2.1.1.(3), 1.2.1.2.(1), 1.2.1.3.(1) and Division C 2.2.1.2.(1) as article text; these do not match the NBC(AE) 2023 text found in files/codes. Only the 2.3.1.1 text matches. Do not cite them.",
+   "source": {
+    "doc": "00_Challenge_Scope.pdf",
+    "page": 10
+   }
+  },
+  {
+   "id": "SC3",
+   "text": "Edmonton requires a qualified Fire Protection or Life Safety Code Consultant for a Point Access Block (PAB guide p.8); the provincial STANDATA 23-BCI-026/23-FCI-014 says the qualification of the person developing the alternative solution is not prescribed (p.2). The tool applies the stricter Edmonton rule for an Edmonton application and notes the provincial position.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   },
+   "other_source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 2
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+.ainotice { border: 1px solid var(--rule); border-left: 5px solid var(--h-teal); background: #fff; padding: var(--s3) var(--s4); margin: 0 0 var(--s4); max-width: 72ch; }
+.ainhead { display: flex; align-items: center; justify-content: space-between; gap: var(--s4); flex-wrap: wrap; }
+.ainotice h3 { font-family: var(--font-head); font-size: 17px; margin: 0; }
+.ainlist { margin: var(--s2) 0 0; padding-left: 18px; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.ainlist li + li { margin-top: 2px; }
+.ainoff { margin: var(--s2) 0 0; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.ainerr { color: var(--verm-text); font-size: 14px; margin: var(--s2) 0 0; }
+.aiswitch { display: inline-flex; align-items: center; gap: var(--s2); font-family: var(--font-head); font-weight: 600; font-size: 14px; background: transparent; border: 1px solid var(--ink); padding: 4px 10px 4px 6px; cursor: pointer; color: var(--ink); }
+.aiswitch:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.aiknob { width: 26px; height: 14px; border: 1px solid var(--ink); background: var(--leaf-2); position: relative; }
+.aiknob::after { content: ''; position: absolute; top: 1px; left: 1px; width: 10px; height: 10px; background: var(--ink); }
+.aiswitch.on .aiknob { background: var(--h-teal); }
+.aiswitch.on .aiknob::after { left: 13px; }
+.refusal { background: var(--st-needs_professional-bg); border: 1px solid var(--rule-strong); padding: var(--s3) var(--s4); margin: var(--s3) 0; max-width: 70ch; font-size: 14px; line-height: 1.5; }
+.refusal p { margin: 0 0 var(--s2); }
+.refusal .rwhat { margin-bottom: 2px; font-weight: 600; }
+.refusal ul { margin: 0; padding-left: 18px; }
+.aifields { border: 1px solid var(--rule); background: #fff; padding: var(--s3) var(--s4); margin-top: var(--s4); max-width: 72ch; font-size: 14px; line-height: 1.5; }
+.aifields h4 { font-family: var(--font-head); font-size: 14px; margin: 0 0 var(--s1); text-transform: uppercase; letter-spacing: 0.06em; }
+.aifields p { margin: 0 0 var(--s2); }
+.aifields ul { margin: 0; padding-left: 18px; }
+.aifields code { font-family: var(--font-mono); font-size: 12.5px; color: var(--ink-2); }

@@ -1,0 +1,256 @@
+{
+ "nfc": {
+  "code": "NFC(AE) 2023",
+  "pdf": "NFC_2023AE.pdf",
+  "pdf_pages": 382,
+  "articles_total": 814,
+  "articles_by_division": {
+   "A": 18,
+   "B": 756,
+   "C": 40
+  },
+  "articles_with_zero_sentences": [],
+  "text_check": {
+   "checked": 814,
+   "failed": 1,
+   "failure_rate": 0.0012,
+   "failed_keys": [
+    "1.1.2.1"
+   ]
+  },
+  "attribution": {
+   "division_b_articles": 756,
+   "division_b_articles_with_attribution": 607,
+   "division_b_sentences": 1500,
+   "division_b_sentences_attributed": 1151,
+   "sentence_coverage": 0.7673,
+   "table_parse": {
+    "pages": 45,
+    "rows": 1758,
+    "sentence_rows": 1151,
+    "article_level_rows": 0,
+    "attributed_sentences": 1151,
+    "rows_before_any_article": 0,
+    "pages_without_table_geometry": []
+   },
+   "unmatched_rows": [],
+   "attribution_codes_with_unknown_objective": [],
+   "attribution_codes_with_unknown_function": []
+  },
+  "intents": {
+   "provisions": 1454,
+   "provisions_in_index": 1442,
+   "article_not_in_index": [
+    "2.14.1.2",
+    "2.14.1.2",
+    "2.14.1.2",
+    "2.14.1.2",
+    "2.14.3.1",
+    "2.14.3.2",
+    "2.14.3.2",
+    "4.12.1.2",
+    "4.12.1.2",
+    "4.12.1.2",
+    "4.12.1.2",
+    "4.12.1.3"
+   ],
+   "sentence_not_in_index": [
+    "2.14.2.1(2)",
+    "2.14.2.1(3)",
+    "2.14.2.1(4)",
+    "2.14.2.1(5)",
+    "4.1.1.1(6)"
+   ],
+   "attribution_match_true": 1117,
+   "attribution_match_false": 1,
+   "no_attribution_in_index": 319,
+   "articles_with_intent": 726,
+   "unresolved_articles": 30,
+   "unresolved_articles_with_attributions": 15,
+   "unresolved_sample": [
+    "1.1.1.1",
+    "1.1.2.1",
+    "1.2.1.1",
+    "1.2.1.2",
+    "1.2.2.1",
+    "1.3.1.1",
+    "1.3.1.2",
+    "2.4.4.3",
+    "2.15.1.1",
+    "2.16.1.1",
+    "3.3.2.16",
+    "3.3.2.17",
+    "3.3.6.1",
+    "3.3.6.2",
+    "3.3.6.3",
+    "3.3.6.4",
+    "3.3.6.5",
+    "3.3.6.6",
+    "3.3.6.7",
+    "3.3.6.8",
+    "3.3.6.9",
+    "3.4.1.1",
+    "4.3.16.5",
+    "4.3.17.1",
+    "4.3.17.2"
+   ]
+  },
+  "objectives": 23,
+  "functions": 27,
+  "log": [],
+  "limits": [
+   "Division A and C articles are keyed 'A:1.2.3.4' / 'C:1.2.3.4' because their numbers collide with Division B (as in nbc_articles.json).",
+   "The Intent Supplement is for NFC 2020 (national edition); the AE 2023 attributions are compared with it per provision (attribution_match_index).",
+   "Honest failures: 1.1.2.1 fails the text check only because a '(See Note ...)' line wraps across a page break in the PDF text stream (parsed text is complete); 2.14.x (Industrial Relocatable Accommodation) is Alberta-specific, so 12 national intent provisions have no AE article (kept as unresolved) and 2.14.2.1(1) attributions differ from the national supplement (attribution_match_index=false); 2.5.1.3 / 2.14.1.1 have intent attributions in the supplement but none in the AE table."
+  ]
+ },
+ "npc": {
+  "code": "NPC 2020",
+  "pdf": "NPC_2020.pdf",
+  "pdf_pages": 242,
+  "articles_total": 285,
+  "articles_by_division": {
+   "A": 23,
+   "B": 254,
+   "C": 8
+  },
+  "articles_with_zero_sentences": [],
+  "text_check": {
+   "checked": 285,
+   "failed": 0,
+   "failure_rate": 0.0,
+   "failed_keys": []
+  },
+  "attribution": {
+   "division_b_articles": 254,
+   "division_b_articles_with_attribution": 238,
+   "division_b_sentences": 553,
+   "division_b_sentences_attributed": 503,
+   "sentence_coverage": 0.9096,
+   "table_parse": {
+    "pages": 12,
+    "rows": 741,
+    "sentence_rows": 503,
+    "article_level_rows": 0,
+    "attributed_sentences": 503,
+    "rows_before_any_article": 0,
+    "pages_without_table_geometry": []
+   },
+   "unmatched_rows": [],
+   "attribution_codes_with_unknown_objective": [],
+   "attribution_codes_with_unknown_function": []
+  },
+  "intents": {
+   "provisions": 544,
+   "provisions_in_index": 544,
+   "article_not_in_index": [],
+   "sentence_not_in_index": [
+    "2.4.6.4(6)"
+   ],
+   "attribution_match_true": 502,
+   "attribution_match_false": 1,
+   "no_attribution_in_index": 40,
+   "articles_with_intent": 246,
+   "unresolved_articles": 8,
+   "unresolved_articles_with_attributions": 0,
+   "unresolved_sample": [
+    "1.1.1.1",
+    "1.1.2.1",
+    "1.2.1.1",
+    "1.2.1.2",
+    "1.2.2.1",
+    "1.3.1.1",
+    "1.3.1.2",
+    "2.8.1.1"
+   ]
+  },
+  "objectives": 24,
+  "functions": 20,
+  "log": [],
+  "limits": [
+   "Division B Part 1 (referenced-standards tables) has no attributions by design.",
+   "Honest failure: in Table 2.8.1.1 the printed rows for 2.4.6.4 omit the sentence-number text of one row, so the per-sentence attributions of 2.4.6.4(2)-(4) are shifted relative to the Intent Supplement (the article-level union is correct).",
+   "Division A and C articles are keyed 'A:...' / 'C:...'."
+  ]
+ },
+ "necb": {
+  "code": "NECB 2020",
+  "pdf": "NECB_2020_2nd_printing.pdf",
+  "pdf_pages": 318,
+  "articles_total": 270,
+  "articles_by_division": {
+   "A": 26,
+   "B": 229,
+   "C": 15
+  },
+  "articles_with_zero_sentences": [
+   "4.3.3.8",
+   "4.3.3.9"
+  ],
+  "text_check": {
+   "checked": 268,
+   "failed": 0,
+   "failure_rate": 0.0,
+   "failed_keys": []
+  },
+  "attribution": {
+   "division_b_articles": 229,
+   "division_b_articles_with_attribution": 172,
+   "division_b_sentences": 658,
+   "division_b_sentences_attributed": 511,
+   "sentence_coverage": 0.7766,
+   "table_parse": {
+    "pages": 13,
+    "rows": 683,
+    "sentence_rows": 511,
+    "article_level_rows": 0,
+    "attributed_sentences": 511,
+    "rows_before_any_article": 0,
+    "pages_without_table_geometry": []
+   },
+   "unmatched_rows": [],
+   "attribution_codes_with_unknown_objective": [],
+   "attribution_codes_with_unknown_function": []
+  },
+  "intents": {
+   "provisions": 637,
+   "provisions_in_index": 637,
+   "article_not_in_index": [],
+   "sentence_not_in_index": [],
+   "attribution_match_true": 511,
+   "attribution_match_false": 0,
+   "no_attribution_in_index": 126,
+   "articles_with_intent": 209,
+   "unresolved_articles": 18,
+   "unresolved_articles_with_attributions": 0,
+   "unresolved_sample": [
+    "1.1.1.1",
+    "1.1.2.1",
+    "1.1.3.1",
+    "1.1.4.1",
+    "1.1.4.2",
+    "1.2.1.1",
+    "1.2.1.2",
+    "1.2.2.1",
+    "1.3.1.1",
+    "1.3.1.2",
+    "1.3.2.1",
+    "3.5.1.1",
+    "4.5.1.1",
+    "5.5.1.1",
+    "6.5.1.1",
+    "7.5.1.1",
+    "8.5.1.1",
+    "10.2.1.1"
+   ]
+  },
+  "objectives": 3,
+  "functions": 11,
+  "log": [],
+  "limits": [
+   "NECB is table-heavy: large data tables (lighting power density, envelope U-values, equipment efficiencies, operating times) are NOT parsed into cells; portrait tables are kept as tables[].lines (block-wise text) and landscape tables as raw page text lines (capped at 400 per page, 'rotated_page'). Sentence text is complete; table cell values must be read from the PDF page.",
+   "Articles titled 'Reserved' have no sentences.",
+   "Division A and C articles are keyed 'A:...' / 'C:...'."
+  ]
+ }
+}

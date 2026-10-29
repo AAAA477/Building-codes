@@ -1,0 +1,17 @@
+- generic [ref=f10e3]:
+  - link "Skip to main content" [ref=f10e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f10e5]:
+    - generic [ref=f10e6]:
+      - link "Variance Workspace, home" [ref=f10e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f10e8]: Variance Workspace
+        - generic [ref=f10e9]: Alberta building code variances
+      - group "View as" [ref=f10e11]:
+        - button "Applicant" [pressed] [ref=f10e12] [cursor=pointer]
+        - button "Reviewer" [ref=f10e13] [cursor=pointer]
+  - main [ref=f10e14]:
+    - paragraph [ref=f10e19]: Opening your application...
+  - contentinfo [ref=f10e21]:
+    - generic [ref=f10e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f10e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

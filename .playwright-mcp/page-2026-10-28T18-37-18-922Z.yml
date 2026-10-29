@@ -1,0 +1,91 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - group "View as" [ref=f8e11]:
+        - button "Applicant" [pressed] [ref=f8e12] [cursor=pointer]
+        - button "Reviewer" [ref=f8e13] [cursor=pointer]
+  - main [ref=f8e14]:
+    - generic [ref=f8e687]:
+      - generic [ref=f8e688]:
+        - heading "Prepare a building code variance request" [level=1] [ref=f8e689]
+        - paragraph [ref=f8e690]: A variance lets you propose a different way to meet the Building Code. This workbook takes you through it in plain language, finds the code articles, shows what is still missing and fills in the official form. You review and sign. It never signs for you.
+        - generic [ref=f8e691]:
+          - button "Start a new application" [ref=f8e692] [cursor=pointer]
+          - link "Continue my last application" [ref=f8e695] [cursor=pointer]:
+            - /url: "#/a/e7e8a124/1"
+        - region [ref=f8e696]:
+          - heading "Contents" [level=2] [ref=f8e697]
+          - list [ref=f8e698]:
+            - listitem [ref=f8e699]:
+              - generic [ref=f8e700]: "1"
+              - generic [ref=f8e702]:
+                - strong [ref=f8e703]: Describe
+                - generic [ref=f8e704]: Say in plain words what you want to build or do differently.
+            - listitem [ref=f8e705]:
+              - generic [ref=f8e706]: "2"
+              - generic [ref=f8e708]:
+                - strong [ref=f8e709]: Rules
+                - generic [ref=f8e710]: Check whether it is already covered, then confirm the code articles that apply.
+            - listitem [ref=f8e711]:
+              - generic [ref=f8e712]: "3"
+              - generic [ref=f8e714]:
+                - strong [ref=f8e715]: Fill and review
+                - generic [ref=f8e716]: Close the gaps on a to-do list grouped by form section A to D.
+            - listitem [ref=f8e717]:
+              - generic [ref=f8e718]: "4"
+              - generic [ref=f8e720]:
+                - strong [ref=f8e721]: Submit
+                - generic [ref=f8e722]: Read the filled form, download it, confirm the declarations yourself and prepare a package.
+      - region [ref=f8e723]:
+        - heading "Or open a sample" [level=2] [ref=f8e724]
+        - paragraph [ref=f8e725]: Samples are based on real Alberta documents, with names and addresses left blank. They are a quick way to see how the tool works.
+        - list [ref=f8e726]:
+          - listitem [ref=f8e727]:
+            - generic [ref=f8e728]:
+              - heading "Single-exit stair (documents missing)" [level=3] [ref=f8e729]
+              - paragraph [ref=f8e730]: Everything is filled in except the supporting documents list.
+            - 'button "Open sample: Single-exit stair (documents missing)" [ref=f8e731] [cursor=pointer]': Open sample
+          - listitem [ref=f8e732]:
+            - generic [ref=f8e733]:
+              - heading "Single-exit stair (no professional named)" [level=3] [ref=f8e734]
+              - paragraph [ref=f8e735]: Shows what the tool flags when no registered professional is named.
+            - 'button "Open sample: Single-exit stair (no professional named)" [ref=f8e736] [cursor=pointer]': Open sample
+          - listitem [ref=f8e737]:
+            - generic [ref=f8e738]:
+              - heading "Single-exit stair (unchecked article)" [level=3] [ref=f8e739]
+              - paragraph [ref=f8e740]: Includes a code article that could not be verified against the code text.
+            - 'button "Open sample: Single-exit stair (unchecked article)" [ref=f8e741] [cursor=pointer]': Open sample
+          - listitem [ref=f8e742]:
+            - generic [ref=f8e743]:
+              - heading "Single-exit stair, Edmonton (well prepared)" [level=3] [ref=f8e744]
+              - paragraph [ref=f8e745]: A residential point-access-block example with its code articles and document list ready.
+            - 'button "Open sample: Single-exit stair, Edmonton (well prepared)" [ref=f8e746] [cursor=pointer]': Open sample
+          - listitem [ref=f8e747]:
+            - generic [ref=f8e748]:
+              - heading "Single-exit stair (just started)" [level=3] [ref=f8e749]
+              - paragraph [ref=f8e750]: An application with only a few answers filled in. Good for trying the guided steps.
+            - 'button "Open sample: Single-exit stair (just started)" [ref=f8e751] [cursor=pointer]': Open sample
+          - listitem [ref=f8e752]:
+            - generic [ref=f8e753]:
+              - 'heading "STANDATA variance: wall-mounted exhaust (23-BCV-001)" [level=3] [ref=f8e754]'
+              - paragraph [ref=f8e755]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: wall-mounted exhaust (23-BCV-001)" [ref=f8e756] [cursor=pointer]': Open sample
+          - listitem [ref=f8e757]:
+            - generic [ref=f8e758]:
+              - 'heading "STANDATA variance: sprinkler and glazing (23-BCV-004)" [level=3] [ref=f8e759]'
+              - paragraph [ref=f8e760]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: sprinkler and glazing (23-BCV-004)" [ref=f8e761] [cursor=pointer]': Open sample
+          - listitem [ref=f8e762]:
+            - generic [ref=f8e763]:
+              - 'heading "STANDATA variance: exhaust clearance (23-BCV-008R1)" [level=3] [ref=f8e764]'
+              - paragraph [ref=f8e765]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: exhaust clearance (23-BCV-008R1)" [ref=f8e766] [cursor=pointer]': Open sample
+  - contentinfo [ref=f8e21]:
+    - generic [ref=f8e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

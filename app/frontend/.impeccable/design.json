@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T00:00:00Z",
+  "title": "Design System: Variance Workspace",
+  "extensions": {
+    "colorMeta": {
+      "ink": { "role": "neutral", "displayName": "Binder Ink", "canonical": "#1a1815", "tonalRamp": ["#0d0c0a", "#1a1815", "#2e2b27", "#4d4943", "#78736a", "#a29d93", "#cbc7bd", "#eeece6"] },
+      "leaf": { "role": "neutral", "displayName": "Milk Leaf", "canonical": "#fbfaf6", "tonalRamp": ["#6e6c66", "#8f8d86", "#b0aea6", "#cbc7bd", "#dcdad3", "#eeece6", "#f6f5f0", "#fbfaf6"] },
+      "action-blue": { "role": "primary", "displayName": "Action Ultramarine", "canonical": "#1f2fb0", "tonalRamp": ["#0b1150", "#111a7f", "#16227f", "#1f2fb0", "#4a58cc", "#7a85dd", "#a9b0ea", "#dde0f7"] },
+      "hue-orange": { "role": "secondary", "displayName": "Oxide Orange", "canonical": "#e8691f", "tonalRamp": ["#4a1f06", "#7a3510", "#a84d16", "#e8691f", "#ee8a52", "#f3ab85", "#f8cdb7", "#fcebe1"] },
+      "hue-yellow": { "role": "secondary", "displayName": "Chrome Yellow", "canonical": "#f2c200", "tonalRamp": ["#4d3e00", "#7a6200", "#a88a00", "#f2c200", "#f5cf3d", "#f8dc7a", "#fbe9b3", "#fdf6dd"] },
+      "hue-grass": { "role": "secondary", "displayName": "Grass", "canonical": "#3fa34d", "tonalRamp": ["#10321a", "#1d5a2a", "#2b7d38", "#3fa34d", "#6bba76", "#98d0a0", "#c4e5c8", "#e6f4e8"] },
+      "hue-teal": { "role": "secondary", "displayName": "Teal", "canonical": "#1d9f9a", "tonalRamp": ["#08302f", "#0f5654", "#167a77", "#1d9f9a", "#4cb8b3", "#7fd0cc", "#b3e4e1", "#e0f4f3"] },
+      "hue-ultra": { "role": "secondary", "displayName": "Ultramarine Tab", "canonical": "#2b3fd1", "tonalRamp": ["#0e1550", "#18237f", "#2030a8", "#2b3fd1", "#5565dc", "#838fe6", "#b2b9f0", "#e1e4f9"] },
+      "hue-violet": { "role": "secondary", "displayName": "Violet", "canonical": "#7a3fd4", "tonalRamp": ["#2a1250", "#471f7f", "#622ea9", "#7a3fd4", "#9868de", "#b693e8", "#d3bff1", "#ece4f9"] },
+      "vermilion": { "role": "tertiary", "displayName": "Vermilion", "canonical": "#c8281e", "tonalRamp": ["#450e0a", "#721810", "#9b2018", "#c8281e", "#d9564d", "#e68781", "#f1b5b1", "#fdeceb"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Home heading only." },
+      "headline": { "displayName": "Headline", "purpose": "Page h1 on the leaf (26px on reviewer lead)." },
+      "title": { "displayName": "Title", "purpose": "Section h2." },
+      "body": { "displayName": "Body", "purpose": "Serif reading text, 64-70ch measure." },
+      "label": { "displayName": "Label", "purpose": "Grotesque for buttons, field labels, tabs, pills." },
+      "code": { "displayName": "Code", "purpose": "Mono for article numbers, source lines and code-book badges." }
+    },
+    "shadows": [
+      { "name": "hard-leaf", "value": "4px 4px 0 #1a1815", "purpose": "The single hard edge on the leaf and modal." },
+      { "name": "errata-offset", "value": "2px 2px 0 #cbc7bd", "purpose": "Pencil offset under the tilted errata slip." }
+    ],
+    "motion": [
+      { "name": "spinner-steps", "value": "rot 0.9s steps(8, end) infinite", "purpose": "Only animation; stepped, no easing. Disabled under prefers-reduced-motion." }
+    ],
+    "breakpoints": []
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one Next/submit action per view.",
+      "html": "<button class=\"ds-btn-primary\">Next: Rules</button>",
+      "css": ".ds-btn-primary { font-family: 'Hanken Grotesk', 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 16px; min-height: 44px; padding: 8px 18px; border: 2px solid #1f2fb0; background: #1f2fb0; color: #fff; border-radius: 0; cursor: pointer; } .ds-btn-primary:hover { background: #16227f; border-color: #16227f; } .ds-btn-primary:focus-visible { outline: 3px solid #1f2fb0; outline-offset: 2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Back and other supporting actions; inverts on hover.",
+      "html": "<button class=\"ds-btn\">Back</button>",
+      "css": ".ds-btn { font-family: 'Hanken Grotesk', 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 16px; min-height: 44px; padding: 8px 18px; border: 2px solid #1a1815; background: #fbfaf6; color: #1a1815; border-radius: 0; cursor: pointer; } .ds-btn:hover { background: #1a1815; color: #fbfaf6; } .ds-btn:focus-visible { outline: 3px solid #1f2fb0; outline-offset: 2px; }"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Square white field with 2px ink border.",
+      "html": "<div class=\"ds-field\"><label>Project address</label><input type=\"text\" value=\"123 Main St\"></div>",
+      "css": ".ds-field { display: flex; flex-direction: column; gap: 5px; font-family: 'Hanken Grotesk', Arial, sans-serif; } .ds-field label { font-weight: 700; font-size: 15.5px; color: #1a1815; } .ds-field input { font-family: Literata, Georgia, serif; font-size: 16px; min-height: 44px; padding: 8px 12px; background: #fff; border: 2px solid #1a1815; border-radius: 0; color: #1a1815; } .ds-field input:focus-visible { outline: 3px solid #1f2fb0; outline-offset: 1px; }"
+    },
+    {
+      "name": "Index Tab",
+      "kind": "nav",
+      "refersTo": "tab",
+      "description": "Rail tab; height grows with open items; chamfered upper-right corner.",
+      "html": "<div style=\"background:#1a1815;padding:12px 0\"><button class=\"ds-tab\"><span>2</span><b>Rules</b><span><b>4</b> open</span></button></div>",
+      "css": ".ds-tab { box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start; width: 82px; height: 120px; padding: 10px 4px 10px 9px; background: #1d9f9a; color: #1a1815; border: 2px solid #1a1815; border-left: 0; clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%); font-family: 'Hanken Grotesk', Arial, sans-serif; font-size: 14px; font-weight: 700; cursor: pointer; text-align: left; } .ds-tab:hover { width: 88px; } .ds-tab:focus-visible { outline: 3px solid #fff; }"
+    },
+    {
+      "name": "Status Pill",
+      "kind": "chip",
+      "refersTo": "pill-status",
+      "description": "Tinted state label; always icon plus text.",
+      "html": "<span class=\"ds-pill\">Complete</span>",
+      "css": ".ds-pill { display: inline-flex; align-items: center; font-family: 'Hanken Grotesk', Arial, sans-serif; font-size: 13.5px; font-weight: 700; line-height: 22px; padding: 1px 8px 1px 6px; color: #14602a; background: #e3f3e6; border: 2px solid currentColor; }"
+    },
+    {
+      "name": "Code Badge",
+      "kind": "chip",
+      "refersTo": "tag-code-badge",
+      "description": "Mono code-book badge for article numbers.",
+      "html": "<span class=\"ds-badge\">NBC 9.10.14</span>",
+      "css": ".ds-badge { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 12.5px; font-weight: 600; letter-spacing: 0.04em; line-height: 22px; padding: 0 7px; background: #1a1815; color: #fff; }"
+    },
+    {
+      "name": "Leaf with Board",
+      "kind": "card",
+      "refersTo": "leaf",
+      "description": "Milk-white leaf, 2px ink border, hard shadow, on the hue board.",
+      "html": "<div class=\"ds-board\"><div class=\"ds-leaf\"><h2>Describe your project</h2><p>Reading text at a 64ch measure.</p></div></div>",
+      "css": ".ds-board { background: #1d9f9a; padding: 18px 28px 0 0; } .ds-leaf { background: #fbfaf6; border: 2px solid #1a1815; border-bottom: 0; box-shadow: 4px 4px 0 #1a1815; padding: 36px 48px; color: #1a1815; font-family: Literata, Georgia, serif; font-size: 17px; line-height: 26px; } .ds-leaf h2 { margin: 0 0 12px; font-family: 'Hanken Grotesk', Arial, sans-serif; font-size: 22px; font-weight: 700; }"
+    },
+    {
+      "name": "Errata Slip",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "The single error voice: vermilion top rule, slight tilt.",
+      "html": "<div class=\"ds-errata\"><strong>Errata</strong><span>Floor area is required.</span></div>",
+      "css": ".ds-errata { display: flex; gap: 12px; align-items: baseline; background: #fff; border: 1px solid #cbc7bd; border-top: 5px solid #c8281e; padding: 8px 14px; font-family: 'Hanken Grotesk', Arial, sans-serif; font-weight: 600; color: #b3201a; transform: rotate(-0.3deg); box-shadow: 2px 2px 0 #cbc7bd; max-width: 760px; } .ds-errata strong { background: #c8281e; color: #fff; padding: 1px 8px; font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Tabbed Code Binder",
+    "overview": "The workspace is a reference binder: a near-black spine, a rail of colored index tabs down the left edge, and a milk-white leaf sitting on a board that takes the open tab's hue. The rail is map, progress meter and navigation at once; tab height grows with the work still open. Density is calm and reading-first: bookish serif body, plain grotesque for heads and labels, mono for article numbers. Everything is square, ruled in 2px ink, and flat.",
+    "keyCharacteristics": [
+      "Six full-strength section hues, one active at a time on the board; the rest live only on the rail.",
+      "Milk-white leaf with 2px ink border and one short hard shadow.",
+      "Square corners everywhere; circles only for radio marks and binder punch holes.",
+      "Vermilion reserved for errors, blockers and the errata slip.",
+      "Status is carried by tinted pill plus text, never color alone."
+    ],
+    "rules": [
+      { "name": "The One Board Rule", "body": "Only the open section's hue floods the board; other hues appear on rail tabs alone.", "section": "colors" },
+      { "name": "The Vermilion Reserve Rule", "body": "Vermilion marks errors and errata only; never decoration or a section hue.", "section": "colors" },
+      { "name": "The Action Apart Rule", "body": "Buttons and links use Action Ultramarine, not a section hue.", "section": "colors" },
+      { "name": "The Source Line Rule", "body": "A citation is followed by its mono source line (article, page); the mono face means \"verifiable\".", "section": "typography" },
+      { "name": "The Sentence Case Rule", "body": "Labels stay sentence case; the only uppercase is short status stamps (DRAFT, errata flag).", "section": "typography" },
+      { "name": "The One Hard Edge Rule", "body": "Only the leaf and modal get the 4px hard shadow; cards and fields stay flat.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do print the source line (mono article, page, quote) under every citation.",
+      "Do label AI output with the yellow DRAFT/AI tag and keep humans signing.",
+      "Do keep every control at 44px or taller (34px only for sm).",
+      "Do pair status color with an icon and text.",
+      "Do use `--hue` for fills tied to the open section and Action Ultramarine for actions."
+    ],
+    "donts": [
+      "Don't add gradients, glass, blur or soft shadows.",
+      "Don't round corners except radios and punch holes.",
+      "Don't use a section hue for errors or vermilion for navigation.",
+      "Don't use logos or government-like branding.",
+      "Don't express completeness as a safety or approval claim."
+    ]
+  }
+}

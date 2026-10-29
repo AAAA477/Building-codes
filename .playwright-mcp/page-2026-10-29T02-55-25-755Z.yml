@@ -1,0 +1,222 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e11]: Saved automatically
+        - group "View as" [ref=e12]:
+          - button "Applicant" [pressed] [ref=e13] [cursor=pointer]
+          - button "Reviewer" [ref=e14] [cursor=pointer]
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - navigation "Application steps" [ref=e17]:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - button "Describe, 12 open" [ref=e20] [cursor=pointer]:
+              - generic [ref=e21]: "1"
+              - generic [ref=e22]: Describe
+              - generic [ref=e23]: 12 open
+          - listitem [ref=e24]:
+            - button "Rules, nothing open" [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: "2"
+              - generic [ref=e27]: Rules
+              - generic [ref=e28]: clear
+          - listitem [ref=e29]:
+            - button "Fill and review, 33 open" [ref=e30] [cursor=pointer]:
+              - generic [ref=e31]: "3"
+              - generic [ref=e32]: Fill and review
+              - generic [ref=e33]: 33 open
+          - listitem [ref=e34]:
+            - button "Submit, 3 open" [ref=e35] [cursor=pointer]:
+              - generic [ref=e36]: "4"
+              - generic [ref=e37]: Submit
+              - generic [ref=e38]: 3 open
+          - listitem [ref=e39]:
+            - button "After submitting, 2 open" [ref=e40] [cursor=pointer]:
+              - generic [ref=e41]: "5"
+              - generic [ref=e42]: After submitting
+              - generic [ref=e43]: 2 open
+      - generic [ref=e44]:
+        - generic [ref=e45]: After submitting · what happens next
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - heading "After you submit" [level=1] [ref=e49]
+            - paragraph [ref=e50]: This page only restates what the official documents in our package say about what follows a submission. Where they are silent we say so. It tracks process; it says nothing about whether any application will be accepted.
+            - paragraph [ref=e51]:
+              - text: Showing facts for
+              - strong [ref=e52]: City of Edmonton
+              - text: . Every line names the document and page it comes from.
+          - generic [ref=e53]:
+            - region [ref=e54]:
+              - heading "Who decides" [level=2] [ref=e55]
+              - list [ref=e56]:
+                - listitem [ref=e57]:
+                  - paragraph [ref=e58]: A written variance may be issued by an Administrator or a safety codes officer, who must be of the opinion that it provides approximately equivalent or greater safety performance. The decision is theirs, not this tool's.
+                  - generic [ref=e59]: 01_Safety_Codes_Act · p.31 · s.38(1)
+                - listitem [ref=e60]:
+                  - paragraph [ref=e61]: The Safety Codes Council itself can also issue a variance, for example when it hears an appeal of a refusal.
+                  - generic [ref=e62]: 01_Safety_Codes_Act · p.43 · s.52(2)(b.1)
+                - listitem [ref=e63]:
+                  - paragraph [ref=e64]: On the official form, Part 2 is completed by the Safety Codes Officer responsible for reviewing the variance, who either issues the variance (Part 2a) or refuses it (Part 2b).
+                  - generic [ref=e65]: 07_Variance_Form · p.3
+                - listitem [ref=e66]:
+                  - paragraph [ref=e67]: The whole form, with all supporting documentation, is forwarded to the Safety Codes Council, Administrator of Accreditation (accreditation@safetycodes.ab.ca).
+                  - generic [ref=e68]: 07_Variance_Form · p.1
+                - listitem [ref=e69]:
+                  - paragraph [ref=e70]: For Point Access Block proposals, the pre-application meeting is with a Development Planner and Safety Codes officers, including Building Permit reviewers.
+                  - generic [ref=e71]: 11_Edmonton_Point_Access_Block · p.7
+              - generic [ref=e72]:
+                - heading "Not published in the materials we have - ask your authority." [level=3] [ref=e73]
+                - list [ref=e74]:
+                  - listitem [ref=e75]: "Which Edmonton office issues the variance after you submit, and how you send it: no Edmonton-specific variance procedure was found in the materials."
+            - region [ref=e76]:
+              - heading "Possible outcomes" [level=2] [ref=e77]
+              - list [ref=e78]:
+                - listitem [ref=e79]:
+                  - paragraph [ref=e80]: "Part 2(a): a variance is issued, and the officer may set conditions that must be met."
+                  - generic [ref=e81]: 07_Variance_Form · p.3
+                - listitem [ref=e82]:
+                  - paragraph [ref=e83]: "Part 2(b): the variance is refused. The form lists three reasons the officer ticks: the Part 1 information is incorrect; it is not sufficient or complete enough for the officer to decide; or the officer is not satisfied the alternative gives approximately equivalent or greater safety performance. The officer may add written rationale."
+                  - generic [ref=e84]: 07_Variance_Form · p.4
+                - listitem [ref=e85]:
+                  - paragraph [ref=e86]: A refusal is served on the applicant in writing; the form records the date and the format in which it was served.
+                  - generic [ref=e87]: 07_Variance_Form · p.4
+                - listitem [ref=e88]:
+                  - paragraph [ref=e89]: Once a variance is issued, the owner or other responsible person must ensure its terms and conditions are complied with.
+                  - generic [ref=e90]: 01_Safety_Codes_Act · p.14 · s.10(1)
+              - generic [ref=e91]:
+                - heading "Not published in the materials we have - ask your authority." [level=3] [ref=e92]
+                - list [ref=e93]:
+                  - listitem [ref=e94]: "What format an officer's questions arrive in, and how many rounds of questions are normal: the SCC form does not describe a request-for-information step. Only the Calgary guide says you may be asked for further information."
+            - region [ref=e95]:
+              - 'heading "If a variance is refused: appeal" [level=2] [ref=e96]'
+              - list [ref=e97]:
+                - listitem [ref=e98]:
+                  - paragraph [ref=e99]: An applicant who receives a written refusal may appeal it to the Safety Codes Council in line with the Council's bylaws, within 30 days. The Act counts from the date the notice is received; the form counts from the date the refusal was served. Check the date on your notice.
+                  - generic [ref=e100]: 01_Safety_Codes_Act · p.32 · s.38(7)
+                - listitem [ref=e101]:
+                  - paragraph [ref=e102]: "The form states: all appeals must be made within 30 days of the date the Refusal was served."
+                  - generic [ref=e103]: 07_Variance_Form · p.5
+                - listitem [ref=e104]:
+                  - paragraph [ref=e105]: An appeal request must be in writing on the Council's Notice of Appeal and signed by the appellant; include a copy of Part 1 and Part 2(b); concisely state the grounds; give the appellant's name, address, telephone and email; and be accompanied by the fee in the Council fee schedule.
+                  - generic [ref=e106]: 07_Variance_Form · p.5
+                - listitem [ref=e107]:
+                  - paragraph [ref=e108]: Send it to the Safety Codes Council, Coordinator of Appeals, 500, 1405 Jasper Avenue NW, Edmonton AB T5J 3N4; appeals@safetycodes.ab.ca; 780-413-0099 (toll free 1-888-413-0099).
+                  - generic [ref=e109]: 07_Variance_Form · p.5
+                - listitem [ref=e110]:
+                  - paragraph [ref=e111]: The appeal process is not available to applications that were reviewed and refused by an Administrator of the Safety Codes Act; an Administrator's decision on a variance is final.
+                  - generic [ref=e112]: 07_Variance_Form · p.5
+                - listitem [ref=e113]:
+                  - paragraph [ref=e114]: On an appeal the Council may confirm the refusal, or revoke it and issue a written variance on terms it considers appropriate.
+                  - generic [ref=e115]: 01_Safety_Codes_Act · p.43 · s.52(2)(b.1)
+              - generic [ref=e116]:
+                - heading "Not published in the materials we have - ask your authority." [level=3] [ref=e117]
+                - list [ref=e118]:
+                  - listitem [ref=e119]: How long the Council takes to decide an appeal.
+                  - listitem [ref=e120]: "The appeal fee amount: the form refers to the Council fee schedule, which is not in the materials. The $500 figure is stated only in Calgary's guide."
+                  - listitem [ref=e121]: "The appeal fee amount: the form refers to the Council fee schedule, which is not in the materials. The $500 figure is stated only in Calgary's guide."
+            - region [ref=e122]:
+              - heading "Timelines and fees" [level=2] [ref=e123]
+              - list [ref=e124]:
+                - listitem [ref=e125]:
+                  - paragraph [ref=e126]: "General guidance (not an Alberta authority's commitment): allow one to two months for correspondence, depending on complexity. Few or no jurisdictions publish approval timelines, since approval depends on the submission."
+                  - generic [ref=e127]: 08_CWC_Alt_Solutions_Guide · p.6
+                - listitem [ref=e128]:
+                  - paragraph [ref=e129]: "General guidance: some jurisdictions give feedback within a month, but that is a documentation check, not a full review; it is good practice to allow two to four months to receive comments."
+                  - generic [ref=e130]: 08_CWC_Alt_Solutions_Guide · p.6
+              - generic [ref=e131]:
+                - heading "Not published in the materials we have - ask your authority." [level=3] [ref=e132]
+                - list [ref=e133]:
+                  - listitem [ref=e134]: "How long your authority takes to review a variance and respond: no authority-specific review timeline is published in the materials."
+                  - listitem [ref=e135]: "Any fee for submitting a variance request: none is stated in the form or the guides."
+            - region [ref=e136]:
+              - heading "What happens to the information" [level=2] [ref=e137]
+              - list [ref=e138]:
+                - listitem [ref=e139]:
+                  - paragraph [ref=e140]: By signing, you accept that the information is shared with the Safety Codes Council, and that some non-personal information from the form may be published on the Council website.
+                  - generic [ref=e141]: 07_Variance_Form · p.2
+                - listitem [ref=e142]:
+                  - paragraph [ref=e143]: An Administrator may place an entry on the information system briefly indicating the subject of a variance and the location it applies to (a variance register).
+                  - generic [ref=e144]: 01_Safety_Codes_Act · p.51 · s.62
+          - region [ref=e145]:
+            - heading "Questions from the officer" [level=2] [ref=e146]
+            - paragraph [ref=e147]: If the officer emails you questions, paste them here. Each one becomes an item you can answer, hand to your professional, and see counted in your to-do list. This is for tracking; the answers are yours to send.
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - generic [ref=e150]: Paste the officer's questions
+                - textbox "Paste the officer's questions" [ref=e151]:
+                  - /placeholder: "1. Please confirm ...\n2. Provide ..."
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - text: Relates to
+                  - combobox "Relates to" [ref=e154]:
+                    - option "No particular section" [selected]
+                    - option "A Applicant"
+                    - option "B Project"
+                    - option "C Code"
+                    - option "D Documents"
+                    - option "Signatures"
+                - button "Add as tracked questions" [disabled] [ref=e155]
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - generic [ref=e158]:
+                  - paragraph [ref=e159]: Please confirm the stair enclosure fire-resistance rating.
+                  - generic [ref=e160]: Open
+                - paragraph [ref=e161]: Linked to section D
+                - generic [ref=e162]:
+                  - generic [ref=e163]: Your answer
+                  - textbox "Your answer" [ref=e164]:
+                    - /placeholder: Write your answer here. You send it to the officer yourself.
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - text: Status
+                    - combobox "Status" [ref=e167]:
+                      - option "Open" [selected]
+                      - option "Answered"
+                      - option "Needs a professional"
+                  - button "Remove" [ref=e168] [cursor=pointer]
+              - listitem [ref=e169]:
+                - generic [ref=e170]:
+                  - paragraph [ref=e171]: Provide the registered professional field review letter.
+                  - generic [ref=e172]: Open
+                - paragraph [ref=e173]: Linked to section D
+                - generic [ref=e174]:
+                  - generic [ref=e175]: Your answer
+                  - textbox "Your answer" [ref=e176]:
+                    - /placeholder: Write your answer here. You send it to the officer yourself.
+                - generic [ref=e177]:
+                  - generic [ref=e178]:
+                    - text: Status
+                    - combobox "Status" [ref=e179]:
+                      - option "Open" [selected]
+                      - option "Answered"
+                      - option "Needs a professional"
+                  - button "Remove" [ref=e180] [cursor=pointer]
+            - heading "Changes since you last submitted" [level=2] [ref=e181]
+            - paragraph [ref=e182]: When you send your application yourself, come back and mark it here. This records a snapshot of key fields so you and the reviewer can see what changed before you send an updated version. Marking it does not send anything.
+            - 'button "I sent an updated version: reset the comparison" [ref=e184] [cursor=pointer]'
+            - generic [ref=e185]:
+              - paragraph [ref=e186]: Compared with Oct 28, 2026, 7:45 p.m., when it was marked as submitted. 2 fields differ.
+              - table [ref=e187]:
+                - rowgroup [ref=e188]:
+                  - row [ref=e189]:
+                    - columnheader "Field" [ref=e190]
+                    - columnheader "Before" [ref=e191]
+                    - columnheader "Now" [ref=e192]
+                - rowgroup [ref=e193]:
+                  - row [ref=e194]:
+                    - rowheader "location.lot" [ref=e195]
+                    - cell "(blank)" [ref=e196]
+                    - cell "12" [ref=e197]
+                  - row [ref=e198]:
+                    - rowheader "project.description" [ref=e199]
+                    - 'cell "Residential building within the Edmonton Point Access Block guide scope: residential occupancy, 6 storeys or less, not more than 4 dwelling units per floor, served by a single exit stair (guide p.2). Project-specific values to be completed by applicant." [ref=e200]'
+                    - 'cell "Revised: stair enclosure description updated after review." [ref=e201]'
+  - contentinfo [ref=e202]:
+    - generic [ref=e203]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e204]: Approval stays with registered professionals and the Authority Having Jurisdiction.

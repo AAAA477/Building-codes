@@ -1,0 +1,412 @@
+- generic [ref=f16e3]:
+  - link "Skip to main content" [ref=f16e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f16e5]:
+    - generic [ref=f16e6]:
+      - link "Variance Workspace, home" [ref=f16e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f16e8]: Variance Workspace
+        - generic [ref=f16e9]: Alberta building code variances
+      - generic [ref=f16e10]:
+        - status [ref=f16e11]: Saved automatically
+        - group "View as" [ref=f16e12]:
+          - button "Applicant" [pressed] [ref=f16e13] [cursor=pointer]
+          - button "Reviewer" [ref=f16e14] [cursor=pointer]
+  - main [ref=f16e15]:
+    - generic [ref=f16e16]:
+      - navigation "Application steps" [ref=f16e17]:
+        - list [ref=f16e18]:
+          - listitem [ref=f16e19]:
+            - button "Describe, 12 open" [ref=f16e20] [cursor=pointer]:
+              - generic [ref=f16e21]: "1"
+              - generic [ref=f16e22]: Describe
+              - generic [ref=f16e23]: 12 open
+          - listitem [ref=f16e24]:
+            - button "Rules, nothing open" [ref=f16e25] [cursor=pointer]:
+              - generic [ref=f16e26]: "2"
+              - generic [ref=f16e27]: Rules
+              - generic [ref=f16e28]: clear
+          - listitem [ref=f16e29]:
+            - button "Fill and review, 30 open" [ref=f16e30] [cursor=pointer]:
+              - generic [ref=f16e31]: "3"
+              - generic [ref=f16e32]: Fill and review
+              - generic [ref=f16e33]: 30 open
+          - listitem [ref=f16e34]:
+            - button "Submit, 3 open" [ref=f16e35] [cursor=pointer]:
+              - generic [ref=f16e36]: "4"
+              - generic [ref=f16e37]: Submit
+              - generic [ref=f16e38]: 3 open
+          - listitem [ref=f16e39]:
+            - button "After submitting, nothing open" [ref=f16e40] [cursor=pointer]:
+              - generic [ref=f16e41]: "5"
+              - generic [ref=f16e42]: After submitting
+              - generic [ref=f16e43]: clear
+      - generic [ref=f16e44]:
+        - generic [ref=f16e45]: Step 3 of 4 · Fill and review
+        - generic [ref=f16e47]:
+          - generic [ref=f16e49]:
+            - generic [ref=f16e50]:
+              - heading "Fill and review" [level=1] [ref=f16e51]
+              - paragraph [ref=f16e52]: 30 things need your attention. Fix them here, or leave them and come back.
+            - generic [ref=f16e53]:
+              - generic [ref=f16e54]:
+                - generic [ref=f16e56]:
+                  - generic [ref=f16e57]:
+                    - text: Items complete
+                    - generic [ref=f16e58]: 10/50
+                  - progressbar "Items complete" [ref=f16e59]
+                - tablist "View" [ref=f16e61]:
+                  - tab "To-do list" [selected] [ref=f16e62] [cursor=pointer]
+                  - tab "Overview map" [ref=f16e65] [cursor=pointer]
+              - region [ref=f16e68]:
+                - heading "You need a registered professional for this part" [level=2] [ref=f16e69]
+                - paragraph [ref=f16e70]: "Part of this request is engineering work. This tool does not write it for you and leaves those items blank on purpose. Your professional must address:"
+                - generic [ref=f16e71]:
+                  - list [ref=f16e72]:
+                    - listitem [ref=f16e73]: Code analysis of the acceptable solution being varied and the alternative proposed
+                    - listitem [ref=f16e74]: Assumptions and limits of the analysis
+                    - listitem [ref=f16e75]: Testing, studies or modelling relied upon
+                    - listitem [ref=f16e76]: Commissioning, inspection, testing and maintenance of mitigating features
+                    - listitem [ref=f16e77]: Qualifications of the responsible professional (single coordinating professional, Division C 2.3.1.1)
+                    - listitem [ref=f16e78]: Emergency-services (fire department) access and operations considerations
+                  - paragraph [ref=f16e79]: "Related articles: 3.4.2.1.(1), 3.4.2.3.(1), 3.4.4.1.(1)"
+              - tabpanel "To-do list" [ref=f16e80]:
+                - region [ref=f16e81]:
+                  - generic [ref=f16e82]:
+                    - generic [ref=f16e83]:
+                      - 'heading "Section A: About you" [level=2] [ref=f16e84]'
+                      - paragraph [ref=f16e85]: Owner and contact details
+                    - generic [ref=f16e86]: 4 to do
+                  - list [ref=f16e87]:
+                    - listitem [ref=f16e88]:
+                      - generic [ref=f16e89]:
+                        - generic [ref=f16e90]: Missing
+                        - generic [ref=f16e93]:
+                          - strong [ref=f16e94]: Owner name
+                          - generic [ref=f16e95]: Owner name not provided
+                          - button "Suggest" [ref=f16e97] [cursor=pointer]
+                        - button "Fix now" [ref=f16e99] [cursor=pointer]
+                    - listitem [ref=f16e100]:
+                      - generic [ref=f16e101]:
+                        - generic [ref=f16e102]: Missing
+                        - generic [ref=f16e105]:
+                          - strong [ref=f16e106]: Mailing address
+                          - generic [ref=f16e107]: Mailing address not provided
+                          - button "Suggest" [ref=f16e109] [cursor=pointer]
+                        - button "Fix now" [ref=f16e111] [cursor=pointer]
+                    - listitem [ref=f16e112]:
+                      - generic [ref=f16e113]:
+                        - generic [ref=f16e114]: Missing
+                        - generic [ref=f16e117]:
+                          - strong [ref=f16e118]: Email
+                          - generic [ref=f16e119]: Email not provided
+                          - button "Suggest" [ref=f16e121] [cursor=pointer]
+                        - button "Fix now" [ref=f16e123] [cursor=pointer]
+                    - listitem [ref=f16e124]:
+                      - generic [ref=f16e125]:
+                        - generic [ref=f16e126]: Missing
+                        - generic [ref=f16e129]:
+                          - strong [ref=f16e130]: Date of request
+                          - generic [ref=f16e131]: Date of request not provided
+                          - button "Suggest" [ref=f16e133] [cursor=pointer]
+                        - button "Fix now" [ref=f16e135] [cursor=pointer]
+                - region [ref=f16e136]:
+                  - generic [ref=f16e137]:
+                    - generic [ref=f16e138]:
+                      - 'heading "Section B: The project" [level=2] [ref=f16e139]'
+                      - paragraph [ref=f16e140]: Building facts and location
+                    - generic [ref=f16e141]: 8 to do
+                  - form "Building facts" [ref=f16e142]:
+                    - heading "Building facts" [level=3] [ref=f16e143]
+                    - paragraph [ref=f16e144]: 5 facts are missing. Fill in what you know; leave the rest for later.
+                    - generic [ref=f16e145]:
+                      - generic [ref=f16e146]:
+                        - generic [ref=f16e147]: Number of storeys
+                        - spinbutton "Number of storeys" [ref=f16e149]
+                      - generic [ref=f16e150]:
+                        - generic [ref=f16e151]: Building area
+                        - paragraph [ref=f16e152]: Footprint of the largest floor, in square metres.
+                        - generic [ref=f16e153]:
+                          - spinbutton "Building area" [ref=f16e154]
+                          - generic [aria-hidden]: m²
+                      - generic [ref=f16e155]:
+                        - generic [ref=f16e156]: Dwelling units per floor
+                        - paragraph [ref=f16e157]: Leave blank if the building has no dwelling units.
+                        - spinbutton "Dwelling units per floor" [ref=f16e159]
+                      - generic [ref=f16e160]:
+                        - generic [ref=f16e161]: Is the building sprinklered?
+                        - paragraph [ref=f16e162]: Sprinklered means an automatic sprinkler system is installed.
+                        - combobox "Is the building sprinklered?" [ref=f16e163]:
+                          - option "Choose..." [selected]
+                          - option "Yes"
+                          - option "No"
+                      - generic [ref=f16e164]:
+                        - generic [ref=f16e165]: New building or renovation?
+                        - combobox "New building or renovation?" [ref=f16e166]:
+                          - option "Choose..." [selected]
+                          - option "New building"
+                          - option "Renovation of an existing building"
+                    - button "Save facts" [disabled] [ref=f16e167]
+                  - list [ref=f16e168]:
+                    - listitem [ref=f16e169]:
+                      - generic [ref=f16e170]:
+                        - generic [ref=f16e171]: Missing
+                        - generic [ref=f16e174]:
+                          - strong [ref=f16e175]: Project location
+                          - generic [ref=f16e176]: Municipal address or legal description (or jurisdiction-wide) required
+                          - button "Suggest" [ref=f16e178] [cursor=pointer]
+                        - button "Fix now" [ref=f16e180] [cursor=pointer]
+                    - listitem [ref=f16e181]:
+                      - generic [ref=f16e182]:
+                        - generic [ref=f16e183]: Please confirm
+                        - generic [ref=f16e187]:
+                          - strong [ref=f16e188]: Permit number
+                          - generic [ref=f16e189]: No permit number given; confirm if one exists
+                          - button "Suggest" [ref=f16e191] [cursor=pointer]
+                        - button "Fix now" [ref=f16e193] [cursor=pointer]
+                    - listitem [ref=f16e194]:
+                      - generic [ref=f16e195]:
+                        - generic [ref=f16e196]: Missing
+                        - generic [ref=f16e199]:
+                          - strong [ref=f16e200]: Part 3 / Part 9
+                          - generic [ref=f16e201]: Storeys and building area are needed to decide between Part 3 and Part 9.
+                          - button "Suggest" [ref=f16e203] [cursor=pointer]
+                        - button "Fix now" [ref=f16e205] [cursor=pointer]
+                  - group [ref=f16e206]:
+                    - generic "2 completed" [ref=f16e207] [cursor=pointer]
+                - region [ref=f16e208]:
+                  - generic [ref=f16e209]:
+                    - generic [ref=f16e210]:
+                      - 'heading "Section C: Code and your alternative" [level=2] [ref=f16e211]'
+                      - paragraph [ref=f16e212]: Articles, and what you propose instead
+                    - generic [ref=f16e213]: 2 to do
+                  - list [ref=f16e214]:
+                    - listitem [ref=f16e215]:
+                      - generic [ref=f16e216]:
+                        - generic [ref=f16e217]: Please confirm
+                        - generic [ref=f16e221]:
+                          - strong [ref=f16e222]: "Evidence for: Compartmentation"
+                          - generic [ref=f16e223]: No evidence document referenced
+                          - button "Suggest" [ref=f16e225] [cursor=pointer]
+                        - button "Go to Rules" [ref=f16e226] [cursor=pointer]
+                    - listitem [ref=f16e227]:
+                      - generic [ref=f16e228]:
+                        - generic [ref=f16e229]: Please confirm
+                        - generic [ref=f16e233]:
+                          - strong [ref=f16e234]: "Evidence for: Smoke management"
+                          - generic [ref=f16e235]: No evidence document referenced
+                          - button "Suggest" [ref=f16e237] [cursor=pointer]
+                        - button "Go to Rules" [ref=f16e238] [cursor=pointer]
+                  - generic [ref=f16e239]:
+                    - heading "Options others have used" [level=3] [ref=f16e240]
+                    - paragraph [ref=f16e241]: Options others have used. Whether they achieve equivalent performance is for your registered professional.
+                    - button "Show options" [ref=f16e242] [cursor=pointer]
+                  - group [ref=f16e243]:
+                    - generic "3 code articles in Section C" [ref=f16e244] [cursor=pointer]
+                  - group [ref=f16e245]:
+                    - generic "8 completed" [ref=f16e246] [cursor=pointer]
+                - region [ref=f16e247]:
+                  - generic [ref=f16e248]:
+                    - generic [ref=f16e249]:
+                      - 'heading "Section D: Supporting documents" [level=2] [ref=f16e250]'
+                      - paragraph [ref=f16e251]: What must be attached to the request
+                    - generic [ref=f16e252]: 6 to do
+                  - list [ref=f16e253]:
+                    - listitem [ref=f16e254]:
+                      - generic [ref=f16e255]:
+                        - generic [ref=f16e256]: Missing
+                        - generic [ref=f16e259]:
+                          - strong [ref=f16e260]: Registered professional named in Section D
+                          - generic [ref=f16e261]: No registered professional or organisation is named as responsible for any supporting document (Edmonton PAB guide p.8 requires professional involvement)
+                          - button "Suggest" [ref=f16e263] [cursor=pointer]
+                        - button "Name them" [ref=f16e265] [cursor=pointer]
+                    - listitem [ref=f16e266]:
+                      - generic [ref=f16e267]:
+                        - generic [ref=f16e268]: Missing
+                        - generic [ref=f16e271]:
+                          - strong [ref=f16e272]: "Attached file: Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory framework, problem definition, risk assessment, alternative solutions)"
+                          - generic [ref=f16e273]: locked.pdf cannot be used. This PDF needs a password to open. The reviewer cannot read it. Save an unprotected copy and attach that.
+                          - button "Suggest" [ref=f16e275] [cursor=pointer]
+                    - listitem [ref=f16e276]:
+                      - generic [ref=f16e277]:
+                        - generic [ref=f16e278]: Please confirm
+                        - generic [ref=f16e282]:
+                          - strong [ref=f16e283]: "4 items: No file is attached yet."
+                          - group [ref=f16e284]:
+                            - generic "Show the 4 items" [ref=f16e285] [cursor=pointer]
+                    - listitem [ref=f16e286]:
+                      - generic [ref=f16e287]:
+                        - generic [ref=f16e288]: Professional needed
+                        - generic [ref=f16e292]:
+                          - strong [ref=f16e293]: Registered professional involvement
+                          - generic [ref=f16e294]: A registered professional is required (Edmonton PAB guide p.8). They prepare the Alternative Solution and the analysis (fire protection / life safety code consultant); this tool writes none of it.
+                  - generic [ref=f16e295]:
+                    - heading "Documents to attach" [level=3] [ref=f16e296]
+                    - paragraph [ref=f16e297]: A registered professional will prepare the documents marked below. This tool leaves them for them.
+                    - list [ref=f16e298]:
+                      - listitem [ref=f16e299]:
+                        - generic [ref=f16e300]:
+                          - text: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant, including Code analysis (applicable objectives, functional statements and acceptable solutions, assumptions, limiting or restricting factors, testing procedures, engineering studies) per Division C 2.3.1.1.(2)(a), (3)
+                          - generic [ref=f16e301]: Prepared by a professional
+                        - generic [ref=f16e302]: Status of Alternative Solution prepared by a quali
+                        - combobox "Status of Alternative Solution prepared by a quali" [ref=f16e303]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e304]:
+                          - generic [ref=f16e305]:
+                            - button "Attach another file" [ref=f16e306]
+                            - generic [ref=f16e307] [cursor=pointer]: Attach another file
+                            - generic [ref=f16e308]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                          - list [ref=f16e309]:
+                            - listitem [ref=f16e310]:
+                              - generic [ref=f16e311]:
+                                - link "report.pdf" [ref=f16e312] [cursor=pointer]:
+                                  - /url: /api/applications/498f96a1/evidence/D1/413f5b0ac2
+                                - generic [ref=f16e313]: 1 KB
+                                - button "Remove report.pdf" [ref=f16e314] [cursor=pointer]: Remove
+                              - list "Checks for report.pdf" [ref=f16e315]:
+                                - listitem [ref=f16e316]:
+                                  - generic [ref=f16e317]: Check
+                                  - generic [ref=f16e318]: We cannot confirm a professional's seal. No signature field or seal wording was found. Your professional must seal this document. This tool cannot check a seal.
+                      - listitem [ref=f16e319]:
+                        - generic [ref=f16e320]:
+                          - text: "Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory framework, problem definition, risk assessment, alternative solutions)"
+                          - generic [ref=f16e321]: Prepared by a professional
+                        - generic [ref=f16e322]: Status of Risk assessment and problem definition f
+                        - combobox "Status of Risk assessment and problem definition f" [ref=f16e323]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e325]:
+                          - button "Attach file" [ref=f16e326]
+                          - generic [ref=f16e327] [cursor=pointer]: Attach file
+                          - generic [ref=f16e328]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                      - listitem [ref=f16e329]:
+                        - generic [ref=f16e330]:
+                          - text: Special maintenance or operational requirements, including commissioning and inspection, testing and maintenance (ITM) documentation for systems not regulated by the NFC(AE) (Division C 2.3.1.1.(2)(b); Emergency Services Guideline p.22)
+                          - generic [ref=f16e331]: Prepared by a professional
+                        - generic [ref=f16e332]: Status of Special maintenance or operational requi
+                        - combobox "Status of Special maintenance or operational requi" [ref=f16e333]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e335]:
+                          - button "Attach file" [ref=f16e336]
+                          - generic [ref=f16e337] [cursor=pointer]: Attach file
+                          - generic [ref=f16e338]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                      - listitem [ref=f16e339]:
+                        - generic [ref=f16e340]:
+                          - text: Qualifications, experience and background of the person or persons taking responsibility for the design (Division C 2.3.1.1.(4))
+                          - generic [ref=f16e341]: Prepared by a professional
+                        - generic [ref=f16e342]: Status of Qualifications, experience and backgroun
+                        - combobox "Status of Qualifications, experience and backgroun" [ref=f16e343]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e345]:
+                          - button "Attach file" [ref=f16e346]
+                          - generic [ref=f16e347] [cursor=pointer]: Attach file
+                          - generic [ref=f16e348]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                      - listitem [ref=f16e349]:
+                        - generic [ref=f16e350]:
+                          - text: Identification of a single person to co-ordinate the design, Code analysis and documentation (Division C 2.3.1.1.(6))
+                          - generic [ref=f16e351]: Prepared by a professional
+                        - generic [ref=f16e352]: Status of Identification of a single person to co-
+                        - combobox "Status of Identification of a single person to co-" [ref=f16e353]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e355]:
+                          - button "Attach file" [ref=f16e356]
+                          - generic [ref=f16e357] [cursor=pointer]: Attach file
+                          - generic [ref=f16e358]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                      - listitem [ref=f16e359]:
+                        - generic [ref=f16e360]:
+                          - text: Screening against the four emergency-services questions (Emergency Services Guideline p.8-9) and, if triggered, impact on emergency services
+                          - generic [ref=f16e361]: Prepared by a professional
+                        - generic [ref=f16e362]: Status of Screening against the four emergency-ser
+                        - combobox "Status of Screening against the four emergency-ser" [ref=f16e363]:
+                          - option "Missing"
+                          - option "To be prepared" [selected]
+                          - option "Provided"
+                        - generic [ref=f16e365]:
+                          - button "Attach file" [ref=f16e366]
+                          - generic [ref=f16e367] [cursor=pointer]: Attach file
+                          - generic [ref=f16e368]: PDF, PNG, JPG, DOCX, XLSX or DWG, up to 25 MB
+                - region [ref=f16e369]:
+                  - generic [ref=f16e370]:
+                    - generic [ref=f16e371]:
+                      - heading "Local rules" [level=2] [ref=f16e372]
+                      - paragraph [ref=f16e373]: Checks for your authority, answered in the panel below
+                    - generic [ref=f16e374]: 9 to do
+                  - list [ref=f16e375]:
+                    - listitem [ref=f16e376]:
+                      - generic [ref=f16e377]:
+                        - generic [ref=f16e378]: Please confirm
+                        - generic [ref=f16e382]:
+                          - strong [ref=f16e383]: Pre-application meeting booked with Development Services and Safety Codes officers
+                          - generic [ref=f16e384]: Recommended before submission; not mandatory.
+                          - button "Suggest" [ref=f16e386] [cursor=pointer]
+                    - listitem [ref=f16e387]:
+                      - generic [ref=f16e388]:
+                        - generic [ref=f16e389]: Please confirm
+                        - generic [ref=f16e393]:
+                          - strong [ref=f16e394]: "6 items: Not answered yet"
+                          - group [ref=f16e395]:
+                            - generic "Show the 6 items" [ref=f16e396] [cursor=pointer]
+                    - listitem [ref=f16e397]:
+                      - generic [ref=f16e398]:
+                        - generic [ref=f16e399]: Please confirm
+                        - generic [ref=f16e403]:
+                          - strong [ref=f16e404]: Section C functional statements F06, F12 or F13 referenced
+                          - generic [ref=f16e405]: "Section C references F06, F12: likely impacts emergency services; documentation of the impact is required (guideline p.8)."
+                          - button "Suggest" [ref=f16e407] [cursor=pointer]
+                    - listitem [ref=f16e408]:
+                      - generic [ref=f16e409]:
+                        - generic [ref=f16e410]: Missing
+                        - generic [ref=f16e413]:
+                          - strong [ref=f16e414]: Available fire flow confirmed with the EFRS Engineer
+                          - generic [ref=f16e415]: Screen triggered and no matching document is listed in Section D.
+                          - button "Suggest" [ref=f16e417] [cursor=pointer]
+                    - listitem [ref=f16e418]:
+                      - generic [ref=f16e419]:
+                        - generic [ref=f16e420]: Professional needed
+                        - generic [ref=f16e424]:
+                          - strong [ref=f16e425]: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant
+                          - generic [ref=f16e426]: Consultant-prepared Alternative Solution listed but not yet provided.
+                    - listitem [ref=f16e427]:
+                      - generic [ref=f16e428]:
+                        - generic [ref=f16e429]: Professional needed
+                        - generic [ref=f16e433]:
+                          - strong [ref=f16e434]: Inspection, testing and maintenance (ITM) and commissioning documentation for systems introduced by the alternative solution
+                          - generic [ref=f16e435]: Listed in Section D but not yet provided.
+                    - listitem [ref=f16e436]:
+                      - generic [ref=f16e437]:
+                        - generic [ref=f16e438]: Professional needed
+                        - generic [ref=f16e442]:
+                          - strong [ref=f16e443]: Documented assumptions and objective demonstration of performance relative to the Division B acceptable solutions
+                          - generic [ref=f16e444]: Listed in Section D but not yet provided.
+                - region [ref=f16e445]:
+                  - generic [ref=f16e446]:
+                    - generic [ref=f16e447]:
+                      - heading "Earlier decisions" [level=2] [ref=f16e448]
+                      - paragraph [ref=f16e449]: Check whether a similar variance already exists
+                    - generic [ref=f16e450]: 1 to do
+                  - list [ref=f16e451]:
+                    - listitem [ref=f16e452]:
+                      - generic [ref=f16e453]:
+                        - generic [ref=f16e454]: Please confirm
+                        - generic [ref=f16e458]:
+                          - strong [ref=f16e459]: Existing variance, interpretation or policy
+                          - generic [ref=f16e460]: "A similar issued variance or policy may already cover this: STANDATA 23-BCI-026/23-FCI-014 (Single-Egress-Stairs (SES) for buildings of residential occupancy) p.1. Confirm it does not before filing."
+                          - button "Suggest" [ref=f16e462] [cursor=pointer]
+                        - button "Go to Rules" [ref=f16e463] [cursor=pointer]
+                - button "Pre-application brief" [ref=f16e466] [cursor=pointer]
+          - generic [ref=f16e467]:
+            - button "Back" [ref=f16e468] [cursor=pointer]
+            - generic [ref=f16e471]: 30 still open. You can submit with gaps, but the reviewer will ask for them.
+            - 'button "Next: Submit" [ref=f16e472] [cursor=pointer]'
+  - contentinfo [ref=f16e475]:
+    - generic [ref=f16e476]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f16e477]: Approval stays with registered professionals and the Authority Having Jurisdiction.

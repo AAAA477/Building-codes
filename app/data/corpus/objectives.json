@@ -1,0 +1,1296 @@
+{
+ "OS": {
+  "code": "OS",
+  "kind": "objective",
+  "title": "Safety",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design, construction or demolition of the building, or (b) specific circumstances related to the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury.",
+  "pdf_page": 68,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1": {
+  "code": "OS1",
+  "kind": "objective",
+  "title": "Fire Safety",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "pdf_page": 68,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1.1": {
+  "code": "OS1.1",
+  "kind": "risk",
+  "title": null,
+  "text": "fire or explosion occurring",
+  "pdf_page": 68,
+  "parent": "OS1",
+  "parent_title": "Fire Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1.2": {
+  "code": "OS1.2",
+  "kind": "risk",
+  "title": null,
+  "text": "fire or explosion impacting areas beyond its point of origin",
+  "pdf_page": 68,
+  "parent": "OS1",
+  "parent_title": "Fire Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1.3": {
+  "code": "OS1.3",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of physical elements due to a fire or explosion",
+  "pdf_page": 68,
+  "parent": "OS1",
+  "parent_title": "Fire Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1.4": {
+  "code": "OS1.4",
+  "kind": "risk",
+  "title": null,
+  "text": "fire safety systems failing to function as expected",
+  "pdf_page": 68,
+  "parent": "OS1",
+  "parent_title": "Fire Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS1.5": {
+  "code": "OS1.5",
+  "kind": "risk",
+  "title": null,
+  "text": "persons being delayed in or impeded from moving to a safe place during a fire emergency",
+  "pdf_page": 68,
+  "parent": "OS1",
+  "parent_title": "Fire Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2": {
+  "code": "OS2",
+  "kind": "objective",
+  "title": "Structural Safety",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "pdf_page": 68,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.1": {
+  "code": "OS2.1",
+  "kind": "risk",
+  "title": null,
+  "text": "loads bearing on the building elements that exceed their loadbearing capacity",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.2": {
+  "code": "OS2.2",
+  "kind": "risk",
+  "title": null,
+  "text": "loads bearing on the building that exceed the loadbearing properties of the supporting medium",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.3": {
+  "code": "OS2.3",
+  "kind": "risk",
+  "title": null,
+  "text": "damage to or deterioration of building elements",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.4": {
+  "code": "OS2.4",
+  "kind": "risk",
+  "title": null,
+  "text": "vibration or deflection of building elements",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.5": {
+  "code": "OS2.5",
+  "kind": "risk",
+  "title": null,
+  "text": "instability of the building or part thereof",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS2.6": {
+  "code": "OS2.6",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of the excavation",
+  "pdf_page": 68,
+  "parent": "OS2",
+  "parent_title": "Structural Safety",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 68,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3": {
+  "code": "OS3",
+  "kind": "objective",
+  "title": "Safety in Use",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "pdf_page": 69,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.1": {
+  "code": "OS3.1",
+  "kind": "risk",
+  "title": null,
+  "text": "tripping, slipping, falling, contact, drowning or collision",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.2": {
+  "code": "OS3.2",
+  "kind": "risk",
+  "title": null,
+  "text": "contact with hot surfaces or substances",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.3": {
+  "code": "OS3.3",
+  "kind": "risk",
+  "title": null,
+  "text": "contact with energized equipment",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.4": {
+  "code": "OS3.4",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to hazardous substances",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.5": {
+  "code": "OS3.5",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to high levels of sound from fire alarm systems",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.6": {
+  "code": "OS3.6",
+  "kind": "risk",
+  "title": null,
+  "text": "persons becoming trapped in confined spaces",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS3.7": {
+  "code": "OS3.7",
+  "kind": "risk",
+  "title": null,
+  "text": "persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))",
+  "pdf_page": 69,
+  "parent": "OS3",
+  "parent_title": "Safety in Use",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS4": {
+  "code": "OS4",
+  "kind": "objective",
+  "title": "Resistance to Unwanted Entry",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of injury due to the building's low level of resistance to unwanted entry (see Sentence 2.1.1.2.(2) for application limitation). The risks of injury due to unwanted entry addressed in this Code are those caused by—",
+  "pdf_page": 69,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS4.1": {
+  "code": "OS4.1",
+  "kind": "risk",
+  "title": null,
+  "text": "intruders being able to force their way through locked doors or windows",
+  "pdf_page": 69,
+  "parent": "OS4",
+  "parent_title": "Resistance to Unwanted Entry",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of injury due to the building's low level of resistance to unwanted entry (see Sentence 2.1.1.2.(2) for application limitation). The risks of injury due to unwanted entry addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS4.2": {
+  "code": "OS4.2",
+  "kind": "risk",
+  "title": null,
+  "text": "occupants being unable to identify potential intruders as such",
+  "pdf_page": 69,
+  "parent": "OS4",
+  "parent_title": "Resistance to Unwanted Entry",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of injury due to the building's low level of resistance to unwanted entry (see Sentence 2.1.1.2.(2) for application limitation). The risks of injury due to unwanted entry addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5": {
+  "code": "OS5",
+  "kind": "objective",
+  "title": "Safety at Construction and Demolition Sites",
+  "text": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "pdf_page": 69,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.1": {
+  "code": "OS5.1",
+  "kind": "risk",
+  "title": null,
+  "text": "objects projected onto public ways",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.2": {
+  "code": "OS5.2",
+  "kind": "risk",
+  "title": null,
+  "text": "vehicular accidents on public ways",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.3": {
+  "code": "OS5.3",
+  "kind": "risk",
+  "title": null,
+  "text": "damage to or obstruction of public ways",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.4": {
+  "code": "OS5.4",
+  "kind": "risk",
+  "title": null,
+  "text": "water accumulated in excavations",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.5": {
+  "code": "OS5.5",
+  "kind": "risk",
+  "title": null,
+  "text": "entry into the site",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.6": {
+  "code": "OS5.6",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to hazardous substances and activities",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.7": {
+  "code": "OS5.7",
+  "kind": "risk",
+  "title": null,
+  "text": "loads bearing on a covered way that exceed its loadbearing capacity",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.8": {
+  "code": "OS5.8",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of the excavation",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OS5.9": {
+  "code": "OS5.9",
+  "kind": "risk",
+  "title": null,
+  "text": "persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))",
+  "pdf_page": 69,
+  "parent": "OS5",
+  "parent_title": "Safety at Construction and Demolition Sites",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the construction or demolition of the building, the public adjacent to a construction or demolition site will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to construction and demolition hazards addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 69,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH": {
+  "code": "OH",
+  "kind": "objective",
+  "title": "Health",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, or (b) specific circumstances related to the building, a person will be exposed to an unacceptable risk of illness.",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH1": {
+  "code": "OH1",
+  "kind": "objective",
+  "title": "Indoor Conditions",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH1.1": {
+  "code": "OH1.1",
+  "kind": "risk",
+  "title": null,
+  "text": "inadequate indoor air quality",
+  "pdf_page": 70,
+  "parent": "OH1",
+  "parent_title": "Indoor Conditions",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH1.2": {
+  "code": "OH1.2",
+  "kind": "risk",
+  "title": null,
+  "text": "inadequate thermal comfort",
+  "pdf_page": 70,
+  "parent": "OH1",
+  "parent_title": "Indoor Conditions",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH1.3": {
+  "code": "OH1.3",
+  "kind": "risk",
+  "title": null,
+  "text": "contact with moisture",
+  "pdf_page": 70,
+  "parent": "OH1",
+  "parent_title": "Indoor Conditions",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2": {
+  "code": "OH2",
+  "kind": "objective",
+  "title": "Sanitation",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2.1": {
+  "code": "OH2.1",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to human or domestic waste",
+  "pdf_page": 70,
+  "parent": "OH2",
+  "parent_title": "Sanitation",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2.2": {
+  "code": "OH2.2",
+  "kind": "risk",
+  "title": null,
+  "text": "consumption of contaminated water",
+  "pdf_page": 70,
+  "parent": "OH2",
+  "parent_title": "Sanitation",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2.3": {
+  "code": "OH2.3",
+  "kind": "risk",
+  "title": null,
+  "text": "inadequate facilities for personal hygiene",
+  "pdf_page": 70,
+  "parent": "OH2",
+  "parent_title": "Sanitation",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2.4": {
+  "code": "OH2.4",
+  "kind": "risk",
+  "title": null,
+  "text": "contact with contaminated surfaces",
+  "pdf_page": 70,
+  "parent": "OH2",
+  "parent_title": "Sanitation",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH2.5": {
+  "code": "OH2.5",
+  "kind": "risk",
+  "title": null,
+  "text": "contact with vermin and insects",
+  "pdf_page": 70,
+  "parent": "OH2",
+  "parent_title": "Sanitation",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH3": {
+  "code": "OH3",
+  "kind": "objective",
+  "title": "Noise Protection",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to high levels of sound originating in adjacent spaces in the building (see Sentence 2.1.1.2.(3) for application limitation). The risks of illness due to high levels of sound addressed in this Code are those caused by—",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH3.1": {
+  "code": "OH3.1",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to airborne sound transmitted through assemblies separating dwelling units from adjacent spaces in the building",
+  "pdf_page": 70,
+  "parent": "OH3",
+  "parent_title": "Noise Protection",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to high levels of sound originating in adjacent spaces in the building (see Sentence 2.1.1.2.(3) for application limitation). The risks of illness due to high levels of sound addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH4": {
+  "code": "OH4",
+  "kind": "objective",
+  "title": "Vibration and Deflection Limitation",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to high levels of vibration or deflection of building elements.",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH5": {
+  "code": "OH5",
+  "kind": "objective",
+  "title": "Hazardous Substances Containment",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building or facility, the public will be exposed to an unacceptable risk of illness due to the release of hazardous substances from the building (see Sentence 2.1.1.2.(4) for application limitation).",
+  "pdf_page": 70,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 70,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH10": {
+  "code": "OH10",
+  "kind": "objective",
+  "title": "Protection from Exterior Noise",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to high levels of sound originating outside the building. The risks of illness due to high levels of sound addressed in this Code are those caused by—",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH10.1": {
+  "code": "OH10.1",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to airborne sound transmitted through assemblies separating internal spaces from space outside the building",
+  "pdf_page": 71,
+  "parent": "OH10",
+  "parent_title": "Protection from Exterior Noise",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of illness due to high levels of sound originating outside the building. The risks of illness due to high levels of sound addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH11": {
+  "code": "OH11",
+  "kind": "objective",
+  "title": "Hygiene",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person will be exposed to an unacceptable risk of illness due to unhygienic conditions. The risks of illness due to unhygienic conditions addressed in this Code are those caused by—",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH11.1": {
+  "code": "OH11.1",
+  "kind": "risk",
+  "title": null,
+  "text": "exposure to pathogenic micro-organisms",
+  "pdf_page": 71,
+  "parent": "OH11",
+  "parent_title": "Hygiene",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person will be exposed to an unacceptable risk of illness due to unhygienic conditions. The risks of illness due to unhygienic conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH11.2": {
+  "code": "OH11.2",
+  "kind": "risk",
+  "title": null,
+  "text": "ingestion of pathogenic micro-organisms",
+  "pdf_page": 71,
+  "parent": "OH11",
+  "parent_title": "Hygiene",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person will be exposed to an unacceptable risk of illness due to unhygienic conditions. The risks of illness due to unhygienic conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH11.3": {
+  "code": "OH11.3",
+  "kind": "risk",
+  "title": null,
+  "text": "transmission of pathogenic micro-organisms",
+  "pdf_page": 71,
+  "parent": "OH11",
+  "parent_title": "Hygiene",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person will be exposed to an unacceptable risk of illness due to unhygienic conditions. The risks of illness due to unhygienic conditions addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH12": {
+  "code": "OH12",
+  "kind": "objective",
+  "title": "Privacy",
+  "text": "An objective of this Code it to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of surveillance by other persons. The risks of surveillance addressed in this Code are those caused by—",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OH12.1": {
+  "code": "OH12.1",
+  "kind": "risk",
+  "title": null,
+  "text": "a lack of barriers to visual overview",
+  "pdf_page": 71,
+  "parent": "OH12",
+  "parent_title": "Privacy",
+  "parent_statement": "An objective of this Code it to limit the probability that, as a result of the design or construction of the building, a person in the building will be exposed to an unacceptable risk of surveillance by other persons. The risks of surveillance addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OA": {
+  "code": "OA",
+  "kind": "objective",
+  "title": "Accessibility",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person with a physical or sensory limitation will be unacceptably impeded from accessing or using the building or its facilities (see Sentence 2.1.1.2.(5) for application limitations).",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OA1": {
+  "code": "OA1",
+  "kind": "objective",
+  "title": "Barrier-Free Path of Travel",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person with a physical or sensory limitation will be unacceptably impeded from accessing the building or circulating within it (see Sentence 2.1.1.2.(5) for application limitations).",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OA2": {
+  "code": "OA2",
+  "kind": "objective",
+  "title": "Barrier-Free Facilities",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, a person with a physical or sensory limitation will be unacceptably impeded from using the building's facilities (see Sentence 2.1.1.2.(5) for application limitations).",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP": {
+  "code": "OP",
+  "kind": "objective",
+  "title": "Fire and Structural Protection of Buildings",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design, construction or demolition of the building, or (b) specific circumstances related to the building, the building or adjacent buildings will be exposed to an unacceptable risk of damage due to fire or structural insufficiency, or the building or part thereof will be exposed to an unacceptable risk of loss of use also due to structural insufficiency.",
+  "pdf_page": 71,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 71,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP1": {
+  "code": "OP1",
+  "kind": "objective",
+  "title": "Fire Protection of the Building",
+  "text": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, the building will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+  "pdf_page": 72,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP1.1": {
+  "code": "OP1.1",
+  "kind": "risk",
+  "title": null,
+  "text": "fire or explosion occurring",
+  "pdf_page": 72,
+  "parent": "OP1",
+  "parent_title": "Fire Protection of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, the building will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP1.2": {
+  "code": "OP1.2",
+  "kind": "risk",
+  "title": null,
+  "text": "fire or explosion impacting areas beyond its point of origin",
+  "pdf_page": 72,
+  "parent": "OP1",
+  "parent_title": "Fire Protection of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, the building will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP1.3": {
+  "code": "OP1.3",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of physical elements due to a fire or explosion",
+  "pdf_page": 72,
+  "parent": "OP1",
+  "parent_title": "Fire Protection of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, the building will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP1.4": {
+  "code": "OP1.4",
+  "kind": "risk",
+  "title": null,
+  "text": "fire safety systems failing to function as expected",
+  "pdf_page": 72,
+  "parent": "OP1",
+  "parent_title": "Fire Protection of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) the design or construction of the building, (b) activities related to the construction, use or demolition of the building, (c) the condition of specific elements of the building, (d) the design or construction of specific elements of the building related to certain hazards, or (e) inadequate built-in protective measures for the current or intended use of the building, the building will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2": {
+  "code": "OP2",
+  "kind": "objective",
+  "title": "Structural Sufficiency of the Building",
+  "text": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "pdf_page": 72,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.1": {
+  "code": "OP2.1",
+  "kind": "risk",
+  "title": null,
+  "text": "loads bearing on the building elements that exceed their loadbearing capacity",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.2": {
+  "code": "OP2.2",
+  "kind": "risk",
+  "title": null,
+  "text": "loads bearing on the building that exceed the loadbearing properties of the supporting medium",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.3": {
+  "code": "OP2.3",
+  "kind": "risk",
+  "title": null,
+  "text": "damage to or deterioration of building elements",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.4": {
+  "code": "OP2.4",
+  "kind": "risk",
+  "title": null,
+  "text": "vibration or deflection of building elements",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.5": {
+  "code": "OP2.5",
+  "kind": "risk",
+  "title": null,
+  "text": "instability of the building or part thereof",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP2.6": {
+  "code": "OP2.6",
+  "kind": "risk",
+  "title": null,
+  "text": "instability or movement of the supporting medium",
+  "pdf_page": 72,
+  "parent": "OP2",
+  "parent_title": "Structural Sufficiency of the Building",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of its design or construction, the building or part thereof will be exposed to an unacceptable risk of damage or loss of use due to structural failure or lack of structural serviceability. The risks of damage and of loss of use due to structural failure or lack of structural serviceability addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP3": {
+  "code": "OP3",
+  "kind": "objective",
+  "title": "Protection of Adjacent Buildings from Fire",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, adjacent buildings will be exposed to an unacceptable risk of damage due to fire. The risks of damage to adjacent buildings due to fire addressed in this Code are those caused by—",
+  "pdf_page": 72,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP3.1": {
+  "code": "OP3.1",
+  "kind": "risk",
+  "title": null,
+  "text": "fire or explosion impacting areas beyond the building of origin",
+  "pdf_page": 72,
+  "parent": "OP3",
+  "parent_title": "Protection of Adjacent Buildings from Fire",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, adjacent buildings will be exposed to an unacceptable risk of damage due to fire. The risks of damage to adjacent buildings due to fire addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP4": {
+  "code": "OP4",
+  "kind": "objective",
+  "title": "Protection of Adjacent Buildings from Structural Damage",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design, construction or demolition of the building, adjacent buildings will be exposed to an unacceptable risk of structural damage. The risks of structural damage to adjacent buildings addressed in this Code are those caused by—",
+  "pdf_page": 72,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP4.1": {
+  "code": "OP4.1",
+  "kind": "risk",
+  "title": null,
+  "text": "settlement of the medium supporting adjacent buildings",
+  "pdf_page": 72,
+  "parent": "OP4",
+  "parent_title": "Protection of Adjacent Buildings from Structural Damage",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design, construction or demolition of the building, adjacent buildings will be exposed to an unacceptable risk of structural damage. The risks of structural damage to adjacent buildings addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP4.2": {
+  "code": "OP4.2",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of the building or portion thereof onto adjacent buildings",
+  "pdf_page": 72,
+  "parent": "OP4",
+  "parent_title": "Protection of Adjacent Buildings from Structural Damage",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design, construction or demolition of the building, adjacent buildings will be exposed to an unacceptable risk of structural damage. The risks of structural damage to adjacent buildings addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP4.3": {
+  "code": "OP4.3",
+  "kind": "risk",
+  "title": null,
+  "text": "impact of the building on adjacent buildings",
+  "pdf_page": 72,
+  "parent": "OP4",
+  "parent_title": "Protection of Adjacent Buildings from Structural Damage",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design, construction or demolition of the building, adjacent buildings will be exposed to an unacceptable risk of structural damage. The risks of structural damage to adjacent buildings addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OP4.4": {
+  "code": "OP4.4",
+  "kind": "risk",
+  "title": null,
+  "text": "collapse of the excavation",
+  "pdf_page": 72,
+  "parent": "OP4",
+  "parent_title": "Protection of Adjacent Buildings from Structural Damage",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design, construction or demolition of the building, adjacent buildings will be exposed to an unacceptable risk of structural damage. The risks of structural damage to adjacent buildings addressed in this Code are those caused by—",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 72,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OE": {
+  "code": "OE",
+  "kind": "objective",
+  "title": "Environment",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, the environment will be affected in an unacceptable manner.",
+  "pdf_page": 73,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 73,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OE1": {
+  "code": "OE1",
+  "kind": "objective",
+  "title": "Resources",
+  "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by –",
+  "pdf_page": 73,
+  "parent": null,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 73,
+   "division": "A",
+   "part": 2
+  }
+ },
+ "OE1.1": {
+  "code": "OE1.1",
+  "kind": "risk",
+  "title": null,
+  "text": "excessive use of energy",
+  "pdf_page": 73,
+  "parent": "OE1",
+  "parent_title": "Resources",
+  "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by –",
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 73,
+   "division": "A",
+   "part": 2
+  }
+ }
+}

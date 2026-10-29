@@ -1,0 +1,193 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - generic [ref=f8e10]:
+        - status [ref=f8e773]: All changes saved
+        - group "View as" [ref=f8e11]:
+          - button "Applicant" [pressed] [ref=f8e12] [cursor=pointer]
+          - button "Reviewer" [ref=f8e13] [cursor=pointer]
+  - main [ref=f8e14]:
+    - generic [ref=f8e774]:
+      - navigation "Application steps" [ref=f8e775]:
+        - list [ref=f8e776]:
+          - listitem [ref=f8e777]:
+            - button "Describe, 10 open" [ref=f8e778] [cursor=pointer]:
+              - generic [ref=f8e779]: "1"
+              - generic [ref=f8e780]: Describe
+              - generic [ref=f8e781]: 10 open
+          - listitem [ref=f8e782]:
+            - button "Rules, nothing open" [disabled] [ref=f8e783]:
+              - generic [ref=f8e784]: "2"
+              - generic [ref=f8e785]: Rules
+              - generic [ref=f8e786]: clear
+          - listitem [ref=f8e787]:
+            - button "Fill and review, 13 open" [disabled] [ref=f8e788]:
+              - generic [ref=f8e789]: "3"
+              - generic [ref=f8e790]: Fill and review
+              - generic [ref=f8e791]: 13 open
+          - listitem [ref=f8e792]:
+            - button "Submit, 3 open" [disabled] [ref=f8e793]:
+              - generic [ref=f8e794]: "4"
+              - generic [ref=f8e795]: Submit
+              - generic [ref=f8e796]: 3 open
+      - generic [ref=f8e797]:
+        - generic [ref=f8e798]: Step 2 of 4 · Rules
+        - generic [ref=f8e800]:
+          - generic [ref=f8e801]:
+            - generic [ref=f8e802]:
+              - generic [ref=f8e803]:
+                - heading "Find the rules that apply" [level=1] [ref=f8e804]
+                - paragraph [ref=f8e805]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=f8e806]:
+                - region [ref=f8e807]:
+                  - 'heading "Before you file: may this already be covered?" [level=2] [ref=f8e808]'
+                  - paragraph [ref=f8e809]: These earlier documents may be related. We found them by search; read each one yourself. This does not confirm that your design is covered.
+                  - list [ref=f8e810]:
+                    - listitem [ref=f8e811]:
+                      - generic [ref=f8e812]:
+                        - generic [ref=f8e813]: standata variance
+                        - heading "Window opening control devices (WOCD)" [level=3] [ref=f8e814]
+                      - blockquote [ref=f8e815]: the probability of young children opening a window greater than 100mm and falling out of that window opening. The Appendix Note A-9.8.8.1 (4) refers to ASTM F2090 “Standard Speciﬁcation for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” as a way of providing the
+                      - paragraph [ref=f8e816]: standata/variances_2023/ma-standata-variance-building-23-bcv-001-2024-04.pdf · page 1 · April 2024 · alberta
+                      - paragraph [ref=f8e817]: "Articles cited: 9.8.8.1, 9.9.10.1"
+                      - paragraph [ref=f8e818]: "Why it may be related: Matched because it cites 9.8.8.1, 9.9.10.1 (also relied on in your application) and mentions window, opening, control, devices, wocd, mechanism, complies, astm."
+                    - listitem [ref=f8e819]:
+                      - generic [ref=f8e820]:
+                        - generic [ref=f8e821]: edmonton policy
+                        - heading "WINDOW OPENING CONTROL DEVICES" [level=3] [ref=f8e822]
+                      - blockquote [ref=f8e823]: devices which meet the requirements of ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms”. Other devices such as fall prevention screens, and fall prevention guards may also be used to achieve compliance to this Article. Contrary
+                      - paragraph [ref=f8e824]: edmonton_policy_solutions/Policy-B23-02-Window-Opening-Control-Devices.pdf · page 1 · edmonton
+                      - paragraph [ref=f8e825]: "Articles cited: 9.8.8.1, 9.9.9.1, 9.9.10.1"
+                      - paragraph [ref=f8e826]: "Why it may be related: Matched because it cites 9.8.8.1, 9.9.10.1 (also relied on in your application) and mentions window, opening, control, devices, wocd, mechanism, complies, astm."
+                    - listitem [ref=f8e827]:
+                      - generic [ref=f8e828]:
+                        - generic [ref=f8e829]: standata interpretation
+                        - heading "Guard requirements for glazing in a window" [level=3] [ref=f8e830]
+                      - blockquote [ref=f8e831]: on the use and acceptance of WOCDs is provided in STANDATA Building Code Variance 23- BCV-001 Window opening control devices (WOCD). Code References Division A, Article 1.4.1.2. 1.4.1.2. Defined Terms Guard means a protective barrier around openings in floors or at the open sides of stairs,
+                      - paragraph [ref=f8e832]: standata/interpretations_2023/ma-standata-interpretation-building-23-bci-018-2026-01.pdf · page 1 · January 2026 · alberta
+                      - paragraph [ref=f8e833]: "Articles cited: 3.3.1.18, 3.3.2.9"
+                      - paragraph [ref=f8e834]: "Why it may be related: Matched because it mentions window, opening, control, devices, wocd, fall, means."
+                    - listitem [ref=f8e835]:
+                      - generic [ref=f8e836]:
+                        - generic [ref=f8e837]: calgary advisory
+                        - heading "Egress Window Guidelines" [level=3] [ref=f8e838]
+                      - blockquote [ref=f8e839]: 380 mm, and b.maintain the required opening during an emergency without the need for additional support (see Appendix A) 3.Where a window required in Sentence (1) opens into a window well, a clearance of not less than 760mm shall be provided in front of the window (see Appendix A). 4.Where the sash
+                      - paragraph [ref=f8e840]: calgary_advisories/advisory-egress-window-guidelines-jun-2022.pdf · page 1 · November 2015 · calgary
+                      - paragraph [ref=f8e841]: "Articles cited: 9.9.10.1, 9.5.1.2"
+                      - paragraph [ref=f8e842]: "Why it may be related: Matched because it cites 9.9.10.1 (also relied on in your application) and mentions window, opening, mechanism, emergency, escape, egress."
+                      - paragraph [ref=f8e843]: "Status note: Advisory Bulletins have no legal status and cannot be used as an official interpretation of the various bylaws, codes and regulations currently in effect."
+                    - listitem [ref=f8e844]:
+                      - generic [ref=f8e845]:
+                        - generic [ref=f8e846]: edmonton policy
+                        - heading "B23-05 Application of 9.9.4.4" [level=3] [ref=f8e847]
+                      - blockquote [ref=f8e848]: "Application of 9.9.4.4 Intent(s) Intent 1. To limit the probability of inadequate fall protection at significant changes in elevation between adjacent surfaces, which could lead to: • persons falling, or • persons falling in an emergency situation, which could lead to delays in the evacuation or"
+                      - paragraph [ref=f8e849]: edmonton_policy_solutions/coe-scpi-pol-int-0001-b23-05-application-of-9944.pdf · page 7 · edmonton
+                      - paragraph [ref=f8e850]: "Articles cited: 9.9.4.4, 9.8.8.1, 7.2.6.3"
+                      - paragraph [ref=f8e851]: "Why it may be related: Matched because it cites 9.8.8.1 (also relied on in your application) and mentions fall, emergency, escape, egress."
+                    - listitem [ref=f8e852]:
+                      - generic [ref=f8e853]:
+                        - generic [ref=f8e854]: standata variance
+                        - heading "Door release hardware" [level=3] [ref=f8e855]
+                      - blockquote [ref=f8e856]: "ABC 2014 Sentence 3.4.6.16.(1) Door Release Hardware states: 1) Except for devices on doors serving a contained use area or an impeded egress zone designed to be remotely released in conformance with Article 3.3.1.13., and except as permitted by Sentence (4) and Article 3.4.6.17., locking, latching"
+                      - paragraph [ref=f8e857]: standata/variances_2014/14-bcv-011-14-fcv-012-doorreleasehardware.pdf · page 1 · October 2017 · alberta
+                      - paragraph [ref=f8e858]: "Articles cited: 3.4.6.16, 3.3.1.13, 3.4.6.17, 3.2.4.8"
+                      - paragraph [ref=f8e859]: "Why it may be related: Matched because it mentions opening, devices, mechanism, egress, release."
+                  - paragraph [ref=f8e860]: An issued variance, interpretation or policy may already cover your situation. Confirm with your Safety Codes Officer.
+                - generic [ref=f8e861]:
+                  - generic [ref=f8e862]: What kind of variance is this?
+                  - combobox "What kind of variance is this?" [ref=f8e863]:
+                    - option "Single-exit stair (point access block)"
+                    - option "Any other NBC requirement" [selected]
+                - paragraph [ref=f8e864]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=f8e867]:
+                  - heading "In your application 3" [level=2] [ref=f8e868]:
+                    - text: In your application
+                    - generic [ref=f8e869]: "3"
+                  - list [ref=f8e870]:
+                    - listitem [ref=f8e871]:
+                      - generic [ref=f8e872]:
+                        - generic "NBC(AE) 2023" [ref=f8e873]: NBC
+                        - generic [ref=f8e874]: 9.8.8.1.(4)
+                        - generic [ref=f8e875]: Verified in code text
+                      - paragraph [ref=f8e878]:
+                        - generic [ref=f8e879]: Intent
+                        - text: Intent 1. To expand the application of Section 9.8. to include guards for windows. Intent 1. To limit the probability that inadequate fall protection...
+                      - generic [ref=f8e880]:
+                        - generic [ref=f8e881]: What it protects
+                        - list [ref=f8e883]:
+                          - listitem [ref=f8e884]: tripping, slipping, falling, contact, drowning or collision
+                      - generic [ref=f8e885]:
+                        - generic [ref=f8e886]: NBC(AE) 2023, page 1124
+                        - generic [ref=f8e887] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=f8e888]
+                          - generic [ref=f8e889]: Included in my application
+                    - listitem [ref=f8e890]:
+                      - generic [ref=f8e891]:
+                        - generic "NBC(AE) 2023" [ref=f8e892]: NBC
+                        - generic [ref=f8e893]: 9.8.8.1.(5)
+                        - generic [ref=f8e894]: Verified in code text
+                      - paragraph [ref=f8e897]:
+                        - generic [ref=f8e898]: Intent
+                        - text: Intent 1. To exempt windows from the application of Sentence 9.8.8.1.(4) where the risk of falling or the harm that would result from a fall is limited...
+                      - generic [ref=f8e899]:
+                        - generic [ref=f8e900]: What it protects
+                        - list [ref=f8e902]:
+                          - listitem [ref=f8e903]: tripping, slipping, falling, contact, drowning or collision
+                      - generic [ref=f8e904]:
+                        - generic [ref=f8e905]: NBC(AE) 2023, page 1124
+                        - generic [ref=f8e906] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=f8e907]
+                          - generic [ref=f8e908]: Included in my application
+                    - listitem [ref=f8e909]:
+                      - generic [ref=f8e910]:
+                        - generic "NBC(AE) 2023" [ref=f8e911]: NBC
+                        - generic [ref=f8e912]: 9.9.10.1.(1)
+                        - generic [ref=f8e913]: Verified in code text
+                      - paragraph [ref=f8e916]:
+                        - generic [ref=f8e917]: Intent
+                        - text: Intent 1. To limit the probability that, in an emergency situation, all means of egress will be blocked, which could lead to persons being trapped in a bedroom...
+                      - generic [ref=f8e918]:
+                        - generic [ref=f8e919]: What it protects
+                        - list [ref=f8e921]:
+                          - listitem [ref=f8e922]: persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))
+                      - generic [ref=f8e923]:
+                        - generic [ref=f8e924]: NBC(AE) 2023, page 1126
+                        - generic [ref=f8e925] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=f8e926]
+                          - generic [ref=f8e927]: Included in my application
+                - region [ref=f8e928]:
+                  - heading "Add another article" [level=2] [ref=f8e929]
+                  - search [ref=f8e930]:
+                    - generic [ref=f8e931]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=f8e932]
+                    - generic [ref=f8e933]: Search in
+                    - combobox "Search in" [ref=f8e934]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=f8e935]
+            - complementary [ref=f8e939]:
+              - generic [ref=f8e940]:
+                - heading "Why this step?" [level=2] [ref=f8e941]
+                - paragraph [ref=f8e942]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=f8e943]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=f8e944]:
+                - heading "Not sure?" [level=2] [ref=f8e945]
+                - paragraph [ref=f8e946]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=f8e947]:
+            - button "Back" [ref=f8e948] [cursor=pointer]
+            - generic [ref=f8e951]: 3 articles selected
+            - 'button "Next: Fill and review" [ref=f8e952] [cursor=pointer]'
+  - contentinfo [ref=f8e21]:
+    - generic [ref=f8e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

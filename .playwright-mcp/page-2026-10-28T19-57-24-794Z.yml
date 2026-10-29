@@ -1,0 +1,177 @@
+- generic [ref=f1e3]:
+  - link "Skip to main content" [ref=f1e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f1e5]:
+    - generic [ref=f1e6]:
+      - link "Variance Workspace, home" [ref=f1e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e8]: Variance Workspace
+        - generic [ref=f1e9]: Alberta building code variances
+      - group "View as" [ref=f1e11]:
+        - button "Applicant" [ref=f1e12] [cursor=pointer]
+        - button "Reviewer" [pressed] [ref=f1e13] [cursor=pointer]
+  - main [ref=f1e14]:
+    - generic [ref=f1e24]:
+      - navigation "Form sections" [ref=f1e25]:
+        - list [ref=f1e26]:
+          - listitem [ref=f1e27]:
+            - button "Applicant, 4 open" [ref=f1e28] [cursor=pointer]:
+              - generic [ref=f1e29]: A
+              - generic [ref=f1e30]: Applicant
+              - generic [ref=f1e31]: 4 open
+          - listitem [ref=f1e32]:
+            - button "Project, 7 open" [ref=f1e33] [cursor=pointer]:
+              - generic [ref=f1e34]: B
+              - generic [ref=f1e35]: Project
+              - generic [ref=f1e36]: 7 open
+          - listitem [ref=f1e37]:
+            - button "Code, 12 open" [ref=f1e38] [cursor=pointer]:
+              - generic [ref=f1e39]: C
+              - generic [ref=f1e40]: Code
+              - generic [ref=f1e41]: 12 open
+          - listitem [ref=f1e42]:
+            - button "Docs, 2 open" [ref=f1e43] [cursor=pointer]:
+              - generic [ref=f1e44]: D
+              - generic [ref=f1e45]: Docs
+              - generic [ref=f1e46]: 2 open
+          - listitem [ref=f1e47]:
+            - button "Sign, 3 open" [ref=f1e48] [cursor=pointer]:
+              - generic [ref=f1e49]: S
+              - generic [ref=f1e50]: Sign
+              - generic [ref=f1e51]: 3 open
+      - generic [ref=f1e52]:
+        - generic [ref=f1e53]: Reviewing · Section A · Applicant
+        - generic [ref=f1e55]:
+          - region [ref=f1e56]:
+            - generic [ref=f1e57]:
+              - heading "Supporting documents are missing, the proposed alternative or its evidence is incomplete, and registered-professional involvement needs confirming. 6 of 28 technical checks done." [level=1] [ref=f1e58]
+              - list "Top issues" [ref=f1e59]:
+                - listitem [ref=f1e60]:
+                  - strong [ref=f1e61]: Supporting documents listed
+                  - generic [ref=f1e62]: No supporting documents listed
+                  - generic [ref=f1e63]: Documents
+                - listitem [ref=f1e64]:
+                  - strong [ref=f1e65]: Existing variance, interpretation or policy
+                  - generic [ref=f1e66]: "A similar issued variance or policy may already cover this: STANDATA 23-BCV-004 (Sprinkler-protected glazing in fire-resistant wall assemblies) p.2; STANDATA 14-BCV-018R1 (Fire-resistant wall assemblies) p.1. Confirm it does not before filing."
+                  - generic [ref=f1e67]: Earlier decisions
+                - listitem [ref=f1e68]:
+                  - strong [ref=f1e69]: "Section C: 9.10.3.1.(1)"
+                  - generic [ref=f1e70]: Article exists, but the NBC attributes no objectives to it here; the root-article rule applies (use the objectives attributed to the root article) and a person should confirm
+                  - generic [ref=f1e71]: Code articles
+                - listitem [ref=f1e72]:
+                  - strong [ref=f1e73]: "Evidence for: Condition 1 (verbatim from 23-BCV-004)"
+                  - generic [ref=f1e74]: No evidence document referenced
+                  - generic [ref=f1e75]: Alternative
+                - listitem [ref=f1e76]:
+                  - strong [ref=f1e77]: Registered professional involvement
+                  - generic [ref=f1e78]: Confirm with the Safety Codes Officer whether a registered professional is required (NBC Division C 2.4.1.1) (Div C 2.4.2.2 also applies). Not a stop; the 2.3.1.1 documentation is needed either way.
+                  - generic [ref=f1e79]: Professional
+              - paragraph [ref=f1e80]: "Draft summary Supporting documents are missing, the proposed alternative or its evidence is incomplete, and registered-professional involvement needs confirming. 6 of 28 technical checks done. Check first: Supporting documents listed. No supporting documents listed. Administrative details: 2 of 6 done."
+              - paragraph [ref=f1e81]: Confirm with the Safety Codes Officer whether a registered professional is required (NBC Division C 2.4.1.1)
+            - generic [ref=f1e82]:
+              - generic [ref=f1e83]:
+                - generic [ref=f1e84]:
+                  - generic [ref=f1e85]:
+                    - text: Administrative details
+                    - generic [ref=f1e86]: 2/6
+                  - progressbar "Administrative details" [ref=f1e87]
+                - generic [ref=f1e89]:
+                  - generic [ref=f1e90]:
+                    - text: Technical content
+                    - generic [ref=f1e91]: 6/28
+                  - progressbar "Technical content" [ref=f1e92]
+              - button "Draft request for information" [ref=f1e94] [cursor=pointer]
+              - paragraph [ref=f1e97]: Creates an editable email listing open items. Completeness only, not a technical opinion.
+          - generic [ref=f1e98]:
+            - region [ref=f1e99]:
+              - 'heading "Checklist: Section A" [level=2] [ref=f1e100]'
+              - list [ref=f1e102]:
+                - listitem [ref=f1e103]:
+                  - button "Owner name Missing Administrative" [ref=f1e104] [cursor=pointer]:
+                    - generic [ref=f1e105]: Owner name
+                    - generic [ref=f1e106]: Missing
+                    - generic [ref=f1e109]: Administrative
+                - listitem [ref=f1e110]:
+                  - button "Mailing address Missing Administrative" [ref=f1e111] [cursor=pointer]:
+                    - generic [ref=f1e112]: Mailing address
+                    - generic [ref=f1e113]: Missing
+                    - generic [ref=f1e116]: Administrative
+                - listitem [ref=f1e117]:
+                  - button "Email Missing Administrative" [ref=f1e118] [cursor=pointer]:
+                    - generic [ref=f1e119]: Email
+                    - generic [ref=f1e120]: Missing
+                    - generic [ref=f1e123]: Administrative
+                - listitem [ref=f1e124]:
+                  - button "Date of request Missing Administrative" [ref=f1e125] [cursor=pointer]:
+                    - generic [ref=f1e126]: Date of request
+                    - generic [ref=f1e127]: Missing
+                    - generic [ref=f1e130]: Administrative
+            - region [ref=f1e131]:
+              - heading "Mind map" [level=2] [ref=f1e132]
+              - group "Application mind map. Use the checklist for a keyboard-friendly version." [ref=f1e133]:
+                - application [ref=f1e134]:
+                  - generic [ref=f1e136]:
+                    - generic:
+                      - generic:
+                        - img:
+                          - group "Edge from root to sec.A" [ref=f1e137] [cursor=pointer]
+                        - img:
+                          - group "Edge from root to sec.B" [ref=f1e140] [cursor=pointer]
+                        - img:
+                          - group "Edge from root to sec.C"
+                        - img:
+                          - group "Edge from root to sec.D" [ref=f1e143] [cursor=pointer]
+                        - img:
+                          - group "Edge from root to sec.SIGN" [ref=f1e146] [cursor=pointer]
+                      - generic:
+                        - group [ref=f1e149] [cursor=pointer]:
+                          - generic [ref=f1e155]:
+                            - generic [ref=f1e156]: Application
+                            - generic [ref=f1e157]: Missing
+                        - group [ref=f1e159] [cursor=pointer]:
+                          - generic [ref=f1e165]:
+                            - generic [ref=f1e166]: A. Applicant
+                            - generic [ref=f1e167]: Missing, 0 of 4 done
+                        - group [ref=f1e169] [cursor=pointer]:
+                          - generic [ref=f1e175]:
+                            - generic [ref=f1e176]: B. Project and location
+                            - generic [ref=f1e177]: Missing, 2 of 9 done
+                        - group [ref=f1e179] [cursor=pointer]:
+                          - generic [ref=f1e186]:
+                            - generic [ref=f1e187]: C. Code variance
+                            - generic [ref=f1e188]: Please confirm, 6 of 18 done
+                        - group [ref=f1e190] [cursor=pointer]:
+                          - generic [ref=f1e196]:
+                            - generic [ref=f1e197]: D. Supporting documents
+                            - generic [ref=f1e198]: Missing, 0 of 2 done
+                        - group [ref=f1e200] [cursor=pointer]:
+                          - generic [ref=f1e206]:
+                            - generic [ref=f1e207]: Declarations
+                            - generic [ref=f1e208]: Missing, 0 of 3 done
+                  - generic "Control Panel" [ref=f1e210]:
+                    - button "Zoom In" [ref=f1e211] [cursor=pointer]
+                    - button "Zoom Out" [ref=f1e214] [cursor=pointer]
+                    - button "Fit View" [ref=f1e217] [cursor=pointer]
+                - generic [ref=f1e221]:
+                  - generic [ref=f1e222]: Click a section to open it.
+                  - button "Expand all" [ref=f1e223] [cursor=pointer]
+                - list "Legend" [ref=f1e224]:
+                  - listitem [ref=f1e225]:
+                    - generic [ref=f1e226]: Complete
+                  - listitem [ref=f1e230]:
+                    - generic [ref=f1e231]: Missing
+                  - listitem [ref=f1e234]:
+                    - generic [ref=f1e235]: Please confirm
+                  - listitem [ref=f1e239]:
+                    - generic [ref=f1e240]: Professional needed
+                  - listitem [ref=f1e244]:
+                    - generic [ref=f1e245]: From code lookup
+            - region [ref=f1e248]:
+              - heading "Evidence" [level=2] [ref=f1e249]
+              - generic [ref=f1e250]:
+                - paragraph [ref=f1e252]: Select an item on the checklist or the map to see its evidence here.
+                - heading "Documents (0)" [level=3] [ref=f1e253]
+                - paragraph [ref=f1e254]: No documents listed.
+  - contentinfo [ref=f1e21]:
+    - generic [ref=f1e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f1e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

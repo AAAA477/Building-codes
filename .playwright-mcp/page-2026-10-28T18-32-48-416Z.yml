@@ -1,0 +1,204 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - group "View as" [ref=f8e11]:
+        - button "Applicant" [ref=f8e12] [cursor=pointer]
+        - button "Reviewer" [pressed] [ref=f8e13] [cursor=pointer]
+  - main [ref=f8e14]:
+    - generic [ref=f8e425]:
+      - navigation "Form sections" [ref=f8e426]:
+        - list [ref=f8e427]:
+          - listitem [ref=f8e428]:
+            - button "Applicant, 4 open" [ref=f8e429] [cursor=pointer]:
+              - generic [ref=f8e430]: A
+              - generic [ref=f8e431]: Applicant
+              - generic [ref=f8e432]: 4 open
+          - listitem [ref=f8e433]:
+            - button "Project, 7 open" [ref=f8e434] [cursor=pointer]:
+              - generic [ref=f8e435]: B
+              - generic [ref=f8e436]: Project
+              - generic [ref=f8e437]: 7 open
+          - listitem [ref=f8e438]:
+            - button "Code, 12 open" [ref=f8e439] [cursor=pointer]:
+              - generic [ref=f8e440]: C
+              - generic [ref=f8e441]: Code
+              - generic [ref=f8e442]: 12 open
+          - listitem [ref=f8e443]:
+            - button "Docs, 2 open" [ref=f8e444] [cursor=pointer]:
+              - generic [ref=f8e445]: D
+              - generic [ref=f8e446]: Docs
+              - generic [ref=f8e447]: 2 open
+          - listitem [ref=f8e448]:
+            - button "Sign, 3 open" [ref=f8e449] [cursor=pointer]:
+              - generic [ref=f8e450]: S
+              - generic [ref=f8e451]: Sign
+              - generic [ref=f8e452]: 3 open
+      - generic [ref=f8e453]:
+        - generic [ref=f8e454]: Reviewing · Section A · Applicant
+        - generic [ref=f8e455]:
+          - generic [ref=f8e456]:
+            - region [ref=f8e457]:
+              - generic [ref=f8e458]:
+                - heading "28 gaps to resolve before this can be reviewed" [level=1] [ref=f8e459]
+                - paragraph [ref=f8e460]: "Draft summary Application by the applicant on topic: sprinkler protected glazing. Completeness 22%. 15 missing, 13 uncertain, 0 need a registered professional. Main gaps: Owner name; Mailing address; Email; Date of request; Project description. A registered professional is required; engineering analysis is outside this tool."
+                - paragraph [ref=f8e461]: Confirm with the Safety Codes Officer whether a registered professional is required (NBC Division C 2.4.1.1)
+              - generic [ref=f8e462]:
+                - generic [ref=f8e464]:
+                  - generic [ref=f8e465]:
+                    - text: Items complete
+                    - generic [ref=f8e466]: 8/36
+                  - progressbar "Items complete" [ref=f8e467]
+                - button "Draft request for information" [ref=f8e469] [cursor=pointer]
+                - paragraph [ref=f8e472]: Creates an editable email listing open items. Completeness only, not a technical opinion.
+            - generic [ref=f8e473]:
+              - region [ref=f8e474]:
+                - 'heading "Checklist: Section A" [level=2] [ref=f8e475]'
+                - list [ref=f8e477]:
+                  - listitem [ref=f8e478]:
+                    - button "Owner name Missing" [ref=f8e479] [cursor=pointer]:
+                      - generic [ref=f8e480]: Owner name
+                      - generic [ref=f8e481]: Missing
+                  - listitem [ref=f8e484]:
+                    - button "Mailing address Missing" [ref=f8e485] [cursor=pointer]:
+                      - generic [ref=f8e486]: Mailing address
+                      - generic [ref=f8e487]: Missing
+                  - listitem [ref=f8e490]:
+                    - button "Email Missing" [ref=f8e491] [cursor=pointer]:
+                      - generic [ref=f8e492]: Email
+                      - generic [ref=f8e493]: Missing
+                  - listitem [ref=f8e496]:
+                    - button "Date of request Missing" [ref=f8e497] [cursor=pointer]:
+                      - generic [ref=f8e498]: Date of request
+                      - generic [ref=f8e499]: Missing
+              - region [ref=f8e502]:
+                - heading "Mind map" [level=2] [ref=f8e503]
+                - group "Application mind map. Use the checklist for a keyboard-friendly version." [ref=f8e504]:
+                  - application [ref=f8e505]:
+                    - generic [ref=f8e507]:
+                      - generic:
+                        - generic:
+                          - img:
+                            - group "Edge from root to sec.A" [ref=f8e508] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.B" [ref=f8e511] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.C"
+                          - img:
+                            - group "Edge from root to sec.D" [ref=f8e514] [cursor=pointer]
+                          - img:
+                            - group "Edge from root to sec.SIGN" [ref=f8e517] [cursor=pointer]
+                        - generic:
+                          - group [ref=f8e520] [cursor=pointer]:
+                            - generic [ref=f8e526]:
+                              - generic [ref=f8e527]: Application
+                              - generic [ref=f8e528]: Missing
+                          - group [ref=f8e530] [cursor=pointer]:
+                            - generic [ref=f8e536]:
+                              - generic [ref=f8e537]: A. Applicant
+                              - generic [ref=f8e538]: Missing, 0 of 4 done
+                          - group [ref=f8e540] [cursor=pointer]:
+                            - generic [ref=f8e546]:
+                              - generic [ref=f8e547]: B. Project and location
+                              - generic [ref=f8e548]: Missing, 2 of 9 done
+                          - group [ref=f8e550] [cursor=pointer]:
+                            - generic [ref=f8e557]:
+                              - generic [ref=f8e558]: C. Code variance
+                              - generic [ref=f8e559]: Please confirm, 6 of 18 done
+                          - group [ref=f8e561] [cursor=pointer]:
+                            - generic [ref=f8e567]:
+                              - generic [ref=f8e568]: D. Supporting documents
+                              - generic [ref=f8e569]: Missing, 0 of 2 done
+                          - group [ref=f8e571] [cursor=pointer]:
+                            - generic [ref=f8e577]:
+                              - generic [ref=f8e578]: Declarations
+                              - generic [ref=f8e579]: Missing, 0 of 3 done
+                    - generic "Control Panel" [ref=f8e581]:
+                      - button "Zoom In" [ref=f8e582] [cursor=pointer]
+                      - button "Zoom Out" [ref=f8e585] [cursor=pointer]
+                      - button "Fit View" [ref=f8e588] [cursor=pointer]
+                  - generic [ref=f8e592]:
+                    - generic [ref=f8e593]: Click a section to open it.
+                    - button "Expand all" [ref=f8e594] [cursor=pointer]
+                  - list "Legend" [ref=f8e595]:
+                    - listitem [ref=f8e596]:
+                      - generic [ref=f8e597]: Complete
+                    - listitem [ref=f8e601]:
+                      - generic [ref=f8e602]: Missing
+                    - listitem [ref=f8e605]:
+                      - generic [ref=f8e606]: Please confirm
+                    - listitem [ref=f8e610]:
+                      - generic [ref=f8e611]: Professional needed
+                    - listitem [ref=f8e615]:
+                      - generic [ref=f8e616]: From code lookup
+              - region [ref=f8e619]:
+                - heading "Evidence" [level=2] [ref=f8e620]
+                - generic [ref=f8e621]:
+                  - paragraph [ref=f8e623]: Select an item on the checklist or the map to see its evidence here.
+                  - heading "Documents (0)" [level=3] [ref=f8e624]
+                  - paragraph [ref=f8e625]: No documents listed.
+          - dialog [active] [ref=f8e627]:
+            - generic [ref=f8e628]:
+              - heading "Request for information Draft" [level=2] [ref=f8e629]
+              - button "Close" [ref=f8e630] [cursor=pointer]
+            - paragraph [ref=f8e631]: A reviewer must read, edit and send this. It is not sent automatically.
+            - generic [ref=f8e632]:
+              - generic [ref=f8e633]:
+                - generic [ref=f8e634]:
+                  - term [ref=f8e635]: To
+                  - definition [ref=f8e636]: "[to be completed by applicant]"
+                - generic [ref=f8e637]:
+                  - term [ref=f8e638]: Authority
+                  - definition [ref=f8e639]: accreditation@safetycodes.ab.ca
+                - generic [ref=f8e640]:
+                  - term [ref=f8e641]: Subject
+                  - definition [ref=f8e642]:
+                    - strong [ref=f8e643]: Request for information - variance application e7e8a124
+              - generic [ref=f8e644]:
+                - paragraph [ref=f8e645]: "Re: Variance application e7e8a124 (sprinkler protected glazing)"
+                - paragraph [ref=f8e646]: Dear [to be completed by applicant],
+                - paragraph [ref=f8e647]: "Thank you for your application. To continue our completeness review, please provide the following:"
+                - paragraph [ref=f8e648]: "1. [A] Owner name: Owner name not provided"
+                - paragraph [ref=f8e649]: "2. [A] Mailing address: Mailing address not provided"
+                - paragraph [ref=f8e650]: "3. [A] Email: Email not provided"
+                - paragraph [ref=f8e651]: "4. [A] Date of request: Date of request not provided"
+                - paragraph [ref=f8e652]: "5. [B] Project description: Project description not provided"
+                - paragraph [ref=f8e653]: "6. [B] Occupancy: Occupancy not provided"
+                - paragraph [ref=f8e654]: "7. [B] Number of storeys: Number of storeys not provided"
+                - paragraph [ref=f8e655]: "8. [B] Building area: Building area not provided"
+                - paragraph [ref=f8e656]: "9. [B] Sprinklered (yes/no): Sprinklered (yes/no) not provided"
+                - paragraph [ref=f8e657]: "10. [B] New construction or renovation: New construction or renovation not provided"
+                - paragraph [ref=f8e658]: "11. [B] Part 3 / Part 9: Occupancy not provided; cannot determine Part 3 or Part 9."
+                - paragraph [ref=f8e659]: "12. [C] Evidence for: Condition 1 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e660]: "13. [C] Evidence for: Condition 2 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e661]: "14. [C] Evidence for: Condition 3 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e662]: "15. [C] Evidence for: Condition 4 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e663]: "16. [C] Evidence for: Condition 5 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e664]: "17. [C] Evidence for: Condition 6 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e665]: "18. [C] Evidence for: Condition 7 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e666]: "19. [C] Evidence for: Condition 8 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e667]: "20. [C] Evidence for: Condition 9 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e668]: "21. [C] Evidence for: Condition 10 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e669]: "22. [C] Evidence for: Condition 11 (verbatim from 23-BCV-004): No evidence document referenced"
+                - paragraph [ref=f8e670]: "23. [C] Section C: 9.10.3.1.(1): Article exists, but the NBC attributes no objectives to it here; the root-article rule applies (use the objectives attributed to the root article) and a person should confirm"
+                - paragraph [ref=f8e671]: "24. [D] Registered professional involvement: Confirm with the Safety Codes Officer whether registered-professional involvement is required (Div C 2.4.1.1, 2.4.2.2); not a stop. The 2.3.1.1 documentation is needed either way."
+                - paragraph [ref=f8e672]: "25. [D] Supporting documents listed: No supporting documents listed"
+                - paragraph [ref=f8e673]: "26. [SIGN] Privacy consent: To be completed by the owner (not set by this tool)"
+                - paragraph [ref=f8e674]: "27. [SIGN] Equal-or-better acknowledgement: To be completed by the owner (not set by this tool)"
+                - paragraph [ref=f8e675]: "28. [SIGN] Owner signed: To be completed by the owner (not set by this tool)"
+                - paragraph [ref=f8e676]: Completeness check only; no statement is made about safety, equivalence or approval.
+                - paragraph [ref=f8e677]: Regards,
+                - paragraph [ref=f8e678]: "[Reviewer name]"
+              - group [ref=f8e679]:
+                - generic "28 open items by group" [ref=f8e680] [cursor=pointer]
+            - generic [ref=f8e681]:
+              - button "Copy text" [ref=f8e682] [cursor=pointer]
+              - button "Done" [ref=f8e683] [cursor=pointer]
+  - contentinfo [ref=f8e21]:
+    - generic [ref=f8e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

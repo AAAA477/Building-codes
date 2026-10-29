@@ -1,0 +1,227 @@
+{
+ "note": "Ground truth for the completeness checker. 'defects' lists only what was removed or corrupted from a real-derived record (ablation). 'baseline_placeholders' are common to every sample (identity fields are deliberately blank).",
+ "baseline_placeholders": [
+  "applicant.owner_name",
+  "applicant.owner_representative",
+  "applicant.mailing_address",
+  "applicant.email",
+  "applicant.date_of_request",
+  "location.permit_number (stair sample)",
+  "location.municipal_address (stair sample)",
+  "declarations.* (all false; humans sign)"
+ ],
+ "samples": {
+  "flawed_missing_section_d": {
+   "base": "standata_23_bcv_004_sprinkler_glazing",
+   "defects": [
+    {
+     "id": "MSD-1",
+     "path": "section_d",
+     "description": "Section D emptied: the four supporting-documentation rows (test report, NFPA 13 design, placard/isolation valve, water supply duration) were removed",
+     "kind": "removed"
+    }
+   ]
+  },
+  "flawed_unverified_citation": {
+   "base": "good_stair_edmonton",
+   "defects": [
+    {
+     "id": "UC-1",
+     "path": "variance.section_c[0].article",
+     "description": "Article 3.4.2.9.(1) does not exist in NBC(AE) 2023 (original 3.4.2.1.(1) replaced)",
+     "kind": "corrupted"
+    },
+    {
+     "id": "UC-2",
+     "path": "variance.acceptable_solution.articles[0]",
+     "description": "Acceptable-solution list cites non-existent article 3.4.2.9.(1)",
+     "kind": "corrupted"
+    }
+   ]
+  },
+  "flawed_no_professional": {
+   "base": "good_stair_edmonton",
+   "defects": [
+    {
+     "id": "NP-1",
+     "path": "professional_flags",
+     "description": "Professional flag removed although Edmonton requires professional involvement and a Fire Protection or Life Safety Code Consultant for a Point Access Block",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-2",
+     "path": "section_d[0].responsible_party",
+     "description": "No responsible professional or organisation for 'D1'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-3",
+     "path": "section_d[1].responsible_party",
+     "description": "No responsible professional or organisation for 'D2'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-4",
+     "path": "section_d[2].responsible_party",
+     "description": "No responsible professional or organisation for 'D3'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-5",
+     "path": "section_d[3].responsible_party",
+     "description": "No responsible professional or organisation for 'D4'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-6",
+     "path": "section_d[4].responsible_party",
+     "description": "No responsible professional or organisation for 'D5'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-7",
+     "path": "section_d[5].responsible_party",
+     "description": "No responsible professional or organisation for 'D6'",
+     "kind": "removed"
+    },
+    {
+     "id": "NP-8",
+     "path": "section_d[0].professional_required",
+     "description": "professional_required flipped to false for 'D1'",
+     "kind": "corrupted"
+    },
+    {
+     "id": "NP-9",
+     "path": "section_d[1].professional_required",
+     "description": "professional_required flipped to false for 'D2'",
+     "kind": "corrupted"
+    },
+    {
+     "id": "NP-10",
+     "path": "section_d[2].professional_required",
+     "description": "professional_required flipped to false for 'D3'",
+     "kind": "corrupted"
+    },
+    {
+     "id": "NP-11",
+     "path": "section_d[3].professional_required",
+     "description": "professional_required flipped to false for 'D4'",
+     "kind": "corrupted"
+    },
+    {
+     "id": "NP-12",
+     "path": "section_d[4].professional_required",
+     "description": "professional_required flipped to false for 'D5'",
+     "kind": "corrupted"
+    },
+    {
+     "id": "NP-13",
+     "path": "section_d[5].professional_required",
+     "description": "professional_required flipped to false for 'D6'",
+     "kind": "corrupted"
+    }
+   ]
+  },
+  "partial_intake": {
+   "base": "good_stair_edmonton",
+   "defects": [
+    {
+     "id": "PI-1",
+     "path": "variance.acceptable_solution.articles",
+     "description": "No benchmark acceptable solution identified",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-2",
+     "path": "variance.proposed_alternative.summary",
+     "description": "Proposed alternative not described",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-3",
+     "path": "variance.proposed_alternative.mitigations",
+     "description": "No mitigations listed",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-4",
+     "path": "variance.section_c",
+     "description": "Section C empty",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-5",
+     "path": "section_d",
+     "description": "Section D empty",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-6",
+     "path": "professional_flags",
+     "description": "No professional flag",
+     "kind": "removed"
+    },
+    {
+     "id": "PI-7",
+     "path": "project.storeys",
+     "description": "Storeys not answered",
+     "kind": "baseline_blank"
+    },
+    {
+     "id": "PI-8",
+     "path": "project.units_per_floor",
+     "description": "Units per floor not answered",
+     "kind": "baseline_blank"
+    },
+    {
+     "id": "PI-9",
+     "path": "project.sprinklered",
+     "description": "Sprinklered status not answered",
+     "kind": "baseline_blank"
+    },
+    {
+     "id": "PI-10",
+     "path": "project.building_area_m2",
+     "description": "Building area not answered",
+     "kind": "baseline_blank"
+    },
+    {
+     "id": "PI-11",
+     "path": "project.new_or_renovation",
+     "description": "New or renovation not answered",
+     "kind": "baseline_blank"
+    }
+   ]
+  },
+  "good_stair_edmonton": {
+   "base": null,
+   "defects": [],
+   "expected_notes": [
+    "Blank identity placeholders and unsigned declarations are baseline, not injected defects.",
+    "Section D rows are to_be_prepared; a checker should report them as needs_professional, not as injected defects.",
+    "project.storeys/units_per_floor/sprinklered/new_or_renovation are blank in this sample as well (baseline_blank)."
+   ]
+  },
+  "standata_23_bcv_001_wocd": {
+   "base": null,
+   "defects": [],
+   "expected_notes": [
+    "Real-derived reference record (accepted STANDATA variance). Applicant identity blank by design."
+   ]
+  },
+  "standata_23_bcv_004_sprinkler_glazing": {
+   "base": null,
+   "defects": [],
+   "expected_notes": [
+    "Real-derived reference record (accepted STANDATA variance). Applicant identity blank by design."
+   ]
+  },
+  "standata_23_bcv_008r1_exhaust_clearance": {
+   "base": null,
+   "defects": [],
+   "expected_notes": [
+    "Real-derived reference record (accepted STANDATA variance). Applicant identity blank by design."
+   ]
+  }
+ }
+}

@@ -1,0 +1,13 @@
+[   11056ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5191/node_modules/.vite/deps/chunk-XPR23Y44.js?v=0f8358a1:21548
+[   11461ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5191/node_modules/.vite/deps/chunk-XPR23Y44.js?v=0f8358a1:21548
+[   46749ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5191/@vite/client:559
+[  126311ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  209788ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  242837ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  258976ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  315459ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  316561ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  363815ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  365817ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  419282ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0
+[  423701ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5191/:0

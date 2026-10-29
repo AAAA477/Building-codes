@@ -1,0 +1,49 @@
+{
+ "chunks": 2297,
+ "documents_per_type": {
+  "calgary_advisory": 39,
+  "edmonton_policy": 9,
+  "nrc_background": 2,
+  "act": 1,
+  "users_guide": 1,
+  "web_page": 6,
+  "standata_variance": 74,
+  "standata_interpretation": 40,
+  "standata_bulletin": 13
+ },
+ "chunks_per_type": {
+  "calgary_advisory": 145,
+  "edmonton_policy": 117,
+  "nrc_background": 31,
+  "act": 63,
+  "users_guide": 1215,
+  "web_page": 76,
+  "standata_bulletin": 113,
+  "standata_interpretation": 263,
+  "standata_variance": 274
+ },
+ "failures": [
+  {
+   "file": "pages/safetycodes_variances.html",
+   "error": "ValueError: saved page is a 'Server Error' page, not content; skipped"
+  }
+ ],
+ "citation_coverage": {
+  "chunks_with_verified_citation": 1385,
+  "verified_refs": 3046,
+  "unverified_refs": 460,
+  "unverified_note": "Refs matching the article pattern but absent from nbc_articles.json (other codes, table numbers or dates); kept in articles_unverified, never shown as citations."
+ },
+ "titles_from_filename": [
+  "background/NRC_Accepting_alternate_solutions.pdf",
+  "background/NRC_Canadas_objective_based_codes.pdf",
+  "calgary_advisories/br-advisory-service-cable-violation.pdf",
+  "edmonton_policy_solutions/Alternative-Solution-for-Secondary-Suites-in-Row-houses.pdf",
+  "edmonton_policy_solutions/Secondary_Suite_Design_Guide.pdf",
+  "guides/Illustrated_Users_Guide_NBC2020_Part9.pdf",
+  "standata/variances_2014/14-bcv-017-energuideratingsystem.pdf",
+  "standata/variances_2014/14-fcv-022-14-bcv-020.pdf",
+  "standata/variances_2019/ma-standata-19-bcv-004-energuide-rating-system-for-new-homes.pdf",
+  "standata/variances_2019/ma-standata-joint-variance-19-fcv-020-19-bcv-016.pdf"
+ ]
+}

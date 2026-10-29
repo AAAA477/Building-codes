@@ -1,0 +1,164 @@
+
+=====PAGE 1=====
+ 
+Building STANDATA | Alberta.ca 
+©2024 Government of Alberta  |  October 2024  | Municipal Affairs 
+ 
+ 
+STANDATA variance 23-BCV-008(REV1) 
+Building 
+Residential exhaust outlet clearance from air intakes 
+Date Issued: October 2024 
+Page 1 of 4 
+Purpose 
+Provides an alternative solution to Sentence 9.32.3.13.(4) for the minimum clearance requirement for domestic 
+exhaust outlets that discharge air containing moisture, such as kitchen, bathroom, and clothes dryer exhaust 
+outlets, from air intakes. 
+Discussion 
+The National Building Code of Canada 2020 introduced changes to Article 9.32.3.13. for minimum clearance 
+requirements related to exhaust vents, soffits, and air intakes. The National Building Code – 2023 Alberta Edition 
+(NBC(AE)) subsequently harmonized with these changes.  
+The minimum clearance required between a gas vent or oil fill pipe and a mechanically vented air intake was 
+increased from 900 mm to 1 800 mm in Sentence 9.32.3.13.(3).  
+Additionally, new Sentences (4) to (6) were introduced to address the minimum clearance required from exhaust 
+outlets discharging moisture-laden air to soffits and air intakes. While the national code change rationale for 
+Sentences (4) to (6) specifically explained the application of the 1 800 mm minimum clearance requirement to 
+soffits, it did not address the application to air intakes as provided in Sentence (4). A required 1 800 mm minimum 
+clearance between moist-air exhaust outlets and air intakes for domestic applications was not explained and other 
+standards suggest it can be potentially reduced. 
+CSA-B149.1, “Natural gas and propane installation code,” (CSA B149.1) provides minimum clearances between 
+clothes dryer vent terminations and air intakes: 900 mm for domestic clothes dryers and 1 800 mm for commercial 
+clothes dryers. As domestic clothes dryer exhaust air typically contains more moisture than bathroom or kitchen 
+exhaust air, this supports the basis for a variance that reduces the 1 800 mm minimum required clearance 
+between a moist-air exhaust outlet and air intake specified by Sentence 9.32.3.13.(4) of the NBC(AE). 
+As air intakes located above moist-air exhaust outlets are more susceptible to the effects of infiltration (due to 
+the rising of warm, moist air), the reduction in the required minimum clearance from 1 800 mm to 900 mm 
+provided in this variance is only applicable to where the moist-air exhaust outlet is located horizontally to the air 
+intake or above it. This maintains the rationale for the changes to Article 9.32.3.13. in the NBC(AE) while 
+providing appropriate reductions in the required minimum clearance for certain dimensions (see Figure A). 
+Air intakes specified by Sentence (4) refer to intakes supplying ventilation air to the building and includes those 
+connected to HRV’s/ERV’s or the return air plenum of a furnace. Note that in cases where the fresh air intake 
+connected to the return air plenum of a furnace is less than 8 inches in diameter, it can be considered as a 
+“building opening” rather than an air intake (as the CSA B149.1 standard also allows for).  
+Moist-air exhaust outlets specified by Sentence (4) include not only bathroom ventilation and clothes dryer 
+exhaust outlets, but kitchen exhaust outlets as well, despite kitchen exhaust outlets not being explicitly mentioned 
+in the Sentence itself or in the rationale for the code change. 
+
+=====PAGE 2=====
+ 
+STANDATA 23-BCV-008(REV1) 
+ 
+Page 2 of 4 
+Building STANDATA | Alberta.ca 
+ ©2024 Government of Alberta  |  October 2024  |  Municipal Affairs 
+ 
+ 
+ 
+It is important to note that where the minimum clearance requirements contained within a manufacturer’s 
+installation instructions differ from the Code or this STANDATA, the more stringent requirements apply. 
+Code References 
+Sentences 9.32.3.13.(3) to (6) 
+9.32.3.13. Outdoor Intake and Exhaust Openings 
+3) The distance separating air intakes for mechanical ventilation from exhaust outlets that are potential 
+sources of contaminants, such as gas vents or oil fill pipes, shall be not less than 1 800 mm. 
+ 
+4) Except as provided in Sentences (5) and (6), exhaust outlets that discharge air containing moisture, 
+such as bathroom ventilation and clothes dryer exhaust outlets, shall be located at least 1 800 mm from 
+air intakes and vented soffits. 
+ 
+5) Where an exhaust outlet referred to in Sentence (4) is located within a soffit, the soffit shall either be 
+unvented, or if vented, the full depth of the soffit shall be blocked for a distance of 1 800 mm on each side 
+of the exhaust outlet. 
+ 
+6) Where an exhaust outlet referred to in Sentence (4) is located in a sidewall less than 1 800 mm from a 
+soffit, a section of the soffit above the exhaust outlet shall be unvented, or if vented, the full depth of the 
+soffit shall be blocked in accordance with the widths stipulated in Table 9.32.3.13.-A, centred over the 
+location of the outlet. 
+ 
+ 
+CSA-B149.1 Clauses 7.5.1 and 7.5.2 
+7.5 Domestic-type clothes dryers 
+ 
+7.5.1 
+A dryer shall be equipped with a moisture-exhaust duct that terminates outside the building, and the duct 
+shall be constructed of a material that is 
+(a) noncombustible; or 
+(b) certified as meeting the requirements for Class 1 air ducts contained in CAN/ULC-S110. 
+ 
+7.5.2 
+A moisture-exhaust duct shall not terminate within 3 ft (1 m) in any direction of any pressure regulator 
+vent termination or fresh-air intake. 
+ 
+Rationale for Clearance Change 
+Problem 
+Exhaust from clothes dryers and bathroom fans is allowed to discharge from vents installed in the soffits 
+and in the side walls below the soffits. This warm, moist air can enter the attic space through any vented 
+soffits in the immediate vicinity of the exhaust vent, potentially causing mold, mildew, rot, loss of the 
+insulation’s R-value, ice damming, and water infiltration. Approximately five per cent of houses with soffit 
+exhaust vents conforming to the current code requirements show signs of mold, mildew, rot, and water 
+infiltration. 
+Rationale  
+
+=====PAGE 3=====
+ 
+STANDATA 23-BCV-008(REV1) 
+ 
+Page 3 of 4 
+Building STANDATA | Alberta.ca 
+ ©2024 Government of Alberta  |  October 2024  |  Municipal Affairs 
+ 
+ 
+Installing unvented soffits or blocking a section of vented soffits for a certain width on each side of exhaust 
+vents will prevent the infiltration of warm, moist air from the exhaust vents into the attic space, which can 
+cause mold, mildew, rot, loss of the insulation’s R-value, ice damming, and water infiltration. 
+Air containing moisture rises from the exhaust outlets and infiltrates the attic through the soffits, then 
+condensation builds up in the attic over time, resulting in the growth of mold, which causes the 
+deterioration of the ceiling below the roof. Most homeowners do not realize that the roof sheathing on their 
+house is rotting until they replace the roof or notice mold on an interior finish—mold that could be affecting 
+the health of the occupants. 
+This proposed change is based on the provisions of CSA B139, “Installation code for Oil-Burning 
+equipment” which stipulates that side wall vents need to be a minimum 1.8m from soffits or unvented 
+soffits must be installed. 
+ 
+Application 
+This variance applies to exhaust outlets that discharge air containing moisture, such as kitchen, bathroom and 
+clothes dryer exhaust outlets, serving an individual dwelling unit or a house with a secondary suite.  
+Variance 
+This variance provides approximately equivalent or greater safety performance with respect to persons and 
+property as provided for by the Safety Codes Act and the NBC(AE).   
+1. The minimum clearances separating exhaust outlets that discharge air containing moisture from air intakes 
+are permitted to comply with Figure A. 
+ 
+ 
+ 
+Figure A 
+
+=====PAGE 4=====
+ 
+STANDATA 23-BCV-008(REV1) 
+ 
+Page 4 of 4 
+Building STANDATA | Alberta.ca 
+ ©2024 Government of Alberta  |  October 2024  |  Municipal Affairs 
+ 
+ 
+ 
+ 
+This VARIANCE is applicable throughout the Province of Alberta. 
+ 
+ 
+ 
+ 
+ 
+Unless stated otherwise, all Code references in this STANDATA are to Division B of the National Building Code - 
+2023 Alberta Edition 
+Issued by the Provincial Building Administrator 
+ 
+ 
+ 
+[Original signed] 
+Paul Chang 
+ 
+Alberta Municipal Affairs – Technical and Corporate Services 
+Email: safety.services@gov.ab.ca  Phone: 1-866-421-6929 
+To sign up for our List Subscription Service go to: municipalaffairs.gov.ab.ca/am_list_subscription_services 

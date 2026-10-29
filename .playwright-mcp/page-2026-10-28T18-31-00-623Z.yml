@@ -1,0 +1,193 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - generic [ref=f8e10]:
+        - status [ref=f8e24]: All changes saved
+        - group "View as" [ref=f8e11]:
+          - button "Applicant" [pressed] [ref=f8e12] [cursor=pointer]
+          - button "Reviewer" [ref=f8e13] [cursor=pointer]
+  - main [ref=f8e14]:
+    - generic [ref=f8e25]:
+      - navigation "Application steps" [ref=f8e26]:
+        - list [ref=f8e27]:
+          - listitem [ref=f8e28]:
+            - button "Describe, 12 open" [ref=f8e29] [cursor=pointer]:
+              - generic [ref=f8e30]: "1"
+              - generic [ref=f8e31]: Describe
+              - generic [ref=f8e32]: 12 open
+          - listitem [ref=f8e33]:
+            - button "Rules, nothing open" [ref=f8e34] [cursor=pointer]:
+              - generic [ref=f8e35]: "2"
+              - generic [ref=f8e36]: Rules
+              - generic [ref=f8e37]: clear
+          - listitem [ref=f8e38]:
+            - button "Fill and review, 24 open" [ref=f8e39] [cursor=pointer]:
+              - generic [ref=f8e40]: "3"
+              - generic [ref=f8e41]: Fill and review
+              - generic [ref=f8e42]: 24 open
+          - listitem [ref=f8e43]:
+            - button "Submit, 2 open" [ref=f8e44] [cursor=pointer]:
+              - generic [ref=f8e45]: "4"
+              - generic [ref=f8e46]: Submit
+              - generic [ref=f8e47]: 2 open
+      - generic [ref=f8e48]:
+        - generic [ref=f8e49]: Step 4 of 4 · Submit
+        - generic [ref=f8e51]:
+          - generic [ref=f8e52]:
+            - generic [ref=f8e53]:
+              - generic [ref=f8e54]:
+                - heading "Check, download and submit" [level=1] [ref=f8e55]
+                - paragraph [ref=f8e56]: Check the filled form, download it, then confirm the declarations yourself. We prepare a package; you decide when to send it.
+              - generic [ref=f8e57]:
+                - paragraph [ref=f8e58]:
+                  - strong [ref=f8e59]: 24 items are still missing.
+                  - button "Go back and fix them" [ref=f8e60] [cursor=pointer]
+                - generic [ref=f8e61]:
+                  - generic [ref=f8e62]:
+                    - generic [ref=f8e63]:
+                      - heading "Your form" [level=2] [ref=f8e64]
+                      - paragraph [ref=f8e65]: Scroll to check it, or download the official PDF.
+                    - tablist "Preview type" [ref=f8e66]:
+                      - tab "Readable summary" [selected] [ref=f8e67] [cursor=pointer]
+                      - tab "Official PDF" [ref=f8e68] [cursor=pointer]
+                  - generic "Filled variance form summary" [ref=f8e69]:
+                    - paragraph [ref=f8e70]: Request for Variance (Alternative Solution)
+                    - heading "Section A. Applicant" [level=3] [ref=f8e71]
+                    - generic [ref=f8e72]:
+                      - generic [ref=f8e73]:
+                        - term [ref=f8e74]: Owner
+                        - definition [ref=f8e75]:
+                          - emphasis [ref=f8e76]: Not provided
+                      - generic [ref=f8e77]:
+                        - term [ref=f8e78]: Representative
+                        - definition [ref=f8e79]:
+                          - emphasis [ref=f8e80]: Not provided
+                      - generic [ref=f8e81]:
+                        - term [ref=f8e82]: Mailing address
+                        - definition [ref=f8e83]:
+                          - emphasis [ref=f8e84]: Not provided
+                      - generic [ref=f8e85]:
+                        - term [ref=f8e86]: Email
+                        - definition [ref=f8e87]:
+                          - emphasis [ref=f8e88]: Not provided
+                      - generic [ref=f8e89]:
+                        - term [ref=f8e90]: Date
+                        - definition [ref=f8e91]:
+                          - emphasis [ref=f8e92]: Not provided
+                    - heading "Section B. Project and location" [level=3] [ref=f8e93]
+                    - generic [ref=f8e94]:
+                      - generic [ref=f8e95]:
+                        - term [ref=f8e96]: Description
+                        - definition [ref=f8e97]: "Residential building within the Edmonton Point Access Block guide scope: residential occupancy, 6 storeys or less, not more than 4 dwelling units per floor, served by a single exit stair (guide p.2). Project-specific values to be completed by applicant."
+                      - generic [ref=f8e98]:
+                        - term [ref=f8e99]: Site address
+                        - definition [ref=f8e100]:
+                          - emphasis [ref=f8e101]: Not provided
+                      - generic [ref=f8e102]:
+                        - term [ref=f8e103]: Permit number
+                        - definition [ref=f8e104]:
+                          - emphasis [ref=f8e105]: Not provided
+                      - generic [ref=f8e106]:
+                        - term [ref=f8e107]: Use
+                        - definition [ref=f8e108]: Residential
+                      - generic [ref=f8e109]:
+                        - term [ref=f8e110]: Storeys
+                        - definition [ref=f8e111]:
+                          - emphasis [ref=f8e112]: Not provided
+                      - generic [ref=f8e113]:
+                        - term [ref=f8e114]: Area
+                        - definition [ref=f8e115]:
+                          - emphasis [ref=f8e116]: Not provided
+                      - generic [ref=f8e117]:
+                        - term [ref=f8e118]: Sprinklered
+                        - definition [ref=f8e119]:
+                          - emphasis [ref=f8e120]: Not provided
+                    - heading "Section C. Code requirements and alternative" [level=3] [ref=f8e121]
+                    - generic [ref=f8e122]:
+                      - generic [ref=f8e123]:
+                        - term [ref=f8e124]: Code
+                        - definition [ref=f8e125]: NBC(AE) 2023 Division B
+                      - generic [ref=f8e126]:
+                        - term [ref=f8e127]: Acceptable solution
+                        - definition [ref=f8e128]: 3.4.2.1.(1), 3.4.2.3.(1), 3.4.4.1.(1)
+                    - generic [ref=f8e129]:
+                      - strong [ref=f8e130]: 3.4.2.1.(1)
+                      - list [ref=f8e131]:
+                        - listitem [ref=f8e132]: persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))
+                        - listitem [ref=f8e133]: fire or explosion impacting areas beyond its point of origin
+                      - text: NBC_2023AE_2nd_printing.pdf, page 346
+                    - generic [ref=f8e134]:
+                      - strong [ref=f8e135]: 3.4.2.3.(1)
+                      - list [ref=f8e136]:
+                        - listitem [ref=f8e137]: persons being delayed in or impeded from moving to a safe place during a fire emergency
+                      - text: NBC_2023AE_2nd_printing.pdf, page 346
+                    - generic [ref=f8e138]:
+                      - strong [ref=f8e139]: 3.4.4.1.(1)
+                      - list [ref=f8e140]:
+                        - listitem [ref=f8e141]: persons being delayed in or impeded from moving to a safe place during a fire emergency
+                        - listitem [ref=f8e142]: fire or explosion impacting areas beyond its point of origin
+                      - text: NBC_2023AE_2nd_printing.pdf, page 347
+                    - generic [ref=f8e144]:
+                      - term [ref=f8e145]: Proposed alternative
+                      - definition [ref=f8e146]: A residential single-egress-stair building (Point Access Block) that demonstrates it will perform to an equivalent or enhanced level of resiliency as a development with two egress stairs (Edmonton PAB guide p.8). The specific design is to be described by the applicant and the qualified consultant.
+                    - list [ref=f8e147]:
+                      - listitem [ref=f8e148]: Compartmentation
+                      - listitem [ref=f8e149]: Smoke management
+                    - heading "Section D. Supporting documents" [level=3] [ref=f8e150]
+                    - list [ref=f8e151]:
+                      - listitem [ref=f8e152]:
+                        - text: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant...
+                        - generic [ref=f8e153]: (to be prepared)
+                      - listitem [ref=f8e154]:
+                        - text: "Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory..."
+                        - generic [ref=f8e155]: (to be prepared)
+                      - listitem [ref=f8e156]:
+                        - text: Special maintenance or operational requirements, including commissioning and inspection...
+                        - generic [ref=f8e157]: (to be prepared)
+                      - listitem [ref=f8e158]:
+                        - text: Qualifications, experience and background of the person or persons taking responsibility for the design (Division C...
+                        - generic [ref=f8e159]: (to be prepared)
+                      - listitem [ref=f8e160]:
+                        - text: Identification of a single person to co-ordinate the design, Code analysis and documentation (Division C 2.3.1.1.(6))
+                        - generic [ref=f8e161]: (to be prepared)
+                      - listitem [ref=f8e162]:
+                        - text: Screening against the four emergency-services questions (Emergency Services Guideline p.8-9) and, if triggered...
+                        - generic [ref=f8e163]: (to be prepared)
+                  - generic [ref=f8e164]:
+                    - link "Download filled SCC form (PDF)" [ref=f8e165] [cursor=pointer]:
+                      - /url: http://localhost:8010/api/applications/b9011351/export/pdf
+                    - button "Pre-application brief" [ref=f8e169] [cursor=pointer]
+                - region [ref=f8e170]:
+                  - heading "Confirm and sign" [level=2] [ref=f8e171]
+                  - paragraph [ref=f8e172]: Only you can do this. The tool never ticks these for the owner.
+                  - generic [ref=f8e173]:
+                    - generic [ref=f8e174] [cursor=pointer]:
+                      - checkbox "The owner has read the privacy notice and consents to the use of this information." [ref=f8e175]
+                      - generic [ref=f8e176]: The owner has read the privacy notice and consents to the use of this information.
+                    - generic [ref=f8e177] [cursor=pointer]:
+                      - checkbox "The owner understands the alternative must be equal to or better than the Code requirement." [ref=f8e178]
+                      - generic [ref=f8e179]: The owner understands the alternative must be equal to or better than the Code requirement.
+                    - generic [ref=f8e180] [cursor=pointer]:
+                      - checkbox "The owner has signed the declarations on the form." [checked] [ref=f8e181]
+                      - generic [ref=f8e182]: The owner has signed the declarations on the form.
+            - complementary [ref=f8e183]:
+              - generic [ref=f8e184]:
+                - heading "What happens next" [level=2] [ref=f8e185]
+                - list [ref=f8e186]:
+                  - listitem [ref=f8e187]: You download the filled official form.
+                  - listitem [ref=f8e188]: You confirm the declarations below.
+                  - listitem [ref=f8e189]: We bundle the form, attachments and a draft email.
+                  - listitem [ref=f8e190]: You send it to the authority. Nothing is sent for you.
+          - generic [ref=f8e191]:
+            - button "Back" [ref=f8e192] [cursor=pointer]
+            - generic [ref=f8e195]: Tick the confirmations above to continue.
+            - button "Prepare submission package" [disabled] [ref=f8e196]
+  - contentinfo [ref=f8e21]:
+    - generic [ref=f8e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

@@ -1,0 +1,14 @@
+[    8611ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5175/node_modules/.vite/deps/chunk-XPR23Y44.js?v=0f8358a1:21548
+[    8771ms] [ERROR] Access to fetch at 'http://localhost:8012/api/samples' from origin 'http://localhost:5175' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5175/#/step/1?new=1:0
+[    8771ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8012/api/samples:0
+[    8799ms] [ERROR] Access to fetch at 'http://localhost:8012/api/applications' from origin 'http://localhost:5175' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5175/#/step/1?new=1:0
+[    8799ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8012/api/applications:0
+[    9107ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5175/favicon.ico:0
+[    9225ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5175/favicon.ico:0
+[   28167ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5175/@vite/client:559
+[   28193ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5175/:0
+[   31384ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5175/node_modules/.vite/deps/chunk-XPR23Y44.js?v=0f8358a1:21548
+[   31496ms] [ERROR] Access to fetch at 'http://localhost:8012/api/samples' from origin 'http://localhost:5175' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5175/#/a/mock-1793236653617/1:0
+[   31496ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8012/api/samples:0
+[   31496ms] [ERROR] Access to fetch at 'http://localhost:8012/api/applications/mock-1793236653617' from origin 'http://localhost:5175' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5175/#/a/mock-1793236653617/1:0
+[   31497ms] [ERROR] Failed to load resource: net::ERR_FAILED @ http://localhost:8012/api/applications/mock-1793236653617:0

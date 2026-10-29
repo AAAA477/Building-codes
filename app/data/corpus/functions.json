@@ -1,0 +1,706 @@
+{
+ "F01": {
+  "code": "F01",
+  "text": "To minimize the risk of accidental ignition.",
+  "pdf_page": 79,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 79,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F02": {
+  "code": "F02",
+  "text": "To limit the severity and effects of fire or explosions.",
+  "pdf_page": 79,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 79,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F03": {
+  "code": "F03",
+  "text": "To retard the effects of fire on areas beyond its point of origin.",
+  "pdf_page": 79,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 79,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F04": {
+  "code": "F04",
+  "text": "To retard failure or collapse due to the effects of fire.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F05": {
+  "code": "F05",
+  "text": "To retard the effects of fire on emergency egress facilities.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F06": {
+  "code": "F06",
+  "text": "To retard the effects of fire on facilities for notification, suppression and emergency response.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F10": {
+  "code": "F10",
+  "text": "To facilitate the timely movement of persons to a safe place in an emergency.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F11": {
+  "code": "F11",
+  "text": "To notify persons, in a timely manner, of the need to take action in an emergency.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F12": {
+  "code": "F12",
+  "text": "To facilitate emergency response.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F13": {
+  "code": "F13",
+  "text": "To notify emergency responders, in a timely manner, of the need to take action in an emergency.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F20": {
+  "code": "F20",
+  "text": "To support and withstand expected loads and forces.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F21": {
+  "code": "F21",
+  "text": "To limit or accommodate dimensional change.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F22": {
+  "code": "F22",
+  "text": "To limit movement under expected loads and forces.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F23": {
+  "code": "F23",
+  "text": "To maintain equipment in place during structural movement.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F30": {
+  "code": "F30",
+  "text": "To minimize the risk of injury to persons as a result of tripping, slipping, falling, contact, drowning or collision.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F31": {
+  "code": "F31",
+  "text": "To minimize the risk of injury to persons as a result of contact with hot surfaces or substances.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F32": {
+  "code": "F32",
+  "text": "To minimize the risk of injury to persons as a result of contact with energized equipment.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F33": {
+  "code": "F33",
+  "text": "To limit the level of sound of a fire alarm system.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F34": {
+  "code": "F34",
+  "text": "To resist or discourage unwanted access or entry.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F35": {
+  "code": "F35",
+  "text": "To facilitate the identification of potential intruders.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F36": {
+  "code": "F36",
+  "text": "To minimize the risk that persons will be trapped in confined spaces.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F40": {
+  "code": "F40",
+  "text": "To limit the level of contaminants.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F41": {
+  "code": "F41",
+  "text": "To minimize the risk of generation of contaminants.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F42": {
+  "code": "F42",
+  "text": "To resist the entry of vermin and insects.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F43": {
+  "code": "F43",
+  "text": "To minimize the risk of release of hazardous substances.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F44": {
+  "code": "F44",
+  "text": "To limit the spread of hazardous substances beyond their point of release.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F46": {
+  "code": "F46",
+  "text": "To minimize the risk of contamination of potable water.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F50": {
+  "code": "F50",
+  "text": "To provide air suitable for breathing.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F51": {
+  "code": "F51",
+  "text": "To maintain appropriate air and surface temperatures.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F52": {
+  "code": "F52",
+  "text": "To maintain appropriate relative humidity.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F53": {
+  "code": "F53",
+  "text": "To maintain appropriate indoor/outdoor air pressure differences.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F54": {
+  "code": "F54",
+  "text": "To limit drafts.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F55": {
+  "code": "F55",
+  "text": "To resist the transfer of air through environmental separators.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F56": {
+  "code": "F56",
+  "text": "To limit the transmission of airborne sound into a dwelling unit from spaces elsewhere in the building (see Sentence 3.1.1.2.(2) for application limitation).",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F60": {
+  "code": "F60",
+  "text": "To control the accumulation and pressure of water on and in the ground.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F61": {
+  "code": "F61",
+  "text": "To resist the ingress of precipitation, water or moisture from the exterior or from the ground.",
+  "pdf_page": 80,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F62": {
+  "code": "F62",
+  "text": "To facilitate the dissipation of water and moisture from the building.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F63": {
+  "code": "F63",
+  "text": "To limit moisture condensation.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F70": {
+  "code": "F70",
+  "text": "To provide potable water.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F71": {
+  "code": "F71",
+  "text": "To provide facilities for personal hygiene.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F72": {
+  "code": "F72",
+  "text": "To provide facilities for the sanitary disposal of human and domestic wastes.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F73": {
+  "code": "F73",
+  "text": "To facilitate access to and circulation in the building and its facilities by persons with physical or sensory limitations (see Sentence 3.1.1.2.(3) for application limitation).",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F74": {
+  "code": "F74",
+  "text": "To facilitate the use of the building's facilities by persons with physical or sensory limitations (see Sentence 3.1.1.2.(3) for application limitation).",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F80": {
+  "code": "F80",
+  "text": "To resist deterioration resulting from expected service conditions.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F81": {
+  "code": "F81",
+  "text": "To minimize the risk of malfunction, interference, damage, tampering, lack of use or misuse.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F82": {
+  "code": "F82",
+  "text": "To minimize the risk of inadequate performance due to improper maintenance or lack of maintenance.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F90": {
+  "code": "F90",
+  "text": "To limit the amount of uncontrolled air leakage through the building envelope.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F91": {
+  "code": "F91",
+  "text": "To limit the amount of uncontrolled air leakage through system components.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F92": {
+  "code": "F92",
+  "text": "To limit the amount of uncontrolled thermal transfer through the building envelope.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F93": {
+  "code": "F93",
+  "text": "To limit the amount of uncontrolled thermal transfer through system components.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F95": {
+  "code": "F95",
+  "text": "To limit the unnecessary demand and/or consumption of energy for heating and cooling.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F96": {
+  "code": "F96",
+  "text": "To limit the unnecessary demand and/or consumption of energy for service water heating.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F98": {
+  "code": "F98",
+  "text": "To limit the inefficiency of equipment.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F99": {
+  "code": "F99",
+  "text": "To limit the inefficiency of systems.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F100": {
+  "code": "F100",
+  "text": "To limit the unnecessary rejection of reusable waste energy.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F101": {
+  "code": "F101",
+  "text": "To minimize the risk of contamination of food.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F102": {
+  "code": "F102",
+  "text": "To minimize the risk of inhalation of pathogenic micro-organisms.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F103": {
+  "code": "F103",
+  "text": "To minimize the risk of ingestion of pathogenic micro-organisms.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F104": {
+  "code": "F104",
+  "text": "To minimize the risk of physical contact with pathogenic micro-organisms.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F105": {
+  "code": "F105",
+  "text": "To minimize the growth of pathogenic micro-organisms.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F106": {
+  "code": "F106",
+  "text": "To minimize the risk of space-to-space transfer of pathogenic micro-organisms.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F107": {
+  "code": "F107",
+  "text": "To minimize the risk of injury to persons as a result of contact with toxic or injurious substances.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F110": {
+  "code": "F110",
+  "text": "To limit the transmission of airborne sound, originating outside a building, through an assembly separating internal space from space outside the building.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ },
+ "F130": {
+  "code": "F130",
+  "text": "To limit unwanted visual surveillance.",
+  "pdf_page": 81,
+  "source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 81,
+   "division": "A",
+   "part": 3
+  }
+ }
+}

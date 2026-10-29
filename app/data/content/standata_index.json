@@ -1,0 +1,3244 @@
+{
+ "note": "Index of every STANDATA PDF under files/standata, extracted from the real text. Titles marked title_source=filename were derived from the file name because the older template has no title line. Used for the 'does a variance already exist?' check.",
+ "edition_control": "NBC(AE) 2023 second printing",
+ "licence": "Alberta STANDATA: Open Government Licence - Alberta",
+ "items": [
+  {
+   "number": "23-BCB-001",
+   "kind": "bulletin",
+   "title": "Energy efficiency Tier 1 of section 9.36.",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "9.36.1.3",
+    "9.36.7.3",
+    "9.36.5.10",
+    "9.36.2.7",
+    "9.36.3.10",
+    "9.36.2.9",
+    "9.36.2.10",
+    "9.36.6.3"
+   ],
+   "scope": "To provide information regarding the changes to the adopted energy efficiency Tier 1 of Section 9.36. of the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-001-2024-04.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-001-2024-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-002",
+   "kind": "bulletin",
+   "title": "Roof truss layout for one- and two-family dwellings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "August 2024",
+   "articles_referenced": [
+    "9.23.14.11",
+    "2.4.1.1",
+    "2.4.1.2",
+    "4.1.1.5"
+   ],
+   "scope": "To provide information regarding the status for the acceptance of roof truss layout drawings for one- and two- family dwellings that typically would not require professional involvement unless the scope of the construction or component is not addressed by Part 9 of the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-002-2024-08.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-002-2024-08.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-002R1",
+   "kind": "bulletin",
+   "title": "Roof trusses for one- and two-family dwellings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "August 2025",
+   "articles_referenced": [
+    "9.23.14.11",
+    "2.4.1.1",
+    "2.4.1.2",
+    "2.2.1.2"
+   ],
+   "scope": "To provide information regarding the status for the acceptance of roof truss drawings for one- and two-family dwellings that typically would not require professional involvement unless the scope of the construction or component is not addressed by Part 9 of the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-002r1-2025-08.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-002r1-2025-08.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-006",
+   "kind": "bulletin",
+   "title": "SEER2 and HSPF2 application",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "9.36.3.10",
+    "5.2.12.1",
+    "6.2.2.1",
+    "6.2.2.4",
+    "6.2.2.5",
+    "8.4.4.18",
+    "1.1.1.3"
+   ],
+   "scope": "This bulletin provides information on the latest energy efficiency metrics for air-cooled unitary air conditioners and heat pumps that are electrically operated.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 7,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-006-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-006-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-007",
+   "kind": "bulletin",
+   "title": "Houses with a secondary suite",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "9.5.5.1",
+    "9.5.5.3",
+    "9.9.6.2",
+    "9.9.6.3",
+    "9.5.3.1",
+    "9.8.2.1",
+    "9.8.2.2",
+    "9.8.4.7",
+    "9.8.6.4",
+    "9.9.2.4",
+    "9.9.6.7",
+    "3.4.6.16",
+    "3.8.3.6",
+    "3.3.1.13",
+    "3.3.4.5",
+    "9.9.11.1",
+    "9.9.12.1",
+    "9.10.15.1",
+    "9.35.1.1",
+    "9.10.15.4",
+    "9.10.15.5",
+    "9.36.1.3",
+    "9.25.2.1",
+    "9.9.4.4"
+   ],
+   "scope": "This bulletin is developed to consolidate secondary suite provisions within one document.",
+   "mentions_exit_or_stair_count": 43,
+   "pages": 8,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-007-2025-05.pdf.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-007-2025-05.pdf.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-007R1",
+   "kind": "bulletin",
+   "title": "Houses with a secondary suite",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "August 2026",
+   "articles_referenced": [
+    "1.4.1.2",
+    "9.5.5.1",
+    "9.5.5.3",
+    "9.9.6.2",
+    "9.9.6.3",
+    "9.5.3.1",
+    "9.8.2.1",
+    "9.8.2.2",
+    "9.8.4.7",
+    "9.8.6.4",
+    "9.9.2.4",
+    "9.9.6.7",
+    "3.4.6.16",
+    "3.8.3.6",
+    "3.3.1.13",
+    "3.3.4.5",
+    "9.9.11.1",
+    "9.9.12.1",
+    "9.10.9.3",
+    "9.10.15.1",
+    "9.35.1.1",
+    "9.10.15.4",
+    "9.10.15.5",
+    "9.36.1.3",
+    "9.25.2.1"
+   ],
+   "scope": "This bulletin is developed to consolidate secondary suite provisions within one document.",
+   "mentions_exit_or_stair_count": 43,
+   "pages": 8,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-23-bcb-007r1-2026-08.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-23-bcb-007r1-2026-08.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-004/23-FCB-005",
+   "kind": "bulletin",
+   "title": "Occupancy of buildings under construction",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [
+    "2.2.11.1",
+    "8.1.1.1",
+    "2.8.5.6",
+    "2.4.2.4",
+    "2.8.1.1",
+    "2.8.2.11",
+    "5.6.1.1"
+   ],
+   "scope": "To provide guidance for determining when occupancy of a building under construction may be allowed.",
+   "mentions_exit_or_stair_count": 11,
+   "pages": 4,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-fire-23-bcb-004-23-fcb-005-2025-01.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-fire-23-bcb-004-23-fcb-005-2025-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-005/23-FCB-003",
+   "kind": "bulletin",
+   "title": "Sprinkler systems with antifreeze solutions",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [],
+   "scope": "To provide clarification of the acceptance of sprinkler systems which require the use of an antifreeze solution.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-fire-23-bcb-005-23-fcb-003-2025-01.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-fire-23-bcb-005-23-fcb-003-2025-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-013/20-PCB-010R1",
+   "kind": "bulletin",
+   "title": "Radon/soil gas pipe labelling",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "July 2025",
+   "articles_referenced": [
+    "9.13.4.3",
+    "6.2.1.1",
+    "2.1.1.4",
+    "9.13.4.1"
+   ],
+   "scope": "This bulletin identifies the requirements within the National Building Code - 2023 Alberta Edition (NBC(AE)) for labeling of radon/soil gas pipes.",
+   "mentions_exit_or_stair_count": 1,
+   "pages": 3,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-building-plumbing-23-bcb-013-20-pcb-010r1-2025-07.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-building-plumbing-23-bcb-013-20-pcb-010r1-2025-07.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCB-008/25-GCB-002",
+   "kind": "bulletin",
+   "title": "Access to roof-mounted HVAC equipment",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "June 2026",
+   "articles_referenced": [
+    "3.6.4.7",
+    "6.2.1.6",
+    "9.33.1.2"
+   ],
+   "scope": "To provide guidance for access to roof-mounted HVAC equipment systems installed in compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) and the references from CSA B149.1:25 Natural gas and propane installation code (CSA B149.1:25). The NBC(AE) 1st printing currently references the B149.1:20 edition.",
+   "mentions_exit_or_stair_count": 2,
+   "pages": 3,
+   "file_path": "files/standata/bulletins_2023/ma-standata-bulletin-joint-23bcb008-25gcb002-2026-06.pdf",
+   "source": {
+    "doc": "ma-standata-bulletin-joint-23bcb008-25gcb002-2026-06.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "21-ECV-064/23-BCB-003",
+   "kind": "bulletin",
+   "title": "2021 Canadian Electrical Code, Part I, Section 64",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [
+    "9.32.2.3",
+    "9.10.3.1"
+   ],
+   "scope": "Industry has identified concerns regarding Energy Storage System (ESS) requirements. This variance permits the installation of an ESS at a dwelling unit or residential occupancy not exceeding 20 kWh for any single ESS, as an alternative method to the C22.1:21 - Canadian Electrical Code, Part I.",
+   "mentions_exit_or_stair_count": 18,
+   "pages": 14,
+   "file_path": "files/standata/bulletins_2023/ma-standata-variance-electrical-building-21-ecv-064-900-ess-23-bcb-003-2025-01.pdf",
+   "source": {
+    "doc": "ma-standata-variance-electrical-building-21-ecv-064-900-ess-23-bcb-003-2025-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCE-001",
+   "kind": "errata",
+   "title": "Errata",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "3.2.5.7",
+    "3.6.4.7",
+    "4.1.4.5",
+    "4.1.4.6",
+    "3.8.4.3",
+    "3.8.3.17",
+    "3.8.3.18",
+    "4.1.8.4",
+    "9.25.2.1",
+    "2.2.1.4",
+    "2.1.1.1",
+    "1.1.1.1",
+    "2.2.1.1",
+    "2.2.1.2",
+    "2.2.1.3",
+    "2.2.2.1",
+    "2.2.2.2",
+    "2.2.2.3",
+    "2.2.2.4",
+    "2.2.2.5",
+    "3.2.5.5",
+    "3.2.5.4",
+    "3.2.5.1",
+    "3.2.5.2",
+    "3.2.5.15"
+   ],
+   "scope": "The National Building Code - 2023 Alberta Edition came into force on May 1, 2024. It was discovered that the published document contains some technical errors. This errata corrects those errors.",
+   "mentions_exit_or_stair_count": 4,
+   "pages": 25,
+   "file_path": "files/standata/errata_2023/ma-23-bce-001-errata.pdf",
+   "source": {
+    "doc": "ma-23-bce-001-errata.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-005",
+   "kind": "interpretation",
+   "title": "Approved organization - QAI Laboratories",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "1.2.2.1"
+   ],
+   "scope": "To recognize an organization which issues evaluation reports used to determine compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) as being an approved organization in Alberta.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-23-bci-005-approved-organization-qai-laboratories.pdf",
+   "source": {
+    "doc": "ma-23-bci-005-approved-organization-qai-laboratories.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-006",
+   "kind": "interpretation",
+   "title": "Approved organization - Underwriters Laboratories of Canada Inc./UL Solutions",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "1.2.2.1"
+   ],
+   "scope": "To recognize an organization which issues evaluation reports used to determine compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) as being an approved organization in Alberta.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-23-bci-006-approved-organization-underwriters-laboratories-of-canada-inc-ul-solutions.pdf",
+   "source": {
+    "doc": "ma-23-bci-006-approved-organization-underwriters-laboratories-of-canada-inc-ul-solutions.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-007",
+   "kind": "interpretation",
+   "title": "Approved organization - Intertek",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "1.2.2.1"
+   ],
+   "scope": "To recognize an organization which issues evaluation reports used to determine compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) as being an approved organization in Alberta.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-23-bci-007-approved-organization-intertek.pdf",
+   "source": {
+    "doc": "ma-23-bci-007-approved-organization-intertek.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-008",
+   "kind": "interpretation",
+   "title": "Smoke detectors in smoke or fire/smoke damper installation",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2024",
+   "articles_referenced": [
+    "3.1.8.11",
+    "3.1.8.5",
+    "6.3.2.4",
+    "1.4.1.2",
+    "3.1.8.4",
+    "3.1.8.16",
+    "3.1.8.17",
+    "3.1.8.19",
+    "3.1.8.12",
+    "3.1.8.7",
+    "3.1.8.9",
+    "3.4.2.4",
+    "3.3.1.7",
+    "3.3.3.5",
+    "6.3.2.5",
+    "23.8.5.3",
+    "21.7.4.1",
+    "21.7.4.2",
+    "3.2.4.1"
+   ],
+   "scope": "Clarifies whether the National Building Code - 2023 Alberta Edition (NBC(AE)) requires a smoke detector as part of a smoke or fire/smoke damper operation to be connected to the fire alarm system (FAS).",
+   "mentions_exit_or_stair_count": 1,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-23-bci-008-smoke-detectors-in-smoke-or-fire-smoke-damper-installations.pdf",
+   "source": {
+    "doc": "ma-23-bci-008-smoke-detectors-in-smoke-or-fire-smoke-damper-installations.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-011/24-ECI-009/23-FCI-006",
+   "kind": "interpretation",
+   "title": "Existing fire alarm systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "1.1.1.2",
+    "1.1.1.1",
+    "1.2.1.1",
+    "3.2.4.5",
+    "3.2.4.19",
+    "2.4.1.4",
+    "2.4.1.1",
+    "2.2.1.1",
+    "2.1.3.1",
+    "2.1.1.1",
+    "6.1.1.1",
+    "6.3.1.2",
+    "6.3.1.4",
+    "2.2.4.3",
+    "2.2.9.2"
+   ],
+   "scope": "To clarify requirements where an existing fire alarm system (FAS), regardless of age, requires inspection, testing, maintenance, and installation of devices or other equipment (e.g., maglocks) to provide or maintain an expected level of safety for occupants. In addition, this interpretation defines who can install, verify, inspect, test, and maintain an FAS.",
+   "mentions_exit_or_stair_count": 1,
+   "pages": 12,
+   "file_path": "files/standata/interpretations_2023/ma-23-bci-011-24-eci-009-23-fci-006-existing-fire-alarm-systems.pdf",
+   "source": {
+    "doc": "ma-23-bci-011-24-eci-009-23-fci-006-existing-fire-alarm-systems.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-004/23-FCI-015/22-LEG- PR-002/20-GCB-017",
+   "kind": "interpretation",
+   "title": "NFPA 33 spray booths, application of the safety codes",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "6.9.1.2",
+    "6.2.1.1",
+    "5.4.5.1",
+    "5.4.5.2"
+   ],
+   "scope": "This clarifies the requirements for permitting under the Safety Codes Act (SCA) and Permit Regulation for the installation of spray booths, spray areas, and spray rooms.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-nfpa-33-spray-booths-application-of-the-safety-codes.pdf",
+   "source": {
+    "doc": "ma-nfpa-33-spray-booths-application-of-the-safety-codes.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-013",
+   "kind": "interpretation",
+   "title": "Approved organization - ICC Evaluation Service",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "February 2025",
+   "articles_referenced": [
+    "1.2.2.1"
+   ],
+   "scope": "To recognize an organization which issues evaluation reports used in determining compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) as being an approved organization in Alberta.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-013-2025-02.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-013-2025-02.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-014",
+   "kind": "interpretation",
+   "title": "Integrated testing coordinator",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "2.4.1.1",
+    "2.4.1.3",
+    "2.4.1.4",
+    "3.2.9.1",
+    "9.10.1.2",
+    "2.2.4.8"
+   ],
+   "scope": "To clarify the expectation for qualifications of an “integrated testing coordinator.”",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-014-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-014-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-015",
+   "kind": "interpretation",
+   "title": "Wood roof truss systems in Part 9 buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "February 2025",
+   "articles_referenced": [
+    "9.23.14.11",
+    "1.4.1.2",
+    "2.4.1.2"
+   ],
+   "scope": "To provide clarity of the requirement for professional involvement in wood roof truss system designs used in Part 9 buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-015-2025-02.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-015-2025-02.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-015R1",
+   "kind": "interpretation",
+   "title": "Design of wood trusses for roof assemblies in Part 9 buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2025",
+   "articles_referenced": [
+    "9.23.14.11",
+    "1.4.1.2",
+    "2.4.1.2"
+   ],
+   "scope": "To clarify the requirement for professional involvement in the design of wood trusses for roof assemblies used in Part 9 buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-015r1-2025-05.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-015r1-2025-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-016",
+   "kind": "interpretation",
+   "title": "Barrier-free design requirements: relaxations",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "2.2.1.4",
+    "3.8.2.1",
+    "3.8.2.3",
+    "3.8.2.8",
+    "1.4.1.2"
+   ],
+   "scope": "To clarify when a request for relaxation of barrier-free requirements is appropriate, and provide exempted building uses where a relaxation request is not required.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-016-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-016-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-016R1",
+   "kind": "interpretation",
+   "title": "Barrier-free design requirements: relaxations",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "November 2025",
+   "articles_referenced": [
+    "3.8.1.1",
+    "2.2.1.4",
+    "3.8.2.3",
+    "3.8.2.8",
+    "3.8.2.1",
+    "1.4.1.2"
+   ],
+   "scope": "To clarify when a request for relaxation of barrier-free requirements is appropriate.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-016r1-2025-11.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-016r1-2025-11.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-017",
+   "kind": "interpretation",
+   "title": "Photoluminescent exit signs",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "3.4.5.1",
+    "9.9.11.3",
+    "3.2.7.4",
+    "4.2.1.4",
+    "4.2.2.1",
+    "4.2.1.6"
+   ],
+   "scope": "This interpretation provides clarification regarding the required illumination of photoluminescent (PL) exit signs according to Articles 3.4.5.1. and 9.9.11.3. of the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 32,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-017-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-017-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-018",
+   "kind": "interpretation",
+   "title": "Guard requirements for glazing in a window",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2026",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.3.1.18",
+    "3.3.2.9",
+    "9.8.8.1",
+    "3.3.1.20",
+    "4.1.5.14",
+    "3.3.2.17",
+    "3.3.4.8",
+    "9.8.8.3",
+    "9.8.8.5",
+    "9.8.8.6",
+    "9.8.8.7"
+   ],
+   "scope": "To clarify the application of guard requirements when glazing in a window is positioned below the minimum height requirements within the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-018-2026-01.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-018-2026-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-019",
+   "kind": "interpretation",
+   "title": "Occupancy classification for supportive living accommodations",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "December 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "9.10.2.2",
+    "9.10.19.2",
+    "9.10.19.5",
+    "9.10.19.4",
+    "9.10.19.6",
+    "3.2.4.7",
+    "9.9.12.3",
+    "9.10.9.3"
+   ],
+   "scope": "To clarify the application of the Safety Codes Act (Act) and the National Building Code - 2023 Alberta Edition (NBC(AE)) in determining the occupancy classification of buildings intended for clients receiving various levels of supportive living accommodation.",
+   "mentions_exit_or_stair_count": 9,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-019-2025-12.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-019-2025-12.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-021",
+   "kind": "interpretation",
+   "title": "Relocatable industrial accommodation labeling",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2025",
+   "articles_referenced": [
+    "2.5.1.1",
+    "10.1.1.4"
+   ],
+   "scope": "To recognize new Part 10 units certified and labelled in accordance with CSA-A277 “Procedure for certification of prefabricated buildings, modules, and panels,” and clarify renovation and labelling procedures for existing Part 10 units.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-021-2025-10.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-021-2025-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-022",
+   "kind": "interpretation",
+   "title": "Energy efficiency exemptions for buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2025",
+   "articles_referenced": [
+    "2.2.1.1",
+    "9.36.1.3",
+    "1.4.1.2",
+    "9.25.2.1"
+   ],
+   "scope": "To assist in identifying certain types and uses of buildings, such as buildings constructed to shelter equipment which has been established to be exempt from Section 9.36., “Energy Efficiency,” of the National Building Code - 2023 Alberta Edition (NBC(AE)) and the National Energy Code of Canada for Buildings 2020 (NECB).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-022-2025-05.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-022-2025-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-023",
+   "kind": "interpretation",
+   "title": "“Building Envelope” definition related to attic or roof spaces",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2026",
+   "articles_referenced": [
+    "1.4.1.1",
+    "1.4.1.2"
+   ],
+   "scope": "This interpretation clarifies the intended meaning of “building envelope” in the National Building Code - 2023 Alberta Edition (NBC(AE)) as it relates to the expected performance of attic or roof spaces.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-023-2026-01.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-023-2026-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-034",
+   "kind": "interpretation",
+   "title": "Elevator operation and accessibility for residential buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "3.8.2.3",
+    "3.8.2.1",
+    "1.4.2.1",
+    "1.4.1.2",
+    "3.8.2.2",
+    "3.3.1.7",
+    "3.8.3.22",
+    "3.8.3.7",
+    "3.5.2.1"
+   ],
+   "scope": "This is to clarify the application of the National Building Code - 2023 Alberta Edition (NBC(AE)) for elevators to be operational in residential buildings required to have a barrier-free path of travel.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-034-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-034-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-035",
+   "kind": "interpretation",
+   "title": "Attached garage separation serving a house with a secondary suite",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "9.10.9.18",
+    "1.4.1.2",
+    "9.35.1.1",
+    "9.35.4.1",
+    "9.10.15.5",
+    "2.4.1.1",
+    "9.10.9.16",
+    "9.10.9.17",
+    "9.10.9.3",
+    "9.10.13.15"
+   ],
+   "scope": "To clarify the application of Sentence 9.10.9.18.(3) of the National Building Code - 2023 Alberta Edition (NBC(AE)) to a house with a secondary suite.",
+   "mentions_exit_or_stair_count": 1,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-035-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-035-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-040",
+   "kind": "interpretation",
+   "title": "Approved organization- APA - The Engineered Wood Association",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2025",
+   "articles_referenced": [
+    "1.2.2.1"
+   ],
+   "scope": "To recognize an organization which issues evaluation reports used in determining compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) as being an approved organization in Alberta.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-23-bci-040-2025-05.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-23-bci-040-2025-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-037/24-ECI-009",
+   "kind": "interpretation",
+   "title": "Lightning protection systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2025",
+   "articles_referenced": [
+    "3.6.1.3"
+   ],
+   "scope": "To clarify the requirements for installing, altering, or adding to lightning protection systems. This clarification is for building owners, operators, designers, and electricians, as well as safety codes officers (SCOs) in the building and electrical disciplines.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-electrical-23-bci-037-24-eci-009-2025-04.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-electrical-23-bci-037-24-eci-009-2025-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-001/23-FCI-001",
+   "kind": "interpretation",
+   "title": "Use of shipping containers (sea-cans) for storage",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.2.7.1",
+    "2.8.1.1",
+    "3.2.1.1",
+    "3.3.1.1",
+    "4.1.1.1",
+    "5.1.1.1",
+    "2.8.2.1",
+    "2.8.2.2",
+    "2.8.2.11",
+    "2.8.2.3",
+    "2.8.2.4",
+    "2.8.2.5",
+    "2.8.2.7",
+    "2.8.2.8",
+    "2.8.2.9",
+    "2.8.2.12",
+    "2.8.2.13",
+    "2.8.2.14",
+    "3.3.2.9",
+    "4.1.2.2",
+    "4.1.5.5",
+    "5.1.5.1"
+   ],
+   "scope": "This clarifies the application of shipping containers (sea cans) for storage of materials as an acceptable solution under Division B or as an alternative solution under Division A of the National Building Code - 2023 Alberta Edition (NBC(AE)). In addition, this provides clarity on the requirements to identify the storage of dangerous goods within the shipping container to the local Authority Havin",
+   "mentions_exit_or_stair_count": 3,
+   "pages": 8,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-001-23-fci-001-2024-04.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-001-23-fci-001-2024-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-002/23-FCI-009",
+   "kind": "interpretation",
+   "title": "Overnight child care",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.2.4.20",
+    "3.2.4.21",
+    "9.10.19.2",
+    "9.10.19.5",
+    "9.10.19.4",
+    "9.10.19.6",
+    "3.2.4.1",
+    "3.2.4.2",
+    "9.10.18.2",
+    "2.8.1.1",
+    "2.8.1.3"
+   ],
+   "scope": "To clarify applicable requirements of the National Building Code - 2023 Alberta Edition (NBC(AE)) and the National Fire Code - 2023 Alberta Edition (NFC(AE)) for occupancies licensed to provide overnight child care services.",
+   "mentions_exit_or_stair_count": 12,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-002-23-fci-009-2024-04.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-002-23-fci-009-2024-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-003/23-FCI-002",
+   "kind": "interpretation",
+   "title": "Occupant loads",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.4.2.6",
+    "3.2.5.12",
+    "3.1.17.1",
+    "2.1.4.1",
+    "2.7.1.3",
+    "2.1.3.1",
+    "2.7.1.4"
+   ],
+   "scope": "To provide a consistent method for calculating occupant loads for assembly occupancies under the National Building Code - 2023 Alberta Edition (NBC(AE)) and National Fire Code - 2023 Alberta Edition (NFC(AE)).",
+   "mentions_exit_or_stair_count": 63,
+   "pages": 9,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-003-23-fci-002-2024-04.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-003-23-fci-002-2024-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-003R1/23-FCI-002R1",
+   "kind": "interpretation",
+   "title": "Occupant loads",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.4.2.6",
+    "3.2.5.12",
+    "3.1.17.1",
+    "2.1.4.1",
+    "2.7.1.3",
+    "2.1.3.1",
+    "2.7.1.4",
+    "2.7.1.2",
+    "3.4.3.2"
+   ],
+   "scope": "To provide a consistent method for calculating occupant loads for assembly occupancies under the National Building Code - 2023 Alberta Edition (NBC(AE)) and National Fire Code - 2023 Alberta Edition (NFC(AE)).",
+   "mentions_exit_or_stair_count": 98,
+   "pages": 13,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-003r1-23-fci-002r1-2025-01.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-003r1-23-fci-002r1-2025-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-010/23-FCI-013",
+   "kind": "interpretation",
+   "title": "Special events",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.1.2.1",
+    "3.1.2.3",
+    "3.1.2.5",
+    "3.1.2.2",
+    "3.1.16.1",
+    "3.1.17.1",
+    "3.1.18.1",
+    "3.1.18.2",
+    "3.1.18.3",
+    "3.1.18.4",
+    "3.1.18.5",
+    "3.1.18.6",
+    "3.1.18.7",
+    "1.2.1.1",
+    "3.2.4.1",
+    "3.2.4.2",
+    "3.3.2.1",
+    "12.2.3.2",
+    "12.2.3.3",
+    "12.2.5.4",
+    "12.2.5.5",
+    "12.2.5.6",
+    "12.2.11.1",
+    "3.3.2.4"
+   ],
+   "scope": "This identifies the Safety Code requirements and enforcement for indoor and outdoor special events.",
+   "mentions_exit_or_stair_count": 37,
+   "pages": 14,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-010-23-fci-013-2025-01.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-010-23-fci-013-2025-01.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-030/23-FCI-012",
+   "kind": "interpretation",
+   "title": "Measures to mitigate fire spread to adjacent buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "5.6.1.2",
+    "5.6.1.4",
+    "1.4.1.2",
+    "3.2.5.6",
+    "3.2.2.51",
+    "3.2.2.60",
+    "3.2.2.10",
+    "8.1.1.1",
+    "5.6.1.1",
+    "5.6.1.3",
+    "2.2.1.2",
+    "2.8.1.1",
+    "2.8.2.1",
+    "2.8.2.2",
+    "2.8.2.11",
+    "2.8.2.12",
+    "2.8.2.13",
+    "2.8.2.14",
+    "5.6.1.7"
+   ],
+   "scope": "To clarify the requirements for measures to mitigate fire spread to adjacent buildings, water supply, and access for firefighting as per the National Building Code - 2023 Alberta Edition (NBC(AE)) and the National Fire Code - 2023 Alberta Edition (NFC(AE)).",
+   "mentions_exit_or_stair_count": 2,
+   "pages": 10,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-030-23-fci-012-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-030-23-fci-012-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-032",
+   "kind": "interpretation",
+   "title": "Occupancy classification for buildings used for tank vehicles",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "July 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "4.11.2.3",
+    "4.11.2.5",
+    "4.11.2.2",
+    "3.2.2.6",
+    "3.2.2.7",
+    "3.2.2.8",
+    "3.2.2.48",
+    "3.2.2.51",
+    "3.2.2.57",
+    "3.2.2.60"
+   ],
+   "scope": "To clarify the application of the National Building Code - 2023 Alberta Edition (NBC(AE)) and the National Fire Code - 2023 Alberta Edition (NFC(AE)) to buildings used for parking, repairing, and/or servicing of tank vehicles.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-fire-23-bci-032-fci-005-2025-07.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-fire-23-bci-032-fci-005-2025-07.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-042/20-PCB-011R1",
+   "kind": "interpretation",
+   "title": "Hydronic heating systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "July 2025",
+   "articles_referenced": [
+    "2.4.1.1",
+    "9.33.4.1"
+   ],
+   "scope": "This interpretation clarifies the design requirements of hydronic heating systems, so an acceptable level of performance may be maintained for all installations.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-plumbing-23-bci-042-20-pcb-011r1-2025-07.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-plumbing-23-bci-042-20-pcb-011r1-2025-07.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-012/20-PCB-014/20-GCB-018",
+   "kind": "interpretation",
+   "title": "Rowhousing buildings with five or more dwelling units",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "January 2025",
+   "articles_referenced": [
+    "2.4.1.1"
+   ],
+   "scope": "To clarify the application for professional involvement for building services and systems for buildings classified as residential occupancy identified as a multiple-family dwelling containing five or more dwelling units in a rowhouse configuration.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-plumbing-gas-electrical-23-bci-012-20-pcb-014-20-gcb-018-21-.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-plumbing-gas-electrical-23-bci-012-20-pcb-014-20-gcb-018-21-.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-012",
+   "kind": "interpretation",
+   "title": "Rowhousing buildings with five or more dwelling units",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2025",
+   "articles_referenced": [
+    "2.4.1.1"
+   ],
+   "scope": "To clarify the application for professional involvement for building services and systems for buildings classified as residential occupancy identified as a multiple-family dwelling containing five or more dwelling units in a rowhouse configuration.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-building-plumbing-gas-electrical-23-bci-012-20pcb-20gcb-24ecb.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-building-plumbing-gas-electrical-23-bci-012-20pcb-20gcb-24ecb.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-EDI-013/23-BCI-038",
+   "kind": "interpretation",
+   "title": "Firefighters' Emergency Operation for alterations (FEO)",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2025",
+   "articles_referenced": [
+    "3.2.4.11",
+    "1.1.1.2",
+    "1.5.1.2",
+    "3.2.4.14",
+    "3.2.6.1",
+    "3.2.2.57",
+    "3.2.6.4",
+    "3.2.6.7",
+    "3.5.2.1",
+    "8.7.1.1",
+    "8.7.2.27",
+    "8.7.2.28",
+    "8.7.2.16",
+    "8.7.3.31",
+    "8.10.3.3",
+    "8.7.3.17"
+   ],
+   "scope": "To clarify the requirements for Firefighters' Emergency Operations (FEO) when alterations are being made to existing elevating devices.",
+   "mentions_exit_or_stair_count": 2,
+   "pages": 7,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-elevating-devices-building-19-edi-013-23-bci-038-2025-04.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-elevating-devices-building-19-edi-013-23-bci-038-2025-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-FCI-004/23-BCI-009",
+   "kind": "interpretation",
+   "title": "Fixed fire suppression and exhaust systems - cooking, cleaning, maintenance and",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "December 2024",
+   "articles_referenced": [
+    "3.3.1.2",
+    "3.6.3.5",
+    "6.3.1.6",
+    "6.9.1.3",
+    "9.10.1.4",
+    "2.6.1.9",
+    "4.1.1.2",
+    "5.5.5.3",
+    "2.2.4.1",
+    "2.2.4.5",
+    "2.2.1.2",
+    "11.2.8.1",
+    "8.2.3.1",
+    "10.6.4.1",
+    "10.6.4.2",
+    "10.3.1.1",
+    "10.3.1.2"
+   ],
+   "scope": "This clarifies the requirements from the National Building Code - 2023 Alberta Edition (NBC(AE)) and National Fire Code - 2023 Alberta Edition (NFC(AE)) for fixed fire suppression and exhaust systems for commercial cooking.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 13,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "25-GCI-003/23-BCI-020",
+   "kind": "interpretation",
+   "title": "Mechanically vented appliances",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2026",
+   "articles_referenced": [
+    "9.32.3.8",
+    "1.4.1.2",
+    "9.32.3.9"
+   ],
+   "scope": "To clarify what types of appliances are considered to meet the definitions of mechanically vented and direct- vented in the National Building Code - 2023 Alberta Edition (NBC(AE)) and, subsequently, when make-up air would need to be provided within a dwelling unit to protect against the effects of depressurization.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-gas-building-25-gci-003-23-bci-020-2026-03.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-gas-building-25-gci-003-23-bci-020-2026-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-012R1/20-PCB-014R1/25-GCB-018",
+   "kind": "interpretation",
+   "title": "Rowhousing buildings with five or more dwelling units",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2026",
+   "articles_referenced": [
+    "2.4.1.1"
+   ],
+   "scope": "To clarify the application for professional involvement for building services and systems for buildings classified as residential occupancy identified as a multiple-family dwelling containing five or more dwelling units in a rowhouse configuration.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-joint-23bci012r1-20pcb014r1-25gcb018-24ecb009r2-2026.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci012r1-20pcb014r1-25gcb018-24ecb009r2-2026.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-024/23-FCI-008",
+   "kind": "interpretation",
+   "title": "Variance process for industrial occupancy",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "August 2026",
+   "articles_referenced": [
+    "2.4.1.1",
+    "2.3.1.2",
+    "1.4.1.2",
+    "2.3.1.1",
+    "1.2.1.1"
+   ],
+   "scope": "To clarify the variance application, review, and enforcement process for authorities having jurisdiction (AHJs) and designers that may allow for a high-hazard industrial (F-1) occupancy to be classified as a medium-hazard industrial (F-2) occupancy, or for F-1 to be addressed as presenting a similar risk to an F-2. This also addresses the relevant Safety Codes Act (SCA) and Code requirements and i",
+   "mentions_exit_or_stair_count": 1,
+   "pages": 6,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-joint-23bci024-23fci008-2026-08.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci024-23fci008-2026-08.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-025/24-ECI-009",
+   "kind": "interpretation",
+   "title": "Service/utility room for energy storage systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2026",
+   "articles_referenced": [
+    "9.10.3.1"
+   ],
+   "scope": "To clarify that a building safety codes officer (SCO) reviews and inspects the design and construction of a room containing energy storage systems (ESS) where the room provisions are in the 2024 Canadian Electrical Code, Part 1 (CE Code Part 1).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-joint-23bci025-24eci009-2026-10.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci025-24eci009-2026-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCI-026/23-FCI-014",
+   "kind": "interpretation",
+   "title": "Single-Egress-Stairs (SES) for buildings of residential occupancy",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2026",
+   "articles_referenced": [
+    "1.2.1.1",
+    "2.4.1.1",
+    "2.3.1.1",
+    "2.3.1.2",
+    "1.4.1.2"
+   ],
+   "scope": "To clarify that compliance with the National Building Code - 2023 Alberta Edition (NBC(AE)) can be achieved via alternative solutions (variance) that will achieve at least the minimum level of performance required by Division B in the areas defined by the objectives and functional statements attributed to the applicable acceptable solutions. Where a single-egress-stair (SES) building does not comp",
+   "mentions_exit_or_stair_count": 21,
+   "pages": 7,
+   "file_path": "files/standata/interpretations_2023/ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": true
+  },
+  {
+   "number": "23-FCI-010/23-BCI-043",
+   "kind": "interpretation",
+   "title": "Electromagnetic locks - installation, maintenance, testing, and verification",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "November 2025",
+   "articles_referenced": [
+    "2.2.3.3",
+    "2.4.1.1",
+    "3.2.4.5",
+    "3.2.9.1",
+    "2.2.1.1",
+    "2.2.1.2",
+    "1.4.1.2",
+    "3.2.4.19",
+    "2.4.1.4",
+    "2.1.3.7",
+    "2.2.2.4",
+    "2.1.2.4",
+    "2.7.2.1",
+    "2.7.2.2",
+    "6.1.1.2",
+    "6.3.1.1",
+    "6.3.1.2",
+    "2.2.4.3",
+    "2.2.7.2",
+    "2.2.9.2",
+    "6.8.1.1",
+    "2.2.4.8",
+    "6.1.1.3"
+   ],
+   "scope": "To clarify how the Safety Codes Act (SCA), the National Building Code - 2023 Alberta Edition (NBC(AE)) and the National Fire Code - 2023 Alberta Edition (NFC(AE)) apply to the installation, maintenance, testing, and verification of electromagnetic locks.",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 9,
+   "file_path": "files/standata/interpretations_2023/ma-standata-joint-interpretation-23-fci-010-23-bci-043-2025-11.pdf",
+   "source": {
+    "doc": "ma-standata-joint-interpretation-23-fci-010-23-bci-043-2025-11.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-002",
+   "kind": "variance",
+   "title": "Tall wall generic engineered details",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "May 2017",
+   "articles_referenced": [
+    "9.23.10.1"
+   ],
+   "scope": "To recognize the acceptability of the values within the “Guidelines for the Construction of Residential Tall Walls” prepared by Grubb Engineering Corporation.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 1,
+   "file_path": "files/standata/variances_2014/14-bcv-002-tallwall.pdf",
+   "source": {
+    "doc": "14-bcv-002-tallwall.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-002R1",
+   "kind": "variance",
+   "title": "Tall wall generic engineered details",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "September 2017",
+   "articles_referenced": [
+    "9.23.10.1"
+   ],
+   "scope": "To recognize the acceptability of the values within the “Guidelines for the Construction of Residential Tall Walls” prepared by Grubb Engineering Corporation.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 1,
+   "file_path": "files/standata/variances_2014/14-bcv-002r1-tallwall.pdf",
+   "source": {
+    "doc": "14-bcv-002r1-tallwall.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-003",
+   "kind": "variance",
+   "title": "Wind data for low-rise buildings guideline",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "May 2017",
+   "articles_referenced": [
+    "9.7.4.3",
+    "9.7.4.2"
+   ],
+   "scope": "To recognize the acceptability of the values within the “Guideline for specifying the required NAFS ratings of fenestration in low-rise buildings applicable to Part 9 of Division B of the Alberta Building Code 2014,” as prepared by Berkeley Vadocz Engineering Inc. (Issued May 11, 2016)",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-003-winddataforlow-rise-buildings.pdf",
+   "source": {
+    "doc": "14-bcv-003-winddataforlow-rise-buildings.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-003R1",
+   "kind": "variance",
+   "title": "Wind data for low-rise buildings guideline",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "September 2017",
+   "articles_referenced": [
+    "9.7.4.3",
+    "9.7.4.2"
+   ],
+   "scope": "To recognize the acceptability of the values within the “Guideline for specifying the required NAFS ratings of fenestration in low-rise buildings applicable to Part 9 of Division B of the Alberta Building Code 2014,” as prepared by Berkeley Vadocz Engineering Inc. (Issued May 11, 2016)",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-003r1-winddataforlow-rise-buildingsbild.pdf",
+   "source": {
+    "doc": "14-bcv-003r1-winddataforlow-rise-buildingsbild.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-004",
+   "kind": "variance",
+   "title": "Spans for joists, rafter and beams",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "May 2017",
+   "articles_referenced": [
+    "9.23.4.2"
+   ],
+   "scope": "To recognize the acceptability of the values within the “The Span Book” published by the Canadian Wood Council.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 1,
+   "file_path": "files/standata/variances_2014/14-bcv-004-spansjoistsrafterandbeams.pdf",
+   "source": {
+    "doc": "14-bcv-004-spansjoistsrafterandbeams.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-005",
+   "kind": "variance",
+   "title": "Prefabricated buildings, modules, and panels",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "May 2017",
+   "articles_referenced": [
+    "2.4.5.1"
+   ],
+   "scope": "To recognize the acceptability of CSA-A277-16 “Procedure for certification of prefabricated buildings, modules, and panels”.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings.pdf",
+   "source": {
+    "doc": "14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-006",
+   "kind": "variance",
+   "title": "Elevator and passenger-elevating devices",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "June 2017",
+   "articles_referenced": [
+    "3.5.4.1",
+    "3.8.3.5"
+   ],
+   "scope": "This STANDATA has been developed regarding the use of a passenger elevator where a lift for persons with physical disabilities (LPPD) that conforms to the CSA-B355 standard would suffice to meet the requirements of a barrier free path of travel.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-006-elevatorsandpassengerelevatingdevices.pdf",
+   "source": {
+    "doc": "14-bcv-006-elevatorsandpassengerelevatingdevices.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-007",
+   "kind": "variance",
+   "title": "Interior stairways for roof access",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "June 2017",
+   "articles_referenced": [
+    "3.6.4.7",
+    "3.2.5.3",
+    "3.3.1.14",
+    "3.3.4.7",
+    "3.4.3.2",
+    "3.4.3.4",
+    "3.4.6.1",
+    "3.4.6.8",
+    "3.4.6.3",
+    "3.4.6.4"
+   ],
+   "scope": "This STANDATA has been developed to allow the use of fixed attic folding stairs, rung-type ladders or “ship's ladders/fixed industrial stairs” in place of the interior stairways required by the Alberta Building Code 2014 (ABC 2014).",
+   "mentions_exit_or_stair_count": 16,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-bcv-007-interiorstairwaysforroofaccess.pdf",
+   "source": {
+    "doc": "14-bcv-007-interiorstairwaysforroofaccess.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-008",
+   "kind": "variance",
+   "title": "Separation of suites in strip malls",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "June 2017",
+   "articles_referenced": [
+    "3.3.1.1",
+    "9.10.9.13",
+    "3.3.1.4",
+    "3.3.4.2",
+    "3.1.8.7",
+    "9.10.9.14",
+    "3.2.5.12",
+    "3.2.4.5",
+    "3.1.3.1"
+   ],
+   "scope": "To apply the same exception related to fire separations for occupancies in strip malls as allowed for malls with enclosed corridors.",
+   "mentions_exit_or_stair_count": 2,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-008-separationofsuitesinstripmalls.pdf",
+   "source": {
+    "doc": "14-bcv-008-separationofsuitesinstripmalls.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-009",
+   "kind": "variance",
+   "title": "Polyethylene film for greenhouse enclosures",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "July 2017",
+   "articles_referenced": [
+    "3.1.6.5"
+   ],
+   "scope": "The purpose of this STANDATA is to allow the use of products specifically designed for commercial greenhouse facilities occupied only by greenhouse staff, where members of the public are not permitted access.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 1,
+   "file_path": "files/standata/variances_2014/14-bcv-009-polyethylenefilmforgreenhouseenclosures.pdf",
+   "source": {
+    "doc": "14-bcv-009-polyethylenefilmforgreenhouseenclosures.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-010",
+   "kind": "variance",
+   "title": "Interconnected smoke alarms",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "October 2017",
+   "articles_referenced": [
+    "3.2.4.21",
+    "9.10.19.5",
+    "9.10.19.4",
+    "9.10.19.1"
+   ],
+   "scope": "To provide an alternative solution to the requirement for interconnecting smoke alarms by wire under the Alberta Building Code (ABC) 2014.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-010-interconnectedsmokealarms.pdf",
+   "source": {
+    "doc": "14-bcv-010-interconnectedsmokealarms.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-011/14-FCV-012",
+   "kind": "variance",
+   "title": "Door release hardware",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "October 2017",
+   "articles_referenced": [
+    "3.4.6.16",
+    "3.3.1.13",
+    "3.4.6.17",
+    "3.2.4.8",
+    "3.2.4.7"
+   ],
+   "scope": "To provide an alternative solution to limit the probability of residents in treatment and care occupancies with safety restrictions exiting a building or supervised area and exposing themselves or others to undue risks.",
+   "mentions_exit_or_stair_count": 7,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-bcv-011-14-fcv-012-doorreleasehardware.pdf",
+   "source": {
+    "doc": "14-bcv-011-14-fcv-012-doorreleasehardware.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-012",
+   "kind": "variance",
+   "title": "Oil and gas processing facilities",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "November 2017",
+   "articles_referenced": [
+    "3.3.1.5",
+    "3.3.1.3"
+   ],
+   "scope": "The purpose of this variance is to allow small oil and gas high hazard industrial occupancies to be classified as Group F, Division 2 as an alternative solution under the Alberta Building Code 2014 (ABC 2014).",
+   "mentions_exit_or_stair_count": 8,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-bcv-012-oilandgasprocessingfacilities.pdf",
+   "source": {
+    "doc": "14-bcv-012-oilandgasprocessingfacilities.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-013",
+   "kind": "variance",
+   "title": "Natural gas regulating and metering station buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "November 2017",
+   "articles_referenced": [
+    "6.2.2.5",
+    "1.4.1.2"
+   ],
+   "scope": "This STANDATA is developed to provide an alternative solution for occupancy classification of high hazard industrial occupancies that house natural gas and metering equipment.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-013-naturalgasregulatingandmeteringstationbuildings.pdf",
+   "source": {
+    "doc": "14-bcv-013-naturalgasregulatingandmeteringstationbuildings.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-014",
+   "kind": "variance",
+   "title": "Lowered workspaces in service garages",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "December 2017",
+   "articles_referenced": [
+    "3.2.5.16",
+    "9.10.20.4",
+    "4.3.13.1",
+    "4.3.13.9",
+    "4.3.1.2",
+    "4.2.8.2"
+   ],
+   "scope": "The purpose of this variance is to recognize acceptable alternatives for lowered workspaces in service garages under the Alberta Building Code 2014 (ABC 2014).",
+   "mentions_exit_or_stair_count": 6,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-014-loweredworkspacesinservicegarages.pdf",
+   "source": {
+    "doc": "14-bcv-014-loweredworkspacesinservicegarages.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-015",
+   "kind": "variance",
+   "title": "Multi-level storage racking systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "December 2017",
+   "articles_referenced": [
+    "3.2.2.2",
+    "3.2.2.20",
+    "3.2.2.90",
+    "3.2.5.12",
+    "3.2.2.5",
+    "3.3.1.18",
+    "2.4.2.2",
+    "5.2.2.1",
+    "5.2.2.2",
+    "5.3.1.1",
+    "5.3.1.2",
+    "5.3.4.1",
+    "5.3.4.2"
+   ],
+   "scope": "The purpose of this variance is to allow for an alternative solution for multi-level storage racking systems to be considered as special and unusual structures under the Alberta Building Code 2014 (ABC 2014). The ABC 2014 contains no specific requirements for multi-level storage racking systems. Manufacturers of these types of structures have requested that they be considered as special and unusua",
+   "mentions_exit_or_stair_count": 54,
+   "pages": 6,
+   "file_path": "files/standata/variances_2014/14-bcv-015-multi-levelstoragerackingsystems.pdf",
+   "source": {
+    "doc": "14-bcv-015-multi-levelstoragerackingsystems.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-016",
+   "kind": "variance",
+   "title": "Family and two-family dwellings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "December 2017",
+   "articles_referenced": [
+    "2.4.2.1",
+    "2.2.2.1",
+    "2.2.10.4"
+   ],
+   "scope": "The purpose of this variance is to provide an alternative solution to allow for the use of manufactured structural components in the construction of one-family and two-family dwellings under the Alberta Building Code 2014 (ABC 2014).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/variances_2014/14-bcv-016-manufacturedstructuralcomponents.pdf",
+   "source": {
+    "doc": "14-bcv-016-manufacturedstructuralcomponents.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-017",
+   "kind": "variance",
+   "title": "Energuideratingsystem",
+   "title_source": "filename",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "January 2018",
+   "articles_referenced": [
+    "9.36.1.3",
+    "9.36.5.1",
+    "9.36.5.4",
+    "9.36.5.3"
+   ],
+   "scope": "This variance has been developed to acknowledge equivalencies between Article 9.36.5. energy modeling requirements and the EnerGuide Rating System version 15 (ERS v15) for homes.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-bcv-017-energuideratingsystem.pdf",
+   "source": {
+    "doc": "14-bcv-017-energuideratingsystem.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-018",
+   "kind": "variance",
+   "title": "Fire-resistant wall assemblies",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "March 2018",
+   "articles_referenced": [
+    "3.1.7.1",
+    "9.10.3.1",
+    "3.1.7.2",
+    "3.2.5.12",
+    "3.2.4.1"
+   ],
+   "scope": "This variance sets out the conditions for a safety codes officer to accept the use of sprinkler- protected glazing assemblies in interior and exterior fire rated wall assemblies.",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 6,
+   "file_path": "files/standata/variances_2014/14-bcv-018-sprinkler-protectedglazinginfire-resistantwallassemblies.pdf",
+   "source": {
+    "doc": "14-bcv-018-sprinkler-protectedglazinginfire-resistantwallassemblies.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-018R1",
+   "kind": "variance",
+   "title": "Fire-resistant wall assemblies",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "January 2019",
+   "articles_referenced": [
+    "3.1.7.1",
+    "9.10.3.1",
+    "3.1.7.2",
+    "3.2.5.12",
+    "3.2.4.1"
+   ],
+   "scope": "This variance sets out the conditions for a safety codes officer to accept the use of sprinkler- protected glazing assemblies in interior and exterior fire rated wall assemblies.",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-bcv-018r1-sprinklerprotectedglazinginfireresistantwallassemblies.pdf",
+   "source": {
+    "doc": "14-bcv-018r1-sprinklerprotectedglazinginfireresistantwallassemblies.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-019",
+   "kind": "variance",
+   "title": "Insulation below a heated floor",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "October 2018",
+   "articles_referenced": [
+    "9.36.2.8",
+    "3.2.1.1"
+   ],
+   "scope": "This variance has been developed to address issues with providing adequate insulation value below a heated floor in contact with the ground.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/14-bcv-019-insulationbelowheatedfloors.pdf",
+   "source": {
+    "doc": "14-bcv-019-insulationbelowheatedfloors.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-FCV-022/14-BCV-020",
+   "kind": "variance",
+   "title": "unresolved (title not extracted; see scope)",
+   "title_source": "filename",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "January 2019",
+   "articles_referenced": [
+    "3.4.1.1",
+    "3.2.5.12",
+    "3.2.2.47",
+    "3.2.2.54",
+    "9.10.1.3",
+    "3.2.2.42",
+    "3.2.2.46",
+    "6.4.1.1"
+   ],
+   "scope": "This variance sets out the conditions to accept the use of antifreeze solution to limit the probability of freezing in sprinkler systems that are located in -20°C or colder climates within the Province of Alberta",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2014/14-fcv-022-14-bcv-020.pdf",
+   "source": {
+    "doc": "14-fcv-022-14-bcv-020.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "14-BCV-001/AFC 5.6.1.3",
+   "kind": "variance",
+   "title": "Construction site fire safety plans",
+   "title_source": "document",
+   "edition": "NBC(AE) 2014",
+   "date_issued": "April 2016",
+   "articles_referenced": [
+    "5.6.1.3",
+    "8.1.1.1"
+   ],
+   "scope": "This STANDATA has been developed to allow building safety codes officers to accept fire safety plans for construction and demolition sites as required under Section 5.6. of the Alberta Fire Code 2014 where fire safety codes officers are not readily available.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2014/jointafc-bcvfiresafetyplans-april2016.pdf",
+   "source": {
+    "doc": "jointafc-bcvfiresafetyplans-april2016.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-001",
+   "kind": "variance",
+   "title": "Relocatable industrial accommodation labeling",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "2.4.5.1",
+    "10.1.1.4"
+   ],
+   "scope": "This variance recognizes the acceptability of CSA A277 certification in place of the Alberta labeling program for Part 10 buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-001-relocatable-industrial-accomodation-labeling.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-001-relocatable-industrial-accomodation-labeling.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-002",
+   "kind": "variance",
+   "title": "Alberta labeling for csa a277 constructed homes",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "2.4.5.1",
+    "1.1.1.1"
+   ],
+   "scope": "This variance recognizes CSA A277, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” labels (without accompaniment of an Alberta Municipal Affairs label) for factory-constructed and other off-site-constructed homes as proof of conformance with Part 9 of the National Building Code-2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-002-alberta-labeling-csa-a277-constructed-homes.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-002-alberta-labeling-csa-a277-constructed-homes.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-003",
+   "kind": "variance",
+   "title": "Elevator and passenger-elevating devices",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.5.4.1",
+    "3.8.3.5",
+    "3.8.3.7"
+   ],
+   "scope": "This variance has been developed regarding the use of a passenger elevator where a lift for persons with physical disabilities (LPPD) that conforms to the CSA-B355 standard would suffice to meet the requirements of a barrier free path of travel.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-004",
+   "kind": "variance",
+   "title": "Energuide rating system for new homes",
+   "title_source": "filename",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "9.36.1.3",
+    "9.36.5.1",
+    "9.36.5.4",
+    "9.36.5.3"
+   ],
+   "scope": "This variance is developed to acknowledge equivalencies between Article 9.36.5. energy modeling requirements and the EnerGuide Rating System version 15 (ERS v15) for homes.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-004-energuide-rating-system-for-new-homes.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-004-energuide-rating-system-for-new-homes.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-005",
+   "kind": "variance",
+   "title": "Insulation below a heated floor",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "9.36.2.8",
+    "3.2.1.1",
+    "2.2.1.1"
+   ],
+   "scope": "This variance has been developed to address issues with providing adequate insulation value below a heated floor in contact with the ground.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-005-insulation-below-heated-floors.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-005-insulation-below-heated-floors.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-006",
+   "kind": "variance",
+   "title": "Interconnected smoke alarms",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "9.10.19.5",
+    "3.2.4.20",
+    "9.10.19.4",
+    "9.10.19.1"
+   ],
+   "scope": "To provide an alternative solution to the requirement for interconnecting smoke alarms by wire under the National Building Code-2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-006-interconnected-smoke-alarms.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-006-interconnected-smoke-alarms.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-007",
+   "kind": "variance",
+   "title": "Lowered workspaces in service garages",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.2.5.16",
+    "9.10.20.4",
+    "4.3.5.2",
+    "4.3.6.4",
+    "4.3.13.1",
+    "4.3.13.9",
+    "4.3.1.2",
+    "4.2.8.2"
+   ],
+   "scope": "The purpose of this variance is to recognize acceptable alternatives for lowered workspaces in service garages under the National Building Code - 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 6,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-007-lowered-workspaces-in-service-garages.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-007-lowered-workspaces-in-service-garages.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-008",
+   "kind": "variance",
+   "title": "Multi-level storage racking systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.2.2.2",
+    "3.2.2.20",
+    "3.2.2.90",
+    "3.2.5.12",
+    "3.2.2.5",
+    "3.3.1.18",
+    "2.4.2.2",
+    "5.2.2.1",
+    "5.2.2.2",
+    "5.3.1.1",
+    "5.3.1.2",
+    "5.3.4.1",
+    "5.3.4.2"
+   ],
+   "scope": "The purpose of this variance is to allow for an alternative solution for multi-level storage racking systems to be considered as special and unusual structures under the National Building Code - 2019 Alberta Edition (NBC(AE)). The NBC(AE) contains no specific requirements for multi-level storage racking systems. Manufacturers of these types of structures have requested that they be considered as s",
+   "mentions_exit_or_stair_count": 54,
+   "pages": 6,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-008-multi-level-storage-racking-systems.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-008-multi-level-storage-racking-systems.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-009",
+   "kind": "variance",
+   "title": "Natural gas regulating and metering station buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "6.3.1.6",
+    "6.2.1.1",
+    "1.4.1.2"
+   ],
+   "scope": "This standata is developed to provide an alternative solution for occupancy classification of high hazard industrial occupancies that house natural gas and metering equipment.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-009-natural-gas-regulating-and-metering-station-buildings.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-009-natural-gas-regulating-and-metering-station-buildings.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-010",
+   "kind": "variance",
+   "title": "Oil and gas processing facilities",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.3.1.5",
+    "3.3.1.3"
+   ],
+   "scope": "The purpose of this variance is to allow small oil and gas high hazard industrial occupancies to be classified as Group F, Division 2 as an alternative solution under the National Building Code- 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 8,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-010-oil-and-gas-processing-facilities.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-010-oil-and-gas-processing-facilities.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-011",
+   "kind": "variance",
+   "title": "Polyethylene film for greenhouse enclosures",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.1.6.5"
+   ],
+   "scope": "This variance is developed to allow the use of products specifically designed for commercial greenhouse facilities occupied only by greenhouse staff, where members of the public are not permitted access.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-011-polyethylene-film-for-greenhouse-enclosures.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-011-polyethylene-film-for-greenhouse-enclosures.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-012",
+   "kind": "variance",
+   "title": "Spans for joists, rafters and beams",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "9.23.4.2"
+   ],
+   "scope": "This variance is developed to recognize the acceptability of the values within the “The Span Book” published by the Canadian Wood Council.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 1,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-012-spans-for-joists-rafters-and-beams.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-012-spans-for-joists-rafters-and-beams.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-013",
+   "kind": "variance",
+   "title": "Fire-resistant wall assemblies",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2019",
+   "articles_referenced": [
+    "3.1.7.1",
+    "9.10.3.1",
+    "3.1.7.2",
+    "3.6.3.5",
+    "3.2.5.12",
+    "3.2.4.1"
+   ],
+   "scope": "This variance sets out the conditions for a safety codes officer to accept the use of sprinkler- protected glazing assemblies in interior and exterior fire rated wall assemblies.",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-19-bcv-013-sprinkler-protected-glazing-in-fire-resistant-wall-assemblies.pdf",
+   "source": {
+    "doc": "ma-standata-19-bcv-013-sprinkler-protected-glazing-in-fire-resistant-wall-assemblies.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-001R1",
+   "kind": "bulletin",
+   "title": "Relocatable industrial accommodation labeling",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "April 2021",
+   "articles_referenced": [
+    "2.4.5.1",
+    "10.1.1.4"
+   ],
+   "scope": "This variance recognizes the acceptability of CSA A277 certification in place of the Alberta labeling program for new Part 10 buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-bulletin-19-bcv-001r1.pdf",
+   "source": {
+    "doc": "ma-standata-building-bulletin-19-bcv-001r1.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-017",
+   "kind": "variance",
+   "title": "Vented soffit protection",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "November 2020",
+   "articles_referenced": [
+    "9.10.14.5",
+    "9.10.15.5",
+    "9.10.12.4",
+    "3.2.3.6"
+   ],
+   "scope": "This variance provides an alternative solution for the protection of soffits where typical vented soffit materials are otherwise not permitted.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-017-vented-soffit-protection.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-017-vented-soffit-protection.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-018",
+   "kind": "variance",
+   "title": "For part 9 residential buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2020",
+   "articles_referenced": [],
+   "scope": "To recognize the acceptability of the values within the document “Adhered Masonry Veneer Installations to a Maximum 3.05m Above Local Grade On Part 9 Residential Units In Alberta” prepared by the Alberta Masonry Council.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 10,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-018.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-018.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-018R1",
+   "kind": "variance",
+   "title": "For part 9 residential buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "January 2021",
+   "articles_referenced": [],
+   "scope": "To recognize the acceptability of the values within the document “Adhered Masonry Veneer Installations to a Maximum 3.05m Above Local Grade On Part 9 Residential Units In Alberta” prepared by the Alberta Masonry Council.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-018r1.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-018r1.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-018R2",
+   "kind": "variance",
+   "title": "Adhered Masonry Veneer - Generic Engineered Details for Part 9 Residential Buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "November 2021",
+   "articles_referenced": [],
+   "scope": "To recognize the acceptability of the values within the document “Adhered Masonry Veneer Installations to a Maximum 3.05m Above Local Grade On Part 9 Residential Units In Alberta” prepared by the Alberta Masonry Council.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-018r2.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-018r2.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-019",
+   "kind": "variance",
+   "title": "To hvac equipment",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "May 2021",
+   "articles_referenced": [
+    "3.6.4.7",
+    "3.3.1.14",
+    "3.3.4.7",
+    "3.4.3.2",
+    "3.4.3.4",
+    "3.4.6.1",
+    "3.4.6.9",
+    "3.2.5.3"
+   ],
+   "scope": "This variance covers the use of steel rung-type ladders or “ship's ladders”/“fixed industrial stairs” as an alternative for interior stairways for accessing rooftop HVAC equipment.",
+   "mentions_exit_or_stair_count": 15,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-019.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-019.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-020",
+   "kind": "variance",
+   "title": "Structural insulated panels",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "May 2021",
+   "articles_referenced": [
+    "1.2.2.1",
+    "2.4.2.1",
+    "2.2.10.9",
+    "1.2.1.1",
+    "2.4.1.1"
+   ],
+   "scope": "This variance allows for the use of Structural Insulated Panels (SIPs) in buildings constructed under Part 9 of the National Building Code - 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 6,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-020.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-020.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-020R",
+   "kind": "variance",
+   "title": "Structural Insulated Panels",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "October 2021",
+   "articles_referenced": [
+    "1.2.2.1",
+    "2.4.2.1",
+    "2.2.10.9",
+    "1.2.1.1",
+    "2.4.1.1"
+   ],
+   "scope": "This variance allows for the use of Structural Insulated Panels (SIPs) in buildings constructed under Part 9 of the National Building Code - 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 6,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-020rev1.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-020rev1.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-021",
+   "kind": "variance",
+   "title": "Off-site review of buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "January 2022",
+   "articles_referenced": [
+    "2.4.5.1",
+    "1.2.1.1"
+   ],
+   "scope": "To clarify the intent of off-site review as applicable to off-site construction of buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-021.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-021.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-022",
+   "kind": "variance",
+   "title": "Unvented roof assembly",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "April 2022",
+   "articles_referenced": [
+    "9.19.1.1",
+    "9.19.1.4"
+   ],
+   "scope": "This variance sets out the conditions for a building official to accept the use of an unvented roof assembly under Part 9 of the National Building Code-2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-022.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-022.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-023",
+   "kind": "variance",
+   "title": "Insulation values for flat or cathedral roofs serving residential garages",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "April 2022",
+   "articles_referenced": [
+    "9.25.2.1",
+    "9.36.2.6",
+    "1.1.3.1",
+    "9.36.2.8"
+   ],
+   "scope": "This variance addresses thermal resistance requirements for flat and cathedral roofs above attached garages and heated detached garages for residential occupancies.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-023.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-023.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-024",
+   "kind": "variance",
+   "title": "Schedules of professional involvement",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "April 2022",
+   "articles_referenced": [
+    "2.4.3.1",
+    "2.4.3.2",
+    "2.4.4.1"
+   ],
+   "scope": "This variance recognizes the attached schedules of professional involvement as an alternative solution to the requirements in Articles 2.4.3.1, 2.4.3.2. and 2.4.4.1. of Division C of the National Building Code - 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 21,
+   "file_path": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-024.pdf",
+   "source": {
+    "doc": "ma-standata-building-code-variance-19-bcv-024.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "18-BCV-007R1",
+   "kind": "variance",
+   "title": "Lowered workspaces in service garages",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "May 2020",
+   "articles_referenced": [
+    "3.2.5.16",
+    "9.10.20.4"
+   ],
+   "scope": "This variance recognizes acceptable alternatives for lowered workspaces in service garages under the National Building Code - 2019 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 6,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-building-variance-18-bcv-007r1.pdf",
+   "source": {
+    "doc": "ma-standata-building-variance-18-bcv-007r1.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-003/19-EDB-001",
+   "kind": "variance",
+   "title": "Elevator and passenger-elevating devices",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "November 2022",
+   "articles_referenced": [
+    "3.5.4.1",
+    "3.8.3.7"
+   ],
+   "scope": "This Standata focuses on the use of a passenger elevator instead of a platform lift or stair lift to meet barrier-free requirements, wherein it would also have to conform to CSA-B355, “Platform lifts and stair lifts for barrier-free access,” to meet that specific intended use.",
+   "mentions_exit_or_stair_count": 8,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-014/19-FCV-019",
+   "kind": "variance",
+   "title": "12-storey encapsulated mass timber construction",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "February 2020",
+   "articles_referenced": [
+    "1.4.1.2",
+    "3.2.2.16",
+    "3.3.4.2",
+    "3.2.2.18",
+    "3.2.4.7",
+    "3.2.4.8",
+    "3.2.4.9",
+    "3.2.5.12",
+    "3.2.2.7",
+    "3.1.5.1",
+    "2.2.3.1",
+    "3.1.5.3",
+    "3.1.11.5",
+    "3.2.5.6",
+    "3.1.5.5",
+    "3.2.3.10",
+    "3.2.3.1",
+    "3.1.5.6",
+    "3.1.13.1",
+    "3.1.11.7",
+    "3.1.9.4",
+    "3.1.11.6",
+    "3.1.5.10",
+    "3.1.15.1",
+    "3.2.1.2"
+   ],
+   "scope": "The purpose of this variance is to permit the construction of buildings of up to 12-storeys in building height of encapsulated mass timber construction (EMTC), as an alternative solution to the National Building Code-2019 Alberta Edition (NBC(AE)) and the National Fire Code-2019 Alberta Edition (NFC(AE)).",
+   "mentions_exit_or_stair_count": 12,
+   "pages": 26,
+   "file_path": "files/standata/variances_2019/ma-standata-joint-variance-19-bcv-014-19-fcv-019.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-19-bcv-014-19-fcv-019.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-014/19-FCV-019",
+   "kind": "variance",
+   "title": "12-Storey encapsulated mass timber construction",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "March 2023",
+   "articles_referenced": [
+    "1.4.1.2"
+   ],
+   "scope": "This variance permits the construction of buildings of up to 12-storeys in building height of encapsulated mass timber construction (EMTC), as an alternative solution to the National Building Code - 2019 Alberta Edition (NBC(AE)) and the National Fire Code - 2019 Alberta Edition (NFC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-FCV-018/19-BCV-015",
+   "kind": "variance",
+   "title": "Construction site fire safety plans",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "March 2020",
+   "articles_referenced": [
+    "8.1.1.1",
+    "5.6.1.3"
+   ],
+   "scope": "This variance has been developed to allow building safety codes officers to accept fire safety plans for construction and demolition sites as required under Section 5.6. of the National Fire Code-2019 Alberta Edition (NFC(AE)) where fire safety codes officers are not readily available.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2019/ma-standata-joint-variance-19-fcv-018-19-bcv-015.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-19-fcv-018-19-bcv-015.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-FCV-020/19-BCV-016",
+   "kind": "variance",
+   "title": "unresolved (title not extracted; see scope)",
+   "title_source": "filename",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "March 2020",
+   "articles_referenced": [
+    "3.4.1.1",
+    "3.2.5.12",
+    "3.2.2.47",
+    "3.2.2.54",
+    "9.10.1.3",
+    "3.2.2.42",
+    "3.2.2.46",
+    "6.4.1.1"
+   ],
+   "scope": "This variance sets out the conditions to accept the use of antifreeze solution to limit the probability of freezing in sprinkler systems that are located in -20°C or colder climates within the Province of Alberta",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-joint-variance-19-fcv-020-19-bcv-016.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-19-fcv-020-19-bcv-016.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-024",
+   "kind": "variance",
+   "title": "Schedules of professional involvement",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "February 2024",
+   "articles_referenced": [
+    "2.4.3.1",
+    "2.4.3.2",
+    "2.4.4.1"
+   ],
+   "scope": "This variance recognizes the schedules of professional involvement in the National Building Code - 2023 Alberta Edition as an alternative solution to the requirements in Articles 2.4.3.1., 2.4.3.2. and 2.4.4.1. of Division C of the National Building Code - 2019 Alberta Edition.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2019/ma-standata-variance-building-19-bcv-024-rev1-2024-02.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-19-bcv-024-rev1-2024-02.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "19-BCV-025",
+   "kind": "variance",
+   "title": "Engineer authentication for the qualification of structural steel fabricators",
+   "title_source": "document",
+   "edition": "NBC(AE) 2019",
+   "date_issued": "December 2022",
+   "articles_referenced": [
+    "1.4.1.2",
+    "4.3.4.1",
+    "2.2.2.5"
+   ],
+   "scope": "To provide an alternative solution to the industry in meeting the requirement of using qualified fabricators for the fabrication of structural steel as per CSA W47.1 - “Certification of companies for fusion welding of steel”.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 5,
+   "file_path": "files/standata/variances_2019/ma-standata-variance-building-19-bcv-025.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-19-bcv-025.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-010R1",
+   "kind": "variance",
+   "title": "Engineer's authentication for welding procedures",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2025",
+   "articles_referenced": [
+    "4.3.4.1",
+    "1.4.1.2",
+    "2.2.2.4"
+   ],
+   "scope": "To provide an alternative solution to the National Building Code - 2023 Alberta Edition (NBC(AE)) requirement for certification of fabricators to CSA W47.1 - “Certification of companies for fusion welding of steel”, for the fabrication of skids for mounting mechanical equipment/systems or fabrication of proprietary structural components.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 5,
+   "file_path": "files/standata/variances_2023/ma-23-bcv-010r1-engineers-authentication-welding-procedures.pdf",
+   "source": {
+    "doc": "ma-23-bcv-010r1-engineers-authentication-welding-procedures.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-013/19-EDB-002",
+   "kind": "variance",
+   "title": "Elevator and passenger-elevating devices",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "February 2026",
+   "articles_referenced": [
+    "3.5.4.1",
+    "3.8.3.7"
+   ],
+   "scope": "To clarify situations where a passenger elevator is used instead of a platform lift or limited-use/limited-application elevator to meet barrier-free requirements.",
+   "mentions_exit_or_stair_count": 6,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-joint-variance-23-bcv-013-19-edb-002.pdf",
+   "source": {
+    "doc": "ma-standata-joint-variance-23-bcv-013-19-edb-002.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-001",
+   "kind": "variance",
+   "title": "Window opening control devices (WOCD)",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "April 2024",
+   "articles_referenced": [
+    "9.8.8.1",
+    "9.9.10.1",
+    "9.8.8.3",
+    "9.5.1.2"
+   ],
+   "scope": "To provide an alternative solution in meeting the requirements of Sentences 9.8.8.1 (4) and (5) Guards on windows of residential occupancy in the National Building Code - 2023 Alberta Edition (NBC (AE)).",
+   "mentions_exit_or_stair_count": 6,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-002",
+   "kind": "variance",
+   "title": "Review of off-site constructed buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "2.5.1.1",
+    "1.2.1.1"
+   ],
+   "scope": "To clarify the intent of off-site review as it applies to off-site construction of buildings.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-002-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-002-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-003",
+   "kind": "variance",
+   "title": "Insulation below a heated floor",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "9.36.2.8",
+    "9.36.2.5",
+    "9.36.3.9",
+    "9.38.1.1",
+    "2.2.1.1",
+    "3.2.1.1"
+   ],
+   "scope": "To provide an alternative solution for providing adequate insulation value below a heated floor in contact with the ground.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-003-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-003-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-004",
+   "kind": "variance",
+   "title": "Sprinkler-protected glazing in fire-resistant wall assemblies",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "3.1.7.1",
+    "9.10.3.1",
+    "3.1.7.2",
+    "3.6.3.5",
+    "3.2.4.1",
+    "3.2.5.12"
+   ],
+   "scope": "To set conditions where the use of sprinkler-protected glazing assemblies in interior and exterior fire rated wall assemblies is acceptable.",
+   "mentions_exit_or_stair_count": 5,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-005",
+   "kind": "variance",
+   "title": "Occupancy classification of oil and gas processing buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "3.3.1.5",
+    "3.3.1.3"
+   ],
+   "scope": "To allow oil and gas Group F, Division 1 hig- hazard industrial occupancies to be classified as Group F, Division 2 medium-hazard occupancy under certain conditions as an alternative solution under the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 8,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-005-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-005-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-006",
+   "kind": "variance",
+   "title": "Occupancy classification of natural gas regulating and metering buildings",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "6.3.1.5",
+    "6.2.1.1",
+    "1.4.1.2",
+    "3.7.2.1"
+   ],
+   "scope": "To provide an alternative solution for occupancy classification of Group F, Division 1 high-hazard industrial occupancies that house natural gas and metering equipment to be classified as Group F, Division 2 medium- hazard occupancy under certain conditions.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-006-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-006-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-007",
+   "kind": "variance",
+   "title": "Maximum span values for joists, rafters and beams",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2024",
+   "articles_referenced": [
+    "9.23.4.2",
+    "9.23.14.10",
+    "9.4.2.2"
+   ],
+   "scope": "To recognize the acceptability of the values within the “The Span Book” published by the Canadian Wood Council (CWC).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-007-2024-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-007-2024-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-008",
+   "kind": "variance",
+   "title": "Residential exhaust outlet clearance from air intakes",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "June 2024",
+   "articles_referenced": [
+    "9.32.3.13"
+   ],
+   "scope": "To provide an alternative solution to clearance requirements between domestic kitchen, bathroom and clothes dryer exhaust outlets from air intakes.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 3,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-008-2024-06.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-008-2024-06.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-008",
+   "kind": "variance",
+   "title": "Residential exhaust outlet clearance from air intakes",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2024",
+   "articles_referenced": [
+    "9.32.3.13"
+   ],
+   "scope": "Provides an alternative solution to Sentence 9.32.3.13.(4) for the minimum clearance requirement for domestic exhaust outlets that discharge air containing moisture, such as kitchen, bathroom, and clothes dryer exhaust outlets, from air intakes.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-008-rev1-2024-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-009",
+   "kind": "variance",
+   "title": "CSA B52:23 Mechanical refrigeration code",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2024",
+   "articles_referenced": [
+    "1.3.1.2",
+    "6.2.1.5",
+    "6.9.4.2",
+    "6.3.1.4",
+    "9.33.5.2",
+    "9.33.5.3",
+    "9.33.5.4"
+   ],
+   "scope": "Allows the acceptance of CSA B52:23, “Mechanical refrigeration code,” under the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-009-2024-10.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-009-2024-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-010",
+   "kind": "variance",
+   "title": "Engineer authentication for the qualification of structural steel fabricators",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "February 2025",
+   "articles_referenced": [
+    "1.4.1.2",
+    "4.3.4.1",
+    "2.2.2.4"
+   ],
+   "scope": "To provide an alternative solution to the industry in meeting the requirement of using qualified fabricators for the fabrication of structural steel as per CSA W47.1 - “Certification of companies for fusion welding of steel”.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 5,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-010-2025-02.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-010-2025-02.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-011",
+   "kind": "variance",
+   "title": "Polyethylene film for greenhouse enclosures",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "February 2025",
+   "articles_referenced": [
+    "3.1.18.5"
+   ],
+   "scope": "This variance allows the use of products specifically designed for commercial greenhouse facilities occupied only by greenhouse staff, where members of the public are not permitted access.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-011-2025-02.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-011-2025-02.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-011R1",
+   "kind": "variance",
+   "title": "Polyethylene film for greenhouse enclosures",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "October 2026",
+   "articles_referenced": [
+    "3.1.18.5"
+   ],
+   "scope": "To allow the use of products specifically designed for commercial greenhouse facilities. This variance establishes conditions under which polyethylene film may be used in greenhouses occupied by greenhouse staff only, and under certain circumstances, in greenhouses that allow public access.",
+   "mentions_exit_or_stair_count": 4,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-011r1-2026-10.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-011r1-2026-10.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-012R1",
+   "kind": "variance",
+   "title": "Permanent wood foundations with mechanically laminated timber panels for Part 9",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "May 2025",
+   "articles_referenced": [
+    "9.15.2.4",
+    "2.4.1.2"
+   ],
+   "scope": "To permit permanent wood foundations made from mechanically laminated timber panels (MLTP) as detailed within the document “Permanent Wood Foundations with Mechanically Laminated Timber Panels for Part 9 Residential Buildings in Alberta” (the document), as an alternative solution under the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-012r1-2025-05.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-012r1-2025-05.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-014",
+   "kind": "variance",
+   "title": "Multi-level storage racking systems",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "March 2025",
+   "articles_referenced": [
+    "3.2.2.2",
+    "3.2.2.20",
+    "3.2.2.92",
+    "3.2.5.12",
+    "3.2.2.5",
+    "3.3.1.18",
+    "2.4.2.2",
+    "5.2.2.1",
+    "5.2.2.2",
+    "5.3.1.1",
+    "5.3.1.2",
+    "5.3.4.1",
+    "5.3.4.2"
+   ],
+   "scope": "To allow an alternative solution for multi-level storage racking systems to be considered as special and unusual structures under the National Building Code - 2023 Alberta Edition (NBC(AE)). The NBC(AE) contains no specific requirements for multi-level storage racking systems. Manufacturers of these types of structures have requested they be considered as special and unusual structures according t",
+   "mentions_exit_or_stair_count": 54,
+   "pages": 5,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-014-2025-03.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-014-2025-03.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-017",
+   "kind": "variance",
+   "title": "Unvented roof assembly",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "September 2025",
+   "articles_referenced": [
+    "9.19.1.1",
+    "9.19.1.4"
+   ],
+   "scope": "This variance sets out the conditions for a safety codes officer (SCO) to accept the use of an unvented roof assembly under Part 9 of the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 2,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-017-2025-09.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-017-2025-09.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  },
+  {
+   "number": "23-BCV-018",
+   "kind": "variance",
+   "title": "Vented soffit protection",
+   "title_source": "document",
+   "edition": "NBC(AE) 2023",
+   "date_issued": "September 2025",
+   "articles_referenced": [
+    "9.10.14.5",
+    "9.10.15.5",
+    "9.10.12.4",
+    "3.2.3.6"
+   ],
+   "scope": "This variance provides an alternative solution for the protection of soffits where typical vented soffit materials are otherwise not permitted.",
+   "mentions_exit_or_stair_count": 0,
+   "pages": 4,
+   "file_path": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-018-2025-09.pdf",
+   "source": {
+    "doc": "ma-standata-variance-building-23-bcv-018-2025-09.pdf",
+    "page": 1
+   },
+   "single_exit_stair_relevant": false
+  }
+ ],
+ "named_references": [
+  {
+   "id": "cal-spv-backwater",
+   "jurisdiction": "calgary",
+   "name": "Calgary Standing Posted Variance: backwater valves",
+   "kind": "standing_posted_variance",
+   "link": "https://www.calgary.ca/development/permits/building-regulation-advisories.html",
+   "source": "Data Package docx",
+   "in_files": false,
+   "note_scope": "not in files/, link only",
+   "status": "not in files/, link only"
+  },
+  {
+   "id": "cal-spv-firewalls",
+   "jurisdiction": "calgary",
+   "name": "Calgary Standing Posted Variance: firewalls in rowhouses with secondary suites",
+   "kind": "standing_posted_variance",
+   "link": "https://www.calgary.ca/development/permits/building-regulation-advisories.html",
+   "source": "Data Package docx",
+   "in_files": false,
+   "note_scope": "not in files/, link only",
+   "status": "not in files/, link only"
+  },
+  {
+   "id": "cal-spv-ebf",
+   "jurisdiction": "calgary",
+   "name": "Calgary Standing Posted Variance: exposed building face construction",
+   "kind": "standing_posted_variance",
+   "link": "https://www.calgary.ca/development/permits/building-regulation-advisories.html",
+   "source": "Data Package docx",
+   "in_files": false,
+   "note_scope": "not in files/, link only",
+   "status": "not in files/, link only"
+  },
+  {
+   "id": "cal-spv-vent",
+   "jurisdiction": "calgary",
+   "name": "Calgary Standing Posted Variance: ventilation",
+   "kind": "standing_posted_variance",
+   "link": "https://www.calgary.ca/development/permits/building-regulation-advisories.html",
+   "source": "Data Package docx",
+   "in_files": false,
+   "note_scope": "not in files/, link only",
+   "status": "not in files/, link only"
+  },
+  {
+   "id": "cal-spv-zll",
+   "jurisdiction": "calgary",
+   "name": "Calgary Standing Posted Variance: zero lot line",
+   "kind": "standing_posted_variance",
+   "link": "https://www.calgary.ca/development/permits/building-regulation-advisories.html",
+   "source": "Data Package docx",
+   "in_files": false,
+   "note_scope": "Data package: 382 individual requests in eight months of 2017 led to the standing variance.",
+   "status": "not in files/, link only"
+  },
+  {
+   "id": "edm-b23-01",
+   "jurisdiction": "edmonton",
+   "name": "Edmonton Policy B23-01: fire separation between row houses with more than two secondary suites",
+   "kind": "policy_solution",
+   "link": "https://www.edmonton.ca/residential_neighbourhoods/application-requirements-house-permits",
+   "source": "Data Package docx",
+   "in_files": true,
+   "note_scope": "not in files/, link only",
+   "status": "local copy exists in files/ (also linked)",
+   "local_file": "files/edmonton_policy_solutions/Policy-B23-01-Secondary-Suites-in-Row-houses.pdf"
+  },
+  {
+   "id": "edm-b23-02",
+   "jurisdiction": "edmonton",
+   "name": "Edmonton Policy B23-02: window opening control devices",
+   "kind": "policy_solution",
+   "link": "https://www.edmonton.ca/residential_neighbourhoods/application-requirements-house-permits",
+   "source": "Data Package docx",
+   "in_files": true,
+   "note_scope": "not in files/, link only",
+   "status": "local copy exists in files/ (also linked)",
+   "local_file": "files/edmonton_policy_solutions/Policy-B23-02-Window-Opening-Control-Devices.pdf"
+  },
+  {
+   "id": "edm-b23-03",
+   "jurisdiction": "edmonton",
+   "name": "Edmonton Policy Bulletin B23-03: roof truss engineering",
+   "kind": "policy_solution",
+   "link": "https://www.edmonton.ca/residential_neighbourhoods/application-requirements-house-permits",
+   "source": "Data Package docx",
+   "in_files": true,
+   "note_scope": "not in files/, link only",
+   "status": "local copy exists in files/ (also linked)",
+   "local_file": "files/edmonton_policy_solutions/PolicyBulletin-B23-03-Roof-Truss-Engineering-Requirements.pdf"
+  },
+  {
+   "id": "edm-b23-05",
+   "jurisdiction": "edmonton",
+   "name": "Edmonton B23-05: policy interpretation on the application of Article 9.9.4.4",
+   "kind": "policy_interpretation",
+   "link": "https://www.edmonton.ca/residential_neighbourhoods/application-requirements-house-permits",
+   "source": "Data Package docx",
+   "in_files": true,
+   "note_scope": "not in files/, link only",
+   "status": "local copy exists in files/ (also linked)",
+   "local_file": "files/edmonton_policy_solutions/coe-scpi-pol-int-0001-b23-05-application-of-9944.pdf"
+  },
+  {
+   "id": "edm-pab",
+   "jurisdiction": "edmonton",
+   "name": "Edmonton Point Access Block Alternative Solution Guide (2025), with 13 design studies (design studies not in files/)",
+   "kind": "guide",
+   "link": "https://www.edmonton.ca/sites/default/files/public-files/Point-Access-Block-Alternative-Solution-Guide.pdf",
+   "source": "Data Package docx",
+   "in_files": true,
+   "note_scope": "not in files/, link only",
+   "status": "local copy exists in files/ (also linked)",
+   "local_file": "files/direct/11_Edmonton_Point_Access_Block.pdf (8 pages only; design studies not included)"
+  }
+ ]
+}

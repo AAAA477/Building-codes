@@ -1,0 +1,22 @@
+/* Evidence attachments under each Section D document */
+.docs li .evd { grid-column: 1 / -1; display: flex; flex-direction: column; gap: var(--s2); }
+.evbar { display: flex; align-items: center; gap: var(--s3); flex-wrap: wrap; }
+.evinput { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.evinput:focus-visible + .btn { outline: 3px solid var(--focus); outline-offset: 2px; }
+.evbar .btn.busy { cursor: progress; }
+.evhint { font-size: 13.5px; color: var(--ink-2); }
+.evfiles { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--s2); }
+.docs .evfiles > li.evfile { display: block; border-left: 4px solid var(--rule); background: var(--leaf-2); padding: var(--s2) var(--s3); }
+.evfile.block { border-left-color: var(--verm); }
+.evfile.warn { border-left-color: var(--h-yellow); }
+.evhead { display: flex; align-items: baseline; gap: var(--s3); flex-wrap: wrap; }
+.evname { font-size: 13.5px; color: var(--ink); overflow-wrap: anywhere; }
+.evsize { font-size: 13px; color: var(--ink-2); font-family: var(--font-mono); }
+.evhead .linkbtn { margin-left: auto; }
+.evfinds { list-style: none; margin: var(--s2) 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.docs .evfinds > li.evf { display: flex; gap: var(--s2); align-items: baseline; }
+.evtag { flex: none; font-family: var(--font-head); font-weight: 700; font-size: 12.5px; line-height: 20px; padding: 0 7px; border: 1px solid var(--ink); background: var(--leaf); color: var(--ink); }
+.evf.block .evtag { background: var(--verm-tint); color: var(--verm-text); border-color: var(--verm-text); }
+.evf.warn .evtag { background: var(--st-uncertain-bg); color: var(--st-uncertain); border-color: var(--st-uncertain); }
+.evmsg { font-size: 14px; line-height: 21px; }
+.evok { margin: var(--s2) 0 0; font-size: 13.5px; color: var(--ink-2); }

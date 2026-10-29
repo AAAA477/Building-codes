@@ -1,0 +1,327 @@
+{
+ "llm": "azure-openai",
+ "offline": {
+  "mode": "offline regex",
+  "passages": 26,
+  "truth_facts": 25,
+  "extracted": 25,
+  "tp": 24,
+  "fp": 1,
+  "fn": 1,
+  "precision": 0.96,
+  "recall": 0.96,
+  "fabricated_not_literally_in_text": 0,
+  "fabricated_rate": 0.0,
+  "errors": [
+   {
+    "chunk": "ationofsuitesinstripmalls_pdf-a8a14d~2-2",
+    "field": "storeys",
+    "truth": [
+     1
+    ],
+    "got": null,
+    "type": "missed"
+   },
+   {
+    "chunk": "ll_building_access_policy_pdf-85f938~2-3",
+    "field": "sprinklered",
+    "value": true,
+    "quote": "sprinkler system",
+    "truth": null,
+    "type": "wrong"
+   }
+  ]
+ },
+ "adversarial": {
+  "text_cases_bad": 13,
+  "text_caught_rejected": 13,
+  "text_catch_rate": 1.0,
+  "fact_cases": 7,
+  "fact_caught": 7,
+  "fact_catch_rate": 1.0,
+  "text_rows": [
+   {
+    "case": "invented floor count",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 7"
+    ]
+   },
+   {
+    "case": "invented area",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 1800"
+    ]
+   },
+   {
+    "case": "invented distance",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 12"
+    ]
+   },
+   {
+    "case": "invented unit count",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 9"
+    ]
+   },
+   {
+    "case": "invented article",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Article numbers not found in the indexed codes: 3.4.2.9"
+    ]
+   },
+   {
+    "case": "invented article 2",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Article numbers not found in the indexed codes: 9.99.9.9"
+    ]
+   },
+   {
+    "case": "safe claim",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Contains a safety / equivalence / approval claim: is safe"
+    ]
+   },
+   {
+    "case": "equivalent claim",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 2",
+     "Contains a safety / equivalence / approval claim: equivalent or"
+    ]
+   },
+   {
+    "case": "will comply",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Contains a safety / equivalence / approval claim: will comply"
+    ]
+   },
+   {
+    "case": "approved claim",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Contains a safety / equivalence / approval claim: will be approved"
+    ]
+   },
+   {
+    "case": "meets the code",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Contains a safety / equivalence / approval claim: meets the code"
+    ]
+   },
+   {
+    "case": "combo",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Numbers not in your text, your application or the sources: 7, 12",
+     "Article numbers not found in the indexed codes: 3.4.2.9",
+     "Contains a safety / equivalence / approval claim: is safe"
+    ]
+   },
+   {
+    "case": "real but uncited article",
+    "must_catch": true,
+    "status": "rejected",
+    "notes": [
+     "Article numbers you did not cite and that are not in the sources: 3.4.2.1"
+    ]
+   },
+   {
+    "case": "control: faithful rewrite",
+    "must_catch": false,
+    "status": "ready",
+    "notes": []
+   },
+   {
+    "case": "control: number words",
+    "must_catch": false,
+    "status": "ready",
+    "notes": []
+   }
+  ],
+  "fact_rows": [
+   {
+    "case": "invented storeys",
+    "kept": [],
+    "dropped": [
+     "storeys"
+    ],
+    "caught": true
+   },
+   {
+    "case": "right number, fabricated quote",
+    "kept": [],
+    "dropped": [
+     "storeys"
+    ],
+    "caught": true
+   },
+   {
+    "case": "invented area",
+    "kept": [],
+    "dropped": [
+     "building_area_m2"
+    ],
+    "caught": true
+   },
+   {
+    "case": "invented sprinklered",
+    "kept": [],
+    "dropped": [
+     "sprinklered"
+    ],
+    "caught": true
+   },
+   {
+    "case": "invented renovation",
+    "kept": [],
+    "dropped": [
+     "new_or_renovation"
+    ],
+    "caught": true
+   },
+   {
+    "case": "units not stated as written",
+    "kept": [],
+    "dropped": [
+     "units_per_floor"
+    ],
+    "caught": true
+   },
+   {
+    "case": "no quote, wrong number",
+    "kept": [],
+    "dropped": [
+     "storeys"
+    ],
+    "caught": true
+   }
+  ]
+ },
+ "azure": {
+  "mode": "azure-openai",
+  "passages": 26,
+  "truth_facts": 25,
+  "extracted": 23,
+  "tp": 23,
+  "fp": 0,
+  "fn": 2,
+  "precision": 1.0,
+  "recall": 0.92,
+  "fabricated_not_literally_in_text": 0,
+  "fabricated_rate": 0.0,
+  "errors": [
+   {
+    "chunk": "dary_suite_design_guide_pdf-b5297f~13-11",
+    "field": "new_or_renovation",
+    "truth": [
+     "renovation"
+    ],
+    "got": null,
+    "type": "missed"
+   },
+   {
+    "chunk": "i_010_23_fci_013_2025_01_pdf-172737~9-13",
+    "field": "building_area_m2",
+    "truth": [
+     0.4
+    ],
+    "got": null,
+    "type": "missed"
+   }
+  ]
+ },
+ "improve": {
+  "n": 10,
+  "pass_first_time": 8,
+  "pass_after_regeneration": 2,
+  "rejected": 0,
+  "rows": [
+   {
+    "chunk": "2023_ma_23_bce_001_errata_pdf-5eb1ac~6-8",
+    "status": "ready",
+    "attempts": 2,
+    "notes": [
+     "First draft failed the checks and was regenerated once with stricter instructions."
+    ]
+   },
+   {
+    "chunk": "ci_003_23_fci_002_2024_04_pdf-d5fabf~6-8",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ilding_23_bcv_005_2024_05_pdf-524614~3-3",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "023_ma_23_bce_001_errata_pdf-5eb1ac~9-13",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ry_suites_in_row_houses_pdf-d9a839~14-16",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ondary_suite_design_guide_pdf-b5297f~9-7",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ationofsuitesinstripmalls_pdf-a8a14d~2-2",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ci_003_23_fci_002_2024_04_pdf-d5fabf~2-2",
+    "status": "ready",
+    "attempts": 2,
+    "notes": [
+     "First draft failed the checks and was regenerated once with stricter instructions."
+    ]
+   },
+   {
+    "chunk": "ci_002_23_fci_009_2024_04_pdf-89438d~1-1",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   },
+   {
+    "chunk": "ilding_23_bci_034_2025_03_pdf-9f7cc3~2-2",
+    "status": "ready",
+    "attempts": 1,
+    "notes": []
+   }
+  ]
+ }
+}

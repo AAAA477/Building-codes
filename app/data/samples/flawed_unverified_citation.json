@@ -1,0 +1,250 @@
+{
+ "id": "sample-flawed-unverified-citation",
+ "jurisdiction": "edmonton",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "applicant": {
+  "owner_name": "[to be completed by applicant]",
+  "owner_representative": "[to be completed by applicant]",
+  "mailing_address": "[to be completed by applicant]",
+  "email": "[to be completed by applicant]",
+  "date_of_request": ""
+ },
+ "project": {
+  "description": "Residential building within the Edmonton Point Access Block guide scope: residential occupancy, 6 storeys or less, not more than 4 dwelling units per floor, served by a single exit stair (guide p.2). Project-specific values to be completed by applicant.",
+  "occupancy": "Residential",
+  "storeys": null,
+  "building_area_m2": null,
+  "units_per_floor": null,
+  "sprinklered": null,
+  "new_or_renovation": null,
+  "part": null
+ },
+ "location": {
+  "jurisdiction_wide": false,
+  "permit_number": "[to be completed by applicant]",
+  "municipal_address": "[to be completed by applicant]",
+  "lot": "",
+  "block": "",
+  "plan": "",
+  "qtr": "",
+  "sec": "",
+  "twp": "",
+  "rge": "",
+  "mer": ""
+ },
+ "variance": {
+  "topic": "single_exit_stair",
+  "code_or_standard": "NBC(AE) 2023 Division B",
+  "acceptable_solution": {
+   "articles": [
+    "3.4.2.9.(1)",
+    "3.4.2.3.(1)",
+    "3.4.4.1.(1)"
+   ],
+   "explanation": "Sentence 3.4.2.1.(1): every floor area intended for occupancy shall be served by at least 2 exits, except as permitted by Sentences (2) to (4) (NBC(AE) 2023 p.269). A single-exit-stair residential building taller than the exceptions allow does not comply and relies on the alternative solution path of Division A 1.2.1.1.(1)(b); STANDATA 23-BCI-026/23-FCI-014 confirms an AHJ may accept this route (p.7). Edmonton guide p.2: Point Access Blocks over two storeys can only be built with an accepted Alternative Solution."
+  },
+  "proposed_alternative": {
+   "summary": "A residential single-egress-stair building (Point Access Block) that demonstrates it will perform to an equivalent or enhanced level of resiliency as a development with two egress stairs (Edmonton PAB guide p.8). The specific design is to be described by the applicant and the qualified consultant.",
+   "mitigations": [
+    {
+     "id": "M1",
+     "label": "Compartmentation",
+     "detail": "Edmonton PAB guide p.5: the exemplar assessment identifies the main components that could lead to stair failure as relating to compartmentation and smoke management, and outlines respective risk mitigation measures. Specific compartmentation measures: [to be completed by applicant]",
+     "evidence_ids": []
+    },
+    {
+     "id": "M2",
+     "label": "Smoke management",
+     "detail": "Edmonton PAB guide p.5 (same passage as M1). Specific smoke management measures: [to be completed by applicant]",
+     "evidence_ids": []
+    }
+   ]
+  },
+  "section_c": [
+   {
+    "article": "3.4.2.9.(1)",
+    "objective": "OS3.7 (Safety in Use): persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1)); OS1.2 (Fire Safety): fire or explosion impacting areas beyond its point of origin; OP1.2 (Fire Protection of the Building): fire or explosion impacting areas beyond its point of origin",
+    "function": "F10: To facilitate the timely movement of persons to a safe place in an emergency; F12: To facilitate emergency response; F05: To retard the effects of fire on emergency egress facilities; F06: To retard the effects of fire on facilities for notification, suppression and emergency response",
+    "intent": "Intent 1. To limit the probability that persons will not have a choice of an alternative exit in the event that one exit is blocked or obstructed in an emergency situation, which could lead to delays in the evacuation or movement of persons to a safe place, which could lead to harm to persons. Intent 2. To limit the probability that emergency responders will not have a choice of an alternative exit in the event that one exit is blocked or obstructed in an emergency situation, which could lead to emergency responders being delayed in gaining access to a floor area, which could lead to delays or ineffectiveness in emergency response operations, which could lead to delays in the evacuation or movement of persons to a safe place, which could lead to harm to persons. Intent 1. To limit the probability that emergency responders will not have a choice of an alternative exit in the case of one exit being blocked or obstructed in a fire situation, which could lead to emergency responders being delayed in gaining access to a floor area, which could lead to delays or ineffectiveness in emergency response operations, which could lead to the spread of fire, which could lead to harm to persons. Intent 1. To limit the probability that emergency responders will not have a choice of an alternative exit in the event that one exit is blocked or obstructed in a fire situation, which could lead to emergency responders being delayed in gaining access to a floor area, which could lead to delays or ineffectiveness in emergency response operations, which could lead to the spread of fire, which could lead to damage to the building. [NBC 2020 Intent Statements, p.608; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "The prescriptive 'at least 2 exits' rule for every floor area intended for occupancy. A single exit stair varies this sentence, so its attributed objectives and functions define the performance areas the alternative is compared against.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 346
+    },
+    "article_page": 269,
+    "verified": false,
+    "provenance": "applicant"
+   },
+   {
+    "article": "3.4.2.3.(1)",
+    "objective": "OS1.5 (Fire Safety): persons being delayed in or impeded from moving to a safe place during a fire emergency",
+    "function": "F10: To facilitate the timely movement of persons to a safe place in an emergency; F05: To retard the effects of fire on emergency egress facilities",
+    "intent": "Intent 1. To limit the probability that exits will be located too close to one another, which could lead to persons not having a choice of an alternative egress route in the event that one route to the exits is blocked or obstructed in a fire situation, which could lead to delays in the evacuation or movement of persons to a safe place, which could lead to harm to persons. [NBC 2020 Intent Statements, p.611; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Where two exits are required, this sets the minimum distance between them. A single exit stair removes the second route this sentence relies on, so it is shown as an affected article.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 346
+    },
+    "article_page": 271,
+    "verified": true,
+    "provenance": "lookup"
+   },
+   {
+    "article": "3.4.4.1.(1)",
+    "objective": "OS1.5 (Fire Safety): persons being delayed in or impeded from moving to a safe place during a fire emergency; OS1.2 (Fire Safety): fire or explosion impacting areas beyond its point of origin; OP1.2 (Fire Protection of the Building): fire or explosion impacting areas beyond its point of origin",
+    "function": "F05: To retard the effects of fire on emergency egress facilities; F06: To retard the effects of fire on facilities for notification, suppression and emergency response; F03: To retard the effects of fire on areas beyond its point of origin",
+    "intent": "Intent 1. To limit the probability that fire will spread into an exit, which could lead to delays in the evacuation or movement of persons to a safe place, which could lead to harm to persons. Intent 2. To limit the probability that fire will spread into an exit, which could lead to emergency responders being delayed in gaining access to floor areas, which could lead to delays or ineffectiveness in fire emergency response operations, which could lead to: • delays in the evacuation or movement of persons to a safe place, which could lead to harm to persons including emergency responders, and • the spread of fire to other parts of the building, which could lead to harm to persons. Intent 3. To limit the probability that fire will spread from one floor area to another floor area by means of an exit, which could lead to harm to persons in the other floor area. Intent 1. To limit the probability that fire will spread into an exit, which could lead to delays or ineffectiveness in fire emergency response operations, which could lead to the further spread of fire, which could lead to damage to the building. Intent 2. To limit the probability that fire will spread from one floor area to another floor area by means of an exit, which could lead to damage to the building. [NBC 2020 Intent Statements, p.623; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Fire-resistance rating of exit separations. The Edmonton guide identifies stair failure through compartmentation as a main component of the risk (p.5), so the exit separation requirement is a likely companion article.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 347
+    },
+    "article_page": 274,
+    "verified": true,
+    "provenance": "lookup"
+   }
+  ]
+ },
+ "section_d": [
+  {
+   "id": "D1",
+   "document_name": "Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant, including Code analysis (applicable objectives, functional statements and acceptable solutions, assumptions, limiting or restricting factors, testing procedures, engineering studies) per Division C 2.3.1.1.(2)(a), (3)",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  },
+  {
+   "id": "D2",
+   "document_name": "Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory framework, problem definition, risk assessment, alternative solutions)",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  },
+  {
+   "id": "D3",
+   "document_name": "Special maintenance or operational requirements, including commissioning and inspection, testing and maintenance (ITM) documentation for systems not regulated by the NFC(AE) (Division C 2.3.1.1.(2)(b); Emergency Services Guideline p.22)",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  },
+  {
+   "id": "D4",
+   "document_name": "Qualifications, experience and background of the person or persons taking responsibility for the design (Division C 2.3.1.1.(4))",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  },
+  {
+   "id": "D5",
+   "document_name": "Identification of a single person to co-ordinate the design, Code analysis and documentation (Division C 2.3.1.1.(6))",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  },
+  {
+   "id": "D6",
+   "document_name": "Screening against the four emergency-services questions (Emergency Services Guideline p.8-9) and, if triggered, impact on emergency services",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": true,
+   "status": "to_be_prepared",
+   "date": ""
+  }
+ ],
+ "professional_flags": [
+  {
+   "id": "PF1",
+   "reason": "Edmonton PAB guide p.8: professional involvement is required (registered architect and/or engineers in design and field review and in preparing the Alternative Solution), and the Alternative Solution must be prepared by a qualified Fire Protection or Life Safety Code Consultant.",
+   "article_refs": [
+    "2.3.1.1",
+    "2.4.1.1"
+   ],
+   "stop": true
+  }
+ ],
+ "declarations": {
+  "privacy_consent": false,
+  "equal_or_better_ack": false,
+  "owner_signed": false,
+  "rep_signed": false
+ },
+ "provenance": {
+  "variance.section_c": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.acceptable_solution.articles": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.mitigations": {
+   "source": "lookup",
+   "confidence": 0.6
+  },
+  "section_d": {
+   "source": "needs_professional",
+   "confidence": 1.0
+  },
+  "professional_flags": {
+   "source": "lookup",
+   "confidence": 1.0
+  }
+ },
+ "completeness": {
+  "percent": 0,
+  "items": []
+ },
+ "derived_from": [
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 4
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 5
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  },
+  {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 8
+  },
+  {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 22
+  },
+  {
+   "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+   "page": 7
+  },
+  {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 269
+  },
+  {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 739
+  }
+ ],
+ "source": {
+  "doc": "11_Edmonton_Point_Access_Block.pdf",
+  "page": 2
+ },
+ "note": "Built from the real Edmonton Point Access Block guide and STANDATA 23-BCI-026/23-FCI-014. Identity, dates, permit and project measurements are intentionally blank placeholders. Not an application that was ever filed.",
+ "ablation": {
+  "base": "good_stair_edmonton",
+  "corrupted": [
+   "article number 3.4.2.1.(1) replaced by 3.4.2.9.(1)"
+  ]
+ }
+}

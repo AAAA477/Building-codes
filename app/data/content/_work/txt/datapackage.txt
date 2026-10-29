@@ -1,0 +1,99 @@
+Building Codes Challenge — Data Package
+October 2026. This package is a supplement to the Building Codes Challenge Scope
+Alberta legislation
+Safety Codes Act (RSA 2000, c S-1)
+Building Code Regulation (AR 5/2024)
+Exemption Regulation (AR 351/2003)
+Permit Regulation (AR 204/2007)
+Codes in force 
+National Building Code – 2023 Alberta Edition, 2nd printing
+Supplement to the NBC 2020: Intent Statements.
+National Energy Code of Canada for Buildings 2020, 2nd printing.
+Supplement to NEBC 2020: Intent Statements
+National Fire Code – 2023 Alberta Edition
+Supplement to NFC: Intent Statements
+National Plumbing Code of Canada (NPC) 2020
+Supplement to NPC Intent Statements
+User’s guides and commentaries
+Illustrated User's Guide, NBC 2020 Part 9
+User’s Guide – NECB 2020
+Forms
+Safety Codes Council variance form (PDF)
+Equivalent to the Variance Form in the appendix of the Challenge Scope
+Guideline to the Variance Form
+</w:pBdr><w:spacing w:after="160" w:before="480" w:lineRule="auto"/><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/></w:rPr></w:pPr><w:bookmarkStart w:colFirst="0" w:colLast="0" w:name="_ml8qkzxn7rzz" w:id="5"/><w:bookmarkEnd w:id="5"/><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Issued Variances to the Code
+STANDATA are written by the regulator rather than by applicants, so they show what an accepted variance looks like — the article, the objective, the functional statement, and the scope of the accepted solution. Note, this is not the same as an alternative solution application, but it does provide the logic and history behind accepted changes to the building codes.
+Building STANDATA index — variances, interpretations, bulletins and errata.
+Building code variances (2023)
+Building code variances (2019)
+Building code variances (2014)
+Building code interpretations (2023).
+Building code bulletins (2023)
+Building code errata (2023)
+</w:pBdr><w:spacing w:after="160" w:before="480" w:lineRule="auto"/><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/></w:rPr></w:pPr><w:bookmarkStart w:colFirst="0" w:colLast="0" w:name="_iss5ywtz3nml" w:id="6"/><w:bookmarkEnd w:id="6"/><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Background and education
+These resources explain how the codes are organized and how the alternative solution path works.
+How the codes are structured
+NECB 2020 navigation training — 
+FNNBOA webinar on navigating the National Building Code.
+How alternative solutions work
+NRC, Canada's objective-based codes. 
+NRC, Accepting alternate solutions under objective-based codes..
+Canadian Wood Council, Alternative Solutions Guide (2025). 
+Single Stair Canada
+City of Calgary, Guide to Applying for an Alternative Solution (Variance) 
+City of Calgary, building advisories, bulletins and Standing Posted Variances. Calgary publishes Standing Posted Variances (SPVs) that any builder can reference on a permit rather than applying individually — currently covering backwater valves, firewalls in rowhouses with secondary suites, exposed building face construction, ventilation, and zero lot line. The procedure exists because 26 builders were filing the same zero lot line variance repeatedly: 382 requests in eight months of 2017, each separately written, issued and forwarded to the Safety Codes Council.
+City of Edmonton, Guideline for Alternative Solutions Affecting Emergency Services (April 2025). Guidance for alternative solutions that touch firefighting operations, which the NBC(AE) requires applicants to consider without clearly defining. These submissions are peer-reviewed by Safety Codes, Permits and Inspections together with Edmonton Fire Rescue Services.
+City of Edmonton, Point Access Block Alternative Solution Guide (2025). A structured pathway for single-stair buildings, with 13 design studies. Shows an authority having jurisdiction pre-defining the shape of an acceptable argument for a recurring innovation category.
+City of Edmonton, Application Requirements for House Permits. See the “Policy Solutions” section for a lists the policy solutions Edmonton offers for conditions that repeatedly require a variance — including B23-01 on fire separation between row houses with more than two secondary suites, B23-02 on window opening control devices, B23-03 on roof truss engineering, and B23-05, a policy interpretation on the application of Article 9.9.4.4.
+</w:pBdr><w:spacing w:after="160" w:before="480" w:lineRule="auto"/><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/></w:rPr></w:pPr><w:bookmarkStart w:colFirst="0" w:colLast="0" w:name="_pbw2k7i20orc" w:id="9"/><w:bookmarkEnd w:id="9"/><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Research and product evaluation data
+NRC Publications Archive. The main free corpus of Canadian building and fire science research — occupant egress studies, tenability analyses, residential fire characterization, full-scale burn testing.
+CCMC Registry of Product Assessments. Lists evaluated construction products with the standards and code editions they were assessed against, and is available through a JSON API. Directly relevant to the product-specific path and to determining whether an evaluation already exists for a given product.
+</w:pBdr><w:spacing w:after="160" w:before="480" w:lineRule="auto"/><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/></w:rPr></w:pPr><w:bookmarkStart w:colFirst="0" w:colLast="0" w:name="_4h5j3gzeexiq" w:id="10"/><w:bookmarkEnd w:id="10"/><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Worked examples [will be updated throughout]
+These show what expert reasoning on an alternative solution actually looks like, and they are the closest public substitute for the confidential library of past applications.
+Product-specific: BTRboard continuous sheathing insulation
+Details coming soon.  
+</w:pBdr><w:spacing w:after="160" w:before="480" w:lineRule="auto"/><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/></w:rPr></w:pPr><w:bookmarkStart w:colFirst="0" w:colLast="0" w:name="_b10v65t799tb" w:id="12"/><w:bookmarkEnd w:id="12"/><w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000"><w:rPr><w:b w:val="1"/><w:bCs w:val="1"/><w:color w:val="1a1a1a"/><w:rtl w:val="0"/></w:rPr><w:t xml:space="preserve">Notes on use
+Copyright
+NRC codes and guides are free to download but remain copyrighted. This package links to them rather than redistributing them. Teams intending to embed code text in a commercial product should review NRC's terms directly — a real consideration for the business plan, not a formality. Alberta STANDATA are published under the Open Government Licence – Alberta and may be redistributed.
+Edition control
+All work should reference the second printing of the NBC(AE) 2023. 
+
+LINKS
+https://www.edmonton.ca/sites/default/files/public-files/Point-Access-Block-Alternative-Solution-Guide.pdf
+https://nrc-publications.canada.ca/eng/view/object/?id=c6504d98-2da4-43c5-a8f6-360d6e640f88
+https://nrc-publications.canada.ca/
+https://www.edmonton.ca/residential_neighbourhoods/application-requirements-house-permits
+https://edmontonunlimited.com/wp-content/uploads/2026/09/Building-Codes-Challenge-with-Appendix-.pdf
+https://ebs.safetycodes.ab.ca/documents/webdocs/PI/Variance%20Template%20final.pdf
+https://nrc.canada.ca/en/certifications-evaluations-standards/canadian-construction-materials-centre/ccmc-publications/registry.html
+https://www.alberta.ca/building-standata
+https://www.safetycodes.ab.ca/permits-inspections/variances/
+https://open.alberta.ca/publications/2003_351
+https://open.alberta.ca/publications/standata-building-code-variance-national-building-code-2019-alberta-edition
+https://open.alberta.ca/publications/standata-variance-building-national-building-code-2023-alberta-edition
+https://open.alberta.ca/publications/standata-interpretation-building-national-building-code-2023-alberta-edition
+https://open.alberta.ca/publications/standata-building-code-variance-2014
+https://edmontonunlimited.com/wp-content/uploads/2026/09/Building-Codes-Challenge-with-Appendix-.pdf
+https://open.alberta.ca/publications/standata-bulletin-building-national-building-code-2023-alberta-edition
+https://www.qp.alberta.ca/documents/Acts/S01.pdf
+https://open.alberta.ca/publications/2024_005
+https://sustainablewaterlooregion.ca/frameworks/resources/national-energy-code-of-canada-for-buildings-necb-2020-online-training-navigating-and-applying-the-code-2/
+https://open.alberta.ca/publications/standata-errata-building-national-building-code-2023-alberta-edition
+https://nrc-publications.canada.ca/eng/view/ft/?id=0316d953-0d55-4311-af69-cad55efec499&amp;dp=2&amp;dsl=en
+https://nrc-publications.canada.ca/eng/view/accepted/?id=ad81d6f2-e76c-4eff-a428-de7e001d3527
+https://open.alberta.ca/publications/2007_204
+https://m.youtube.com/watch?v=jhN7isNfgoE
+https://nrc-publications.canada.ca/eng/view/ft/?id=af36747e-3eee-4024-a1b4-73833555c7fa&amp;dp=2&amp;dsl=en
+https://cwc.ca/wp-content/uploads/2025/04/CWC-ASG-April2-2.pdf
+https://nrc-publications.canada.ca/eng/view/object/?id=de0e0ec9-a452-4337-bc84-002a230c9d66
+https://nrc-publications.canada.ca/eng/view/accepted/?id=e5e9e318-6e0f-4fd8-b2a4-0a7d502168bc
+https://publications.gc.ca/collections/collection_2024/cnrc-nrc/NR24-27-2-2023-eng.pdf
+https://www.calgary.ca/content/dam/www/tools-and-resources/guide-to-applying-for-an-alternative-solution.pdf
+https://nrc-publications.canada.ca/eng/view/ft/?id=b31a0620-ee88-4e32-bf62-c40f0b6e8f73
+https://singlestair.ca/
+https://publications.gc.ca/collections/collection_2022/cnrc-nrc/NR24-29-2020-eng.pdf
+https://www.edmonton.ca/sites/default/files/public-files/COE-IM-GUIDE-0040-v01-20250415%20Guideline%20for%20Alternative%20Solutions%20Affecting%20Emergency%20Services.pdf
+https://nrc-publications.canada.ca/eng/view/object/?id=c76b4965-74c1-4581-8fba-423aad79104e
+https://www.calgary.ca/development/permits/building-regulation-advisories.html
+https://nrc-publications.canada.ca/eng/view/ft/?id=a7a505fa-519c-436b-a23b-6f418df87e6a
+https://nrc-publications.canada.ca/eng/view/object/?id=17608c17-51a4-4c4f-8baa-b5b18ca60d2b

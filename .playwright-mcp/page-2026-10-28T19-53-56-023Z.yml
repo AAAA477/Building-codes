@@ -1,0 +1,148 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e24]: Saved automatically
+        - group "View as" [ref=e11]:
+          - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+          - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e25]:
+      - navigation "Application steps" [ref=e26]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - button "Describe, 12 open" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: "1"
+              - generic [ref=e31]: Describe
+              - generic [ref=e32]: 12 open
+          - listitem [ref=e33]:
+            - button "Rules, nothing open" [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: "2"
+              - generic [ref=e36]: Rules
+              - generic [ref=e37]: clear
+          - listitem [ref=e38]:
+            - button "Fill and review, 25 open" [ref=e39] [cursor=pointer]:
+              - generic [ref=e40]: "3"
+              - generic [ref=e41]: Fill and review
+              - generic [ref=e42]: 25 open
+          - listitem [ref=e43]:
+            - button "Submit, 3 open" [ref=e44] [cursor=pointer]:
+              - generic [ref=e45]: "4"
+              - generic [ref=e46]: Submit
+              - generic [ref=e47]: 3 open
+      - generic [ref=e48]:
+        - generic [ref=e49]: Step 2 of 4 · Rules
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - heading "Find the rules that apply" [level=1] [ref=e55]
+                - paragraph [ref=e56]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=e57]:
+                - group [ref=e58]:
+                  - 'generic "Before you file: may this already be covered? 6 possible matches Show details" [ref=e59] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=e60]'
+                    - generic [ref=e61]: 6 possible matches
+                    - generic [ref=e62]: Show details
+                - paragraph [ref=e63]: We recognised this as a single-exit stair request. The matching articles are already selected for you. Remove any that do not fit.
+                - region [ref=e66]:
+                  - heading "In your application 3" [level=2] [ref=e67]:
+                    - text: In your application
+                    - generic [ref=e68]: "3"
+                  - list [ref=e69]:
+                    - listitem [ref=e70]:
+                      - generic [ref=e71]:
+                        - generic "NBC(AE) 2023" [ref=e72]: NBC
+                        - generic [ref=e73]: 3.4.2.1.(1)
+                        - generic [ref=e74]: Verified in code text
+                      - paragraph [ref=e77]:
+                        - generic [ref=e78]: Intent
+                        - text: Intent 1. To limit the probability that persons will not have a choice of an alternative exit in the event that one exit is blocked or obstructed in an emergency...
+                      - generic [ref=e79]:
+                        - generic [ref=e80]: What it protects
+                        - list [ref=e82]:
+                          - listitem [ref=e83]: persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))
+                          - listitem [ref=e84]: fire or explosion impacting areas beyond its point of origin
+                        - button "Show 1 more" [ref=e85] [cursor=pointer]
+                      - generic [ref=e86]:
+                        - generic [ref=e87]: NBC(AE) 2023, page 346
+                        - generic [ref=e88] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e89]
+                          - generic [ref=e90]: Included in my application
+                    - listitem [ref=e91]:
+                      - generic [ref=e92]:
+                        - generic "NBC(AE) 2023" [ref=e93]: NBC
+                        - generic [ref=e94]: 3.4.2.3.(1)
+                        - generic [ref=e95]: Verified in code text
+                      - paragraph [ref=e98]:
+                        - generic [ref=e99]: Intent
+                        - text: Intent 1. To limit the probability that exits will be located too close to one another...
+                      - generic [ref=e100]:
+                        - generic [ref=e101]: What it protects
+                        - list [ref=e103]:
+                          - listitem [ref=e104]: persons being delayed in or impeded from moving to a safe place during a fire emergency
+                      - generic [ref=e105]:
+                        - generic [ref=e106]: NBC(AE) 2023, page 346
+                        - generic [ref=e107] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e108]
+                          - generic [ref=e109]: Included in my application
+                    - listitem [ref=e110]:
+                      - generic [ref=e111]:
+                        - generic "NBC(AE) 2023" [ref=e112]: NBC
+                        - generic [ref=e113]: 3.4.4.1.(1)
+                        - generic [ref=e114]: Verified in code text
+                      - paragraph [ref=e117]:
+                        - generic [ref=e118]: Intent
+                        - text: Intent 1. To limit the probability that fire will spread into an exit, which could lead to delays in the evacuation or movement of persons to a safe place...
+                      - generic [ref=e119]:
+                        - generic [ref=e120]: What it protects
+                        - list [ref=e122]:
+                          - listitem [ref=e123]: persons being delayed in or impeded from moving to a safe place during a fire emergency
+                          - listitem [ref=e124]: fire or explosion impacting areas beyond its point of origin
+                        - button "Show 1 more" [ref=e125] [cursor=pointer]
+                      - generic [ref=e126]:
+                        - generic [ref=e127]: NBC(AE) 2023, page 347
+                        - generic [ref=e128] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e129]
+                          - generic [ref=e130]: Included in my application
+                - region [ref=e131]:
+                  - heading "Add another article" [level=2] [ref=e132]
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=e135]:
+                      - option "Single-exit stair (point access block)" [selected]
+                      - option "Any other NBC requirement"
+                  - search [ref=e136]:
+                    - generic [ref=e137]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=e138]
+                    - generic [ref=e139]: Search in
+                    - combobox "Search in" [ref=e140]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=e141]
+            - complementary [ref=e145]:
+              - generic [ref=e146]:
+                - heading "Why this step?" [level=2] [ref=e147]
+                - paragraph [ref=e148]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=e149]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=e150]:
+                - heading "Not sure?" [level=2] [ref=e151]
+                - paragraph [ref=e152]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=e153]:
+            - button "Back" [ref=e154] [cursor=pointer]
+            - generic [ref=e157]: 3 articles selected
+            - 'button "Next: Fill and review" [ref=e158] [cursor=pointer]'
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

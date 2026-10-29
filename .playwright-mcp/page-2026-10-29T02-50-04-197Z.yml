@@ -1,0 +1,151 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - generic [ref=f8e10]:
+        - status [ref=f8e11]: Saved automatically
+        - generic [ref=f8e12]: "Demo data: backend offline"
+        - group "View as" [ref=f8e13]:
+          - button "Applicant" [pressed] [ref=f8e14] [cursor=pointer]
+          - button "Reviewer" [ref=f8e15] [cursor=pointer]
+  - main [ref=f8e16]:
+    - generic [ref=f8e17]:
+      - navigation "Application steps" [ref=f8e18]:
+        - list [ref=f8e19]:
+          - listitem [ref=f8e20]:
+            - button "Describe, 7 open" [ref=f8e21] [cursor=pointer]:
+              - generic [ref=f8e22]: "1"
+              - generic [ref=f8e23]: Describe
+              - generic [ref=f8e24]: 7 open
+          - listitem [ref=f8e25]:
+            - button "Rules, 1 open, locked" [disabled] [ref=f8e26]:
+              - generic [ref=f8e27]: "2"
+              - generic [ref=f8e28]: Rules
+              - generic [ref=f8e29]: 1 open
+          - listitem [ref=f8e30]:
+            - button "Fill and review, 8 open" [ref=f8e31] [cursor=pointer]:
+              - generic [ref=f8e32]: "3"
+              - generic [ref=f8e33]: Fill and review
+              - generic [ref=f8e34]: 8 open
+          - listitem [ref=f8e35]:
+            - button "Submit, 3 open, locked" [disabled] [ref=f8e36]:
+              - generic [ref=f8e37]: "4"
+              - generic [ref=f8e38]: Submit
+              - generic [ref=f8e39]: 3 open
+          - listitem [ref=f8e40]:
+            - button "After submitting, nothing open, locked" [disabled] [ref=f8e41]:
+              - generic [ref=f8e42]: "5"
+              - generic [ref=f8e43]: After submitting
+              - generic [ref=f8e44]: clear
+      - generic [ref=f8e45]:
+        - generic [ref=f8e46]: Step 3 of 4 · Fill and review
+        - generic [ref=f8e48]:
+          - generic [ref=f8e50]:
+            - generic [ref=f8e51]:
+              - heading "Fill and review" [level=1] [ref=f8e52]
+              - paragraph [ref=f8e53]: 8 things need your attention. Fix them here, or leave them and come back.
+            - generic [ref=f8e54]:
+              - generic [ref=f8e55]:
+                - generic [ref=f8e57]:
+                  - generic [ref=f8e58]:
+                    - text: Items complete
+                    - generic [ref=f8e59]: 0/8
+                  - progressbar "Items complete" [ref=f8e60]
+                - tablist "View" [ref=f8e61]:
+                  - tab "To-do list" [selected] [ref=f8e62] [cursor=pointer]
+                  - tab "Overview map" [ref=f8e65] [cursor=pointer]
+              - tabpanel "To-do list" [ref=f8e68]:
+                - region [ref=f8e69]:
+                  - generic [ref=f8e70]:
+                    - generic [ref=f8e71]:
+                      - 'heading "Section A: About you" [level=2] [ref=f8e72]'
+                      - paragraph [ref=f8e73]: Owner and contact details
+                    - generic [ref=f8e74]: 2 to do
+                  - list [ref=f8e75]:
+                    - listitem [ref=f8e76]:
+                      - generic [ref=f8e77]:
+                        - generic [ref=f8e78]: Missing
+                        - generic [ref=f8e81]:
+                          - strong [ref=f8e82]: Owner name
+                          - generic [ref=f8e83]: Owner name is missing
+                          - button "Suggest" [ref=f8e85] [cursor=pointer]
+                    - listitem [ref=f8e86]:
+                      - generic [ref=f8e87]:
+                        - generic [ref=f8e88]: Missing
+                        - generic [ref=f8e91]:
+                          - strong [ref=f8e92]: Contact email
+                          - generic [ref=f8e93]: Contact email is missing
+                          - button "Suggest" [ref=f8e95] [cursor=pointer]
+                - region [ref=f8e96]:
+                  - generic [ref=f8e97]:
+                    - generic [ref=f8e98]:
+                      - 'heading "Section B: The project" [level=2] [ref=f8e99]'
+                      - paragraph [ref=f8e100]: Building facts and location
+                    - generic [ref=f8e101]: 4 to do
+                  - list [ref=f8e102]:
+                    - listitem [ref=f8e103]:
+                      - generic [ref=f8e104]:
+                        - generic [ref=f8e105]: Missing
+                        - generic [ref=f8e108]:
+                          - strong [ref=f8e109]: Project description
+                          - generic [ref=f8e110]: Describe the project
+                          - button "Suggest" [ref=f8e112] [cursor=pointer]
+                    - listitem [ref=f8e113]:
+                      - generic [ref=f8e114]:
+                        - generic [ref=f8e115]: Missing
+                        - generic [ref=f8e118]:
+                          - strong [ref=f8e119]: Storeys
+                          - generic [ref=f8e120]: Number of storeys is missing
+                          - button "Suggest" [ref=f8e122] [cursor=pointer]
+                    - listitem [ref=f8e123]:
+                      - generic [ref=f8e124]:
+                        - generic [ref=f8e125]: Missing
+                        - generic [ref=f8e128]:
+                          - strong [ref=f8e129]: Units per floor
+                          - generic [ref=f8e130]: Units per floor is missing
+                          - button "Suggest" [ref=f8e132] [cursor=pointer]
+                    - listitem [ref=f8e133]:
+                      - generic [ref=f8e134]:
+                        - generic [ref=f8e135]: Missing
+                        - generic [ref=f8e138]:
+                          - strong [ref=f8e139]: Sprinklered?
+                          - generic [ref=f8e140]: Say whether the building is sprinklered
+                          - button "Suggest" [ref=f8e142] [cursor=pointer]
+                - region [ref=f8e143]:
+                  - generic [ref=f8e144]:
+                    - generic [ref=f8e145]:
+                      - 'heading "Section C: Code and your alternative" [level=2] [ref=f8e146]'
+                      - paragraph [ref=f8e147]: Articles, and what you propose instead
+                    - generic [ref=f8e148]: 2 to do
+                  - list [ref=f8e149]:
+                    - listitem [ref=f8e150]:
+                      - generic [ref=f8e151]:
+                        - generic [ref=f8e152]: From code lookup
+                        - generic [ref=f8e155]:
+                          - strong [ref=f8e156]: Code articles, objectives and intent
+                          - generic [ref=f8e157]: Needs corpus lookup (backend offline)
+                          - button "Suggest" [ref=f8e159] [cursor=pointer]
+                    - listitem [ref=f8e160]:
+                      - generic [ref=f8e161]:
+                        - generic [ref=f8e162]: Missing
+                        - generic [ref=f8e165]:
+                          - strong [ref=f8e166]: Proposed alternative
+                          - generic [ref=f8e167]: Describe the proposed alternative
+                          - button "Suggest" [ref=f8e169] [cursor=pointer]
+                  - generic [ref=f8e170]:
+                    - heading "Options others have used" [level=3] [ref=f8e171]
+                    - paragraph [ref=f8e172]: Options others have used. Whether they achieve equivalent performance is for your registered professional.
+                    - button "Show options" [ref=f8e173] [cursor=pointer]
+                - button "Pre-application brief" [ref=f8e176] [cursor=pointer]
+          - generic [ref=f8e177]:
+            - button "Back" [ref=f8e178] [cursor=pointer]
+            - generic [ref=f8e181]: 8 still open. You can submit with gaps, but the reviewer will ask for them.
+            - 'button "Next: Submit" [ref=f8e182] [cursor=pointer]'
+  - contentinfo [ref=f8e185]:
+    - generic [ref=f8e186]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e187]: Approval stays with registered professionals and the Authority Having Jurisdiction.

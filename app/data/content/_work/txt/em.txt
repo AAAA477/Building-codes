@@ -1,0 +1,625 @@
+
+=====PAGE 1=====
+=====PAGE 2=====
+TABLE OF CONTENTS
+INTRODUCTION
+3
+Peer Review Processes
+3
+Guideline Limitations
+3
+SCOPE
+4
+REFERENCED DOCUMENTS
+4
+GENERAL INFORMATION
+5
+Alternative Solution Overview
+5
+Emergency Services in the NBC(AE)
+5
+Instructions for Use
+6
+Evaluating Impacts to Emergency Services
+8
+Prescribed Firefighting Information
+11
+Aspects of NBC(AE) Division B, Subsection 3.2.5. - Provisions for Firefighting
+11
+Firefighting Access
+11
+Water Supply
+12
+Fire Department Equipment
+12
+Edmonton Fire Rescue Services-Specific Information
+14
+Edmonton Fire Rescue Services at a Glance
+14
+Timeliness of Fire Suppression Response
+14
+Fire Fighting Resources
+15
+Staging of Fire Suppression Apparatus
+16
+Structure Fire Critical Tasks
+16
+Equipment Capability
+17
+Documentation of Alternative Solutions
+20
+Analytical Methods and Rationales
+20
+Special Maintenance and Operational Requirements
+20
+Subjective Equivalency
+20
+INSPECTION, TESTING, and MAINTENANCE
+22
+Alternative Solutions Utilizing Systems Not Regulated by the NFC(AE)
+22
+MORE INFORMATION
+23
+DISCLAIMER
+23
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 2 of 23
+=====PAGE 3=====
+INTRODUCTION
+This document provides guidance for design professionals completing alternative solutions to the
+National Building Code, Alberta Edition (NBC(AE)) within the City of Edmonton, specifically those
+which may involve impacts to Emergency Services.  The NBC(AE) requires alternative solutions to
+consider operational requirements which include firefighting operations, however those
+requirements are not clearly defined.  This guide ensures that professionals completing alternative
+solutions within the City of Edmonton have access to current, accurate, and requisite information to
+evaluate any impact to emergency services.  It is not the intention of this guide to suggest that every
+alternative solution impacts emergency response, but rather to provide guidance for evaluating
+impacts to emergency services where they may be affected by a specific design.  It is equally
+important to note that alternative solutions which can be shown to provide no additional or unique
+impacts to emergency services relative to the NBC(AE) acceptable solutions do not require additional
+analysis in this regard.
+Peer Review Processes
+Alternative solutions which impact emergency response are subject to peer review by professionals
+with Safety Codes, Permits, and Inspections (SCPI), as well as with Edmonton Fire Rescue Services
+(EFRS).  The information provided in this guideline was prepared by these professionals, and
+alternative solutions may be evaluated against this information as part of the building permit
+application process.  Practitioners are encouraged to contact the authors of this guideline prior to
+submitting a completed alternative solution analysis, particularly if there is any ambiguity with
+respect to assumptions regarding emergency services.
+Guideline Limitations
+This guideline does not constitute code advice for any specific application and does not limit
+practitioners of architecture or engineering, however disregard of the information provided in this
+guideline could be considered ignorance of information vital to skillful practice with respect to
+alternative solutions.
+While the guideline contains additional information as provided in the NBC(AE) with respect to
+specific emergency operations within the City of Edmonton, it is not practical to provide detailed
+information for every possible design/circumstance.  Therefore, practitioners are encouraged to
+seek additional information from the specific resources listed within this guideline where ambiguity
+or uncertainty exists.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 3 of 23
+=====PAGE 4=====
+SCOPE
+This guideline is publicly available and provides a general informative resource on aspects of
+emergency response as contemplated by the NBC(AE).  Application of this information is specifically
+intended for the use of qualified architects and engineers during the completion of alternative
+solutions to the NBC(AE), as per Division C, Section 2.3.  This guideline does not provide introductory
+information with respect to alternative solutions, and before using this guideline practitioners must
+be familiar with the alternative solution compliance path from Division A Section 1.2.
+This version of this guideline is limited to buildings of certain characteristics.  While information
+within this guideline may be useful for any alternative solution, specific details for buildings
+classified as “High Buildings” as per NBC(AE) Division B, Subsection 3.2.6. are outside the specific
+scope of this guidance.  For specific information on alternative solutions with respect to these
+buildings, please contact the guideline authors.
+REFERENCED DOCUMENTS
+The following resources are referenced throughout this guideline, and should be familiar to
+professionals submitting alternative solutions which may affect emergency services.
+●
+National Building Code - Alberta Edition 2023
+●
+National Fire Code - Alberta Edition 2023
+●
+City of Edmonton Design and Construction Standards, Vol 2, Roadways
+●
+City of Edmonton Design and Construction Standards, Vol 4, Water
+●
+City of Edmonton Small Building Access Policy B19-04
+●
+Fire Rescue Services Swept Path Analysis Guideline
+●
+City of Edmonton Policy C523A - Fire Rescue Service Delivery
+●
+Edmonton Fire Rescue Master Plan
+●
+Fire Underwriters Survey, Water Supply for Public Fire Protection
+●
+Society of Fire Protection Engineers
+○
+SFPE Handbook of Fire Protection Engineering
+○
+SFPE Guide to Fire Risk Assessment
+○
+SFPE Engineering Guide to Performance-Based Fire Protection
+○
+Guidelines for Peer Review in the Fire Protection Design Process
+○
+Code Official’s Guide to Performance-Based Design Review
+●
+National Fire Protection Association
+○
+NFPA Fire Protection Handbook
+○
+NFPA 1710 - Standard for the Organization and Deployment of Fire Suppression
+Operations
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 4 of 23
+=====PAGE 5=====
+●
+Association of Professional Engineers and Geoscientists of Alberta
+○
+APEGA Practice Standards, Bulletins, and Guidelines
+●
+Alberta Association of Architects
+○
+Practice Bulletins and Advisories
+GENERAL INFORMATION
+Alternative Solution Overview
+This guideline is not intended to be a primer on the alternative solution process, and users should
+ensure they are competent and familiar with the alternative solution compliance path (Div A) and
+content requirements (Div C) prior to using this guideline.  The summary information provided here
+is meant to highlight the way in which emergency services operations must be included within an
+alternative solution.
+As detailed in NBC(AE) Division C, Article 2.3.1.1., documentation provided as part of an alternative
+solution must include:
+This includes consideration of specific building design features which impact emergency services.
+Further an alternative solution analysis must include:
+Emergency Services in the NBC(AE)
+Fire and life safety are critical objectives of the NBC(AE), and are achieved by a number of measures
+including passive design, active systems, and intervention by emergency services - firefighting in
+particular.  While there are a number of prescriptive requirements of buildings for firefighting
+purposes, the NBC(AE) does not consider the specific procedures, capability, or organization of local
+fire departments.  As provided in the NBC(AE) Notes to Part 3, Firefighting Assumptions, there is an
+assumption that a local fire department exists, and that in places where larger buildings exist,
+greater firefighting resources/capability equally exist.  However the code authors did not apply this
+assumption on a consistent or defined basis.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 5 of 23
+=====PAGE 6=====
+While adherence to the acceptable solutions ensures consistency between the expectations of the
+NBC(AE) and the resources/systems provided to firefighters, alternative solutions need to evaluate
+impacts to emergency response capability, and operations.  Therefore, using the guidance from the
+Notes to Part 3, designers must use good fire protection engineering practices to address these
+possible impacts.  This guide is intended to clearly describe the resources, procedures, and
+capability of Edmonton Fire Rescue Services to provide designers sufficient information to evaluate
+impact to the effectiveness of emergency services when alternative solutions are utilized.
+Instructions for Use
+The guideline is separated into four main sections which are meant to guide professionals in both
+identifying and evaluating where alternative solution designs may impact emergency services.
+Section 1
+Evaluating Impacts to Emergency Services
+Section 2
+Prescriptive Firefighting Measures
+Section 3
+Firefighting Assumptions and Data
+Section 4
+Documentation of Alternative Solutions
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 6 of 23
+=====PAGE 7=====
+GUIDELINES
+Section 1
+Evaluating Impacts to Emergency
+Services
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 7 of 23
+=====PAGE 8=====
+Evaluating Impacts to Emergency Services
+There is no clear prescription for determining how an alternative solution may impact the capability
+and procedures of emergency responders, and the evaluation must be made by a competent
+designer using good fire protection engineering practices.  To aid that assessment, the following
+questions should be used to determine whether a design merits review of impact to emergency
+response:
+1.​ Does the alternative solution modify any specific firefighting requirement of the NBC(AE),
+including Division B, Subsection 3.2.5., or other specific firefighting provisions?
+1.1.
+Variance of any prescriptive firefighting measure in the NBC(AE) indicates that the
+designer must understand and communicate the operational impact of that
+Variance.
+1.2.
+Equally, any variance which includes reference to Functional Statements F06, F12, or
+F13 likely impact emergency services.
+2.
+Do the life safety or property protection features of the alternative solution design rely on
+timely intervention by the local fire service, including for spatial separation/exposure
+protection?
+2.1.
+The NBC(AE) generally assumes intervention by a local fire department on the
+timescale of 10 minutes, to correspond to the need to address exposure protection
+of adjacent buildings.  While only a rough estimate, any alternative solution which
+impacts this intervention, or more generally an intended/known delay to fire
+department response, must evaluate the impact of that variance.
+3.
+Does the alternative solution introduce equipment, technology, or processes which are novel
+to Edmonton Fire Rescue Services, or which may be incompatible with technology and
+equipment used by responders?
+3.1.
+Special instructions for responders may be part of an emergency response plan for a
+building.  This can include systems such as automatic smoke control which may
+impact fire department procedures for ventilation, and which may require specific
+pre-incident training or familiarization.
+3.2.
+Adherence to specific emergency response actions by EFRS as part of an alternative
+solution building design, or utilization of equipment which is not otherwise
+prescribed/regulated in Division B of the NBC(AE) indicates an impact to responders.
+4.
+Does the alternative solution require special operational plans for occupants which may
+affect emergency response and intervention?
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 8 of 23
+=====PAGE 9=====
+4.1.
+Shelter in place, including areas of refuge, staged evacuations, and bespoke
+emergency communication/instruction are examples of procedures which are
+generally required by the National Fire Code, Alberta Edition for Fire Safety Plans.
+Understanding the impact of these procedures is essential to the alternative solution
+designer, to ensure assumptions on fire department intervention are properly
+attributed.
+4.2.
+Strategies which rely on fire department intervention/action or which utilize
+uncommon occupant evacuation plans indicate a need to assess the impacts to
+emergency responders.
+The above questions are meant to guide the designer on how to consider impacts to emergency
+services, however they are not exhaustive.  The professional is required to adhere to good
+engineering practice to understand and evaluate the impact of their specific designs.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 9 of 23
+=====PAGE 10=====
+GUIDELINES
+Section 2
+Prescribed Firefighting Information
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 10 of 23
+=====PAGE 11=====
+Prescribed Firefighting Information
+The NBC(AE) contains numerous prescriptive requirements relating to emergency responders,
+predominantly within Division B, Subsection 3.2.5. Provisions for Firefighting.  These include access
+requirements to buildings (both routes for apparatus, and access to buildings themselves),
+firefighting water supply requirements including fire department connections, standpipes, sprinkler
+systems, and fire pumps.  These provisions are relied upon by EFRS to guide their emergency
+response operations, and any variance/alternative solution affecting this subsection should be given
+careful consideration by the designer to ensure variances to these provisions do not negatively
+impact responders.  These provisions are summarized here, however the NBC(AE) should be
+referenced for complete information.
+In addition to the regulations referred to above, designers must account for some of the
+administrative provisions of the NBC(AE), including the distinction that firefighters, specifically during
+the course of their duties, are included as “building occupants” within the Code’s Objective
+Statements (see Division A, Notes to Part 2, Objectives).  Firefighting assumptions are also
+highlighted in the Notes to Part 3, Firefighting Assumptions.
+Aspects of NBC(AE) Division B, Subsection 3.2.5. - Provisions for
+Firefighting
+Firefighting Access
+The NBC(AE) addresses access to many aspects of a building, including above-grade storeys,
+basements, and roofs, as well as vehicular access routes.  Professionals reviewing compliance to the
+access requirements for firefighting must consider how any alternative solution may affect these
+prescriptive requirements.
+The NBC(AE) does not address the overall design of roadways and access routes more broadly.
+These requirements are addressed municipally through the City’s Complete Streets Design and
+Construction Standards.  The Building AHJ assumes that application of the City’s Design Standards
+are met through the municipal design and review process, and designers must be aware of any
+potential variances or non-conformances to the application of the municipal standards which may
+affect the expected performance of the NBC(AE) requirements, regardless of whether the access
+requirements of NBC(AE) Subsection 3.2.5. are intended to be varied.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 11 of 23
+=====PAGE 12=====
+Water Supply
+Water supply for firefighting is prescribed by the NBC(AE) in Article 3.2.5.7., however additional
+municipal standards for firefighting water apply within the City of Edmonton, based on the Volume 4
+Design and Construction Standards, Water.  Generally the municipal requirements specifically for
+fireflow exceed the requirements of the NBC(AE), however designers should verify water supply for
+firefighters.  Specific Available Fire Flow (AFF) information can be obtained from the EFRS Engineer
+which takes into account both the capacity of the City’s water network of mains and hydrants, but
+also any operational limitations affecting firefighting apparatus including mechanical pump
+specifications, and losses in required fire hoses.
+The municipal standards for firefighting water are based on the Fire Underwriter’s Survey Guide,
+Water Supply for Public Fire Protection.  Development Permission is provided based on
+conformance to this guide such that the FUS Required Fire Flow for any building must be shown to
+be provided through the Available Fire Flow.
+Fire Department Equipment
+The NBC(AE) specifies requirements for fire department connections, standpipes, hose connections,
+hose stations, fire pumps, and fittings and outlets used by firefighters.  These features are also
+regulated by additional reference standards, including NFPA 13/13R, NFPA 14, and NFPA 20.
+Deviation/variance of these prescriptive requirements should be carefully evaluated for their impact
+to emergency responders as part of any alternative solution analysis.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 12 of 23
+=====PAGE 13=====
+GUIDELINES
+Section 3
+Edmonton Fire Rescue Services-Specific
+Information
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 13 of 23
+=====PAGE 14=====
+Edmonton Fire Rescue Services-Specific Information
+This section of the guideline is intended to provide an overview of the basic strategies, response
+capabilities, fire suppression operations, resources, and service delivery standards for Edmonton
+Fire Rescue Services, to assist designers in understanding impacts to emergency services through
+the use of alternative solutions.  This section is not a comprehensive manual of fire department
+operations, and if more detailed, project-specific evaluation and assistance is appropriate, the
+designer should reach out to the authors of this guideline for additional support.  Designers should
+use the information within this section to evaluate alternative solution impacts to emergency
+services relative to buildings which are constructed to the prescriptive acceptable solutions from
+Division B of the NBC(AE).
+Edmonton Fire Rescue Services at a Glance
+Edmonton Fire Rescue Services is a fully career-service department responsible for a wide range of
+services - some of which are impacted by environment and building design.  The following list
+outlines these key services:
+●
+Emergency response communications
+●
+Fire suppression (structure, non-structure, industrial, vehicle, and wildland interface)
+●
+Technical rescues
+●
+Response to life-threatening medical situations
+●
+Hazardous materials response
+●
+River/watercraft response
+●
+Fire prevention programs, and public safety initiatives
+●
+Emergency management and planning
+●
+Training and certification of fire service personnel
+EFRS establishes service delivery standards through Policy C523A - Fire Rescue Service Delivery,
+which outlines the Fire Rescue Master Plan.  The master plan includes 4 key goals, and seventeen
+accompanying principles which clarify the role of EFRS.  The following section outlines how those
+goals and principles are put into practice, and provides designers information by which to evaluate
+how unique designs as part of alternative solutions may impact this service.
+Timeliness of Fire Suppression Response
+As detailed in the Edmonton Policy C523A, the Fire Rescue Services Master Plan (2012), and
+Standards of Cover (2019), EFRS strives to conform to NFPA 1710: “Organization and Deployment of
+Fire Suppression Operations, Emergency Medical Operations, and Special Operations to the Public
+by Career Fire Departments”.  While this NFPA standard does not prescribe all aspects of operations,
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 14 of 23
+=====PAGE 15=====
+it should be referred to by designers, specifically to clarify the resources, performance benchmarks,
+functions, and objectives of a generalized career fire department.  Some of the key service level
+benchmarks include:
+●
+The total evaluation and dispatch time for emergency calls will be no more than 90 seconds
+(90% of the time)
+●
+The total “turnout” time for the responding apparatus will be no more than 90 seconds (90%
+of the time)
+●
+Travel time for arrival of the first pump apparatus at a fire incident will be no more than 4
+minutes (90% of the time).
+●
+A “first alarm” assignment of at least 16 firefighters at a fire suppression event will occur
+within a travel time of 8 minutes (90% of the time).
+These service level targets are useful for establishing the typical arrival time of emergency
+responders, with the first unit arriving within 7 minutes, and a first alarm assignment of at least 16
+firefighters arriving within 11 minutes, upon receipt of an emergency call (including fire alarm
+notification).  The total number of firefighting personnel required will vary depending on the building
+type (see Fire Fighting Resources below).
+Exceptions to these service level targets are identified by the Outside 10-minute Boundary map
+published on maps.edmonton.ca (under the layer, “ERD Public Data”).  For projects outside this
+response area, careful consideration must be given both to the impact to spatial separation as
+defined in the NBC(AE), as well as the impact to delayed emergency response.
+Fire Fighting Resources
+EFRS delineates structure fires as per NFPA 1710, allowing more discrete allocation of firefighting
+resources based on the expected tasks which are typical of different types of structure fires.  This
+spans from a minimum of 24 firefighters for a single-family dwelling, up to 43 firefighters for what
+are deemed high-hazard.  The minimum initial response generally includes pumper, rescue,
+aerial/ladder apparatus, and any other specialty apparatus which aligns with EFRS’ Fire Priority
+Dispatch System.  Designers should reach out to this guide’s authors for verification of the initial
+response for clarification with respect to a specific design.
+Buildings which feature characteristics such as intensified occupancy (commercial and industrial
+uses) and specific features such as the storage or use of dangerous goods, may increase this initial
+response.  Designers wishing to confirm the exact response resources for an intended building may
+reach out to the authors of this guideline for verification.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 15 of 23
+=====PAGE 16=====
+Staging of Fire Suppression Apparatus
+Staging of fire apparatus is highly variable and dependent on the nature/severity of the event, as
+well as the order in which the apparatus arrive at the address.  Generally, one pump will be staged
+near the building’s fire department connection (FDC), where provided, to augment the building’s
+water-based fire suppression systems.  Additional apparatus will coordinate staging based on fire
+operations needs such as ladder operations (including rescue), hose management, and available
+firefighting resources (hydrants).  Requirements for emergency access routes used for staging are
+generally addressed by the regulations within the City of Edmonton Design and Construction
+Standards, Volume 2, Roadways, and the NBC(AE), Division B, Subsection 3.2.5.
+Accessibility to buildings is defined in the NBC(AE), and clarified through the City of Edmonton
+Development Services Small Building Access Policy B19-04, ensuring access to buildings, or
+additional fire protection, is consistently applied.
+Structure Fire Critical Tasks
+The following section details some of the critical tasks undertaken by fire responders during
+structure fire events.  While these tasks are generalized, they are common aspects of structural fire
+response, and designers should use this information to compare/evaluate any impacts to these
+tasks relative to designs which do not require alternative solutions (i.e. buildings which meet the
+prescriptive acceptable solutions found in Division B of the NBC(AE)).
+●
+Command
+a.​ The first arriving officer assumes Command. This triggers the incident command
+structure and allows for control throughout the event. Command will report the
+initial size up. Incoming crews will stage until assigned by Command.
+●
+Search and Rescue
+a.​ Search and rescue is assigned by Command, and consists of a major crew (one
+officer and two or more firefighters) to complete a thorough search and rescue of
+occupants within a building.  Factors affecting this task include the size of the
+building to determine division of labour.  As required, Command will assign a specific
+area to search and will assign additional crews to other areas.
+●
+Water Supply and Pump Operation
+a.​ Water supply is assigned by Command.   As part of the first arriving unit, Command
+has the option to grab a hydrant on arrival, or assign a separate truck to water
+supply.  Any apparatus pumping at an event will require at least one source of water.
+Every apparatus pumping water requires a dedicated Pump Operator.
+●
+Fire Attack
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 16 of 23
+=====PAGE 17=====
+a.​ Fire Attack is a critical crew assigned by Command.  The primary objective of Fire
+Attack is to control and ultimately extinguish any fires, which is split into interior and
+exterior tasks.  Interior attack will bring in a charged hoseline from a pumping
+apparatus, or connect to an available standpipe system.  Exterior attack typically
+involves a larger flow of water and includes both control/extinguishment of fires
+within the structure, as well as exposure protection of adjacent buildings.  Multiple
+fire attack crews can be assigned based on the size and needs of an event.
+●
+Lobby
+a.​ Lobby is assigned by Command and is responsible for gaining access to the building,
+controlling the alarm panel, directing residents on where to stage as they exit,
+locating a building manager if there is one on scene, and generally controlling who
+goes in and out of the building.
+b.​ For buildings with a Command and Control Facility (CACF), the lobby crew manages
+building systems and other equipment required by the NBC(AE).
+●
+Evacuation
+a.​ Evacuation is a major crew, assigned by Command to evacuate a threatened area.
+Depending on the size and severity of the event, this can be limited to the
+compartment of fire origin, up to evacuation of the entire building. Multiple
+evacuation crews could be assigned based on needs.
+●
+Exposure Protection
+a.​ Assigned to protect direct exposures of a building on fire. Water streams are used to
+prevent heat and flame spread to nearby property such as buildings, vehicles and
+trees.
+Equipment Capability
+Key operational equipment specifications are provided below for designers to reference.  Please
+ensure the most recent copy of this guideline is being used, as equipment specifications are subject
+to change.  Note that this list includes fire suppression, and rescue equipment, and is not an
+exhaustive list of other support equipment.
+1.​ Pumping Apparatus
+a.​ Each pumping apparatus (including aerial platforms) are equipped with onboard
+pumps capable of generally discharging 7,000 Litres per minute (total).  Note that
+capacity may be limited by available resources, the location and capability of fire
+hydrants, as well as the distance of fire hydrants to the staging area.  Specific fireflow
+capacity for all legal parcels in the city can be obtained from the EFRS Engineer.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 17 of 23
+=====PAGE 18=====
+b.​ Pumper apparatus are equipped with 240 m of 125 mm “Hi-Vol” hose utilizing Storz
+thread type. Adapters are used to connect to the threads on pressurized water
+sources (hydrants) throughout Edmonton.
+c.​ Pumper apparatus are also equipped with 3 m of drafting hose utilizing 6”-NH thread
+type for connection to non-pressurized water sources (dry hydrants, drafting pools,
+etc.).
+d.​ Pumper apparatus are pre-strung with both 65 mm and 45 mm “attack” lines, with a
+reach of 75 m.  Longer attack lines require additional time to reconfigure hose lines
+from additional apparatus.
+2.​ Aerial Apparatus (Ladders)
+a.​ Aerial platform apparatus are equipped with a ladder which can extend up to 30 m,
+which must generally be placed approximately 10 m from a structure for rescue
+purposes.
+i.
+While the ladder is extended, the aerial apparatus is stabilized by outriggers
+which extend horizontally outward from the apparatus to give a total width
+of approximately 6 m.
+A swept path analysis, conforming to City of Edmonton’s Swept Path Analysis
+guideline, ensures access and maneuverability feasibility by aerial apparatus.
+b.​ Ground ladders available to EFRS at a structure fire include a 14 ft roof ladder, a 24 ft
+extension ladder, and a 35 ft extension ladder. Ground ladders require approx ¼ of
+the working height for set up on the ground
+3.​ Other Firefighting Equipment
+a.​ Specialty kits for utilization of building standpipes include:
+i.
+High Rise (Green Bag) Kit:
+1.​ 30 m of 44mm high-rise hose, pre-connected to 550 LPM nozzle.
+ii.
+High Rise (Red Bag) Kit:
+1.​ 15 m of 44mm high-rise hose,
+2.​ 3 m of 65mm high rise hose, pre-connected with gated wye.
+b.​ Ground-based monitors are available for firefighters to establish water
+curtains/exposure protection with an output of up to 1900 LPM.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 18 of 23
+=====PAGE 19=====
+GUIDELINES
+Section 4
+Documentation of Alternative Solutions
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 19 of 23
+=====PAGE 20=====
+Documentation of Alternative Solutions
+Documentation of Alternative Solutions is prescribed by Division C, Section 2.3 of the NBC(AE) - this
+section should be read as a companion resource to ensure documentation of assumptions,
+particularly those relating to emergency responders are properly presented within alternative
+solutions.
+Analytical Methods and Rationales
+The NBC(AE) requires that proponents of alternative solutions demonstrate analytical methods and
+rationales to determine/demonstrate compliance.  Where appropriate, this is most effectively
+achieved by adhering to industry best practices for analysis.  In the context of alternative solutions
+which impact emergency services (i.e. fire and life safety and property protection) this includes
+resources such as those published by the Society of Fire Protection Engineers (SFPE), and the
+National Fire Protection Association (NFPA).  This includes the resources within the Handbooks
+published by each organization, as well as specific practice guidelines and standards.
+Demonstrating compliance to these industry best-practices both reinforces the quality management
+aspects achieved through their application, but also helps standardize analysis to ensure they are
+well communicated.  They also expedite narrative description within some types of analysis, allowing
+alternative solution analysis’ to be more succinct compared to bespoke approaches to analysis.
+Special Maintenance and Operational Requirements
+Alternative solutions must be carefully reviewed to understand special maintenance and operational
+requirements such as maintenance of systems which are not included within the National Fire Code,
+Alberta Edition (e.g. smoke protection systems).  See Inspection, Testing, and Maintenance section of
+this report.
+Aside from operational requirements associated with building systems, special or unique emergency
+response requirements must likewise be evaluated.  This is one of the fundamental purposes of this
+guideline, and proponents of alternative solutions must take care to ensure that assumptions and
+limiting or restricting factors associated with emergency response affected by the alternative
+solution are accurate.
+Subjective Equivalency
+While alternative solutions within the NBC(AE) are fundamentally based on qualitative Objective and
+Functional statements, proponents must take care to not rely on subjective assessment to conclude
+performance of an alternative solution, relative to the acceptable solution.  Generally, alternative
+solutions must objectively demonstrate performance of an alternative solution relative to the
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 20 of 23
+=====PAGE 21=====
+Division B acceptable solutions.  This means that conclusions on “approximately equal or better”
+should not be based on judgement without demonstration of performance, relative to acceptable
+solutions.  This does not limit the application of performance-based design which does not explicitly
+rely on comparative analysis to the acceptable solution, however it must still be demonstrated how
+the specific goals of the performance-based design reflect both the objectives, and expected level of
+performance of Division B.  For example, performance-based design which makes use of tenability
+analysis (such as with a Available Safe Egress Time analysis) need not necessarily establish a
+performance baseline based on an acceptable solution in Division B if the level of performance
+implied by the tenability analysis is based on good-engineering and industry best-practices.  Where
+objective demonstration of performance may be uncertain, the alternative solution proponent
+should adhere to best-practices in performance-based design, including early communication with
+AHJ’s, such as with pre-application meetings.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 21 of 23
+=====PAGE 22=====
+INSPECTION, TESTING, and MAINTENANCE
+Alternative Solutions Utilizing Systems Not Regulated by the NFC(AE)
+The National Fire Code, Alberta Edition (NFC(AE)) is a companion document to the NBC(AE), and in
+part addresses the ongoing inspection, testing, and maintenance (ITM) of fire and life safety systems
+required by the NBC(AE).  This includes mandatory requirements for ITM for common building
+features such as fire alarm systems and sprinkler systems to ensure these systems operate as
+intended, including both automatic operation, and manual operation by supervisory staff and/or
+emergency responders.
+While the NFC(AE) specifically regulates ITM for systems prescribed by the NBC(AE), there may be
+gaps in the ITM procedures for systems introduced as part of engineering design, or alternative
+solutions.   Documentation of these ITM procedures, including commissioning, are required to be
+provided with documentation of an alternative solution as per the NBC(AE), however this
+documentation is also necessarily required by the building owner/operator, and the Fire AHJ who
+may conduct compliance monitoring programs to ensure ITM procedures are adhered to.
+Therefore, care must be taken by designers to identify all fire and life safety systems which require
+ITM which is not otherwise specifically regulated/prescribed by the NFC(AE), and ensure the requisite
+ITM documentation is included with the alternative solution analysis.  Note that this is often
+completed subsequent to design implementation, in which case the alternative solution should
+clearly indicate requirements for documentation, and the professional responsibility/accountability
+for completing the identified documentation.  This must be coordinated with the Registered
+Professional of Record associated with the appropriate portion of the project, as well as with the
+Coordinating Registered Professional to ensure documentation details are not overlooked prior to
+completion of the project.
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 22 of 23
+=====PAGE 23=====
+MORE INFORMATION
+In the cases where this guideline provides insufficient information, the authors, listed below, may be
+contacted regarding general inquiries.  If inquiries are being sought in relation to an in-progress
+permit application, please contact the plans examiner assigned to the project.  This guideline is
+updated regularly - please ensure the most recent report is being used to obtain the most current
+contact information.
+DISCLAIMER
+The information provided in this guideline is not intended to be used as design or code advice, and
+professionals utilizing this information are responsible for verification of details.  The information is
+current as per the publication date of the guideline, and is subject to change with advancements in
+fire department strategies, tactics, and capability.
+____________________________________
+Cameron Bardas, P.Eng.
+Senior Engineer Strategist
+Safety Codes, Permits, and Inspections
+___________________________________
+Kael Griswold, P.Eng.
+Senior Fire Protection Engineer
+Edmonton Fire Rescue Services
+Guideline for Alternative Solutions Affecting Emergency Services | COE-IM-GUIDE-0040 | v01 | 2025-04-15 | 23 of 23

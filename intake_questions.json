@@ -1,0 +1,375 @@
+[
+ {
+  "id": "a1",
+  "section": "A",
+  "prompt": "What is the owner's full name?",
+  "help": "The legal owner of the property or building (a person or a company). This is the party who will sign the form.",
+  "field_path": "applicant.owner_name",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "a2",
+  "section": "A",
+  "prompt": "Is someone acting for the owner (an architect, engineer, contractor or consultant)? If so, who?",
+  "help": "The form has a separate field for the owner's representative. Leave blank if the owner is applying directly.",
+  "field_path": "applicant.owner_representative",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "a3",
+  "section": "A",
+  "prompt": "What mailing address and email should the Safety Codes Officer use to reach you?",
+  "help": "Used for requests for more information and for the decision. Give a full mailing address and one monitored email.",
+  "field_path": "applicant.mailing_address",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "a3b",
+  "section": "A",
+  "prompt": "Email address for correspondence",
+  "help": "One email address that is checked regularly.",
+  "field_path": "applicant.email",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+   "page": 3
+  }
+ },
+ {
+  "id": "a4",
+  "section": "A",
+  "prompt": "What date are you submitting this request?",
+  "help": "Today's date unless you plan to submit later.",
+  "field_path": "applicant.date_of_request",
+  "type": "date",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b1",
+  "section": "B",
+  "prompt": "Which municipality or authority is reviewing the building permit?",
+  "help": "This sets the local overlay (form recipient, local guides). The demonstration topic is built around Edmonton.",
+  "field_path": "jurisdiction",
+  "type": "choice",
+  "required": true,
+  "source": {
+   "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+   "page": 3
+  },
+  "choices": [
+   "scc",
+   "calgary",
+   "edmonton"
+  ]
+ },
+ {
+  "id": "b2",
+  "section": "B",
+  "prompt": "Is this request for a whole jurisdiction instead of one site?",
+  "help": "Tick yes only if the variance is not tied to a single property. Most project variances are site-specific, so answer no.",
+  "field_path": "location.jurisdiction_wide",
+  "type": "bool",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b3",
+  "section": "B",
+  "prompt": "What is the building permit number (if you have one yet)?",
+  "help": "A variance must be tied to a building permit. If you have not applied yet, leave this blank and say so; Calgary states a variance number cannot be issued without a building permit number.",
+  "field_path": "location.permit_number",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "09_Calgary_Alt_Solution_Guide.pdf",
+   "page": 3
+  }
+ },
+ {
+  "id": "b4",
+  "section": "B",
+  "prompt": "What is the municipal (street) address of the site?",
+  "help": "The full street address as it appears on the building permit.",
+  "field_path": "location.municipal_address",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b5",
+  "section": "B",
+  "prompt": "Do you have the legal land description (lot, block, plan)?",
+  "help": "Found on the land title or tax notice. Lot, block and plan describe a city lot.",
+  "field_path": "location.lot",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b5b",
+  "section": "B",
+  "prompt": "Block and plan numbers",
+  "help": "Block and plan from the land title.",
+  "field_path": "location.block",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b5c",
+  "section": "B",
+  "prompt": "Plan number",
+  "help": "The registered plan number from the land title.",
+  "field_path": "location.plan",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b6",
+  "section": "B",
+  "prompt": "Do you have the Alberta Township Survey (ATS) description (quarter, section, township, range, meridian)?",
+  "help": "Mostly used for rural land. Leave blank for a city lot with lot, block and plan.",
+  "field_path": "location.qtr",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "b6b",
+  "section": "B",
+  "prompt": "Section, township, range, meridian",
+  "help": "Enter the section, township, range and meridian from the ATS description (fill each if known).",
+  "field_path": "location.sec",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "c1",
+  "section": "C",
+  "prompt": "In your own words, what do you want to build or do differently?",
+  "help": "Describe the project in a few sentences, for example: a six-storey apartment building with one exit stair.",
+  "field_path": "project.description",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "c2",
+  "section": "C",
+  "prompt": "What is the building used for (occupancy)?",
+  "help": "For example apartments or condominiums (residential), offices, shops. Apartments are the residential occupancy.",
+  "field_path": "project.occupancy",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  }
+ },
+ {
+  "id": "c3",
+  "section": "C",
+  "prompt": "How many storeys is the building (building height)?",
+  "help": "Count the floors above ground. The Edmonton guide covers residential buildings of 6 storeys or less.",
+  "field_path": "project.storeys",
+  "type": "number",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  }
+ },
+ {
+  "id": "c4",
+  "section": "C",
+  "prompt": "What is the building area in square metres?",
+  "help": "The footprint area of the largest floor, from your drawings.",
+  "field_path": "project.building_area_m2",
+  "type": "number",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  }
+ },
+ {
+  "id": "c5",
+  "section": "C",
+  "prompt": "How many dwelling units are on each floor?",
+  "help": "The Edmonton guide covers not more than 4 units per floor served by one exit stair.",
+  "field_path": "project.units_per_floor",
+  "type": "number",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  }
+ },
+ {
+  "id": "c6",
+  "section": "C",
+  "prompt": "Is the building sprinklered throughout?",
+  "help": "Fully sprinklered means automatic sprinklers in the whole building. Answer unknown if not decided.",
+  "field_path": "project.sprinklered",
+  "type": "bool",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 4
+  }
+ },
+ {
+  "id": "c7",
+  "section": "C",
+  "prompt": "Is this a new building or a renovation of an existing one?",
+  "help": "Choose new for new construction, renovation for work in an existing building.",
+  "field_path": "project.new_or_renovation",
+  "type": "choice",
+  "required": true,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 1
+  },
+  "choices": [
+   "new",
+   "renovation"
+  ]
+ },
+ {
+  "id": "c8",
+  "section": "C",
+  "prompt": "What is the main code requirement you want to do differently?",
+  "help": "For the demo topic this is the requirement to provide at least two exits from a floor area. Say it plainly; the tool will find the article.",
+  "field_path": "variance.code_or_standard",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 4
+  }
+ },
+ {
+  "id": "c9",
+  "section": "C",
+  "prompt": "Describe your proposed alternative in plain words.",
+  "help": "What you will do instead of the second exit (for example one exit stair with added protection). Do not claim it is safe or equal; just say what you propose.",
+  "field_path": "variance.proposed_alternative.summary",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  }
+ },
+ {
+  "id": "c10",
+  "section": "C",
+  "prompt": "Which protective measures will you add (mitigations)?",
+  "help": "List what you plan, for example stair enclosure and fire separation, smoke control, sprinklers, fire department access. Pick from the catalogue in the next screen or add your own.",
+  "field_path": "variance.proposed_alternative.mitigations",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 5
+  }
+ },
+ {
+  "id": "c11",
+  "section": "C",
+  "prompt": "Do you already have reports, drawings, standards or listings that support the proposal?",
+  "help": "List names and dates (for example a fire protection engineer's report). These are attached in Section D.",
+  "field_path": "section_d",
+  "type": "text",
+  "required": false,
+  "source": {
+   "doc": "07_Variance_Form.pdf",
+   "page": 2
+  }
+ },
+ {
+  "id": "d1",
+  "section": "D",
+  "prompt": "Which registered professional (architect or engineer) is involved?",
+  "help": "Edmonton requires registered architect and/or engineers for a Point Access Block. Give name and firm, or say none yet.",
+  "field_path": "section_d.professional.name",
+  "type": "text",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  }
+ },
+ {
+  "id": "d2",
+  "section": "D",
+  "prompt": "Is a qualified Fire Protection or Life Safety Code Consultant preparing the Alternative Solution?",
+  "help": "Edmonton requires the Alternative Solution for a Point Access Block to be prepared by one. If no, the tool stops and tells you what is needed.",
+  "field_path": "section_d.consultant_engaged",
+  "type": "bool",
+  "required": true,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  }
+ },
+ {
+  "id": "d3",
+  "section": "D",
+  "prompt": "Have you booked or held a pre-application meeting with the City?",
+  "help": "Recommended by Edmonton for Point Access Block proposals. Optional but helpful.",
+  "field_path": "section_d.pre_application_meeting",
+  "type": "bool",
+  "required": false,
+  "source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 7
+  }
+ }
+]

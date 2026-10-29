@@ -1,0 +1,114 @@
+{
+ "id": "sample-partial-intake",
+ "jurisdiction": "edmonton",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "applicant": {
+  "owner_name": "[to be completed by applicant]",
+  "owner_representative": "[to be completed by applicant]",
+  "mailing_address": "[to be completed by applicant]",
+  "email": "[to be completed by applicant]",
+  "date_of_request": ""
+ },
+ "project": {
+  "description": "Residential building served by a single exit stair.",
+  "occupancy": "Residential",
+  "storeys": null,
+  "building_area_m2": null,
+  "units_per_floor": null,
+  "sprinklered": null,
+  "new_or_renovation": null,
+  "part": null
+ },
+ "location": {
+  "jurisdiction_wide": false,
+  "permit_number": "[to be completed by applicant]",
+  "municipal_address": "[to be completed by applicant]",
+  "lot": "",
+  "block": "",
+  "plan": "",
+  "qtr": "",
+  "sec": "",
+  "twp": "",
+  "rge": "",
+  "mer": ""
+ },
+ "variance": {
+  "topic": "single_exit_stair",
+  "code_or_standard": "NBC(AE) 2023 Division B",
+  "acceptable_solution": {
+   "articles": [],
+   "explanation": ""
+  },
+  "proposed_alternative": {
+   "summary": "",
+   "mitigations": []
+  },
+  "section_c": []
+ },
+ "section_d": [],
+ "professional_flags": [],
+ "declarations": {
+  "privacy_consent": false,
+  "equal_or_better_ack": false,
+  "owner_signed": false,
+  "rep_signed": false
+ },
+ "provenance": {},
+ "completeness": {
+  "percent": 0,
+  "items": []
+ },
+ "derived_from": [
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 4
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 5
+  },
+  {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 8
+  },
+  {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 8
+  },
+  {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 22
+  },
+  {
+   "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+   "page": 7
+  },
+  {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 269
+  },
+  {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 739
+  }
+ ],
+ "source": {
+  "doc": "11_Edmonton_Point_Access_Block.pdf",
+  "page": 2
+ },
+ "note": "Built from the real Edmonton Point Access Block guide and STANDATA 23-BCI-026/23-FCI-014. Identity, dates, permit and project measurements are intentionally blank placeholders. Not an application that was ever filed.",
+ "ablation": {
+  "base": "good_stair_edmonton",
+  "removed": [
+   "variance.acceptable_solution",
+   "variance.proposed_alternative",
+   "variance.section_c",
+   "section_d",
+   "professional_flags"
+  ]
+ }
+}

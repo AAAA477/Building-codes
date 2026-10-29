@@ -1,0 +1,220 @@
+{
+ "title": "Edmonton emergency-services screen",
+ "guideline": "COE-IM-GUIDE-0040 v01 (2025-04-15), Guideline for Alternative Solutions Affecting Emergency Services",
+ "purpose": "These questions determine whether a design merits review of its impact on emergency response. They are a screen for the applicant's professional, not a finding about the design.",
+ "source": {
+  "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+  "page": 8
+ },
+ "lead_in": "There is no clear prescription for determining how an alternative solution may impact the capability and procedures of emergency responders, and the evaluation must be made by a competent designer using good fire protection engineering practices. To aid that assessment, the following questions should be used to determine whether a design merits review of impact to emergency response:",
+ "questions": [
+  {
+   "id": "ES1",
+   "number": 1,
+   "answer_options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "text": "Does the alternative solution modify any specific firefighting requirement of the NBC(AE), including Division B, Subsection 3.2.5., or other specific firefighting provisions?",
+   "sub_points": [
+    {
+     "id": "ES1.1",
+     "text": "Variance of any prescriptive firefighting measure in the NBC(AE) indicates that the designer must understand and communicate the operational impact of that Variance.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 8
+     }
+    },
+    {
+     "id": "ES1.2",
+     "text": "Equally, any variance which includes reference to Functional Statements F06, F12, or F13 likely impact emergency services.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 8
+     }
+    }
+   ]
+  },
+  {
+   "id": "ES2",
+   "number": 2,
+   "answer_options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "text": "Do the life safety or property protection features of the alternative solution design rely on timely intervention by the local fire service, including for spatial separation/exposure protection?",
+   "sub_points": [
+    {
+     "id": "ES2.1",
+     "text": "The NBC(AE) generally assumes intervention by a local fire department on the timescale of 10 minutes, to correspond to the need to address exposure protection of adjacent buildings. While only a rough estimate, any alternative solution which impacts this intervention, or more generally an intended/known delay to fire department response, must evaluate the impact of that variance.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 8
+     }
+    }
+   ]
+  },
+  {
+   "id": "ES3",
+   "number": 3,
+   "answer_options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "text": "Does the alternative solution introduce equipment, technology, or processes which are novel to Edmonton Fire Rescue Services, or which may be incompatible with technology and equipment used by responders?",
+   "sub_points": [
+    {
+     "id": "ES3.1",
+     "text": "Special instructions for responders may be part of an emergency response plan for a building. This can include systems such as automatic smoke control which may impact fire department procedures for ventilation, and which may require specific pre-incident training or familiarization.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 8
+     }
+    },
+    {
+     "id": "ES3.2",
+     "text": "Adherence to specific emergency response actions by EFRS as part of an alternative solution building design, or utilization of equipment which is not otherwise prescribed/regulated in Division B of the NBC(AE) indicates an impact to responders.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 8
+     }
+    }
+   ]
+  },
+  {
+   "id": "ES4",
+   "number": 4,
+   "answer_options": [
+    "yes",
+    "no",
+    "unsure"
+   ],
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "text": "Does the alternative solution require special operational plans for occupants which may affect emergency response and intervention?",
+   "sub_points": [
+    {
+     "id": "ES4.1",
+     "text": "Shelter in place, including areas of refuge, staged evacuations, and bespoke emergency communication/instruction are examples of procedures which are generally required by the National Fire Code, Alberta Edition for Fire Safety Plans. Understanding the impact of these procedures is essential to the alternative solution designer, to ensure assumptions on fire department intervention are properly attributed.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 9
+     }
+    },
+    {
+     "id": "ES4.2",
+     "text": "Strategies which rely on fire department intervention/action or which utilize uncommon occupant evacuation plans indicate a need to assess the impacts to emergency responders.",
+     "source": {
+      "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+      "page": 9
+     }
+    }
+   ]
+  }
+ ],
+ "functional_statement_trigger": {
+  "functions": [
+   "F06",
+   "F12",
+   "F13"
+  ],
+  "rule": "Any variance which includes reference to Functional Statements F06, F12, or F13 likely impacts emergency services.",
+  "source": {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 8
+  },
+  "function_text": {
+   "F06": "To retard the effects of fire on facilities for notification, suppression and emergency response.",
+   "F12": "To facilitate emergency response.",
+   "F13": "To notify emergency responders, in a timely manner, of the need to take action in an emergency."
+  },
+  "function_text_source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 80
+  },
+  "single_exit_stair_prefill": "NBC(AE) 3.4.2.1.(1), the minimum-number-of-exits sentence a single exit stair varies, is attributed F12 and F06 (NBC(AE) 2023 Table 3.10.1.1, p.346). The trigger in question ES1.2 is therefore expected to be met; the applicant's professional must still confirm.",
+  "prefill_source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 346
+  }
+ },
+ "response_time_boundary": {
+  "text": "The NBC(AE) generally assumes fire department intervention on the timescale of 10 minutes. EFRS service-level targets give a typical first-unit arrival within 7 minutes and a first alarm assignment of at least 16 firefighters within 11 minutes of receipt of an emergency call. Exceptions are identified by the Outside 10-minute Boundary map published on maps.edmonton.ca (layer 'ERD Public Data'). For projects outside this response area, careful consideration must be given both to the impact to spatial separation as defined in the NBC(AE), and to the impact of delayed emergency response.",
+  "intake_question": "Is the site outside the Edmonton 10-minute response boundary (map layer 'ERD Public Data' on maps.edmonton.ca)?",
+  "source": {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 15
+  },
+  "supporting_source": {
+   "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+   "page": 8
+  }
+ },
+ "outcome_rules": [
+  {
+   "if": "any question answered yes or unsure, or the F06/F12/F13 trigger is met",
+   "then": "Flag 'emergency services impact must be evaluated by the responsible professional'. Do not draft the evaluation. Add the Section D item 'Emergency services impact assessment'.",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 9
+   }
+  },
+  {
+   "if": "all answers no and no F06/F12/F13 reference",
+   "then": "No additional emergency-services analysis is required by this guideline (alternative solutions that show no additional or unique impacts relative to the acceptable solutions do not require it), but the professional must confirm.",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 3
+   }
+  }
+ ],
+ "disclaimer": "The guideline is not design or code advice; professionals remain responsible for verifying details (p.23). This tool screens for completeness only.",
+ "disclaimer_source": {
+  "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+  "page": 23
+ },
+ "contact_note": "For an in-progress permit application contact the assigned plans examiner (p.23).",
+ "documentation_prompts": [
+  {
+   "id": "ES-DOC1",
+   "text": "Document assumptions and limiting or restricting factors associated with emergency response that is affected by the alternative solution.",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 20
+   }
+  },
+  {
+   "id": "ES-DOC2",
+   "text": "Demonstrate performance objectively relative to the Division B acceptable solutions; conclusions of 'approximately equal or better' must not rest on judgement without demonstration.",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 21
+   }
+  },
+  {
+   "id": "ES-DOC3",
+   "text": "Identify all fire and life safety systems needing inspection, testing and maintenance (ITM) not regulated by the NFC(AE); include ITM and commissioning documentation, naming who is accountable, coordinated with the Registered Professional of Record and the Coordinating Registered Professional.",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 22
+   }
+  }
+ ]
+}

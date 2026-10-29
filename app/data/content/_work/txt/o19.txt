@@ -1,0 +1,115 @@
+
+=====PAGE 1=====
+BUILDING CODE 
+VARIANCE 
+ 
+Unless stated otherwise, all Code references in this STANDATA are to Division B of the National Building Code-2019 
+Alberta Edition. 
+Issue of this STANDATA is authorized by  
+the Building Administrator 
+ 
+ 
+[Original Signed] 
+Paul Chang 
+ 
+Alberta Municipal Affairs – Community & Technical Support, 16th Floor, 10155 –102nd Street, Edmonton, Alberta, Canada, T5J 4L4 
+Phone: 1-866-421-6929 Email: safety.services@gov.ab.ca Website: www.municipalaffairs.alberta.ca  
+December 2019 
+19-BCV-006 
+Page 1 of 2 
+INTERCONNECTED SMOKE ALARMS 
+ 
+PURPOSE 
+To provide an alternative solution to the requirement for interconnecting smoke alarms by wire 
+under the National Building Code-2019 Alberta Edition (NBC(AE)). 
+ 
+DISCUSSION 
+Smoke alarms and their installation in new dwellings must conform to the requirements of the 
+NBC(AE). Smoke alarms shall conform to the CAN/ULC-S531, “Smoke-Alarms” manufacturing 
+standard and be installed to CAN/ULC-S553, “Installation of Smoke-Alarms.” Under the 
+NBC(AE), all required smoke alarms shall be interconnected.  
+ 
+Under the NBC(AE), smoke alarms must be provided with power from a hardwired source and 
+provided with a battery back-up. To satisfy the requirement for interconnected smoke alarms, 
+historically the only option available to industry had been to connect the smoke alarms by hard 
+wiring. Certified smoke alarms that utilise wireless interconnection technology have been 
+available for some time; with the introduction of the NBC(AE) smoke alarms that utilise wireless 
+interconnection technology are an acceptable solution noted in Sentence 9.10.19.5.(2) 
+ 
+The intent of the requirement for interconnected smoke alarms in the NBC(AE) is to limit the 
+probability that persons in one part of the dwelling unit or any part of the house with a secondary 
+suite will not be promptly notified of a fire in another part of the dwelling unit, or any part of the 
+house with a secondary suite. Sentence 3.2.4.20.(10) of the NBC(AE),   includes the wording 
+that “if more than one smoke alarm is required in a dwelling unit, the smoke alarms shall be 
+wired so that the actuation of one smoke alarm will cause all smoke alarms within the dwelling 
+unit to sound.” The actuation of one smoke alarm that will cause all smoke alarms to sound may 
+be achieved by wired or wireless systems using certified equipment. Hardwiring between smoke 
+alarms was the industry method available during the original code development.  
+ 
+Under CAN/ULC-S553, “Installation of Smoke-Alarms” standard, interconnected smoke alarms 
+are “installed to operate in combination with other smoke-alarms to provide common signalling 
+on all smoke-alarms such that activation of one smoke-alarm will cause all connected smoke-
+alarms to sound.” While the referenced standard is subordinate to the requirements of the 
+NBC(AE), the wording of the standard is further evidence for interpreting the meaning of the 
+words “shall be wired” under the NBC(AE) to mean “shall be interconnected”.  
+ 
+CODE REFERENCES 
+Sentence 3.2.4.20.(10) states: 
+3.2.4.20. Smoke Alarms 
+10) If more than one smoke alarm is required in a dwelling unit, the smoke alarms shall be wired 
+so that the actuation of one smoke alarm will cause all smoke alarms within the dwelling unit to 
+Archived
+
+=====PAGE 2=====
+ 
+19-BCV-006 
+Page 2 of 2 
+sound. 
+ 
+Sentences 9.10.19.5.(1)(2) states: 
+9.10.19.5. Interconnection of Smoke Alarms 
+1) Where more than one smoke alarm is required in a dwelling unit, the smoke alarms shall be 
+interconnected so that the activation of one alarm will cause all alarms within the dwelling unit to 
+sound. 
+2) Smoke alarms in a house with a secondary suite shall be interconnected so that the 
+activation of any one smoke alarm causes all smoke alarms within the house with a secondary 
+suite to sound. (See Note A-9.10.19.5.(2).)  
+ 
+A-9.10.19.5.(2) Interconnection of Smoke Alarms. Interconnection of smoke alarms between the 
+units can be achieved through wireless communication. 
+ 
+ 
+Sentence 9.10.19.4.(1) states: 
+9.10.19.4. Power Supply 
+1) Except as provided in Sentences (2) and (3), smoke alarms described in Sentence 
+9.10.19.1.(1) shall 
+     a) be installed with permanent connections to an electrical circuit (see 
+Note A-3.2.4.20.(7)(a)), 
+b) have no disconnect switch between the overcurrent device and the smoke alarm, and 
+c) in case the regular power supply to the smoke alarm is interrupted, be provided with a 
+battery as an alternative power source that can continue to provide power to the smoke alarm 
+for a period of no less than 7 days in the normal condition, followed by 4 minutes of alarm. 
+ 
+ 
+CAN/ULC-S553-02 Installation of Smoke-Alarms states: 
+INTERCONNECTED - Installed to operate in combination with other smoke-alarms to provide 
+common signalling on all smoke-alarms such that activation of one smoke-alarm will cause all 
+connected smoke-alarms to sound. 
+ 
+APPLICATION 
+This Variance applies where smoke alarms are required to be interconnected under the 
+NBC(AE),  so that the actuation of one smoke alarm will cause all interconnected smoke alarms 
+within the dwelling unit or any part of a house with a secondary suite to sound. 
+ 
+VARIANCE 
+This variance, which can be applied to new and existing buildings, provides approximately 
+equivalent or greater safety performance with respect to persons and property as that provided 
+for by the Safety Codes Act, the NBC(AE).  
+ 
+A smoke alarm that is certified in conformance with CAN/ULC-S531, “Smoke-Alarms” and uses 
+a wireless interconnection system is an acceptable alternative solution to the interconnection 
+requirements of Sentence 3.2.4.20.(10) in the NBC(AE).   
+ 
+ 
+This Variance is applicable throughout the province of Alberta. 
+Archived

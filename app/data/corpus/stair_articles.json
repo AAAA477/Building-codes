@@ -1,0 +1,2484 @@
+{
+ "topic": "single_exit_stair",
+ "edition": "NBC(AE) 2023",
+ "derivation": "Candidate set curated from Edmonton guides 10 and 11 (topics, Subsection 3.2.5, Article 3.2.5.7, Division C 2.3.1.1, F06/F12/F13 trigger) and NBC(AE) 2023 article text; attributions are read from the NBC Part attribution tables.",
+ "articles": [
+  {
+   "article": "3.4.2.1",
+   "group": "number_of_exits",
+   "basis": "guide",
+   "why_relevant": "Guide 11 states codes 'prescriptively enforced a minimum of two means of egress' and that a Point Access Block proposal contemplates 'a code variance for the number of exits'; these are the Part 3 / Part 9 minimum-number-of-exits provisions.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 2
+    },
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Minimum Number of Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 269
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F05-OS3.7",
+    "F06-OS3.7",
+    "F12-OS1.2",
+    "F06-OS1.2",
+    "F12-OP1.2",
+    "F06-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS3.7"
+   ],
+   "functions": [
+    "F05",
+    "F06",
+    "F10",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    4,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.2.1 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.9.8.2",
+   "group": "number_of_exits",
+   "basis": "guide",
+   "why_relevant": "Guide 11 states codes 'prescriptively enforced a minimum of two means of egress' and that a Point Access Block proposal contemplates 'a code variance for the number of exits'; these are the Part 3 / Part 9 minimum-number-of-exits provisions.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 2
+    },
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Number of Required Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 871
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 9.9.8.2 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.3.1.3",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Means of Egress",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 245
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F05-OS3.7",
+    "F06-OS3.7",
+    "F05-OS1.5",
+    "F30-OS3.7",
+    "F36-OS3.7",
+    "F30-OS3.1",
+    "F31-OS3.2",
+    "F36-OS3.6",
+    "F03-OP1.2",
+    "F02-OS1.2",
+    "F03-OS1.2",
+    "F02-OP1.2",
+    "F11-OS1.5",
+    "F13-OS1.5",
+    "F13-OS1.2",
+    "F13-OP1.2",
+    "F06-OS1.2",
+    "F06-OP1.2",
+    "F05-OS1.2",
+    "F06-OS1.5",
+    "F03-OS1.5",
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F02-OS1.5",
+    "F81-OS1.2",
+    "F81-OS1.5",
+    "F82-OS1.2",
+    "F82-OS1.5",
+    "F81-OP1.2",
+    "F82-OP1.2",
+    "F01-OS1.1",
+    "F01-OS1.2",
+    "F02-OS1.1",
+    "F03-OS1.1",
+    "F01-OP1.1",
+    "F01-OP1.2",
+    "F02-OP1.1",
+    "F03-OP1.1",
+    "F43-OS3.4",
+    "F43-OS3.7"
+   ],
+   "objectives": [
+    "OP1.1",
+    "OP1.2",
+    "OS1.1",
+    "OS1.2",
+    "OS1.5",
+    "OS3.1",
+    "OS3.2",
+    "OS3.4",
+    "OS3.6",
+    "OS3.7"
+   ],
+   "functions": [
+    "F01",
+    "F02",
+    "F03",
+    "F05",
+    "F06",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F30",
+    "F31",
+    "F36",
+    "F43",
+    "F81",
+    "F82"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.3.1.3 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.3.4.4",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Egress from Dwelling Units",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 263
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F05-OS3.7",
+    "F05-OS1.2",
+    "F05-OS1.5"
+   ],
+   "objectives": [
+    "OS1.2",
+    "OS1.5",
+    "OS3.7"
+   ],
+   "functions": [
+    "F05",
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.3.4.4 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.3.1.5",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Egress Doorways",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 246
+   },
+   "attribution_codes": [
+    "F10-OS1.5",
+    "F05-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F05",
+    "F10"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.1.2",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Separation of Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 268
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F05-OS3.7",
+    "F06-OS3.7",
+    "F12-OP1.2",
+    "F06-OP1.2",
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F06-OS1.5",
+    "F06-OS1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5",
+    "OS3.7"
+   ],
+   "functions": [
+    "F05",
+    "F06",
+    "F10",
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.2.3",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Distance between Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 271
+   },
+   "attribution_codes": [
+    "F10-OS1.5",
+    "F05-OS1.5",
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS1.5",
+    "OS3.7"
+   ],
+   "functions": [
+    "F05",
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.2.3 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.9.9.2",
+   "group": "number_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Egress/number-of-exits provision that interacts with Sentence 3.4.2.1.(2) (single-exit allowance) in the NBC(AE) text; Guide 11 p.8: single stair must perform equal to or better than two egress stairs.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Two Separate Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 872
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.2.4",
+   "group": "exit_location_travel",
+   "basis": "nbc_text",
+   "why_relevant": "Exit location / travel distance provision; travel distance and area limits are the conditions attached to the single-exit allowance in Table 3.4.2.1.-A/-B.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Travel Distance",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 271
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.2.4 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.2.5",
+   "group": "exit_location_travel",
+   "basis": "nbc_text",
+   "why_relevant": "Exit location / travel distance provision; travel distance and area limits are the conditions attached to the single-exit allowance in Table 3.4.2.1.-A/-B.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Location of Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 271
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.2.5 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.3.1.6",
+   "group": "exit_location_travel",
+   "basis": "nbc_text",
+   "why_relevant": "Exit location / travel distance provision; travel distance and area limits are the conditions attached to the single-exit allowance in Table 3.4.2.1.-A/-B.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Travel Distance",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 248
+   },
+   "attribution_codes": [
+    "F10-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.9.8.4",
+   "group": "exit_location_travel",
+   "basis": "nbc_text",
+   "why_relevant": "Exit location / travel distance provision; travel distance and area limits are the conditions attached to the single-exit allowance in Table 3.4.2.1.-A/-B.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Location of Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 871
+   },
+   "attribution_codes": [
+    "F10-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.9.9.1",
+   "group": "exit_location_travel",
+   "basis": "nbc_text",
+   "why_relevant": "Exit location / travel distance provision; travel distance and area limits are the conditions attached to the single-exit allowance in Table 3.4.2.1.-A/-B.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Travel Limit to Exits or Egress Doors",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 872
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.4.1",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Fire-Resistance Rating of Exit Separations",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 274
+   },
+   "attribution_codes": [
+    "F05-OS1.5",
+    "F06-OS1.5",
+    "F06-OS1.2",
+    "F03-OS1.2",
+    "F06-OP1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F03",
+    "F05",
+    "F06"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.4.1 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.4.2",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Exits through Lobbies",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 274
+   },
+   "attribution_codes": [
+    "F05-OS1.5",
+    "F06-OS1.5",
+    "F12-OS1.5",
+    "F10-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F05",
+    "F06",
+    "F10",
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.4.4",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Integrity of Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 275
+   },
+   "attribution_codes": [
+    "F05-OS1.5",
+    "F06-OS1.5",
+    "F06-OS1.2",
+    "F03-OS1.2",
+    "F06-OP1.2",
+    "F03-OP1.2",
+    "F43-OS3.7",
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F30-OS3.1",
+    "F31-OS3.2",
+    "F32-OS3.3",
+    "F43-OS3.4",
+    "F10-OS1.5",
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5",
+    "OS3.1",
+    "OS3.2",
+    "OS3.3",
+    "OS3.4",
+    "OS3.7"
+   ],
+   "functions": [
+    "F03",
+    "F05",
+    "F06",
+    "F10",
+    "F12",
+    "F30",
+    "F31",
+    "F32",
+    "F43"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.3.1",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Exit Width Based on Occupant Load",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 272
+   },
+   "attribution_codes": [
+    "F10-OS3.7"
+   ],
+   "objectives": [
+    "OS3.7"
+   ],
+   "functions": [
+    "F10"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.3.1 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.3.2",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Exit Width",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 272
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F30-OS3.1",
+    "F12-OP1.2",
+    "F12-OS1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS3.1",
+    "OS3.7"
+   ],
+   "functions": [
+    "F10",
+    "F12",
+    "F30"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    4,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.3.2 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.6.3",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Maximum Vertical Rise of Stair Flights and Required Landings",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 277
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F30-OS3.1",
+    "F12-OS3.7"
+   ],
+   "objectives": [
+    "OS3.1",
+    "OS3.7"
+   ],
+   "functions": [
+    "F10",
+    "F12",
+    "F30"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.6.4",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Dimensions of Landings",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 277
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F30-OS3.1",
+    "F12-OP1.2",
+    "F12-OS1.2",
+    "F12-OS1.5"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5",
+    "OS3.1",
+    "OS3.7"
+   ],
+   "functions": [
+    "F10",
+    "F12",
+    "F30"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.6.4 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.6.5",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Handrails",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 277
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F30-OS3.1",
+    "F73-OA1",
+    "F06-OP1.2",
+    "F43-OS3.7",
+    "F05-OS1.5",
+    "F06-OS1.5",
+    "F06-OS1.2",
+    "F81-OS3.7",
+    "F12-OS3.7",
+    "F12-OP1.2",
+    "F12-OS1.2",
+    "F12-OS1.5"
+   ],
+   "objectives": [
+    "OA1",
+    "OP1.2",
+    "OS1.2",
+    "OS1.5",
+    "OS3.1",
+    "OS3.7"
+   ],
+   "functions": [
+    "F05",
+    "F06",
+    "F10",
+    "F12",
+    "F30",
+    "F43",
+    "F73",
+    "F81"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    6,
+    8,
+    14
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.4.6.5 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.4.6.8",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Treads and Risers",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 279
+   },
+   "attribution_codes": [
+    "F10-OS3.7",
+    "F30-OS3.1",
+    "F73-OA1"
+   ],
+   "objectives": [
+    "OA1",
+    "OS3.1",
+    "OS3.7"
+   ],
+   "functions": [
+    "F10",
+    "F30",
+    "F73"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.9.4.2",
+   "group": "exit_stair_construction",
+   "basis": "nbc_text",
+   "why_relevant": "Exit stair / exit separation construction provision (fire-resistance of exit separation, integrity, width, stair geometry). Guide 11 p.5: stair failure modes relate to compartmentation and smoke management.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Fire Separations for Exits",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 864
+   },
+   "attribution_codes": [
+    "F05-OS1.5",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F03",
+    "F05"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 9.9.4.2 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.1.8.5",
+   "group": "fire_separations_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Closure / self-closing / hold-open provision for doors in fire separations around the exit stair (compartmentation, Guide 11 p.5).",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Installation of Closures",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 153
+   },
+   "attribution_codes": [
+    "F03-OS1.2",
+    "F03-OP1.2",
+    "F81-OS1.2",
+    "F81-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2"
+   ],
+   "functions": [
+    "F03",
+    "F81"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    8
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.1.8.5 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.1.8.13",
+   "group": "fire_separations_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Closure / self-closing / hold-open provision for doors in fire separations around the exit stair (compartmentation, Guide 11 p.5).",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Self-closing Devices",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 156
+   },
+   "attribution_codes": [
+    "F03-OS1.2",
+    "F03-OP1.2",
+    "F04-OS1.2",
+    "F04-OP1.2",
+    "F82-OS1.2",
+    "F82-OP1.2",
+    "F82-OH1.2"
+   ],
+   "objectives": [
+    "OH1.2",
+    "OP1.2",
+    "OS1.2"
+   ],
+   "functions": [
+    "F03",
+    "F04",
+    "F82"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.1.8.13 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.1.8.14",
+   "group": "fire_separations_of_exits",
+   "basis": "nbc_text",
+   "why_relevant": "Closure / self-closing / hold-open provision for doors in fire separations around the exit stair (compartmentation, Guide 11 p.5).",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Hold-Open Devices",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 157
+   },
+   "attribution_codes": [
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2"
+   ],
+   "functions": [
+    "F03"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    6
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.1.8.14 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.4.1",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Determination of Requirement for a Fire Alarm System",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 218
+   },
+   "attribution_codes": [
+    "F11-OS1.5",
+    "F13-OS1.5",
+    "F13-OS1.2",
+    "F13-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F11",
+    "F13"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.4.1 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.4.7",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Signals to Fire Department",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 220
+   },
+   "attribution_codes": [
+    "F13-OS1.5",
+    "F13-OS1.2",
+    "F13-OP1.2",
+    "F81-OS1.5",
+    "F81-OS1.2",
+    "F81-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F13",
+    "F81"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.4.11",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Smoke Detectors",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 222
+   },
+   "attribution_codes": [
+    "F11-OS1.5",
+    "F12-OS1.5",
+    "F10-OS1.5",
+    "F11-OS1.4"
+   ],
+   "objectives": [
+    "OS1.4",
+    "OS1.5"
+   ],
+   "functions": [
+    "F10",
+    "F11",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    6
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.4.11 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.4.20",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Smoke Alarms",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 225
+   },
+   "attribution_codes": [
+    "F81-OS1.5",
+    "F11-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F11",
+    "F81"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    11,
+    15
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.4.20 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.6.1",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Application",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 236
+   },
+   "attribution_codes": [],
+   "objectives": [],
+   "functions": [],
+   "root_used": null,
+   "attribution_status": "unresolved",
+   "root_rule_note": "No attributions in this Part's attribution table for this article; no root article statements can be determined from the data. Do not assume.",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.6.2",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Limits to Smoke Movement",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 236
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.5",
+    "F02-OP1.2",
+    "F06-OS1.2",
+    "F06-OS1.5",
+    "F05-OS1.5",
+    "F06-OP1.2",
+    "F03-OS1.2",
+    "F03-OS1.5",
+    "F03-OP1.2",
+    "F12-OS1.2",
+    "F12-OS1.5",
+    "F12-OP1.2",
+    "F81-OP1.2",
+    "F11-OS1.5",
+    "F06-OS1.1",
+    "F81-OS1.2",
+    "F81-OS1.4",
+    "F81-OP1.4"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.4",
+    "OS1.1",
+    "OS1.2",
+    "OS1.4",
+    "OS1.5"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F05",
+    "F06",
+    "F11",
+    "F12",
+    "F81"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.10.18.2",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Fire Alarm System Required",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 907
+   },
+   "attribution_codes": [
+    "F11-OS1.5",
+    "F13-OS1.2",
+    "F13-OS1.5",
+    "F03-OS1.2",
+    "F13-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F03",
+    "F11",
+    "F13"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3,
+    4,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 9.10.18.2 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.10.19.1",
+   "group": "smoke_control_alarm",
+   "basis": "guide",
+   "why_relevant": "Fire alarm / smoke alarm / smoke movement provision. Guide 11 p.5 identifies smoke management as a main component of stair failure and mitigation; Guide 10 p.8 notes automatic smoke control may impact fire department procedures.",
+   "why_source": [
+    {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Required Smoke Alarms",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 909
+   },
+   "attribution_codes": [
+    "F81-OS1.5",
+    "F11-OS1.5"
+   ],
+   "objectives": [
+    "OS1.5"
+   ],
+   "functions": [
+    "F11",
+    "F81"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.12",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Automatic Sprinkler Systems",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 233
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F81-OS1.2",
+    "F82-OS1.2",
+    "F02-OP1.2",
+    "F81-OP1.2",
+    "F82-OP1.2",
+    "F03-OS1.2",
+    "F03-OP1.2",
+    "F03-OP3.1",
+    "F81-OS3.3",
+    "F81-OS3.6",
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F06-OP1.2",
+    "F10-OS1.5",
+    "F01-OS1.1"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP3.1",
+    "OS1.1",
+    "OS1.2",
+    "OS1.5",
+    "OS3.3",
+    "OS3.6"
+   ],
+   "functions": [
+    "F01",
+    "F02",
+    "F03",
+    "F06",
+    "F10",
+    "F12",
+    "F81",
+    "F82"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    9,
+    12
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.12 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.47",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, Any Height, Any Area, Sprinklered",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 187
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OP1.2",
+    "F02-OS1.3",
+    "F04-OS1.2",
+    "F04-OS1.3",
+    "F02-OP1.3",
+    "F04-OP1.2",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.47 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.48",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, up to 12 Storeys, Sprinklered",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 188
+   },
+   "attribution_codes": [
+    "F04-OS1.3",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F04-OS1.2",
+    "F03-OP1.2",
+    "F04-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    1,
+    3,
+    4
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.48 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.49",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, up to 6 Storeys, Sprinklered, Noncombustible Construction",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 188
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.3",
+    "F04-OS1.2",
+    "F04-OS1.3",
+    "F02-OP1.2",
+    "F02-OP1.3",
+    "F04-OP1.2",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.49 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.51",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, up to 6 Storeys, Sprinklered",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 189
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.3",
+    "F04-OS1.2",
+    "F04-OS1.3",
+    "F02-OP1.2",
+    "F02-OP1.3",
+    "F04-OP1.2",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3,
+    4,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.51 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.52",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, up to 4 Storeys, Sprinklered",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 189
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.3",
+    "F04-OS1.2",
+    "F04-OS1.3",
+    "F02-OP1.2",
+    "F02-OP1.3",
+    "F04-OP1.2",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3,
+    4
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.52 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.2.55",
+   "group": "sprinklers",
+   "basis": "nbc_text",
+   "why_relevant": "Sprinkler requirement / Group C (residential) building-size and construction provision relevant to the limits of the single-exit allowance and any sprinkler mitigation. Guide 10 p.12 lists sprinkler systems among prescribed firefighting provisions.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Group C, up to 3 Storeys, Sprinklered",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 190
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.3",
+    "F04-OS1.2",
+    "F04-OS1.3",
+    "F02-OP1.2",
+    "F02-OP1.3",
+    "F04-OP1.2",
+    "F04-OP1.3",
+    "F03-OS1.2",
+    "F03-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP1.3",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F04"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3,
+    4
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.2.55 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.1",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Access to Above-Grade Storeys",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 228
+   },
+   "attribution_codes": [
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.2",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Access to Basements",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 228
+   },
+   "attribution_codes": [
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.3",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Roof Access",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 228
+   },
+   "attribution_codes": [
+    "F12-OS1.2",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2"
+   ],
+   "functions": [
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.4",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Access Routes",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 228
+   },
+   "attribution_codes": [
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.5",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Location of Access Routes",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 229
+   },
+   "attribution_codes": [
+    "F12-OS1.5",
+    "F12-OS1.2",
+    "F06-OS1.1",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.1",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F06",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.5 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.6",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.8 Q1 and p.11: Division B Subsection 3.2.5 (Provisions for Firefighting) access requirements; any variance of them must be communicated for emergency-services review (F06/F12/F13 trigger).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 11
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Access Route Design",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 229
+   },
+   "attribution_codes": [
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F02-OS1.2",
+    "F02-OP1.2",
+    "F03-OP1.2",
+    "F02-OP3.1",
+    "F12-OP3.1",
+    "F03-OP3.1"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP3.1",
+    "OS1.2"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.7",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: 'Water supply for firefighting is prescribed by the NBC(AE) in Article 3.2.5.7.'",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Water Supply",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 229
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OS1.3",
+    "F03-OS1.2",
+    "F03-OS1.3",
+    "F12-OS1.2",
+    "F12-OS1.3",
+    "F02-OP1.2",
+    "F03-OP1.2",
+    "F12-OP1.2",
+    "F02-OP3.1",
+    "F03-OP3.1",
+    "F12-OP3.1"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP3.1",
+    "OS1.2",
+    "OS1.3"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3,
+    4,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.7 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.8",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Standpipe Systems",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 231
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2"
+   ],
+   "functions": [
+    "F02"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.8 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.9",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Standpipe System Design",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 231
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OP1.2",
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F12-OS1.5",
+    "F06-OS1.1",
+    "F03-OP1.2",
+    "F02-OP3.1",
+    "F12-OP3.1",
+    "F03-OP3.1",
+    "F02-OS1.3",
+    "F03-OS1.2",
+    "F03-OS1.3",
+    "F12-OS1.3"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OP3.1",
+    "OS1.1",
+    "OS1.2",
+    "OS1.3",
+    "OS1.5"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F06",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    3
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.9 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.10",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Hose Connections",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 232
+   },
+   "attribution_codes": [
+    "F03-OS1.2",
+    "F05-OS1.5",
+    "F05-OS1.2",
+    "F06-OS1.5",
+    "F06-OS1.2",
+    "F03-OP1.2",
+    "F06-OP1.2",
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F02-OS1.2",
+    "F02-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F02",
+    "F03",
+    "F05",
+    "F06",
+    "F12"
+   ],
+   "root_used": null,
+   "sentences_without_own_attribution": [
+    2,
+    5
+   ],
+   "root_rule_note": "Sentences listed have no attribution row of their own; per the root-article rule the statements of root article 3.2.5.10 apply (union shown in attribution_codes).",
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.11",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Hose Stations",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 232
+   },
+   "attribution_codes": [
+    "F02-OS1.2",
+    "F02-OP1.2",
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F03-OS1.2",
+    "F03-OP1.2",
+    "F10-OS1.5",
+    "F01-OS1.1"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.1",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F01",
+    "F02",
+    "F03",
+    "F10",
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "3.2.5.15",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Fire Department Connections",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 235
+   },
+   "attribution_codes": [
+    "F12-OS1.2",
+    "F12-OP1.2",
+    "F12-OS1.5",
+    "F06-OS1.1"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.1",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F06",
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "9.10.20.3",
+   "group": "firefighting_access",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.12: fire department connections, standpipes, hose connections and hose stations are prescribed by the NBC(AE); a variance must be assessed for impact on responders.",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 12
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Fire Department Access to Buildings",
+   "division": "B",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 911
+   },
+   "attribution_codes": [
+    "F12-OS1.2",
+    "F12-OS1.5",
+    "F12-OP1.2"
+   ],
+   "objectives": [
+    "OP1.2",
+    "OS1.2",
+    "OS1.5"
+   ],
+   "functions": [
+    "F12"
+   ],
+   "root_used": null,
+   "attribution_status": "attributed",
+   "intent_exists": true
+  },
+  {
+   "article": "A:1.2.1.1",
+   "group": "alternative_solution_process",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.5: 'As detailed in NBC(AE) Division C, Article 2.3.1.1., documentation provided as part of an alternative solution must include' a code analysis; compliance path for alternative solutions is Division A Clause 1.2.1.1.(1)(b).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Compliance with this Code",
+   "division": "A",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 38
+   },
+   "attribution_codes": [],
+   "objectives": [],
+   "functions": [],
+   "root_used": null,
+   "attribution_status": "unresolved",
+   "root_rule_note": "No attributions in this Part's attribution table for this article; no root article statements can be determined from the data. Do not assume.",
+   "intent_exists": false
+  },
+  {
+   "article": "C:2.3.1.1",
+   "group": "alternative_solution_process",
+   "basis": "guide",
+   "why_relevant": "Guide 10 p.5: 'As detailed in NBC(AE) Division C, Article 2.3.1.1., documentation provided as part of an alternative solution must include' a code analysis; compliance path for alternative solutions is Division A Clause 1.2.1.1.(1)(b).",
+   "why_source": [
+    {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 5
+    }
+   ],
+   "exists_in_nbc_2023ae": true,
+   "title": "Documentation",
+   "division": "C",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "attribution_codes": [],
+   "objectives": [],
+   "functions": [],
+   "root_used": null,
+   "attribution_status": "unresolved",
+   "root_rule_note": "No attributions in this Part's attribution table for this article; no root article statements can be determined from the data. Do not assume.",
+   "intent_exists": false
+  }
+ ]
+}

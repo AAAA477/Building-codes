@@ -1,0 +1,1442 @@
+{
+ "pages": 5,
+ "page_size": [
+  [
+   0.0,
+   0.0,
+   612.0,
+   792.0
+  ],
+  [
+   0.0,
+   0.0,
+   612.0,
+   792.0
+  ],
+  [
+   0.0,
+   0.0,
+   612.0,
+   792.0
+  ],
+  [
+   0.0,
+   0.0,
+   612.0,
+   792.0
+  ],
+  [
+   0.0,
+   0.0,
+   612.0,
+   792.0
+  ]
+ ],
+ "metadata": {
+  "format": "PDF 1.7",
+  "title": "",
+  "author": "Marielle Dela Cruz",
+  "subject": "",
+  "keywords": "",
+  "creator": "Microsoft Word",
+  "producer": "Adobe Acrobat (64-bit) 26.1.21662",
+  "creationDate": "D:20260702134441-06'00'",
+  "modDate": "D:20261006143805-06'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "widgets": [
+  {
+   "page": 0,
+   "name": "Owner",
+   "type": "Text",
+   "rect": [
+    112.7,
+    295.9,
+    571.0,
+    310.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Owner Rep",
+   "type": "Text",
+   "rect": [
+    153.7,
+    314.2,
+    570.8,
+    329.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Mailing Address",
+   "type": "Text",
+   "rect": [
+    119.5,
+    332.5,
+    570.9,
+    362.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Date of Reqeuest",
+   "type": "Text",
+   "rect": [
+    118.9,
+    365.7,
+    571.0,
+    381.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Check Box",
+   "type": "CheckBox",
+   "rect": [
+    39.9,
+    405.6,
+    53.9,
+    419.3
+   ],
+   "value": "",
+   "on_state": "Yes",
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Permit",
+   "type": "Text",
+   "rect": [
+    173.2,
+    424.0,
+    571.8,
+    439.0
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Municipal Address",
+   "type": "Text",
+   "rect": [
+    127.1,
+    461.0,
+    571.9,
+    490.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Lot",
+   "type": "Text",
+   "rect": [
+    165.7,
+    493.8,
+    335.0,
+    508.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Block",
+   "type": "Text",
+   "rect": [
+    372.2,
+    493.8,
+    571.5,
+    508.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Plan",
+   "type": "Text",
+   "rect": [
+    169.4,
+    512.5,
+    335.2,
+    527.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "SEC",
+   "type": "Text",
+   "rect": [
+    171.3,
+    530.9,
+    334.9,
+    545.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "RGE",
+   "type": "Text",
+   "rect": [
+    171.6,
+    549.6,
+    334.6,
+    564.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "QTR",
+   "type": "Text",
+   "rect": [
+    367.3,
+    512.5,
+    571.3,
+    527.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "TWP",
+   "type": "Text",
+   "rect": [
+    367.8,
+    530.9,
+    571.3,
+    545.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "MER",
+   "type": "Text",
+   "rect": [
+    367.8,
+    549.2,
+    571.3,
+    564.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Code or Standard",
+   "type": "Text",
+   "rect": [
+    173.3,
+    602.0,
+    571.5,
+    617.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Article(s)",
+   "type": "Text",
+   "rect": [
+    39.2,
+    660.1,
+    139.1,
+    676.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Logo Popup",
+   "type": "Text",
+   "rect": [
+    126.8,
+    120.5,
+    257.7,
+    157.2
+   ],
+   "value": "The logo may be replaced by that of the Authority Having Jurisdiction (AHJ), where applicable.",
+   "on_state": null,
+   "flags": 4097,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Logo",
+   "type": "Button",
+   "rect": [
+    126.8,
+    105.0,
+    138.7,
+    116.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 65536,
+   "fontsize": 0.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "ATS Popup",
+   "type": "Text",
+   "rect": [
+    125.2,
+    508.1,
+    250.4,
+    554.6
+   ],
+   "value": "Provide the full legal description of the property to clearly identify the location where the variance will apply.",
+   "on_state": null,
+   "flags": 4097,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "ATS",
+   "type": "Button",
+   "rect": [
+    125.3,
+    494.4,
+    138.4,
+    506.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 65536,
+   "fontsize": 8.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Section C Button",
+   "type": "Button",
+   "rect": [
+    243.8,
+    584.9,
+    256.4,
+    596.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 65536,
+   "fontsize": 8.0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Objective",
+   "type": "Text",
+   "rect": [
+    142.8,
+    660.4,
+    235.7,
+    676.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Function",
+   "type": "Text",
+   "rect": [
+    239.8,
+    660.4,
+    335.0,
+    676.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Intent statement",
+   "type": "Text",
+   "rect": [
+    337.8,
+    659.9,
+    571.2,
+    718.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 0,
+   "name": "Section C Popup",
+   "type": "Text",
+   "rect": [
+    243.7,
+    599.7,
+    485.6,
+    714.3
+   ],
+   "value": "Intent, objective, and functional statements are part of the objective-based format of the National Model Codes. Objectives define the overall goals of the Code (e.g., safety, health, fire protection), while functional statements describe the required performance or role of building elements to achieve those objectives. Intent statements provide explanatory guidance on the reasoning behind specific Code provisions and how they contribute to achieving the associated objectives and functional statements. These resources can be found in Division A of the applicable Code or in the National Research Council (NRC) Intent Statements Supplement available online.",
+   "on_state": null,
+   "flags": 4097,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Article(s)1",
+   "type": "Text",
+   "rect": [
+    39.2,
+    39.1,
+    139.1,
+    55.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Objective1",
+   "type": "Text",
+   "rect": [
+    143.3,
+    39.4,
+    235.2,
+    55.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Function1",
+   "type": "Text",
+   "rect": [
+    239.8,
+    39.4,
+    335.0,
+    55.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Intent statement1",
+   "type": "Text",
+   "rect": [
+    337.8,
+    38.8,
+    571.2,
+    98.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Article(s)2",
+   "type": "Text",
+   "rect": [
+    39.6,
+    101.1,
+    139.4,
+    117.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Objective2",
+   "type": "Text",
+   "rect": [
+    143.3,
+    101.4,
+    235.2,
+    117.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Function2",
+   "type": "Text",
+   "rect": [
+    239.8,
+    101.4,
+    335.0,
+    117.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Intent statement2",
+   "type": "Text",
+   "rect": [
+    337.6,
+    101.4,
+    571.0,
+    160.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Article(s)3",
+   "type": "Text",
+   "rect": [
+    39.3,
+    163.0,
+    139.1,
+    179.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Objective3",
+   "type": "Text",
+   "rect": [
+    143.3,
+    163.4,
+    235.2,
+    179.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Function3",
+   "type": "Text",
+   "rect": [
+    239.8,
+    163.4,
+    335.0,
+    179.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Intent statement3",
+   "type": "Text",
+   "rect": [
+    337.9,
+    162.8,
+    571.3,
+    221.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Article(s)4",
+   "type": "Text",
+   "rect": [
+    39.0,
+    225.6,
+    138.9,
+    241.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Objective4",
+   "type": "Text",
+   "rect": [
+    143.3,
+    225.9,
+    235.2,
+    241.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Function4",
+   "type": "Text",
+   "rect": [
+    239.8,
+    225.9,
+    335.0,
+    241.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Intent statement4",
+   "type": "Text",
+   "rect": [
+    337.6,
+    225.3,
+    571.0,
+    284.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supporting Doc",
+   "type": "Text",
+   "rect": [
+    38.8,
+    326.6,
+    236.2,
+    342.0
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Name Responsible",
+   "type": "Text",
+   "rect": [
+    238.7,
+    326.3,
+    571.6,
+    342.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supp Doc Button",
+   "type": "Button",
+   "rect": [
+    263.4,
+    290.1,
+    276.5,
+    302.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 65536,
+   "fontsize": 8.0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Date1",
+   "type": "Text",
+   "rect": [
+    342.7,
+    533.7,
+    567.3,
+    551.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Date2",
+   "type": "Text",
+   "rect": [
+    343.1,
+    599.2,
+    567.7,
+    617.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supporting Doc2",
+   "type": "Text",
+   "rect": [
+    39.0,
+    345.3,
+    236.4,
+    360.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supporting Doc3",
+   "type": "Text",
+   "rect": [
+    39.0,
+    363.6,
+    236.4,
+    379.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supporting Doc4",
+   "type": "Text",
+   "rect": [
+    38.8,
+    382.2,
+    236.2,
+    397.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supporting Doc5",
+   "type": "Text",
+   "rect": [
+    39.1,
+    400.4,
+    236.5,
+    415.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Name Responsible2",
+   "type": "Text",
+   "rect": [
+    238.7,
+    344.4,
+    571.6,
+    360.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Name Responsible3",
+   "type": "Text",
+   "rect": [
+    238.7,
+    363.6,
+    571.6,
+    379.9
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Name Responsible4",
+   "type": "Text",
+   "rect": [
+    238.6,
+    381.8,
+    571.5,
+    398.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Name Responsible5",
+   "type": "Text",
+   "rect": [
+    238.9,
+    400.0,
+    571.7,
+    416.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Signature1",
+   "type": "Signature",
+   "rect": [
+    39.3,
+    526.3,
+    335.1,
+    558.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Signature2",
+   "type": "Signature",
+   "rect": [
+    38.4,
+    590.4,
+    335.6,
+    622.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Owner Print",
+   "type": "Text",
+   "rect": [
+    171.5,
+    560.7,
+    571.6,
+    574.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 12.0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Owner Rep Print",
+   "type": "Text",
+   "rect": [
+    254.0,
+    624.4,
+    571.6,
+    638.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 12.0,
+   "maxlen": 0
+  },
+  {
+   "page": 1,
+   "name": "Supp Doc Popup",
+   "type": "Text",
+   "rect": [
+    279.9,
+    290.6,
+    502.5,
+    403.7
+   ],
+   "value": "Supporting documentation must meet the requirements of NBC(AE), Division C, Article 2.3 and include sufficient detail to support a Code compliance assessment. This includes identification of applicable acceptable solutions, assumptions, limiting factors, testing procedures, engineering analyses or performance parameters, as well as any special maintenance, operational, or commissioning requirements necessary to achieve ongoing compliance. The documentation must clearly convey the design intent and support the validity, accuracy, relevance, and precision of the Code analysis.",
+   "on_state": null,
+   "flags": 4097,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Date Review",
+   "type": "Text",
+   "rect": [
+    112.3,
+    107.2,
+    572.8,
+    122.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Jurisdiction",
+   "type": "Text",
+   "rect": [
+    39.7,
+    139.1,
+    572.8,
+    155.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Agency",
+   "type": "Text",
+   "rect": [
+    39.4,
+    172.6,
+    572.6,
+    188.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "SCO",
+   "type": "Text",
+   "rect": [
+    39.4,
+    223.1,
+    304.2,
+    243.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Discipline",
+   "type": "Text",
+   "rect": [
+    359.6,
+    191.4,
+    572.8,
+    206.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Certification",
+   "type": "Text",
+   "rect": [
+    405.9,
+    209.9,
+    572.8,
+    225.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Designation",
+   "type": "Text",
+   "rect": [
+    405.8,
+    228.7,
+    572.7,
+    244.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Must be Met",
+   "type": "Text",
+   "rect": [
+    39.7,
+    323.8,
+    572.8,
+    672.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 10.0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "SCO Date",
+   "type": "Text",
+   "rect": [
+    308.8,
+    688.8,
+    571.8,
+    720.0
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 12.0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Check Box6",
+   "type": "CheckBox",
+   "rect": [
+    40.6,
+    269.4,
+    52.0,
+    280.8
+   ],
+   "value": "",
+   "on_state": "Yes",
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 2,
+   "name": "Signature6",
+   "type": "Signature",
+   "rect": [
+    38.6,
+    689.9,
+    304.4,
+    719.3
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Date Review1",
+   "type": "Text",
+   "rect": [
+    112.3,
+    107.2,
+    572.8,
+    122.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Jurisdiction1",
+   "type": "Text",
+   "rect": [
+    39.7,
+    139.7,
+    572.8,
+    155.1
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Agency1",
+   "type": "Text",
+   "rect": [
+    39.4,
+    172.3,
+    572.6,
+    188.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "SCO1",
+   "type": "Text",
+   "rect": [
+    39.4,
+    223.1,
+    304.2,
+    243.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Discipline1",
+   "type": "Text",
+   "rect": [
+    359.6,
+    191.4,
+    572.8,
+    206.8
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Certification1",
+   "type": "Text",
+   "rect": [
+    405.9,
+    209.9,
+    572.8,
+    225.4
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Designation1",
+   "type": "Text",
+   "rect": [
+    405.8,
+    228.7,
+    572.7,
+    244.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Reasons for Refusal",
+   "type": "Text",
+   "rect": [
+    39.7,
+    401.4,
+    572.8,
+    649.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 4096,
+   "fontsize": 10.0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "SCO Date1",
+   "type": "Text",
+   "rect": [
+    308.8,
+    665.4,
+    571.8,
+    696.6
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 12.0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "B1",
+   "type": "CheckBox",
+   "rect": [
+    43.6,
+    299.8,
+    55.1,
+    311.2
+   ],
+   "value": "",
+   "on_state": "Yes",
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "B2",
+   "type": "CheckBox",
+   "rect": [
+    43.4,
+    319.4,
+    54.8,
+    330.9
+   ],
+   "value": "",
+   "on_state": "Yes",
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "B3",
+   "type": "CheckBox",
+   "rect": [
+    43.4,
+    360.6,
+    54.8,
+    372.1
+   ],
+   "value": "",
+   "on_state": "Yes",
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "date_refusal",
+   "type": "Text",
+   "rect": [
+    290.0,
+    701.1,
+    377.7,
+    715.5
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Type of Format",
+   "type": "Text",
+   "rect": [
+    447.8,
+    700.8,
+    571.5,
+    715.2
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 3,
+   "name": "Signature9",
+   "type": "Signature",
+   "rect": [
+    39.3,
+    665.7,
+    304.5,
+    697.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 0,
+   "fontsize": 0,
+   "maxlen": 0
+  },
+  {
+   "page": 4,
+   "name": "Appeals Info",
+   "type": "Button",
+   "rect": [
+    533.0,
+    42.8,
+    575.8,
+    54.7
+   ],
+   "value": "",
+   "on_state": null,
+   "flags": 65536,
+   "fontsize": 6.0,
+   "maxlen": 0
+  }
+ ]
+}

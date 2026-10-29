@@ -1,0 +1,399 @@
+{
+ "id": "single_exit_stair",
+ "title": "Single exit stair (Point Access Block)",
+ "jurisdiction_overlay": "edmonton",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "scope": {
+  "in_scope": [
+   {
+    "text": "Residential buildings of 6 storeys or less with not more than 4 units per floor served by a single egress stair.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 2
+    }
+   },
+   {
+    "text": "Alternative Solution varying the number of exits required in a building, or any other aspect that does not adhere to the acceptable solutions.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   },
+   {
+    "text": "Part 3 or Part 9 buildings: professional involvement is expected 'whether they fall under Part 9 or Part 3 of the building code relative to scale and occupancy'.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 2
+    }
+   }
+  ],
+  "out_of_scope": [
+   {
+    "text": "Non-residential occupancies, buildings over 6 storeys, or more than 4 units per floor: outside the stated scope of the Edmonton guide. Show the general checklist and recommend a pre-application meeting; no Edmonton PAB-specific guidance is available.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 2
+    },
+    "status": "derived from the guide's stated scope; the guide does not itself say these are prohibited"
+   },
+   {
+    "text": "The guide's analysis is an example and contemplates only this specific variance.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 4
+    }
+   },
+   {
+    "text": "'High Buildings' (NBC(AE) Division B Subsection 3.2.6.) are outside the scope of the Edmonton emergency-services guideline; contact its authors.",
+    "source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 4
+    }
+   }
+  ],
+  "existing_variance_check": {
+   "text": "Provincial interpretation STANDATA 23-BCI-026/23-FCI-014 (October 2026) confirms an AHJ may accept a residential single-egress-stair building via an alternative solution when the documentation conforms to Division C Section 2.3 and the design provides approximately equivalent or greater safety performance in the areas defined by the objectives and functional statements of the applicable acceptable solutions. No STANDATA variance granting a blanket single-stair permission was found in files/standata.",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 7
+   },
+   "standata_number": "23-BCI-026/23-FCI-014"
+  },
+  "pre_application_meeting": {
+   "text": "Recommended before submission; includes a Development Planner and Safety Codes officers.",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 7
+   }
+  }
+ },
+ "topic_questions": [
+  {
+   "id": "st1",
+   "prompt": "How many storeys is the building?",
+   "help": "Count floors above ground. The Edmonton guide covers 6 storeys or less.",
+   "field_path": "project.storeys",
+   "type": "number",
+   "required": true,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 2
+   },
+   "scope_check": "<=6"
+  },
+  {
+   "id": "st2",
+   "prompt": "How many dwelling units are on each floor served by the stair?",
+   "help": "The Edmonton guide covers not more than 4 units per floor.",
+   "field_path": "project.units_per_floor",
+   "type": "number",
+   "required": true,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 2
+   },
+   "scope_check": "<=4"
+  },
+  {
+   "id": "st3",
+   "prompt": "Is the building sprinklered throughout?",
+   "help": "Sprinklered status changes which exception, if any, of Article 3.4.2.1. could apply and is a basic fact the professional needs.",
+   "field_path": "project.sprinklered",
+   "type": "bool",
+   "required": true,
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 269
+   }
+  },
+  {
+   "id": "st4",
+   "prompt": "What is the longest travel distance from a dwelling unit door to the exit stair, if known?",
+   "help": "Measured along the path you would walk. Leave blank if the designer has not measured it yet; the professional must supply it. The tool does not calculate or judge it.",
+   "field_path": "variance.stair.travel_distance_m",
+   "type": "number",
+   "required": false,
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 271
+   },
+   "note": "Travel distance is addressed by 3.4.2.4. (p.271)"
+  },
+  {
+   "id": "st5",
+   "prompt": "Describe how the stair is enclosed and separated from the rest of the building.",
+   "help": "For example the type of walls, doors and openings around the stair. Say what the plans show; do not claim it is adequate.",
+   "field_path": "variance.stair.enclosure_description",
+   "type": "text",
+   "required": false,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 5
+   },
+   "note": "Compartmentation is a main component identified in the guide's example assessment."
+  },
+  {
+   "id": "st6",
+   "prompt": "Describe any smoke control or smoke management provided for the stair.",
+   "help": "For example mechanical or passive measures to keep smoke out of the stair. If none, say none.",
+   "field_path": "variance.stair.smoke_management_description",
+   "type": "text",
+   "required": false,
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 5
+   }
+  },
+  {
+   "id": "st7",
+   "prompt": "Describe fire department access to the building and the stair.",
+   "help": "Access routes and access to the building and roof; any difference from the code's firefighting provisions (Subsection 3.2.5.).",
+   "field_path": "variance.stair.fire_department_access_description",
+   "type": "text",
+   "required": false,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 11
+   }
+  },
+  {
+   "id": "st8",
+   "prompt": "Is the site outside the Edmonton 10-minute response boundary?",
+   "help": "Check the 'Outside 10-minute Boundary' map layer on maps.edmonton.ca. If outside, the professional must consider delayed response.",
+   "field_path": "variance.stair.outside_10_minute_boundary",
+   "type": "bool",
+   "required": false,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 15
+   }
+  },
+  {
+   "id": "st9",
+   "prompt": "Does the design rely on any special occupant plans (shelter in place, staged evacuation, refuge areas)?",
+   "help": "Such plans affect the emergency-services screen.",
+   "field_path": "variance.stair.occupant_plans",
+   "type": "text",
+   "required": false,
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   }
+  }
+ ],
+ "benchmark_acceptable_solution": {
+  "articles": [
+   "3.4.2.1.(1)"
+  ],
+  "plain_words": "Every floor area intended for occupancy must be served by at least 2 exits, except where Sentences (2) to (4) permit otherwise. The words of Sentence 3.4.2.1.(1) are: 'Except as permitted by Sentences (2) to (4), every floor area intended for occupancy shall be served by at least 2 exits.'",
+  "exceptions": [
+   {
+    "sentence": "3.4.2.1.(2)",
+    "text": "A floor area in a building not more than 2 storeys in building height may be served by one exit if the total occupant load served by the exit is not more than 60 and the floor area and travel distance are within Table 3.4.2.1.-A (not sprinklered throughout), or, if sprinklered throughout, travel distance is not more than 25 m and floor area is within Table 3.4.2.1.-B.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 269
+    },
+    "supporting_source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 270
+    }
+   },
+   {
+    "sentence": "3.4.2.1.(4)",
+    "text": "Sentences (1) and (2) may be waived for dwelling units that have an access to exit conforming to Sentences 3.3.4.4.(1) to (4).",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 270
+    }
+   }
+  ],
+  "why_it_matters": "A building taller than the exceptions allow, with one exit stair, does not comply with the acceptable solution. The Edmonton guide states Point Access Blocks over two storeys can only be constructed through an accepted Alternative Solution.",
+  "why_source": {
+   "doc": "11_Edmonton_Point_Access_Block.pdf",
+   "page": 2
+  },
+  "attributions": {
+   "3.4.2.1.(1)": [
+    "F10-OS3.7",
+    "F12-OS3.7",
+    "F05-OS3.7",
+    "F06-OS3.7",
+    "F12-OS1.2",
+    "F06-OS1.2",
+    "F12-OP1.2",
+    "F06-OP1.2"
+   ]
+  },
+  "attribution_source": {
+   "doc": "NBC_2023AE_2nd_printing.pdf",
+   "page": 346
+  },
+  "related_articles": [
+   {
+    "article": "3.4.2.3.(1)",
+    "reason": "Distance between two exits",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 271
+    }
+   },
+   {
+    "article": "3.4.2.4.",
+    "reason": "Travel distance to an exit",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 271
+    }
+   },
+   {
+    "article": "3.4.4.1.(1)",
+    "reason": "Fire-resistance rating of exit separations (the stair enclosure)",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 274
+    }
+   },
+   {
+    "article": "3.2.5.1.",
+    "reason": "Access to above-grade storeys for firefighting",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 228
+    }
+   }
+  ],
+  "part_9_counterpart": {
+   "article": "9.9.8.2.(1)",
+   "text": "At least 2 exits shall be provided from every floor area, with maximum travel distances; single exit permitted from each storey in buildings of 1 and 2 storeys under Sentence (2).",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 871
+   },
+   "objective_function_attribution": "unresolved: not looked up for this module"
+  },
+  "verification": "Article existence is checked against the NBC(AE) 2023 2nd printing text by the validation script."
+ },
+ "mitigation_catalogue": {
+  "note": "Items come only from the Edmonton PAB guide and the Edmonton emergency-services guideline. The guide's technical report with measures and 13 design studies is not in files/, so the catalogue does not list technical performance values and the tool does not say whether any measure is sufficient.",
+  "items": [
+   {
+    "id": "MIT-COMP",
+    "label": "Compartmentation",
+    "plain": "Fire separations and enclosure around the stair so that fire and smoke do not compromise it.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    "basis": "The exemplar assessment identifies the main components that could lead to stair failure as relating to compartmentation and smoke management and outlines respective risk mitigation measures.",
+    "evidence_prompt": "Which drawings or reports describe the stair enclosure and separations?",
+    "related_article": "3.4.4.1.(1)",
+    "professional_required": true
+   },
+   {
+    "id": "MIT-SMOKE",
+    "label": "Smoke management",
+    "plain": "Measures that limit smoke getting into or spreading within the stair.",
+    "source": {
+     "doc": "11_Edmonton_Point_Access_Block.pdf",
+     "page": 5
+    },
+    "basis": "As above. If automatic smoke control is used, the emergency-services guideline notes it may impact fire department ventilation procedures and may require pre-incident training or familiarization.",
+    "also_source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    "evidence_prompt": "Which design report describes the smoke management?",
+    "professional_required": true
+   },
+   {
+    "id": "MIT-RESPONSE",
+    "label": "Emergency response considerations (access and response time)",
+    "plain": "Showing how firefighters get to and into the building and how the design relates to the 10-minute assumption, and to Edmonton Fire Rescue response information.",
+    "source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 8
+    },
+    "also_source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 15
+    },
+    "basis": "Screening questions on firefighting provisions and reliance on timely intervention.",
+    "evidence_prompt": "Is the site inside the Edmonton 10-minute response boundary? Is any Subsection 3.2.5. provision varied?",
+    "professional_required": true
+   },
+   {
+    "id": "MIT-PLAN",
+    "label": "Occupant and emergency response plan",
+    "plain": "Special occupant procedures (shelter in place, areas of refuge, staged evacuation, bespoke communication) and how they are assumed to interact with fire department action.",
+    "source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 9
+    },
+    "basis": "Procedures generally required by the NFC(AE) for Fire Safety Plans; their impact must be understood so assumptions on fire department intervention are properly attributed.",
+    "evidence_prompt": "Is there a draft fire safety plan or emergency response plan?",
+    "professional_required": true
+   },
+   {
+    "id": "MIT-ITM",
+    "label": "Inspection, testing, maintenance and commissioning documentation",
+    "plain": "A plan for checking and maintaining the extra safety systems over the life of the building, including any system the NFC does not regulate.",
+    "source": {
+     "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+     "page": 22
+    },
+    "basis": "ITM documentation including commissioning is required to be provided with the documentation of an alternative solution; coordinate with the Registered Professional of Record and the Coordinating Registered Professional.",
+    "also_source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 739
+    },
+    "evidence_prompt": "Who will write the ITM and commissioning plan and when?",
+    "professional_required": true
+   }
+  ],
+  "not_catalogued": "Measures such as sprinklers, pressurisation or specific ratings are not listed because the supplied guides do not name them as Point Access Block mitigations (the technical report is not in files/). The applicant may enter their own; they are recorded as applicant-stated and are not endorsed."
+ },
+ "process": [
+  {
+   "step": "Book a pre-application meeting (recommended)",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 7
+   }
+  },
+  {
+   "step": "Engage registered professionals and a qualified Fire Protection or Life Safety Code Consultant",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   }
+  },
+  {
+   "step": "Screen against the four emergency-services questions",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   }
+  },
+  {
+   "step": "Submit the Alternative Solution with the building permit application; AHJ and EFRS peer review applies",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 6
+   }
+  }
+ ],
+ "authority_notes": [
+  {
+   "text": "A building SCO may refuse a variance for reasons that include insufficient or incomplete information, incorrect input parameters or assumptions, intent not demonstrated, or an unclear or impractical recommendation. A refusal can be appealed to the Safety Codes Council within 30 days.",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 1
+   },
+   "also_source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 2
+   }
+  }
+ ]
+}

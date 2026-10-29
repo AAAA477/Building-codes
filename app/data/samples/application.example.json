@@ -1,0 +1,46 @@
+{
+  "_note": "SHAPE ONLY. Values are placeholders, not real data. Real samples are built by the content stream.",
+  "id": "example-shape",
+  "jurisdiction": "scc",
+  "edition": "NBC(AE) 2023",
+  "applicant": {
+    "owner_name": "",
+    "owner_representative": "",
+    "mailing_address": "",
+    "email": "",
+    "date_of_request": ""
+  },
+  "project": {
+    "description": "",
+    "occupancy": "",
+    "storeys": null,
+    "building_area_m2": null,
+    "units_per_floor": null,
+    "sprinklered": null,
+    "new_or_renovation": "new",
+    "part": null
+  },
+  "location": {
+    "jurisdiction_wide": false,
+    "permit_number": "",
+    "municipal_address": "",
+    "lot": "", "block": "", "plan": "", "qtr": "", "sec": "", "twp": "", "rge": "", "mer": ""
+  },
+  "variance": {
+    "topic": "single_exit_stair",
+    "code_or_standard": "",
+    "acceptable_solution": { "articles": [], "explanation": "" },
+    "proposed_alternative": { "summary": "", "mitigations": [] },
+    "section_c": []
+  },
+  "section_d": [],
+  "professional_flags": [],
+  "declarations": {
+    "privacy_consent": false,
+    "equal_or_better_ack": false,
+    "owner_signed": false,
+    "rep_signed": false
+  },
+  "provenance": {},
+  "completeness": { "percent": 0, "items": [] }
+}

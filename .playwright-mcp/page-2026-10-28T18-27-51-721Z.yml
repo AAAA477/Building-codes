@@ -1,0 +1,87 @@
+- generic [ref=f7e3]:
+  - link "Skip to main content" [ref=f7e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f7e5]:
+    - generic [ref=f7e6]:
+      - link "Variance Workspace, home" [ref=f7e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f7e8]: Variance Workspace
+        - generic [ref=f7e9]: Alberta building code variances
+      - group "View as" [ref=f7e11]:
+        - button "Applicant" [pressed] [ref=f7e12] [cursor=pointer]
+        - button "Reviewer" [ref=f7e13] [cursor=pointer]
+  - main [ref=f7e14]:
+    - generic [ref=f7e18]:
+      - heading "Prepare a building code variance request" [level=1] [ref=f7e19]
+      - paragraph [ref=f7e20]: A variance lets you propose a different way to meet the Building Code. This workbook takes you through it in plain language, finds the code articles, shows what is still missing and fills in the official form. You review and sign. It never signs for you.
+      - button "Start a new application" [ref=f7e22] [cursor=pointer]
+      - region [ref=f7e25]:
+        - heading "Contents" [level=2] [ref=f7e26]
+        - list [ref=f7e27]:
+          - listitem [ref=f7e28]:
+            - generic [ref=f7e29]: "1"
+            - generic [ref=f7e31]:
+              - strong [ref=f7e32]: Describe
+              - generic [ref=f7e33]: Say in plain words what you want to build or do differently.
+          - listitem [ref=f7e34]:
+            - generic [ref=f7e35]: "2"
+            - generic [ref=f7e37]:
+              - strong [ref=f7e38]: Rules
+              - generic [ref=f7e39]: Check whether it is already covered, then confirm the code articles that apply.
+          - listitem [ref=f7e40]:
+            - generic [ref=f7e41]: "3"
+            - generic [ref=f7e43]:
+              - strong [ref=f7e44]: Fill and review
+              - generic [ref=f7e45]: Close the gaps on a to-do list grouped by form section A to D.
+          - listitem [ref=f7e46]:
+            - generic [ref=f7e47]: "4"
+            - generic [ref=f7e49]:
+              - strong [ref=f7e50]: Submit
+              - generic [ref=f7e51]: Read the filled form, download it, confirm the declarations yourself and prepare a package.
+      - region [ref=f7e52]:
+        - heading "Or open a sample" [level=2] [ref=f7e53]
+        - paragraph [ref=f7e54]: Samples are based on real Alberta documents, with names and addresses left blank. They are a quick way to see how the tool works.
+        - list [ref=f7e55]:
+          - listitem [ref=f7e56]:
+            - generic [ref=f7e57]:
+              - heading "Single-exit stair (documents missing)" [level=3] [ref=f7e58]
+              - paragraph [ref=f7e59]: Everything is filled in except the supporting documents list.
+            - 'button "Open sample: Single-exit stair (documents missing)" [ref=f7e60] [cursor=pointer]': Open sample
+          - listitem [ref=f7e61]:
+            - generic [ref=f7e62]:
+              - heading "Single-exit stair (no professional named)" [level=3] [ref=f7e63]
+              - paragraph [ref=f7e64]: Shows what the tool flags when no registered professional is named.
+            - 'button "Open sample: Single-exit stair (no professional named)" [ref=f7e65] [cursor=pointer]': Open sample
+          - listitem [ref=f7e66]:
+            - generic [ref=f7e67]:
+              - heading "Single-exit stair (unchecked article)" [level=3] [ref=f7e68]
+              - paragraph [ref=f7e69]: Includes a code article that could not be verified against the code text.
+            - 'button "Open sample: Single-exit stair (unchecked article)" [ref=f7e70] [cursor=pointer]': Open sample
+          - listitem [ref=f7e71]:
+            - generic [ref=f7e72]:
+              - heading "Single-exit stair, Edmonton (well prepared)" [level=3] [ref=f7e73]
+              - paragraph [ref=f7e74]: A residential point-access-block example with its code articles and document list ready.
+            - 'button "Open sample: Single-exit stair, Edmonton (well prepared)" [ref=f7e75] [cursor=pointer]': Open sample
+          - listitem [ref=f7e76]:
+            - generic [ref=f7e77]:
+              - heading "Single-exit stair (just started)" [level=3] [ref=f7e78]
+              - paragraph [ref=f7e79]: An application with only a few answers filled in. Good for trying the guided steps.
+            - 'button "Open sample: Single-exit stair (just started)" [ref=f7e80] [cursor=pointer]': Open sample
+          - listitem [ref=f7e81]:
+            - generic [ref=f7e82]:
+              - 'heading "STANDATA variance: wall-mounted exhaust (23-BCV-001)" [level=3] [ref=f7e83]'
+              - paragraph [ref=f7e84]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: wall-mounted exhaust (23-BCV-001)" [ref=f7e85] [cursor=pointer]': Open sample
+          - listitem [ref=f7e86]:
+            - generic [ref=f7e87]:
+              - 'heading "STANDATA variance: sprinkler and glazing (23-BCV-004)" [level=3] [ref=f7e88]'
+              - paragraph [ref=f7e89]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: sprinkler and glazing (23-BCV-004)" [ref=f7e90] [cursor=pointer]': Open sample
+          - listitem [ref=f7e91]:
+            - generic [ref=f7e92]:
+              - 'heading "STANDATA variance: exhaust clearance (23-BCV-008R1)" [level=3] [ref=f7e93]'
+              - paragraph [ref=f7e94]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: exhaust clearance (23-BCV-008R1)" [ref=f7e95] [cursor=pointer]': Open sample
+  - contentinfo [ref=f7e96]:
+    - generic [ref=f7e97]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f7e98]: Approval stays with registered professionals and the Authority Having Jurisdiction.

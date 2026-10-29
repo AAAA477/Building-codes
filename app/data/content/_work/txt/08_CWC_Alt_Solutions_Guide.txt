@@ -1,0 +1,2248 @@
+
+=====PAGE 1=====
+Alternative  
+Solutions  
+Guide
+
+=====PAGE 2=====
+Alternative Solutions Guide
+B
+Authors
+Joe Krevs, P.L.Eng., RBO 
+Code Consultant 
+Ratio Code Consultants Ltd
+Jeff Mitchell, M.Eng., P.Eng., CP 
+Principal 
+GHL Consultants Ltd
+Derek Newby, AIBC 
+Managing Principal 
+Perkins + Will, Vancouver and Calgary
+Slavica Puzovic, RELi, LEED AP BD+C 
+Senior Designer 
+Perkins + Will
+Derek Ratzlaff, P.Eng., PE, Struct.Eng. 
+Technical Director 
+WoodWorks BC/Canadian Wood Council 
+Kevin To, M.Eng., P.Eng., ing, CP 
+Associate 
+GHL Consultants Ltd
+Henning White, P.L.Eng., CFPS 
+Principal 
+Ratio Code Consultants Ltd
+Table of Contents
+ 1 
+Introduction
+ 3 
+Best Practices for Engaging with Jurisdictions
+ 5 
+Requirements in the Application 
+ 7 
+Typical Subjects for Alternative Solutions
+ 12 
+Typical Solutions and Strategies 
+ 16 
+Troubleshooting and Moving Forward
+ 18 
+Examples
+ 19 
+Short Form Examples
+ 21 
+Long Form Examples
+ 34 
+Definitions (from EGBC – AIBC)
+
+=====PAGE 3=====
+Alternative Solutions Guide
+1
+Introduction
+While alternative solutions have been an important feature 
+of the National Building Code of Canada since 2005, 
+there remains a lack of understanding among building 
+professionals on how to approach their use. As the 
+construction industry evolves, with increasing innovation in 
+design and construction capabilities, new ways of building 
+that may not be well addressed by building codes will 
+emerge. At the same time, tools for performance testing 
+and simulation are becoming more widespread. In light 
+of the diverse and evolving building industry, alternative 
+solutions that enable new ways of building are likely 
+to become more commonplace. A critical area where 
+alternative solutions may be employed is in the use of 
+mass timber construction. The introduction of mass timber 
+construction techniques, enabled by a range of engineered 
+wood products, associated connection technologies, 
+and fabrication methods, has resulted in a wide range 
+of possible building solutions that may not have been 
+considered by building codes.
+Statutory Framework 
+The regulation of buildings in Canada is a responsibility of 
+provincial governments, with the application of regulations 
+generally delegated to municipalities. In most jurisdictions 
+across Canada, buildings are required to comply with a 
+building code, typically based on the National Building 
+Code of Canada (NBCC). Some provinces use the NBCC 
+directly, while others create provincial codes that are based 
+on the NBCC, but modified to suit specific requirements. 
+In exceptional cases, building regulation is a municipal 
+responsibility, such as in the City of Vancouver, where the 
+Vancouver Building By-law is applied (based on the British 
+Columbia Building Code/National Building Code of Canada).
+The purpose of a building code is to ensure buildings 
+meet a minimum standard for safety, occupant health, 
+accessibility, and energy efficiency. The National Building 
+Code of Canada (and its derivatives) has evolved to 
+become an objective-based code, intended to offer 
+greater flexibility to design professionals. It is structured 
+around specific objectives and functional statements 
+that generally describe intent, while establishing a set of 
+prescriptive requirements that correspond with building 
+characteristics and performance. 
+Compliance with the building code may either be achieved 
+by following and complying with the “acceptable solutions” 
+defined in Division B, or by demonstrating an equivalent 
+level of performance through an alternative solution. 
+Although acceptable solutions are more common, either 
+route may be pursued.
+The prescriptive requirements of the code are referred to 
+as acceptable solutions and are described in Division B 
+of the code, representing the common and contemplated 
+solutions for specific types and configurations of buildings.
+
+=====PAGE 4=====
+Alternative Solutions Guide
+2
+Alternative solutions offer a path to code compliance 
+in acknowledgement that the acceptable solutions 
+described in the code may be unable to predict the 
+diversity of designs in practice, and to allow innovation 
+in construction. The key principle behind the alternative 
+solution compliance path is that the alternative solution 
+proposed must at least meet (or exceed) the performance 
+level provided by the acceptable solution it is intended to 
+replace. Unlike acceptable solutions, which are intended 
+to be predictably accepted, alternative solutions require 
+judgement by both the professional proposing them, 
+as well as the Authority Having Jurisdiction (AHJ) that 
+exercises discretion to approve their use. As such, 
+alternative solutions typically involve direct consultation 
+and collaboration between professionals to arrive  
+at a solution that is supported and permitted. 
+Intent
+Alternative solutions and innovative approaches are 
+generally project specific, and often similar projects (in 
+terms of scope, size, program, and construction) must still 
+start from the beginning, spending enormous amounts  
+of time to demonstrate if an innovative idea can even  
+be applied. 
+Alternative solutions may either be familiar or tailored to 
+a specific set of conditions. Often alternative solutions 
+are “adjacent” to an acceptable solution but require some 
+flexibility to satisfy the intent. 
+Alternative solutions often require input from various 
+parties including designers, engineers, and code 
+consultants, as well as contractors and manufacturers 
+who can offer a better understanding of possibilities and 
+performance criteria. If important input is left out when 
+writing an alternative solution, it is possible that addressing 
+a problem in one segment of design might result in 
+increased cost and complexity in other segments.
+This guide has been created to provide direction for 
+designers to better understand how to enable new and 
+innovative ideas that may not neatly fit the acceptable 
+solutions described in the building code. It provides 
+general direction on what should be included in an 
+application when proposing an alternative solution, who 
+should be included to provide relevant input, and what 
+are the important requirements to be considered and 
+documented.
+ 
+Photo Credit: Arkitek Creative (courtesy of naturally:wood) 
+L’Alliance française – Vancouver
+
+=====PAGE 5=====
+Alternative Solutions Guide
+3
+Best Practices for Engaging with Jurisdictions
+Pursuing alternative solutions requires detailed collaboration with the AHJ. Proposals 
+are successful when design teams engage with the AHJ early, are forthcoming with 
+communication, and bring well-organized and defensible solutions for consideration.
+The viability of a building project is the result of both land 
+use regulations and building regulations. Each requires an 
+approvals process, and each takes time. Understanding 
+the relationship between the two is key. Land use 
+planning regulations concern what you can build, and 
+where. Planning permission is normally the result of a 
+development application or a rezoning application, or both. 
+These permissions concern the form and configuration of 
+the building and generally do not specify a construction 
+material or method. The viability of any development or 
+rezoning application will, however, be predicated on a 
+construction method that is appropriate for the conditions. 
+Beyond land use planning regulations, which define what 
+can be built, building regulations dictate how you go about 
+building it.
+Building materials are not interchangeable – a building 
+designed as a concrete or steel structure is not 
+interchangeable with a mass timber structure. As such, 
+even at the planning approvals stage a clear plan for the 
+material of construction is essential. Therefore, when 
+considering alternative solutions, it is important to confirm 
+the impact that planning and building regulations will have 
+on the viability of the proposal.
+When do you need to apply within  
+the project schedule? 
+When determining the application timeline, it is critical 
+to find out what permits and processes are required for 
+the development. Most jurisdictions require rezoning and 
+a development permit (DP) for new buildings or major 
+alterations to existing buildings. The review of alternative 
+solutions, in most jurisdictions, lies with the Building 
+Division during the building permit (BP) review stage. 
+However, the jurisdiction may not allow the BP review to 
+be done concurrently with the DP or rezoning. So, it is 
+important to determine the permitting strategy with  
+the jurisdiction during the design development stage.  
+It is at the development or rezoning stages of the project 
+that engagement should begin with the authorities’ 
+departments that may have comments on the alternative 
+solution(s). This is especially important if the alternative 
+solutions have an impact on the “form and character” of 
+the project. Form and character are reviewed at the DP 
+stage (this is typically done by the Planning Department). 
+This can be tricky to navigate as the DP is reviewed and 
+approved prior to submission of the BP. If the alternative 
+solution is not accepted (at the BP stage), it may require an 
+amendment to the DP. Note that a DP amendment likely 
+will need a review by the local council, so the amendment 
+review will be subject to the council’s schedule and the 
+number of items in queue for the agenda, which can  
+affect the project schedule. 
+After determining the required jurisdiction’s processes, 
+it is essential to contact the persons responsible for the 
+building reviews early in the project schedule, preferably 
+at the DP stage. This is especially true for projects using 
+complex alternative solutions. A potential concern with 
+this approach is that the AHJ may not issue a formal 
+approval of the alternative solution at the DP stage. 
+Normally this is because the alternative solutions are still 
+under development, and a complete application has not 
+been submitted. However, the jurisdiction may provide an 
+“acceptance in principle”, which is an informal approval,  
+but still leaves an opportunity for the reviewer to comment 
+on the details in the future. It is essentially a check for  
+any red flags.  
+In most jurisdictions, the plan reviewer or supervisor is 
+the person to communicate with to discuss alternative 
+solutions; however, in larger municipalities the code 
+engineer reviews the engineering reports, so it is  
+important to include them in the conversation.  
+
+=====PAGE 6=====
+Alternative Solutions Guide
+4
+How much time should an applicant  
+allow for discussion and approval? 
+Ample time should be provided to allow for discussion and 
+revisions of the alternative solutions. This is usually done by 
+email, but for some complex projects, in-person or virtual 
+meetings may be the fastest approach to communicate 
+ideas and share opinions. If drawing or report revisions are 
+required, additional review time for the revisions will also be 
+required. Depending on the complexity of the submission, 
+allowance of one to two months should be included for 
+correspondence.    
+Approval timelines can vary significantly from jurisdiction 
+to jurisdiction and very few or none will provide “approval” 
+timelines, as approval is dependent on the content of 
+the submission. However, most jurisdictions will provide 
+“review” timelines, but these will also vary depending 
+on staffing levels, complexity of the report, and number 
+of projects in the queue. Some jurisdictions have a 
+general policy to provide feedback within a month of an 
+application. However, this is not a complete review; it is 
+a documentation review to make sure they have all the 
+documents and information they need to complete the 
+necessary reviews. Generally speaking, it is good practice 
+to allow two to four months to receive comments.
+ 
+What information do you need from  
+the AHJ prior to application?
+It is essential to meet and discuss the proposed alternative 
+solutions early in the process – this is best done at the 
+DP stage before the BP drawings or reports are fully 
+developed. Below is a list of items to include in this 
+discussion.
+• High-level comments from the AHJ and areas  
+of concern
+• Specific policies or bulletins that the applicant needs  
+to follow
+• Requirements for BP submission
+• Permit process and application documents required
+• When BP documents can be submitted:
+ – Concurrent with DP/rezoning?
+ – Can the BP be divided to allow earlier scope to  
+begin construction?
+• Is a peer review process required:
+ – Will that process be supported by the applicant/
+project team?
+• Choosing reviewers, providing scope
+ – Will that be independent of the applicant/ 
+project team?
+What do you need from the AHJ to show 
+acceptance? 
+You may need to ask the AHJ for specific requirements for 
+sign-off. Certain AHJs issue official sign-offs for alternative 
+solutions, and some do not. Clients generally require 
+an acknowledgement of some kind that confirms the 
+approach to code compliance is supportable, to reduce 
+risk and confirm any deliberations to that point. Typically, 
+smaller municipalities do not issue approval letters, but list 
+the alternative solutions on the BP, so issuance of the BP  
+in effect means acceptance of the alternative solution(s). 
+
+=====PAGE 7=====
+Alternative Solutions Guide
+5
+Requirements in the Application 
+When proposing an alternative solution it is essential to present all the relevant information 
+in a format that is logical and clear.
+Introduction
+Since 2005, the NBCC has been an objective-based code organized around the satisfaction of specific objectives and 
+functional statements. Conformance with the objectives and functional statements may be achieved through acceptable 
+solutions or alternative solutions.
+Acceptable solutions generally anticipate typical building situations that are common, with limited complications. The 
+alternative solution path is an option for other situations, where acceptable solutions may not be appropriate, to enable 
+flexibility in building construction. It provides design teams the ability to employ different design or construction methods 
+that may differ from the prescriptive options envisioned by the building code.
+Applicant Credentials
+Alternative solutions should be prepared by a registered professional, whether an architect or an engineer, as defined by 
+the Architectural Institute of British Columbia (AIBC) or the Engineers and Geoscientists (EGBC) Association of BC. The 
+application documents should bear the professional seal of the registered professional. Evidence of specific knowledge  
+of the topic matter of the alternative solution should be demonstrated by the applicant.
+Building Code  
+Compliance
+Objectives and  
+Functional Statements
+Division B  
+Acceptable Solutions
+Acceptable Solution
+Defines level of performance
+Alternative Solutions
+Provide minimum level of performance 
+required by Division B in the areas  
+defined by the objectives and functional 
+statements attributed to the applicable 
+acceptable solutions
+
+=====PAGE 8=====
+Alternative Solutions Guide
+6
+Design Information
+Sufficient documentation for any alternative solution 
+application should be provided. The submission should 
+be “complete” and standalone, to facilitate review without 
+further resources other than the building permit application 
+drawings provided in support. Typical submissions  
+should include:
+• Project address
+• Project description and scope of work
+• Building code edition
+• Applicable building code references
+• Summary of deviations from prescriptive solution(s)
+• Objective and functional statements attributed to the 
+applicable acceptable solutions
+• Relevant intent statements
+• Summary of design features of alternative solution
+• Analysis and evaluation of alternative solution design 
+features, to demonstrate the minimum level of 
+performance is met or exceeded
+Rationale to Aid a Decision
+Division B of the British Columbia Building Code consists 
+primarily of prescriptive requirements as acceptable 
+solutions. Division A, Clause 1.2.1.1.(1)(b) and Division C,  
+Section 2.3 allow the development of alternative 
+solutions that should achieve at least the minimum 
+level of performance required by Division B in the areas 
+defined by the objectives and functional statements 
+attributed to the applicable acceptable solution. Further, 
+Division A, Notes to Part 1 indicates that a design meeting 
+provisions of a Division B acceptable solution is deemed 
+to satisfy the objectives and functional statements linked 
+to those specific provisions. Therefore, an alternative 
+solution meeting the minimum level of performance of 
+an acceptable solution also satisfies the objectives and 
+functional statements attributed to the acceptable solution.
+Sentence 1.2.1.1.(1) is further discussed in Note A-1.2.1.1.(1)(b) 
+of Division A. It is important to note that where there are 
+different acceptable solutions, each offering a different 
+level of performance, the lowest level of performance may 
+be used for the purposes of establishing the performance 
+level of the alternative solution.
+In general, any given alternative solution approach should:
+• establish the areas of performance applicable to the 
+acceptable solution in Division B
+• establish the level of performance provided by the 
+acceptable solution
+• explain the level of performance provided by the 
+proposed alternative solution
+• compare the two levels of performance in order to 
+demonstrate that the alternative solution meets the 
+criteria established in Clause 1.2.1.1.(1)(b) noted above.
+Difficulties frequently arise in preparation of an alternative 
+solution because, in many instances, there are no attributed 
+objectives or functional statements to a particular Division 
+B requirement. An example of this is Subsection 3.1.5. There 
+are no attributed objectives or functional statements for 
+the majority of the prescriptive solutions in this subsection. 
+The typical approach has been to utilize the objectives and 
+functional statements attributed to Sentence 3.1.5.1.(1), as 
+these are considered to establish the overall “purpose” of 
+the acceptable solutions within the subsection. Alternative 
+solutions may therefore be developed.
+An additional difficulty arises for those issues where the 
+alternative solution needs to address an item perceived as 
+a “definition” in the code. An example is major occupancy 
+classification. Sentence 3.1.2.1.(1) requires a building to 
+be classified according to major occupancy. Appendix 
+discussion A-3.1.2.1.(1) provides tabulated examples of uses 
+under each major occupancy classification. Frequently, 
+AHJs interpret these examples as “definitions” rather than 
+a resource to be used for guidance and further evaluation. 
+A further example is the construction requirements in 
+Subsection 3.2.2. Many construction articles prescribe 
+noncombustible construction, given a certain major 
+occupancy type, building height, and building area. 
+Objectives and functional statements are attributed to the 
+requirement prescribing noncombustible construction, 
+facilitating the development of an alternative solution, as 
+such alternative solutions addressing these code provisions 
+may be evaluated just like any other code provision.
+
+=====PAGE 9=====
+Alternative Solutions Guide
+7
+Typical Subjects for Alternative Solutions
+The following are typical subjects which may be addressed on an alternative solution basis 
+to demonstrate compliance with fire and life safety provisions of the British Columbia 
+Building Code 2018 relating to wood materials. 
+These typical subjects are sorted based on types of construction, namely combustible construction, which includes 
+light wood-frame construction and mass timber construction (not prescribed to be encapsulated), noncombustible 
+construction, and encapsulated mass timber construction (EMTC). 
+Note that the following typical subjects are based on the British Columbia Building Code 2018. The British Columbia 
+Building Code 2024, which has come into effect since March 8, 2024, may have an impact on some of the typical subjects 
+for use of wood materials.
+Combustible Construction  
+(Light Wood-Frame and Mass Timber)
+Building Height or Building Area Exceeding BC Building 
+Code Limits for Combustible Construction
+The BC Building Code under Division B, Subsection 3.2.2 
+prescribes limits to building area and building height for 
+combustible construction depending on occupancy type. 
+A typical alternative solution would be to allow combustible 
+construction while these limits are exceeded. 
+For residential occupancy, for example, the building  
+height limit is 6 storeys for use of combustible construction. 
+Beyond 6 storeys, such buildings would have to be of 
+noncombustible construction or encapsulated mass 
+timber construction. With respect to building height, 
+a common condition designers encounter where this 
+approach is applied is for a residential building located  
+on a sloping site, resulting in building height exceeding  
+6 storeys due to the lowest average grade, based on  
+which the first storey of the building is established. The 
+following schematic diagram illustrates this condition. 
+ 
+ 
+Figure 1. Building height addressed by alternative solution for allowing combustible construction (yellow) on a sloping site.
+L8
+C
+6
+L7
+C
+5
+L6
+C
+4
+L5
+C
+3
+L4
+C
+2
+L3
+C
+1
+L2
+F-3 (Storage)
+L1 (1st storey)
+F-3
+P1
+F-3
+Combustible Midrise
+
+=====PAGE 10=====
+Alternative Solutions Guide
+8
+With respect to building area, a commonly encountered design where an alternative solution approach can be developed 
+is when the podium of a building exceeds the building area limit for combustible construction. The following schematic 
+diagram illustrates a design where the ground floor area exceeds 1500m2 for a 6-storey wood-frame construction per 
+Division B, Article 3.2.2.50.
+ 
+ 
+Figure 2. Excess building area addressed by alternative solution for allowing combustible construction (yellow).
+The alternative solution should address the objectives and functional statements corresponding to reference code 
+provisions such as [F02,F04-OS1.2,OS1.3] and [F02,F04-OP1.2,OP1.3] per Division B, Table 3.10.1.1.
+Use of Mass Timber for Firewall Construction
+The construction of firewalls is prescribed to be 
+noncombustible and, in some cases, to be of masonry  
+or concrete construction by Division B, Article 3.1.10.2  
+of the BC Building Code.
+To allow for a higher degree of material compatibility, 
+an alternative solution can be developed to construct 
+a firewall using mass timber elements such as cross-
+laminated timber (CLT). It has been demonstrated that 
+the use of CLT can achieve the level of performance 
+required on an alternative solution basis. CLT firewalls 
+can be a viable alternative to noncombustible firewalls 
+for subdividing midrise wood-frame construction where 
+differential shrinkage and settlement may cause issues  
+in the long term. 
+The alternative solution should address the objectives  
+and functional statements corresponding to reference 
+code provisions such as [F03-OS1.2], [F03-OP1.2], and 
+[F03-OP1.3] per Division B, Table 3.10.1.1.
+L6
+1,500m2
+L5
+L4
+L3
+L2
+L1
+1,700m2
+Combustible Midrise
+
+=====PAGE 11=====
+Alternative Solutions Guide
+9
+ON5 Project
+Code Consultant: Evolution Building Science
+Architect: Hemsworth Architecture
+Structural Engineer: Timber Engineering
+“ The alternative solution developed for the ON5 project was 
+specifically focused on the use of mass timber 5-ply CLT 
+vertical panels for the 0-lot line exterior wall assemblies, 
+which would normally be required to be of “noncombustible 
+construction” based on the applicable spatial separation 
+requirements of the Vancouver Building By-law. The specific 
+“mitigating features” for this alternative solution included the 
+passive fire protection features of the exposed mass timber 
+wall panels (i.e., charring of exposed layer), in combination 
+with active fire protection via the sidewall sprinkler protection 
+installed at the intersection of the CLT floor and wall panels 
+(both sides of floor areas).” 
+– Geoff Triggs, P.L. Eng. formerly of Evolution Building 
+Science Ltd. (now Senez Consulting Ltd.)
+Photo Credit: KK Law (courtesy of naturally:wood)
+Spatial Separation and Mass Timber Exterior  
+Wall Assemblies
+Where restrictive limiting distance applies to an exterior 
+building face, Division B, Subsection 3.2.3 of the BC 
+Building Code may prescribe noncombustible construction 
+for the exterior wall. 
+This condition may arise where a building is located 
+close to a property line when building in mass timber 
+construction, such as a zero-lot line exterior wall. An 
+alternative solution may be developed to address the 
+prescription of noncombustible construction for spatial 
+separation purposes. 
+The alternative solution should address the objectives  
+and functional statements corresponding to reference 
+code provisions such as [F03,F02-OP3.1] per Division B, 
+Table 3.10.1.1.
+Photo Credit: Geoff Triggs
+
+=====PAGE 12=====
+Alternative Solutions Guide
+10
+Noncombustible Construction
+Use of combustible soffits in noncombustible buildings
+For buildings prescribed to be of noncombustible 
+construction, only combustible materials permitted by 
+Division B, Subsection 3.1.5 of the BC Building Code may 
+be used. Only materials that are deemed noncombustible 
+are permitted for soffits. While exterior soffits are not 
+explicitly addressed by the provisions under Subsection 
+3.1.5, an alternative solution may be developed to address 
+the use of combustible materials in soffits with protection 
+measures targeting the fire risks associated with the 
+presence of such combustible materials.
+The alternative solution should address the objectives 
+and functional statements corresponding to reference 
+code provisions such as [F02-OS1.2] and [F02-OP1.2] per 
+Division B, Table 3.10.1.1.
+Use of exposed mass timber canopies  
+in noncombustible buildings
+For buildings prescribed to be of noncombustible 
+construction, only fire-retardant-treated wood conforming 
+to conditions under Division B, Article 3.1.5.24 of the BC 
+Building Code can be used as decorative wood materials 
+for canopies or marquees. All other materials that are not 
+deemed noncombustible are not permitted for canopies  
+or marquees. 
+With limited availability of products and long-term materials 
+characteristic of compliant fire-retardant-treated wood, an 
+alternative solution may be developed to allow the use of 
+exposed mass timber canopies with protection measures 
+targeting the fire risks associated with such design.
+While no specific code objectives and functional statements 
+are attributed to Article 3.1.5.24, the alternative solution 
+should consider the intent statements corresponding to  
+the referenced code provision. 
+ 
+Mass Timber Canopy at Orchard Commons – UBC
+Code Consultant: GHL Consultants Ltd 
+Architect: Perkins+Will
+Structural Engineer: Glotman Simpson and StructureCraft
+Photo Credit: Michael Elkan
+
+=====PAGE 13=====
+Alternative Solutions Guide
+11
+Alternative to pressure impregnated  
+fire-retardant-treated wood
+The use of fire-retardant-treated wood permitted for 
+noncombustible buildings (or combustible buildings, for 
+that matter) shall meet the provisions under Division B, 
+Article 3.1.4.5 of the BC Building Code. 
+Essentially, only products having gone through a pressure 
+impregnated fire retardant treatment process can be 
+recognized by the BC Building Code. An alternate treatment 
+process for wood products can be proposed based on its 
+performance. Such products can be used on an alternative 
+solution basis as interior ceiling finish in virtue of Division B, 
+Sentence 3.1.5.12.(4). 
+The alternative solution should address the objectives 
+and functional statements corresponding to reference 
+code provisions such as [F02-OS1.2] and [F02-OP1.2] per 
+Division B, Table 3.10.1.1. 
+EMTC per BCBC 2018 and Hybrid  
+Construction
+Building height exceeding BCBC limits for EMTC
+The BC Building Code under Subsection 3.2.2 prescribes 
+limits in building area and building height, namely up to  
+12 storeys, for EMTC buildings depending on occupancy 
+type (note that proposed code changes will increase 
+height limits for EMTC and mass timber buildings). An 
+alternative solution can be developed to allow EMTC for 
+taller buildings. These types of projects will require early 
+discussion with AHJs to establish design parameters for 
+addressing typical fire safety concerns associated with  
+the increased building height. 
+The alternative solution should address the objectives and 
+functional statements corresponding to reference code 
+provisions such as [F02,F04-OS1.2,OS1.3] per Division B, 
+Table 3.10.1.1.
+Mass timber encapsulation limits
+The BC Building Code under Division B, Article 3.1.18.4 
+prescribes minimum encapsulation limits for mass timber 
+elements such as ceilings, walls, beams, and columns. 
+An alternative solution can be developed to allow greater 
+surface area of exposed mass timber elements. These 
+types of projects will require early discussion with AHJs 
+to establish design parameters for addressing typical fire 
+safety concerns associated with exposed timber elements.
+The alternative solution should address the objectives 
+and functional statements corresponding to reference 
+code provisions such as [F02-OS1.2] and [F02-OP1.2] per 
+Division B, Table 3.10.1.1.
+Brock Commons Student Housing at UBC
+Used a site-specific regulation in place of an alternative 
+solution to exceed height and storey limits for timber 
+buildings at time of construction.
+Code Consultant: GHL Consultants Ltd
+Architect: Acton Ostry Architects
+Structural Engineer: Fast + Epp
+Photo Credit: naturally:wood
+
+=====PAGE 14=====
+Alternative Solutions Guide
+12
+Typical Solutions and Strategies 
+Design Rationales for Alternative Solutions
+The following are potential considerations and rationales 
+justifying fire and life safety concerns addressed by the BC 
+Building Code. As discussed in previous sections, in order 
+to justify an acceptable alternative solution, it is necessary 
+to demonstrate that the level of performance offered by 
+the proposed alternative solution is at least equivalent 
+to that offered by one Division B acceptable solution as 
+prescribed under a specific code reference. In addition 
+to a description of the proposed solution and its features, 
+the discussion surrounding rationales for the proposed 
+solution, as documented by the alternative solution report, 
+should clearly demonstrate the level of performance and 
+how this level of performance is established. 
+As examples, potential approaches and rationales for mass 
+timber element fire-resistance rating and building area and 
+height limits are discussed following the above-mentioned 
+alternative solution framework regarding performance. 
+Mass Timber Element Fire-Resistance Rating
+While fire resistance is the design fundamental of fire 
+safety for a building, it is important to understand what a 
+fire-resistance rating entails for establishing and evaluating 
+fire performance within the context of an alternative 
+solution. As per the definition provided in Division A of the 
+BC Building Code, the fire-resistance rating is based on 
+a time period that a material or assembly of materials will 
+withstand the passage of flame and transmission of heat 
+when exposed to specified conditions. 
+For mass timber projects, the fire-resistance rating of 
+structural elements can be readily established either by  
+the standard fire test CAN/ULC-S101 or in conformance 
+with Division B, Appendix D of the BC Building Code  
+per Division B, Article 3.1.7.1. 
+From a performance standpoint, resistance against  
+the passage of flame and transmission of heat is one of  
+the key performance parameters to establish in justifying 
+a fire-resistance rating. Measures with respect to 
+transmission of heat applicable to a mass timber floor 
+assembly, for example, can be found in the standard fire 
+test CAN/ULC-S101, namely: 
+• maximum average temperature rise on non-fire exposed 
+surface is 140°C, and
+• maximum individual point temperature rise on non-fire 
+exposed surface is 180°C.
+These test criteria can be taken as benchmark 
+performance parameters of a Division B acceptable 
+solution. 
+In addition to the Division B acceptable solutions, 
+compliance with the prescribed fire-resistance rating  
+can be achieved by an alternative solution. In this case,  
+the level of performance should meet the standard test 
+criteria as described above or the performance of a  
+design conforming to Appendix D for the required fire-
+resistance rating. 
+It is also important to note that the goal of establishing 
+a fire-resistance rating is to meet the objectives and 
+functional statement attributed to Division B, Sentences 
+3.1.7.1.(1) and (2), namely [F03-OS1.2], [F04-OS1.3],  
+[F03-OP1.2], and [F04-OP1.3] per Division B, Table 3.10.1.1.
+ 
+
+=====PAGE 15=====
+Alternative Solutions Guide
+13
+For a fire-resistance rating on an alternative solution 
+basis, the level of performance can be demonstrated by 
+an engineering analysis, which may involve a detailed 
+review of the fire behaviours of the proposed mass timber 
+design. The following are some engineering approaches to 
+justifying the level of performance: 
+• Mass Timber Char Rate: For mass timber structural 
+design, char analysis is required to be carried out in  
+order to determine the fire-resistance rating. The charred 
+layer can be calculated to estimate the charred thermal  
+insulating thickness and the residual load-bearing 
+capacity of the structural elements. The estimation of 
+uncharred residual mass timber elements is a critical 
+design parameter in establishing a fire-resistance rating. 
+The determination of the charred layer and a char rate 
+other than pre-established design rates, such as those 
+provided in Division B, Appendix D of the BC Building 
+Code or CSA O86, “Engineering design in wood”, can  
+be addressed in an alternative solution. Justification  
+will be required if alternate methods are used. 
+• Engineering Calculations and Modelling: As part of 
+fire-resistance rating analysis, engineering calculations 
+can be performed based on the materials and 
+composition to determine the rating for the assembly. 
+The calculations may be carried out in the form 
+of computer modelling simulations, such as 3D 
+computation fluid dynamics (CFD) fire models or 2D 
+heat transfer calculation using the finite element method 
+(FEM). Fire modelling tools, such as Fire Dynamics 
+Simulator (FDS) by NIST and OpenFOAM, are commonly 
+used CFD modelling packages that may provide insight 
+into compartment temperature in order to estimate 
+fire exposure conditions. These tools are often used to 
+study more complex fire design including performance 
+in terms of fire-resistance rating. 
+Engineering calculations of this nature are complex and 
+require specialized knowledge to perform properly. 
+Qualifications of practitioners should be provided if 
+these calculations are included as part of an alternative 
+solution report. 
+The selection of modelling tool or calculation method 
+for an alternative solution should be well documented 
+with assumptions clearly stated when carrying out 
+calculations and fire simulations. Justification should 
+be provided by the fire engineer for the choice of fire 
+models or other engineering tools to confirm suitability 
+for the objective of analysis. These aspects should  
+form part of the alternative solution documentation  
+for the AHJ. 
+If performed and documented properly, engineering 
+calculations and modelling can be presented to 
+demonstrate the level of performance offered by an 
+alternative solution design in terms of fire-resistance 
+rating for mass timber design. 
+• Combination of Passive and Active Fire Protection 
+Measures: It is not uncommon to address existing 
+conditions by an alternative solution for a renovation 
+project where existing mass timber elements are 
+deemed insufficient to provide the required fire- 
+resistance rating, triggered as a result of the renovation 
+project. 
+Depending on the deficiency of the existing conditions, 
+the shortfall may be addressed by the following 
+approaches using passive and active protection 
+measures: 
+• addition of fire resistive materials, where deficient
+• additional compartmentation
+• provision of additional fire protection systems such 
+as sprinkler protection
+Similar to fire safety design for a non-mass timber 
+project, the concept of fire risk can be applied to 
+determine the level of safety of a particular design. 
+Given the deficiency of the existing conditions, 
+rationales for such design approach may be supported 
+by fire risk analyses, by which the fire hazards specific 
+to the project are identified and evaluated. On this 
+basis, an appropriate design solution can be developed 
+and demonstrated to address the level of fire risk 
+while working within the constraints associated with 
+the existing conditions. Fire risk analysis should be 
+developed and performed with consideration given to 
+the probabilistic and deterministic aspects of the fire 
+safety concerns addressed, in order to establish the 
+level of safety provided by the design as a performance 
+parameter within the context of an alternative solution. 
+Similar to engineering calculations and fire simulations 
+discussed above, it is important to include proper 
+documentation on the choice of fire risk assessment 
+methodologies and assumptions as part of the 
+alternative solution development process. 
+
+=====PAGE 16=====
+Alternative Solutions Guide
+14
+The foregoing discusses primarily the fire performance 
+of mass timber design within the context of alternative 
+solutions. It should be noted that the fire-resistance 
+rating for structural elements consists of both fire 
+performance and structural performance. When an 
+alternative solution is proposed to address performance 
+with respect to the required fire-resistance rating, 
+both fire and structural performances should be taken 
+into consideration from a compliance standpoint. 
+The scope and limitations of the alternative solution 
+should be clearly indicated in the documentation by 
+the proponent. It is not uncommon to demonstrate the 
+level of performance of an alternative solution design 
+by a collaborative effort between fire and structural 
+engineers addressing mass timber fire rating.  
+Excess in Building Area and Building Height
+The use of an alternative solution addressing excess 
+building area or building height for combustible 
+construction and EMTC in order to achieve code 
+compliance is typical design practice, for new construction 
+in particular. This approach can also be used for building 
+expansion or addition projects. In these cases, careful 
+evaluation of the existing conditions will be required. The 
+rationales for these types of alternative solutions may 
+vary depending on project-specific conditions. However, 
+despite project-specific conditions, the applicable 
+fire safety concerns associated with excess area and 
+height correspond to the attributed code objectives 
+and functional and intent statements for applicable 
+construction requirements under Division B, Subsection 
+3.2.2, notably [F02,F04-OS1.2,OS1.3] and [F02,F04-
+OP1.2,OP1.3] per Division B, Table 3.10.1.1.
+Essentially, the alternative solution should address how 
+the design limits the severity of fire [F02] and limits the 
+risk of structural failure or collapse [F04]. Rationales and 
+discussions should be provided accordingly specifically 
+for these fire safety concerns. In most cases, the design 
+approach would be based on the following design 
+considerations: 
+• Enhanced Compartmentation: One viable strategy to 
+limit the risk of fire severity in combustible construction 
+is to provide enhanced compartmentation. The fire 
+concern addressed by this code objective is the 
+contribution to fire growth from combustible building 
+materials in the excess building area and height 
+(additional storeys). This can be achieved by additional 
+vertical fire separations beyond what is prescribed 
+by the BC Building Code as well as increased 
+fire-resistance rating of fire separations. It can be 
+determined that with increased passive protection from 
+incorporating added fire separations and higher fire-
+resistance rating, the overall design would offer a level 
+of performance at least equivalent to an acceptable 
+solution in Division B of the BC Building Code.  
+In addition, increased fire-resistance rating will reduce 
+the risk of structural failure and collapse, as structural 
+elements are more fire resistive to the same degree of 
+fire exposure in theory, as well as to fire spreading from 
+one compartment to another. The impact of increased 
+fire-resistance rating on vertical and horizontal fire 
+spread can be determined accordingly based on the 
+project design.
+On this basis, the intrinsic fire concerns from the 
+combustible building materials within the excess 
+building area or storeys can be addressed by this 
+passive protection design approach.
+• Enhanced Fire Protection Systems: Enhanced active 
+fire protection systems can also be an effective design 
+approach to address fire severity. The following is list of 
+potential design approach to increase the level of fire 
+safety in a building with excess area or height on  
+an alternative solution basis: 
+ – Enhanced sprinkler protection by increasing design 
+area and reliability of water supply.
+ – Additional pressurization to limit smoke and fire 
+movement.
+ – Enhanced ventilation to limit cumulation of fire gases 
+within a building.
+The level of performance for these active protection 
+design features should be demonstrated following the 
+framework for establishing an acceptable alternative 
+solution as provided by the BC Building Code. Similar 
+to alternate methods for determining fire resistance 
+rating for mass timber elements, evaluation of system 
+performance in addressing fire risk should be carried out 
+by qualified professionals with proper documentation  
+of design analysis, assumptions, factor of safety, etc. 
+• Fire Department Provisions: As shown in research by 
+fire scientists, the severity of fire, usually expressed in 
+heat release rate, is a function of time. More specifically, 
+the progression of fire at its initial stage tends to ramp 
+up as more and more combustible contents are involved 
+
+=====PAGE 17=====
+Alternative Solutions Guide
+15
+in the fire condition. Given this initial upward trend in fire 
+severity, the response time of emergency responders 
+such as the fire service can be critical at the initial stage 
+for intervening and controlling the fire in order to limit 
+further fire growth. 
+To address this from a design standpoint, fire 
+department provisions such as emergency response 
+entry points to buildings, access route design, 
+firefighting installation locations, etc. can play a role in 
+reducing the time required for emergency responders 
+to get to the fire. While the provisions of the BC Building 
+Code are based on certain assumptions such as fire 
+service response time to arrive on scene, the building 
+design with respect to fire department provisions can 
+be improved to facilitate firefighting operations in case 
+of emergency. 
+Although not specifically addressed by the code 
+objectives, enhanced fire department provisions such as 
+the following may constitute effective means to address 
+objectives [F03] and [F04].  
+• Additional targeted fire department entry lobbies
+• Access routes in close proximity
+• Building perimeter served by access routes in close 
+proximity
+• Enhanced fire detection and signalling devices within 
+the building
+• Enhanced fire department notification
+• Additional fire hydrants and fire department 
+connections
+• Provision of voice communication
+• Additional hose connections 
+Beyond building design and a building’s surroundings, 
+additional consideration can also be given to the type 
+of responding fire service, such as the availability 
+of on-duty fire responders, travel distance from the 
+closest firehall to the project building, and strategically 
+synchronized traffic control measures, which may 
+potentially have an impact on the response time to the 
+building upon reception of a dispatch call. 
+While building design and these additional considerations 
+relate to firefighting operations, discussion with the 
+responding fire department may be required to develop 
+an optimal solution based on the characteristics of the 
+project as well as stakeholders’ fire safety concerns.
+One area of building design that does not affect building 
+protection or damage but is related to life safety is 
+the topic of egress. Alternative solutions that involve 
+a reduction in travel distance or otherwise reduce the 
+risk to building users when exiting the building may 
+not directly respond to code objectives related to the 
+alternative solution in question, but may increase the 
+willingness of the AHJ or fire department to engage 
+with the project team to find solutions, and show the 
+flexibility of the project team in providing design options 
+that increase the life safety parameters of the building. 
+This engagement and discussion on quantitative and 
+qualitative requirements is critical to encouraging 
+dialogue between project teams and those reviewing 
+alternative solutions. 
+
+=====PAGE 18=====
+Alternative Solutions Guide
+16
+Troubleshooting and Moving Forward
+Developing alternative solutions means navigating codes, building science, and the 
+approvals process in a methodical way. The need for alternative solutions arises when 
+the pathways for code compliance through prescriptive routes are impractical or limiting 
+in some way. It is unreasonable to imagine that the building code optimally anticipates 
+the incredible variety of building types and configurations possible. Using a systematic 
+approach that demonstrates the intent and functionality required by the code are satisfied 
+using defensible alternate means relies on rational evaluation, thorough analysis, and  
+a practical mindset. 
+At the same time, AHJs must exercise their judgement when considering proposals for alternative solutions. It is important 
+to recognize their role and ensure any proposal is justified and defensible. 
+When developing an alternative solution related to innovative uses of mass timber, a number of considerations will help 
+troubleshoot common and predictable obstacles.
+Authorities Having Jurisdiction
+Undertaking any building project normally requires 
+approval from the municipality. Straightforward 
+applications that comply with land use regulations and the 
+prescriptive requirements of the appropriate building code 
+generally proceed predictably to achieve development and 
+building approval. Timber buildings that seek alternative 
+solutions to achieve code compliance generally invite 
+greater scrutiny, and often involve consideration by the 
+local planning department, building department, and fire 
+department.
+Early input
+Collaborating with representatives from the AHJ to shape 
+how the alternative solution is devised should be prioritized 
+wherever possible. Communicating the intent of the 
+alternative solution, and the specific strategies proposed, 
+at the earliest opportunity will help create conditions where 
+the proposal is accepted. Socializing the approach to code 
+compliance early will help reduce risk, as the eventual 
+application will be familiar and will have responded to 
+specific directives or concerns.
+Expect misalignment, at least to start
+With the imperative to reduce greenhouse gas emissions, 
+politically-driven measures to encourage or incentivize 
+more timber buildings are a feature of the current culture, 
+generally falling within a broader regulatory context that 
+is not optimized to enable mass timber construction. 
+Balancing building safety with imperatives to reduce 
+carbon emissions from construction is challenging, and  
+not implicitly contemplated by the building code.
+Fire officials
+Local fire departments have a critical mandate for fire 
+safety in the community. There are two main factors to 
+anticipate – the fire safety of the building in operation, and 
+the fire safety of the building project during construction. 
+In each case fire officials consider the intent and 
+requirements of the code, as well as their own capabilities 
+and factors related to the specific application. Expect 
+varying comprehension around timber construction 
+between jurisdictions. It is highly important to share 
+detailed and well-prepared Construction Safety Plans with 
+the fire department, particularly where new or innovative 
+timber building approaches are applied. Consultation 
+with fire officials is recommended as early as practical, 
+to gain their perspective and favourable disposition, and 
+to influence the development of the alternative solution 
+to quickly find consensus. Late involvement may result in 
+unforeseen requirements, resistance, or reluctance.
+
+=====PAGE 19=====
+Alternative Solutions Guide
+17
+Peer review
+Building departments at municipalities have limited 
+resources and may have little familiarity with mass timber 
+construction. One strategy to alleviate this concern is to 
+arrange an independent peer review of the alternative 
+solution for consideration by the AHJ. Retaining an 
+independent expert to review the proposed alternative 
+solution provides professional reassurance and can help 
+in examining the content of the proposal in parallel with 
+the authority to provide peace of mind and a spirit of 
+professional collaboration.
+Material supply
+The mass timber industry is global, with competition and 
+variations across provincial and national boundaries. 
+Clients, contractors, engineers, and architects may seek 
+mass timber supply from out-of-province or international 
+sources to pursue more favourable cost, scheduling, 
+value-added inducements, or other considerations. Unless 
+explicitly manufactured to the domestic standards required 
+by the regulations at your project site, expect additional 
+effort to confirm the performance requirements and 
+necessary certifications. Specific requirements related to 
+adhesives, moisture durability, and fire performance are 
+among the characteristics of certifications that may vary 
+between jurisdictions. Determine compliance requirements 
+in advance, as there are likely to be cost and scheduling 
+implications for any equivalency or evaluation sought to 
+confirm compliance.
+Compatibility with other systems
+Special consideration must be made to ensure that all the 
+elements enabling timber construction are accounted for 
+in the alternative solution. In short, alternative solutions that 
+involve timber inevitably also encounter factors beyond 
+the wood itself. A particular consideration relates to the 
+design of connections and overall agreement with the 
+fire resistance strategy of the alternative solution. For 
+instance, steel connections must be evaluated for their 
+exposure; a common example is the design of screw-
+based shear connectors. In many cases, additional wood 
+cover is required to conceal and protect the steel elements 
+from heat, or other methods of fire and heat resistance 
+employed (such as intumescent coatings). Consideration 
+for penetrations through timber elements that may impact 
+a fire-resistance rating is also key, as fewer standard joint 
+or penetration designs exist, often resulting in specific 
+engineering judgements.
+Worth the effort
+Pursuing an alternative solution to enable timber 
+construction demands greater planning and collaboration, 
+and as the building code evolves, so too will buildings 
+and the materials and methods we use to make them. 
+The imperative to reduce GHG emissions from buildings 
+means mass timber construction is likely to become more 
+widespread.
+Alternative solutions are one tool for enabling the design 
+and construction industry, and the projects constructed, 
+to evolve and progress to meet the needs of society. 
+Like all tools, it should be used carefully and in the right 
+circumstances to ensure applicants and reviewers are able 
+to provide a built environment that will continue to provide 
+safe and resilient shelter for a constantly changing world. 
+The alternative solutions of today can lay the foundation for 
+the acceptable solutions of tomorrow. The time and effort 
+invested to innovate within the confines of the regulatory 
+system provide invaluable progress in developing future 
+prescriptive code content and ensuring our building codes 
+reflect continuing innovations in our built environment.
+Additional Resources
+A number of useful references are available that provide 
+detailed information concerning timber construction:
+• Thinkwood 
+• NRC 
+• FPInnovations 
+• SFPE association 
+• International Fire Code and International Building  
+Code – since the 2021 version applying to tall buildings 
+up to 18 storeys
+
+=====PAGE 20=====
+Examples
+Photo Credit: naturally:wood
+
+=====PAGE 21=====
+Alternative Solutions Guide
+19
+Below are three typical short form 
+examples of alternative solutions intended 
+to address issues related to mass timber 
+construction. These are followed by two 
+long form examples following the City of 
+Vancouver alternative solution format, 
+including commentary to indicate why 
+certain content has been included.   
+Short Form Examples
+1  
+  3-Storey Mass Timber Community Centre  
+and Library 
+Project Description: This is the construction of a new 
+community centre, library, and natatorium which is 3 
+storeys in building height with Group A, Division 2 major 
+occupancy for which a hybrid mass timber and concrete 
+construction is proposed. 
+Code References: Sentence 3.2.2.24.(2) of BC Building 
+Code 2018 pointing to [F02-OS1.2] and [F02-OP1.2] relating 
+to noncombustible construction.
+Division B Acceptable Solution: To construct the project 
+building with noncombustible materials meeting the 
+definition of BCBC.
+Alternative Solution: To allow use of mass timber  
+elements in a building prescribed to be of noncombus tible 
+construction beyond what is permitted under Division B, 
+Subsection 3.1.5.
+Rationales: The level of performance was established 
+based primarily on fire control/suppression system with 
+enhanced reliability, enhanced exiting strategy, and fire 
+department access to building. Discussions were provided 
+to address pre-flashover and post-flashover conditions of 
+the proposed design in relation to the use of mass timber. 
+It was demonstrated that the level of performance by the 
+alternative solution was at least equivalent to that of a 
+Division B solution. 
+
+=====PAGE 22=====
+Alternative Solutions Guide 20
+ 2   Firewall in Mass Timber (CLT) Construction
+Project Description: This is a new construction of a 
+residential project which is 7 storeys in building height 
+with Group C major occupancy for which mass timber 
+construction is proposed. The building area of the complex 
+is over the 1500m2 limit for a single 6-storey building  
+of combustible construction. 
+Code References: Sentence 3.1.10.2.(2) of BC Building 
+Code 2012 pointing to [F03-OS1.2], [F03-OP1.2] and  
+[F03-OP3.1] relating to combustibility of firewall 
+construction.
+Division B Acceptable Solution: To construct firewall with 
+noncombustible materials meeting the definition of BC 
+Building Code.
+Alternative Solution: To allow use of cross-laminated 
+timber (CLT) for firewall construction.
+Rationales: The level of performance was established 
+based primarily on relevant fire tests for the required fire 
+resistance rating. Additional discussions are provided for 
+the firewall design details such as structural independence, 
+penetrations, openings, connections, and issues 
+surrounding differential shrinkage. 
+3  
+  Combustible Midrise in a Highrise Building  
+on a Sloping Site
+Project Description: This is a new residential complex as a 
+high building with a midrise component. The Tower portion 
+is over 30 storeys in building height while the Midrise is up 
+to 8 storeys. Both the Tower and Midrise are constructed 
+on a noncombustible podium serving as a storage garage 
+on a sloping side. The Midrise is considered a separate 
+building for the purpose of construction requirements 
+under Division B, Subsection 3.2.2.
+Code References: Article 3.2.2.50 of BC Building Code 
+2018 pointing to [F02,F04-OS1.2,OS1.3] and [F02,F04-
+OP1.2,OP1.3] regarding building height limits.
+Division B Acceptable Solution: To limit the combustible 
+Midrise to up to 6 storeys in height.
+Alternative Solution: To allow combustible construction 
+for the top 6 floors of the Midrise while the rest is 
+noncombustible construction.
+Rationales: The level of performance was established 
+based primarily on enhanced compartmentation, 
+enhanced protection measures to limit fire spread using 
+a similar approach to building separation per Article 
+3.2.1.2, availability of targeted fire department access 
+points, access routes serving the building, and additional 
+measures with respect to spatial separation between 
+components of the building.
+
+=====PAGE 23=====
+Alternative Solutions Guide
+21
+Long Form Examples
+Alternative Solution Sample:  
+Flame Spread of Interior Combustible  
+Ceiling Finish
+Commentary: It should be noted that the format of this 
+sample alternative solution follows the City of Vancouver 
+alternative solution template to present information in a 
+consistent manner for this guide.
+1. 
+Brief Building Description and Scope of Project
+Commentary: A brief description of the project or 
+building provides context and basic information to the 
+authority having jurisdiction and demonstrates that  
+the alternative solution author has a basic knowledge 
+of the project or building as a whole and that the 
+author has not just focused on building design or 
+construction relative to the subject code requirement. 
+The description should be a paragraph or two and 
+include the characteristics of the overall building,  
+major occupancy classification(s), use, applicable  
+construction requirements and nature of the 
+alternative solution. 
+This project involves the construction of a new 
+12-storey mixed use commercial office tower over a 
+3-level below grade parkade. The building will be of 
+encapsulated mass timber construction for above 
+grade storeys and noncombustible construction for 
+the below grade parkade. The building will include 
+commercial retail units (Group E) and a restaurant 
+(Group A, Division 2) on the main floor, as well as an 
+entry lobby and public corridors to access stores.  
+The second storey will include an English language 
+school (Group A, Division 2). The third to twelfth  
+storey will include multiple business and personal 
+services suites (Group D) served by a central public 
+corridor. The building will be equipped with automatic 
+sprinkler, standpipe and fire alarm and detection 
+system. The building is considered a high building  
+and will be subject to the measures and requirements 
+of Subsection 3.2.6.
+Commentary: Some background on why the 
+alternative solution is proposed or desired should be 
+included. The description should cover where, why and 
+how. Typically, alternative solutions arise from a design, 
+site or construction challenge, or a design innovation 
+or vision, or may be a result of an energy target, design 
+specification, goal or an incentive that must be met  
+for the project.
+The first storey entry lobby and public corridor system 
+include a double height ceiling. To maintain the historic 
+aesthetics of this commercial block it is proposed 
+to include combustible interior ceiling finishes at 
+the first storey entry lobby and public corridor using 
+25mm thick wood planks. The wood planks will be 
+Pacific Coast yellow cedar, which has a flame spread 
+rating of 50 based on testing done at the Hardwood 
+Plywood Veneer Association in conformance with 
+CAN/ULC-S102 “Standard Method of Test for Surface 
+Burning Characteristics of Building Materials and 
+Assemblies”. As the proposed ceiling finish has an 
+assigned flame spread rating of 50, this exceeds the 
+flame spread rating of 25 permitted for ceilings by 
+Sentence 3.1.18.12.(2). It is proposed to apply a fire-
+retardant coating to the subject cedar wood ceiling 
+finish to reduce the surface flame spread rating of 
+the proposed ceiling finish and achieve a level of 
+performance as well as intended by the building code.
+2. 
+Applicable Building Code References
+Commentary: This is really step one when considering 
+an alternative solution, first the author must carefully 
+read through the applicable Article, Subsection, 
+Section and possibly the entire Part of the building 
+code to account for all references, cross-references 
+and exceptions that may need to be addressed as 
+part of the alternative solution. For clarity only state 
+the applicable Division B acceptable solution(s) the 
+proposed design deviates from and state relevant 
+exceptions or criteria specified by the acceptable 
+solution. The less references stated, the more reader 
+friendly the alternative solution will be. In this case  
+only one acceptable solution reference is identified.  
+It should be noted that Article 3.1.4.5. only applies  
+to instances where the Building Code ‘requires’  
+the use of fire-retardant treated wood in Part 3.  
+This Article is not referenced as it is proposed to  
+use a fire-retardant coated wood product and  
+not a fire-retardant treated wood product.
+
+=====PAGE 24=====
+Alternative Solutions Guide 22
+The applicable building code reference for this 
+alternative solution is Division B Sentence 3.1.18.12.(3) 
+which is reproduced below for reference:
+Except as provided in Sentences (4) and 3.1.18.4.(3) 
+and (6), combustible interior ceiling finishes, other 
+than foamed plastics, that are not more than 25 mm 
+thick are permitted in a building or part of a building 
+permitted to be of encapsulated mass timber 
+construction, provided they have a flame-spread 
+rating not more than 25 on any exposed surface or 
+on any surface that would be exposed by cutting 
+through the material in any direction, except that not 
+more than 10% of the ceiling area within each fire 
+compartment is permitted to have a flame-spread 
+rating not more than 150. (See Note A-3.1.11.3.(3).)
+Key points of the above acceptable solution are:
+• A combustible ceiling finish not more than  
+25mm thick is permitted
+•  Foamed plastic combustible interior ceiling finishes 
+are not permitted
+•  The flame spread rating of the combustible material 
+cannot be more than 25
+•  Any exposed surface or any surface that would 
+be exposed by cutting through the material in any 
+direction cannot have a FSR more than 25
+•  Exception: 10% of the ceiling area in a fire 
+compartment is permitted a FSR of not more  
+than 150
+3. 
+ Functional and Objective Statement(s)  
+and Description of Intent
+Commentary: The purpose of objective and functional 
+statements is to identify the level of performance of  
+an acceptable solution. Typically, the building code 
+does not attribute objectives and functional statements 
+to references (acceptable solutions) that are an 
+exception. In these cases, it is necessary to identify  
+the root acceptable solution and use the statements 
+attributed to the root reference.
+Table 3.10.1.1. does not include statements attributed 
+to Article 3.1.18.12, as this Article provides exceptions 
+to Sentence 3.1.18.2.(1). Therefore, the statements 
+attributed to the root acceptable solution of Sentence 
+3.1.18.2.(1) have been applied.
+The following pair(s) of objectives and functional 
+statements attributed to Sentence 3.1.18.2.(1) are 
+identified by Division B Table 3.10.
+• F02-OS1.2
+• F02-OP1.2
+The above objectives and functional statements are 
+defined as follows:
+• F02: 
+ To limit the severity and the effects of fire 
+or explosions. 
+• OS1.2: 
+ To limit the risk of injury to occupants  
+due to fire impacting beyond its point  
+of origin. 
+•  OP1.2: 
+ To limit the risk of damage to building  
+due to fire impacting beyond its point  
+of origin.
+The below table is provided to paraphrase the above objectives/functional statement pairs and capture the level of 
+performance intended to be achieved.
+Sentence
+Statements
+Function
+Link
+Objective
+3.1.18.2.(1)
+[F02-OS1.2]
+To limit the severity and the effects 
+of fire or explosions on areas 
+beyond its point of origin,
+in order to
+reduce the risk of injury to 
+occupants in or adjacent to  
+a building.
+[F02-OP1.2]
+To limit the severity and the effects 
+of fire or explosions on areas 
+beyond its point of origin, 
+in order to
+reduce the risk of damage  
+to a building
+
+=====PAGE 25=====
+Alternative Solutions Guide 23
+Intent statements for most acceptable solutions 
+are published online by the National Codes Council 
+for the National Building Code 2015, which the 
+current building code in effect in British Columbia is 
+modelled after. Intent statements provide explanatory 
+commentary for the subject acceptable solutions. 
+Intent statements for encapsulated mass timber 
+construction did not exist under the NBCC 2015 
+edition. Since Sentence 3.1.18.2.(2) references that 
+materials in buildings permitted to be of EMTC 
+conform to Subsection 3.1.5., the intent statement for 
+Sentence 3.1.5.1.(1) is included below as the same pairs 
+of objective and function statements also apply:
+Intent 1: 
+To clarify what constitutes noncombustible 
+construction.
+Intent 2: 
+To limit the probability that construction materials  
+will contribute to the growth and spread of fire,  
+which could lead to harm to persons or to damage  
+to the building.
+Intent 1 above is not relevant to this alternative  
+as the building will be constructed of EMTC. Therefore, 
+intent 2 clarifies that the objectives and functional 
+statements are to limit the probability the subject 
+combustible interior ceiling finishes will not contribute 
+to the growth or spread of fire in the building.
+4. 
+Summary of Solutions/List Mitigating Features
+Commentary: Prior to developing an alternative 
+solution, the feasibility of a concept or approach is 
+commonly assessed to see what works and what 
+does not. This includes vetting and detailing options, 
+or reverse engineering using a qualitative analysis to 
+assess performance. To identify a concept, the author 
+must consider available options and the feasibility 
+of these options. This can be an initial brainstorm 
+with a brief list of options based on discussion with 
+coworkers, peers, design consultants, building owner, 
+key stake holders, etc. For this alternative solution, 
+several bullet points are provided below as examples 
+of possible conceptual solutions and why they may  
+or may not work.
+•  Use a noncombustible wood like material as  
+the interior ceiling finish? 
+This does not meet the architects’ design vision, 
+specification. Also using a noncombustible material 
+does not provide the sustainability points required 
+to meet design certification being sought.
+•  Provide enhanced sprinkler protection by 
+increasing the sprinkler density? 
+This is not practical as increasing the density is 
+good at controlling the spread of a fire but is not 
+likely to provide a reduction in flame spread of a fire 
+along ceiling surfaces if ignited.
+•  Use FRT wood? 
+This is a good option, but not feasible due to colour 
+change from FRT process and an estimated higher 
+material cost.
+•  Use a factory or field applied fire retardant coated 
+(FRC) wood to reduce the flame spread rating?  
+This appears to be feasible as there are coatings 
+available that will not alter the wood colour or 
+appearance over time and there are coatings that 
+meet the same test requirements of FRT wood.  
+The high ceiling height of the subject space 
+reduces the probability of surface damage/ 
+integrity of the coated wood.
+
+=====PAGE 26=====
+Alternative Solutions Guide 24
+It is proposed to use a fire-retardant coated wood as 
+the interior ceiling finish at the double height ceiling of 
+the first storey entry lobby and public corridor to meet 
+the flame spread limit of not more than 25 required and 
+material integrity required by the acceptable solution 
+as follows:
+• To address the flame spread rating is no more  
+than 25:
+ – The subject wood ceiling finishes will be  
+installed at the first storey entry lobby and  
+public corridor only.
+ – Use only Pacific yellow cedar plank as the wood 
+ceiling finish which naturally has a low flame 
+spread rating not more than 50.
+ – Use a factory or field applied fire-retardant 
+coating on all surfaces of the wood planks.
+ – Use a fire-retardant coating that has been tested 
+to CAN/ULC-S102 and does not exceed 25.
+• To address that the integrity of the flame spread 
+rating is maintained if the material is cut in any 
+direction:
+ – Touch up all cuts in the field with the same fire-
+retardant coating.
+ – The entry lobby and public corridors have a 
+double height ceiling, approximately 6 metres 
+high. The high location of the combustible ceiling 
+finish reduces the probability of the finished 
+ceiling surface being damaged from use of the 
+building below.
+ – Incorporate inspection and maintenance 
+procedures for the subject ceiling finish as part 
+of the maintenance schedule in the building’s  
+fire safety plan.
+5. 
+Analysis and Evaluation to Validate Acceptance
+Commentary: First, it’s important to state what the 
+expected performance criterion of the acceptable 
+solution is. This statement accounts for the wording of 
+the acceptable solution, and the applicable objective, 
+functional and intent statements.
+The intent of the acceptable solution in prescribing 
+a flame spread limit is to reduce the probability of a 
+combustible interior ceiling finish contributing to the 
+growth or spread of fire in the building. Therefore, a 
+flame spread limit of not more than 25 is considered by 
+the building code as the acceptable limit. It should be 
+noted that the building code requires the flame spread 
+rating of a material to be determined based on a series 
+of tests conducted in accordance with CAN/ULC-S102. 
+Further, the acceptable solution requires that the 
+ceiling finish material not exceed the flame spread limit 
+if it is cut in any direction. This requirement is meant to 
+address the integrity of the ceiling finish material, that 
+if the surface of the material is cut or damaged, the 
+flame spread limit will not be exceeded.
+Based on the above a performance criterion of the 
+acceptable solution can be set as follows:
+1. Does the combustible ceiling finish material have a 
+surface flame spread rating not more than 25, and
+2. Will the combustible ceiling finish material 
+contribute to growth and spread of fire in the 
+building if it is cut in any direction due to the 
+exposed flame spread rating?
+Commentary: Next provide an analysis and evaluation 
+to validate the proposed alternative solution approach 
+with reference to evidence such as manufacturer’s 
+literature, product data sheets, fire test reports 
+(if available), research papers or other technical 
+literature. This should describe the performance of the 
+alternative solution and how the performance of the 
+acceptable solution is being met.
+
+=====PAGE 27=====
+Alternative Solutions Guide 25
+As noted earlier it is proposed to install 25mm thick 
+Pacific yellow cedar plank as the ceiling finish at the 
+entry lobby and public corridors on the first storey 
+of the building, in this case architectural details for 
+the project illustrate that the cedar wood planks 
+will be fastened directly to the gypsum board that 
+encapsulates a CLT floor slab above. 
+The Pacific yellow cedar planks have a surface 
+flame spread rating of 50 based on a series of tests 
+conducted in conformance with CAN/ULC-S102. 
+Therefore, the flame spread limit of the subject wood 
+ceiling finish is naturally low for a wood product; 
+however, it is more than the 25 limit required by 
+Sentence 3.1.18.(3) for combustible ceiling finishes in 
+buildings of encapsulated mass timber construction. 
+The following discusses the proposed alternative 
+solution approach and performance.
+Flame Spread Rating
+1.  To reduce the flame spread rating of the Pacific 
+yellow cedar wood plank ceiling finish it is 
+proposed to apply Product X, which is a fire-
+retardant coating that will be applied to all surfaces 
+of the cedar planks. Product X was tested on 
+red oak in conformance with CAN/ULC-S102 
+and Product X data sheets indicate a flame 
+spread rating of 20 was obtained when applied in 
+accordance with the manufacturer’s literature. Red 
+oak is a benchmark material used in S102 flame 
+spread tests and has a natural flame spread rating 
+of 100, which is double the natural flame spread 
+rating of Pacific yellow cedar. Therefore, the cedar 
+wood planks coated with Product X will meet the 
+flame spread rating of 25 (or perform better) as 
+required by the building code.
+2.  Manufacturer data sheets indicate that  
+Product X has also been tested in accordance 
+with ASTM E84 “Standard Test Method for Surface 
+Burning Characteristics of Building Materials” 
+and ASTM E2768 “Test Method for Extended 
+Duration Surface Burning Characteristics of 
+Building Materials”, which are commonly referred 
+to as the 30-minute E84 test. The CAN/ULC-S102 
+flame spread test is similar to the ASTM E84 
+test; both use the same test apparatus (Steiner 
+tunnel), benchmark materials (cement board and 
+red oak), and 10-minute test duration measuring 
+flame front propagation starting at a zero point. 
+A key difference between CAN/ULC-S102 and 
+ASTM E84 is that S102 provides a flame spread 
+rating based on the average flame spread value of 
+a minimum of three consecutive successful tests 
+while the E84 test provides a flame spread index 
+based on calculated rate and total distance of 
+flame propagation from one successful test.
+The ASTM 2768 is similar but also measures flame 
+propagation for a total 30-minute duration from 
+the centreline of the burner, with the passing 
+criteria being that the flame does not progress 
+more than 3.2m beyond the centreline of the 
+burner. Successfully meeting the conditions 
+of the ASTM 2768 test provides evidence that 
+the surface material does not contribute to 
+significant progressive combustion. In this case the 
+manufacturer provided an excerpt from the ASTM 
+2768 test report which indicates that the flame 
+front did not advance more than 900mm beyond 
+the centreline of the burner. 
+Since flame propagation beyond 10-minute 
+time frame is not a passing criterion of the CAN/
+ULC-S102 standard or ASTM E84 standard alone, it 
+can be reasonably considered that a fire-retardant 
+coating which further inhibits propagation for an 
+additional 20 minutes is better performing than  
+a coating that is tested to CAN/ULC-S102 or  
+ASTM E84 only. This provides further evidence 
+that fire-retardant coated wood ceiling finish using 
+Product X will perform as well as or better than  
+the building code maximum permitted ceiling 
+flame spread limit of 25.
+
+=====PAGE 28=====
+Alternative Solutions Guide 26
+3. To address the quality of Product X application  
+the coating will be factory applied or field applied. 
+A factory applied process provides consistency 
+that replicates the quality of the coating applied  
+for successful flame spread testing. If Product X  
+is field applied on entire planks (not just cut 
+ends) acceptance testing will be provided by a 
+manufacturer’s representative or qualified third 
+party to comment that the quality of the application 
+is consistent with manufacturer’s installation 
+literature.
+Combustible Ceiling Finish Integrity
+1. All sides of the cedar ceiling planks will be coated 
+with Product X, either factory applied or field 
+applied as noted above. Cuts along the ends 
+of ceiling planks have a small surface area and 
+are usually butted against other ends or walls, 
+therefore these areas will not be exposed when 
+installed. Except for recessed sprinklers and 
+lighting units no other penetrations of the finished 
+ceiling are expected.
+To address the cutting concern of the acceptable 
+solution and the integrity of the ceiling finish 
+material, in situations where cedar ceiling planks 
+are cut to suit site conditions or penetrations, 
+Product X will be applied to all cut ends in 
+accordance with manufacturer’s literature. This  
+will maintain the integrity of the flame spread  
+rating at the ceiling.
+2. A minimum headroom clearance of 2.05m is 
+required by the building code. The entry lobby 
+and public corridors have a double height ceiling, 
+approximately 6 metres high, which is almost 3 
+times the minimum ceiling height permitted by the 
+building code. It should be noted that the main floor 
+plan is designed so that merchandise or material 
+deliveries occur via a loading bay and back of 
+house corridor.
+Therefore, based on the floor plan design and 
+the high location of the combustible ceiling finish 
+the integrity of the ceiling finish is expected to be 
+well maintained and the probability of the finished 
+ceiling surface being damaged from circulation 
+use of the entry lobby and public corridor below 
+is significantly reduced compared to a minimum 
+permitted ceiling height.
+3. To further address the integrity of fire-retardant 
+coating at main floor entry lobby and public 
+corridor ceiling finish, inspection and maintenance 
+procedures for the subject ceiling finish will be 
+incorporated into the building’s fire safety plan. As 
+a minimum, the maintenance plan should include 
+a frequent visual inspection of the ceiling finish 
+by building operation or maintenance staff to the 
+same degree that the fire code requires inspection 
+and maintenance of fire doors. In cases where new 
+penetrations or damage to the ceiling is observed, 
+the fire safety plan should include a procedure for 
+the touch up of such areas using Product X. 
+
+=====PAGE 29=====
+Alternative Solutions Guide
+27
+Alternative Solution Sample: 
+Curtain Wall Firestop System
+Commentary: It should be noted that the format of this 
+sample alternative solution follows the City of Vancouver 
+alternative solution template to present information in a 
+consistent manner for this guide.
+1. 
+Brief Building Description and Scope of Project
+Commentary: A brief description of the project or 
+building provides context and basic information to 
+the authority having jurisdiction and demonstrates 
+that the alternative solution author has a basic 
+knowledge of the project or building as a whole 
+and that the author has not just focused on building 
+design or construction relative to the subject code 
+requirement. The description should be a paragraph 
+or two and include the characteristics of the overall 
+building, major occupancy classification(s), use, 
+applicable construction requirements and nature of 
+the alternative solution. 
+This project involves the construction of a new 
+12-storey mixed use commercial office tower over a 
+3-level below grade parkade. The building will be of 
+encapsulated mass timber construction for above 
+grade storeys and non-combustible construction for 
+the below grade parkade. The building will include 
+commercial retail units (Group E) and a restaurant 
+(Group A, Division 2) on the main floor, as well as an 
+entry lobby and public corridors to access stores.  
+The second storey will include an English language 
+school (Group A, Division 2). The third to twelfth storey 
+will include multiple business and personal services 
+suites (Group D) served by a central public corridor. 
+The building will be equipped with automatic sprinkler, 
+standpipe and fire alarm and detection system.  
+The building is considered a high building and will 
+be subject to the measures and requirements of 
+Subsection 3.2.6.
+Commentary: Some background on why the 
+alternative solution is proposed or desired should be 
+included. The description should cover where, why and 
+how. Typically, alternative solutions arise from a design, 
+site or construction challenge, or a design innovation 
+or vision, or may be a result of an energy target, design 
+specification, goal or an incentive that must be met for 
+the project.
+Commentary: Design innovation and construction 
+techniques usually drive building code changes. 
+Utilizing prefabricated curtain wall façade systems 
+is becoming more frequent as a strategy to meeting 
+energy and speed of construction targets. Enclosing 
+a building quickly during construction provides other 
+benefits such as:
+– meeting fire code height limits of unencapsulated 
+construction by providing an enclosed space to 
+progressively sequence the encapsulation of floor 
+assemblies.
+– In some cases, meeting fire code requirements 
+for providing exposure protection to adjacent 
+properties during construction.
+The building design utilizes a prefabricated curtain 
+wall system which incorporates vertical and horizontal 
+aluminum mullions, insulated steel back pan spandrel 
+panels and near full height glazing. The curtain wall 
+system will be attached to the slab edge of CLT floor 
+slabs using aluminum fasteners and steel plates. The 
+installation of the curtain wall will leave a gap up to 
+200mm wide between the edge of the floor slab and 
+interior face of the curtain wall at the second storey 
+through to the twelfth storey. Sentence 3.1.8.3.(4) of 
+the building code requires the continuity of a floor fire 
+separation to be maintained where it abuts an exterior 
+wall. It is proposed to maintain the continuity of the 
+floor fire separation on an alternative solution basis 
+using a custom firestop detail.
+
+=====PAGE 30=====
+Alternative Solutions Guide 28
+2. 
+Applicable Building Code References
+Commentary: This is really step one when considering 
+an alternative solution, first the author must carefully 
+read through the applicable Article, Subsection, 
+Section and possibly the entire Part of the building 
+code to account for all references, cross-references 
+and exceptions that may need to be addressed as 
+part of the alternative solution. For clarity only state 
+the applicable Division B acceptable solution(s) the 
+proposed design deviates from and state relevant 
+exceptions or criteria specified by the acceptable 
+solution. The less references stated, the more reader 
+friendly the alternative solution will be. In this case only 
+one acceptable solution reference is identified. 
+The applicable building code reference for this 
+alternative solution is Division B Sentence 3.1.8.3.(4) 
+which is reproduced below for reference:
+The continuity of a fire separation shall be 
+maintained where it abuts another fire separation, 
+a floor, a ceiling, a roof, or an exterior wall assembly. 
+(See Note A-3.1.8.3.(4).)
+A-3.1.8.3.(4) Fire Separation Continuity. The 
+continuity of a fire separation where it abuts against 
+another fire separation, a floor, a ceiling or an 
+exterior wall assembly is maintained by filling all 
+openings at the juncture of the assemblies with  
+a material that will ensure the integrity of the fire 
+separation at that location.
+In this case a minimum 2-hour fire resistance rating 
+is required to be maintained for continuity of floor 
+assembly fire separations. The Note clarifies that  
+filling openings (joints) at the junction of a wall and  
+floor is a method of maintaining the integrity of the  
+fire separation.
+3. 
+ Functional and Objective Statement(s) and 
+Description of Intent
+Commentary: The purpose of objective and functional 
+statements is to identify the level of performance of an 
+acceptable solution.
+The following pair(s) of objectives and functional 
+statements attributed to Sentence 3.1.18.2.(1) are 
+identified by Division B Table 3.10.
+F03-OS1.2
+F03-OP1.2
+The above objectives and functional statements are 
+defined as follows:
+• F03: 
+ To retard the effects of fire on areas 
+beyond its point of origin. 
+• OS1.2: 
+ An objective of this code is to limit the 
+probability that, as a result of the design or 
+construction of the building, a person in or 
+adjacent to the building will be exposed to 
+an unacceptable risk of injury due to fire or 
+explosion impacting areas beyond its point 
+of origin. 
+•  OP1.2: 
+ An objective of this code is to limit the 
+probability that, as a result of its design or 
+construction, the building will be exposed 
+to an unacceptable risk of damage due to 
+fire or explosion impacting areas beyond its 
+point of origin.
+
+=====PAGE 31=====
+Alternative Solutions Guide 29
+The below table is provided to paraphrase the above objectives/functional statement pairs and capture the level of 
+performance intended to be achieved.
+Table 1 – Objective/Functional Statement Plans
+Sentence
+Statements
+Function
+Link
+Objective
+3.1.18.2.(1)
+[F03-OS1.2]
+To retard the effects of fire or 
+explosions on areas beyond its 
+point of origin,
+in order to
+reduce the risk of injury to 
+occupants in or adjacent to  
+the building
+[F02-OP1.2]
+To retard the effects of fire or 
+explosions on areas beyond its 
+point of origin, 
+in order to
+reduce the risk of damage to  
+the building
+Commentary: Intent statements for most acceptable 
+solutions are published online by the National Codes 
+Council for the National Building Code 2015, which the 
+current building code in effect in British Columbia is 
+modelled after. Intent statements provide explanatory 
+commentary for the subject acceptable solutions.
+Intent statements for Sentence 3.1.8.3.(4) are provided 
+for each functional and objectives statement pair. 
+The intent statements have been combined and 
+reproduced below for reference:
+Intent 1: 
+To limit the probability that fire will spread from one fire 
+compartment to another fire compartment through 
+gaps where the fire separation abuts other assemblies, 
+which could lead to harm to persons and/or damage  
+to the building or facility.
+Intent 1 clarifies that the objectives and functional 
+statements are to limit the probability of smoke and  
+fire spread and resulting consequences of fire spread, 
+e.g. injury to occupants and/or damage to the building.
+4. 
+Summary of Solutions/List Mitigating Features
+Commentary: The concept of this alternative solution 
+is relatively straightforward, use a custom firestop 
+system to fill the gap between the curtain wall and 
+edge of the floor slab. However, the problem with 
+firestopping curtain wall systems is multifaceted and 
+the following should be considered in developing the 
+alternative solution:
+• The CAN/ULC-S115 (2015 edition) firestop standard 
+referenced by the building code does not include 
+a means to evaluate firestopping of curtain wall 
+systems. Thus, there are no listed curtain wall 
+firestop systems meeting the acceptable solutions 
+of the building code.
+• A common approach to address the use of curtain 
+wall firestop systems is to apply the criteria of a 
+listed firestop system that was fire tested using 
+Standards referenced by U.S. building codes, such 
+as the ASTM E-2307 standard, which includes 
+specific methods for evaluating the firestopping  
+of curtain wall systems. 
+• The basic premise of this alternative solution is 
+to demonstrate that the ASTM E-2307 fire testing 
+method is a best practice in the absence of a 
+method referenced by the building code. Therefore, 
+the curtain wall system design being used must 
+exactly match the listing details; how it is attached, 
+design/configuration, building materials, firestop 
+materials etc. 
+
+=====PAGE 32=====
+Alternative Solutions Guide 30
+• A variety of listed firestop systems for fire tested 
+curtain wall systems using mass timber floor 
+assemblies are currently not available. At this time 
+there appears to be only one listed firestop system 
+for curtain walls attached to a mass timber floor.
+• In most cases proposed curtain wall systems 
+do not exactly match design listings. Common 
+deviations include attachment method, different 
+curtain wall configurations and/or different material 
+components. A criterion of the ASTM 2307 test is 
+that the firestop system remain in place for the test 
+duration. Therefore, the curtain wall assembly is 
+expected to adequately remain in place during the 
+test duration so that the firestop system does not 
+fail. As such the alternative solution needs to assess 
+and demonstrate that the integrity of the firestop 
+system will be maintained with deviations in  
+the curtain wall design.
+• Depending on the degree of deviation in curtain wall 
+system design from the listing some compensating 
+measures may need to be incorporated at the floor 
+to curtain wall interface such as additional support, 
+use of fire resistance rated bulkheads/pony walls 
+or additional firestop materials such as sealant 
+thickness, over spray or additional packing  
+material depth.
+• All aspects of the alternative solution should be 
+coordinated with design consultants such as 
+the architect, envelope, structural, and energy 
+consultants, general contractor and other project 
+team members as required. 
+It is proposed to maintain the continuity of the floor  
+fire separation by filling the gap between the curtain 
+wall and floor edge slab at the second storey through 
+to the twelfth storey using a custom firestop detail.  
+In the absence of a building code referenced Standard 
+that addresses firestopping of curtain walls, the 
+performance of the custom firestop detail has been 
+assessed based on comparison to Intertek design  
+no. STI/BPF 120-11, which is a curtain wall firestop 
+system that has successfully met the fire test 
+conditions of ASTM E2307 as providing a 2-hour  
+fire resistance rating at the edge of a mass timber  
+floor assembly.
+In this case details of the proposed firestop system  
+will include the following:
+• Minimum 150mm depth of 4pcf density mineral 
+wool insulation.
+• Mineral wool insulation compressed a minimum  
+of 25% between the curtain wall and edge of the 
+floor slab.
+• Minimum 3mm thick wet film thickness of STI 
+SpecSeal AS200 series elastomeric Firestop Spray 
+or SpecSeal Fast Tack Firestop Spray.
+• Attachment of the curtain wall to the floor slab  
+will be different than Intertek listing and is 
+addressed by mass timber encapsulation  
+required by the building code.
+
+=====PAGE 33=====
+Alternative Solutions Guide
+31
+5. 
+Analysis and Evaluation to Validate Acceptance
+Commentary: First, it’s important to state what the 
+expected performance criterion of the acceptable 
+solution is. This statement accounts for the wording of 
+the acceptable solution, and the applicable objective, 
+functional and intent statements.
+Mass timber floor assemblies using a 5-ply cross-
+laminated timber (CLT) will be provided from the 
+first storey through to the twelfth storey and require 
+a minimum 2-hour fire resistance rating which must 
+be maintained where the floor abuts exterior walls. 
+The intent of the acceptable solution in prescribing 
+continuity of a floor fire separation where it intersects 
+an exterior wall is to limit the potential for smoke or 
+fire spread by filling in any gaps or openings using 
+appropriate materials such as a fire tested firestop 
+system.
+Based on the above a performance criterion for the 
+acceptable solution can be set as follows:
+• Will the installation of the proposed curtain wall 
+firestop system retard the effects of fire on areas 
+beyond its point of origin as well as or better than 
+a condition where the slab itself extends to the 
+exterior (so there is no gap)?
+As noted earlier there is no building code Standard that 
+evaluates curtain wall firestop systems. Therefore, in 
+the absence of a building code Standard it is proposed 
+to compare the firestop system to one that has been 
+successfully tested to ASTM E2307 “Standard Test 
+Method for Determining Fire Resistance of Perimeter 
+Fire Barriers Using Intermediate-Scale, Multi-story 
+Test Apparatus”. The ASTM E2307 Standard is similar 
+to the CAN/ULC-S115 Standard and is referenced by 
+building codes throughout the U.S. as the applicable 
+firestop Standard. A distinct difference between the 
+S115 and E2307 Standards is that the E2307 Standard 
+incorporates a perimeter joint firestop test specifically 
+for curtain wall systems.
+However, currently only one curtain wall firestop 
+system tested to ASTM E2307 with a mass timber 
+floor assembly is available, Intertek design no. STI/BPF 
+120-11. This curtain wall firestop system was assessed 
+by Intertek for a 2-hour fire resistance rating at the 
+edge of a mass timber floor assembly. The proposed 
+curtain wall firestop system uses the same firestop 
+materials included in the Intertek listing and overall the 
+prefabricated curtain wall is designed as described by 
+the listing, except that connection of the curtain wall to 
+the floor slab will include anchors and steel located at 
+the midpoint of the slab edge face instead of anchors 
+and steel angles at the top side of the floor slab edge. 
+The following discusses the proposed alternative 
+solution approach and performance.
+Commentary: Next provide an analysis and evaluation 
+to validate the proposed alternative solution approach 
+with reference to evidence such as design details, 
+fire test reports (if available), research papers or 
+other technical literature. This should describe the 
+performance of the alternative solution and how the 
+performance of the acceptable solution is being met.
+
+=====PAGE 34=====
+Alternative Solutions Guide 32
+Firestop System Details
+Table 2 provides a summary of the floor assembly and firestop system components required by the Intertek listing and 
+the components proposed.
+Table 2 – Summary of Firestop System
+Component
+Intertek design  
+no. STI/BPF 120-11
+Proposed Firestop System
+Comments
+Floor Assembly
+Minimum 2-hour fire resistance 
+rated 5-ply CLT minimum 175mm 
+thick
+2-hour fire resistance rated 5-ply 
+CLT minimum 175mm thick
+Same component proposed
+Encapsulation
+Optional, not required
+Required by BCBC, proposed 
+2-layers 15.7mm thick gypsum 
+board at underside of floor  
+and minimum 38mm thick 
+concrete topping
+Superior performance 
+expected. See additional 
+technical discussion  
+section below. 
+Width of Opening
+Maximum 200mm
+Maximum 200mm
+Same component proposed
+Packing Material 
+Type
+Rockwool mineral wool,  
+Roxul SAFE 4pcf (64kg/m3) 
+Rockwool mineral wool,  
+Roxul SAFE 4pcf (64kg/m3) 
+Same component proposed
+Packing Material 
+Depth
+Minimum 150mm
+Minimum 150mm
+Same component proposed
+Packing Material  
+Compression
+Minimum 25%
+Minimum 25%
+Same component proposed
+Firestop Sealant 
+Type
+STI SpecSeal AS200 series 
+elastomeric Firestop Spray or 
+SpecSeal Fast Tack Firestop 
+Spray
+STI SpecSeal AS200 series 
+elastomeric Firestop Spray  
+or SpecSeal Fast Tack  
+Firestop Spray
+Same component proposed
+Firestop Sealant 
+Thickness
+Minimum 3mm
+Minimum 3mm
+Same component proposed
+Firestop Sealant 
+Overspray
+Minimum 12.7mm onto  
+curtain wall and floor
+Minimum 12.7mm onto  
+curtain wall and floor
+Same component proposed
+Firestop Sealant  
+Movement 
+Capability
+Not specified
+Ranges from 50% to 200% 
+based on sealant type proposed
+Same component proposed; 
+same sealants in both 
+examples
+As noted by Table 2 above the proposed firestop system matches the firestop system described by the Intertek listing. 
+Therefore, the same level of performance, namely continuity of the mass timber floor assembly 2-hour fire resistance 
+rating, will be provided.
+
+=====PAGE 35=====
+Alternative Solutions Guide 33
+Integrity of the Curtain Wall System
+As noted earlier, the proposed curtain wall system 
+matches the curtain wall system described by 
+the Intertek listing. The only difference is curtain 
+wall attachment anchors are relocated for energy 
+optimization purposes to connect to steel plates 
+embedded at the face of the slab edge instead of steel 
+angles mounted flush at the top side of the slab (the 
+anchor head has been relocated vertically down along 
+vertical mullions so that the anchor end attaches to 
+steel plates at the mid-point of the slab). The following 
+points assess the potential impact of this modification: 
+1. Thermal Protection of Attachments: The top and 
+bottom of the attachment anchors and mounting 
+points will be thermally protected from the effects 
+of fire by being completely covered by at least 
+a 75mm depth of the firestop packing mineral 
+insulation. Mineral wool is noncombustible and an 
+excellent thermal insulator that provides significant 
+protection from the effects of fire in several fire 
+protection applications.
+2. Compression and Movement: In this case the 
+mineral wool will be compressed into the perimeter 
+floor joint by at least 25%. The compression factor 
+is incorporated to address potential for building 
+movement so that the mineral does not fall out and 
+also to address potential for curtain wall movement 
+due to fire. It should be noted that the firestop 
+sealants included in the Intertek listing also have a 
+50 to 200% movement capability, meaning that the 
+sealant is expected to stretch and also remain  
+in place to maintain a smoke seal in the event  
+of a fire.
+3. Curtain Wall Integrity: The success of the firestop 
+system component remaining in place for the 
+duration of a 2-hour E2307 fire test relies on the 
+capability of the curtain wall structure (framing, 
+spandrel panel and attachments) to sufficiently 
+resist the effects of fire. In this case the use of  
+rigid non-combustible materials such as aluminum 
+frames and insulated steel back pan spandrel 
+panels has demonstrated through testing that the 
+firestop system will remain in place for the required 
+duration. The relocation of the anchors and 
+connection points is not expected to reduce the 
+integrity of the curtain wall system as the anchors 
+and connection points will remain protected from 
+the fire compartment.
+4. Gypsum at Underside of Floor Slab: As an 
+additional measure and since the curtain wall 
+firestop system was not tested with the attachment 
+anchors and mounting points at the midpoint of 
+the floor slab edge, the underside of CLT floor 
+assemblies will be encapsulated using two layers 
+of at least 13mm thick Type X gypsum board. This 
+degree of encapsulation is deemed by the building 
+code to provide up to a 50-minute encapsulation 
+rating. We note the building code permits a small 
+area of the mass timber slab to be exposed at the 
+ceiling. As the encapsulation rating is being applied 
+as an alternative solution feature, at least a 1.2m 
+wide area measured horizontally for the slab edge 
+should be encapsulated as noted above regardless 
+of the exceptions of acceptable solutions that 
+permit an exposed mass timber ceiling. 
+The above analysis has demonstrated the proposed 
+curtain wall firestop system will maintain the continuity 
+of the mass timber floor fire separations at the 
+perimeter joint. The curtain wall firestop system will 
+retard the effects of fire on areas beyond its point of 
+origin at least as well as required by the Division B 
+acceptable solution.
+
+=====PAGE 36=====
+Definitions (from EGBC – AIBC)
+Applicants are advised to refer to the definitions in the 
+building code (and other relevant regulations). These 
+definitions are meant to support the reading of this 
+document, not to aid in the interpretation of building  
+codes or other jurisdictional documentation. 
+Authority Having Jurisdiction – the governmental body 
+responsible for the enforcement of any part of the BC 
+Building Code or the official or agency designated by  
+that body to exercise such a function. 
+BCBC – the British Columbia Building Code  
+(BC Building Code).
+NBCC – National Building Code of Canada.
+Alternative solution – a design or solution which does not 
+conform to the prescriptive requirements of the BC Building 
+Code but provides the level of performance required by 
+the BC Building Code (see Division C, Part 2, Section 2.3 
+Alternative Solutions, Article 2.3.1.1).
+Combustible – a material that fails to meet the acceptance 
+criteria of CAN/ULC-S114, “Test for Determination of  
+Non-Combustibility in Building Materials.”
+Noncombustible – a material that meets the acceptance 
+criteria of CAN/ULC-S114, “Test for Determination of  
+Non-Combustibility in Building Materials.”
+Noncombustible construction – that type of construction 
+in which a degree of fire safety is attained by the use of  
+noncombustible materials for structural members and 
+other building assemblies.
+34
+Alternative Solutions Guide
+
+=====PAGE 37=====
+WoodWorks BC 
+wood-works.ca
+Canadian Wood Council
+420-99 Bank Street
+Ottawa, ON K1P 6B9 
+1-613-747-5544
+cwc.ca
+NEED TECHNICAL SUPPORT?

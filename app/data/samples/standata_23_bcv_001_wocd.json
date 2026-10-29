@@ -1,0 +1,157 @@
+{
+ "id": "sample-standata-23-bcv-001",
+ "jurisdiction": "scc",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "applicant": {
+  "owner_name": "[to be completed by applicant]",
+  "owner_representative": "[to be completed by applicant]",
+  "mailing_address": "[to be completed by applicant]",
+  "email": "[to be completed by applicant]",
+  "date_of_request": ""
+ },
+ "project": {
+  "description": "",
+  "occupancy": "Residential (Part 9), per STANDATA Application section",
+  "storeys": null,
+  "building_area_m2": null,
+  "units_per_floor": null,
+  "sprinklered": null,
+  "new_or_renovation": null,
+  "part": "9"
+ },
+ "location": {
+  "jurisdiction_wide": true,
+  "permit_number": "",
+  "municipal_address": "",
+  "lot": "",
+  "block": "",
+  "plan": "",
+  "qtr": "",
+  "sec": "",
+  "twp": "",
+  "rge": "",
+  "mer": ""
+ },
+ "variance": {
+  "topic": "window_opening_control_devices",
+  "code_or_standard": "NBC(AE) 2023 Division B",
+  "acceptable_solution": {
+   "articles": [
+    "9.8.8.1.(4)",
+    "9.8.8.1.(5)",
+    "9.9.10.1.(1)"
+   ],
+   "explanation": "Articles named in the Code References of 23-BCV-001."
+  },
+  "proposed_alternative": {
+   "summary": "A WOCD mechanism that complies with ASTM F2090 \"Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms\" as a means of complying with the requirements of 9.8.8.1 (4) and 9.9.10.1 (1).",
+   "mitigations": [
+    {
+     "id": "C1",
+     "label": "Condition 1 (verbatim from 23-BCV-001)",
+     "detail": "WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units.",
+     "evidence_ids": []
+    }
+   ]
+  },
+  "section_c": [
+   {
+    "article": "9.8.8.1.(4)",
+    "objective": "OS3.1 (Safety in Use): tripping, slipping, falling, contact, drowning or collision",
+    "function": "F30: To minimize the risk of injury to persons as a result of tripping, slipping, falling, contact, drowning or collision",
+    "intent": "Intent 1. To expand the application of Section 9.8. to include guards for windows. Intent 1. To limit the probability that inadequate fall protection, particularly for children and infants, will lead to falls from a significant height through open windows, which could lead to harm to persons. [NBC 2020 Intent Statements, p.1290; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Guards on openable windows in residential occupancy; the variance allows a WOCD mechanism complying with ASTM F2090.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 1124
+    },
+    "article_page": 859,
+    "verified": true,
+    "provenance": "lookup"
+   },
+   {
+    "article": "9.8.8.1.(5)",
+    "objective": "OS3.1 (Safety in Use): tripping, slipping, falling, contact, drowning or collision",
+    "function": "F30: To minimize the risk of injury to persons as a result of tripping, slipping, falling, contact, drowning or collision",
+    "intent": "Intent 1. To exempt windows from the application of Sentence 9.8.8.1.(4) where the risk of falling or the harm that would result from a fall is limited. [NBC 2020 Intent Statements, p.1290; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Exception to Sentence (4) by window height. Named in the variance's Purpose; no objectives are attributed to it in the NBC(AE) table. No objectives are attributed to Sentence (5) itself; the statements shown are those attributed to Sentence (4) of the same article, the nearest preceding attributed sentence (root-article rule).",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 1124
+    },
+    "article_page": 859,
+    "verified": true,
+    "provenance": "lookup"
+   },
+   {
+    "article": "9.9.10.1.(1)",
+    "objective": "OS3.7 (Safety in Use): persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))",
+    "function": "F10: To facilitate the timely movement of persons to a safe place in an emergency",
+    "intent": "Intent 1. To limit the probability that, in an emergency situation, all means of egress will be blocked, which could lead to persons being trapped in a bedroom, which could lead to harm to persons. [NBC 2020 Intent Statements, p.1333; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Egress window or door from each bedroom openable without keys, tools or special knowledge; the variance addresses the interaction with WOCD mechanisms.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 1126
+    },
+    "article_page": 873,
+    "verified": true,
+    "provenance": "lookup"
+   }
+  ]
+ },
+ "section_d": [
+  {
+   "id": "D1",
+   "document_name": "Evidence that the WOCD mechanism complies with ASTM F2090",
+   "responsible_party": "[to be completed by applicant]",
+   "professional_required": false,
+   "status": "to_be_prepared",
+   "date": ""
+  }
+ ],
+ "professional_flags": [],
+ "declarations": {
+  "privacy_consent": false,
+  "equal_or_better_ack": false,
+  "owner_signed": false,
+  "rep_signed": false
+ },
+ "provenance": {
+  "variance.section_c": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.summary": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.mitigations": {
+   "source": "lookup",
+   "confidence": 1.0
+  }
+ },
+ "completeness": {
+  "percent": 0,
+  "items": []
+ },
+ "derived_from": [
+  {
+   "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+   "page": 1
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+   "page": 2
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+   "page": 3
+  }
+ ],
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+  "page": 1,
+  "standata": "23-BCV-001"
+ },
+ "note": "Application-shaped record derived from real STANDATA variance 23-BCV-001 (Window opening control devices (WOCD)). The STANDATA is issued by the Provincial Building Administrator, so applicant identity, dates and signatures are blank placeholders."
+}

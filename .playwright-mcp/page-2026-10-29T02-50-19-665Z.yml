@@ -1,0 +1,55 @@
+- generic [ref=f9e3]:
+  - link "Skip to main content" [ref=f9e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f9e5]:
+    - generic [ref=f9e6]:
+      - link "Variance Workspace, home" [ref=f9e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f9e8]: Variance Workspace
+        - generic [ref=f9e9]: Alberta building code variances
+      - generic [ref=f9e10]:
+        - generic [ref=f9e11]: "Demo data: backend offline"
+        - group "View as" [ref=f9e12]:
+          - button "Applicant" [pressed] [ref=f9e13] [cursor=pointer]
+          - button "Reviewer" [ref=f9e14] [cursor=pointer]
+  - main [ref=f9e15]:
+    - generic [ref=f9e19]:
+      - generic [ref=f9e20]:
+        - heading "Prepare a building code variance request" [level=1] [ref=f9e21]
+        - paragraph [ref=f9e22]: A variance lets you propose a different way to meet the Building Code. This workbook takes you through it in plain language, finds the code articles, shows what is still missing and fills in the official form. You review and sign. It never signs for you.
+        - button "Start a new application" [ref=f9e24] [cursor=pointer]
+        - region [ref=f9e27]:
+          - heading "Contents" [level=2] [ref=f9e28]
+          - list [ref=f9e29]:
+            - listitem [ref=f9e30]:
+              - generic [ref=f9e31]: "1"
+              - generic [ref=f9e33]:
+                - strong [ref=f9e34]: Describe
+                - generic [ref=f9e35]: Say in plain words what you want to build or do differently.
+            - listitem [ref=f9e36]:
+              - generic [ref=f9e37]: "2"
+              - generic [ref=f9e39]:
+                - strong [ref=f9e40]: Rules
+                - generic [ref=f9e41]: Check whether it is already covered, then confirm the code articles that apply.
+            - listitem [ref=f9e42]:
+              - generic [ref=f9e43]: "3"
+              - generic [ref=f9e45]:
+                - strong [ref=f9e46]: Fill and review
+                - generic [ref=f9e47]: Close the gaps on a to-do list grouped by form section A to D.
+            - listitem [ref=f9e48]:
+              - generic [ref=f9e49]: "4"
+              - generic [ref=f9e51]:
+                - strong [ref=f9e52]: Submit
+                - generic [ref=f9e53]: Read the filled form, download it, confirm the declarations yourself and prepare a package.
+      - region [ref=f9e54]:
+        - heading "Or open a sample" [level=2] [ref=f9e55]
+        - paragraph [ref=f9e56]: Samples are based on real Alberta documents, with names and addresses left blank. They are a quick way to see how the tool works.
+        - list [ref=f9e57]:
+          - listitem [ref=f9e58]:
+            - generic [ref=f9e59]:
+              - heading "Mock-sample" [level=3] [ref=f9e60]
+              - paragraph [ref=f9e61]: Sample application.
+            - 'button "Open sample: Mock-sample" [ref=f9e62] [cursor=pointer]': Open sample
+  - contentinfo [ref=f9e63]:
+    - generic [ref=f9e64]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f9e65]: Approval stays with registered professionals and the Authority Having Jurisdiction.

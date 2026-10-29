@@ -1,0 +1,512 @@
+- generic [active] [ref=f3e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f3e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f3e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-CA
+  - generic [ref=f3e8]:
+    - search [ref=f3e9]:
+      - generic [ref=f3e11]:
+        - link "Go to Google Home" [ref=f3e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQPHoECAYQBA
+        - generic [ref=f3e22]:
+          - combobox "Search" [ref=f3e24]: \ \
+          - generic [ref=f3e25]:
+            - button "Clear" [ref=f3e29] [cursor=pointer]
+            - generic [ref=f3e34]:
+              - button "Search by voice" [ref=f3e37] [cursor=pointer]
+              - button "Search by image" [ref=f3e42] [cursor=pointer]
+    - generic [ref=f3e45]:
+      - button "Settings" [ref=f3e47] [cursor=pointer]
+      - button "Share" [ref=f3e52] [cursor=pointer]
+      - generic [ref=f3e58]:
+        - button "Google apps" [ref=f3e60] [cursor=pointer]
+        - link "Sign in" [ref=f3e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%255C%26oq%3D%255C%26gs_lcrp%3DEgZjaHJvbWUyBggAEEUYOdIBBjI2ajBqNKgCALACAA%26sourceid%3Dchrome%26source%3Dchrome.ob%26ie%3DUTF-8%26sei%3Dnj7iaq3fMIKe0PEP8PXH6AE&ec=futura_srp_og_si_72236_p
+  - generic [ref=f3e67]:
+    - navigation [ref=f3e73]:
+      - generic [ref=f3e79]:
+        - list [ref=f3e80]:
+          - listitem [ref=f3e81]:
+            - link "AI Mode" [ref=f3e84] [cursor=pointer]:
+              - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&udm=50&source=chrome.ob&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ2J8OegQIExAD
+          - listitem [ref=f3e88]:
+            - link "All" [disabled] [ref=f3e89]
+          - listitem [ref=f3e92]:
+            - link "Images" [ref=f3e93] [cursor=pointer]:
+              - /url: /search?sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&q=%5C&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQtKgLegQIGBAB
+          - listitem [ref=f3e96]:
+            - link "Videos" [ref=f3e97] [cursor=pointer]:
+              - /url: /search?sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&udm=vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&q=%5C&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQtKgLegQIGRAB
+          - listitem [ref=f3e100]:
+            - link "Shopping" [ref=f3e101] [cursor=pointer]:
+              - /url: /search?sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&udm=28&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&q=%5C&ved=1t:220175&ictx=111
+          - listitem [ref=f3e104]:
+            - link "News" [ref=f3e105] [cursor=pointer]:
+              - /url: /search?sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&q=%5C&tbm=nws&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ0pQJegQIFhAB
+          - listitem [ref=f3e108]:
+            - link "Forums" [ref=f3e109] [cursor=pointer]:
+              - /url: /search?sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&udm=forums&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVWJKALjCNlIJviHEZmQkH1sn-YIO7qUGKgahHUqK1rQegW72r5NeTYPJan702itZhd358wVCLW5GhItg3eUhZz7R3POVcSugp8fvbdo43gdgJbbVkTxwJJRcFvH5t_SLu4kq4RMbNhRoKEi8Q1Yp9EFRx8oH6nIu74UCOzqjMW0TBmcA9g&q=%5C&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQs6gLegQIFRAB
+          - listitem [ref=f3e112]:
+            - button [ref=f3e113] [cursor=pointer]:
+              - generic "More filters" [ref=f3e114]: More
+        - button "Tools" [ref=f3e121] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f3e128]
+    - main [ref=f3e134]:
+      - generic [ref=f3e138]:
+        - generic [ref=f3e142]:
+          - heading "Images" [level=2] [ref=f3e146]
+          - generic [ref=f3e150]:
+            - generic [ref=f3e154] [cursor=pointer]:
+              - link "Backslash or Forward Slash YouTube" [ref=f3e155]:
+                - /url: /goto?url=CAESYwHrOzAVLj6yCdHHF6bweNY_AzBqcKuYu3x30gu7hqsqpvsmBu0c3u0KTpbb929t0UPvYD7FZK-xNQ6cuf-jL9iEptiqrTu-AQ_aMOFRFoEvIp1Gm2PP7Mg_xWNodYTO9wlgRQ
+              - button [ref=f3e157]:
+                - img "Backslash or Forward Slash" [ref=f3e159]
+              - generic [ref=f3e161]:
+                - generic [ref=f3e163]: Backslash or Forward Slash
+                - generic [ref=f3e164]:
+                  - generic [ref=f3e166]: YouTube
+                  - button "About this result" [ref=f3e176]
+            - generic [ref=f3e184] [cursor=pointer]:
+              - link "Backslash Symbol - What It Is, Where It Is & How to Use It ... English Grammar" [ref=f3e185]:
+                - /url: /goto?url=CAESZgHrOzAVoa_q1F_rYpz_Yq59FRrTE3bX9OxSDqpPepW_pJFNKoer5pZNWaHCtChPKUPK5vt5IPV2UNWus2U3_ADzAovIIGbpfg5cJUVdHp47R7q2unPfexDT_DMf42vtEcyL8ThkOA
+              - button [ref=f3e187]:
+                - img "Backslash Symbol - What It Is, Where It Is & How to Use It ..." [ref=f3e189]
+              - generic [ref=f3e191]:
+                - generic [ref=f3e193]: Backslash Symbol - What It Is, Where It Is & How to Use It ...
+                - generic [ref=f3e194]:
+                  - generic [ref=f3e196]: English Grammar
+                  - button "About this result" [ref=f3e206]
+            - generic [ref=f3e214] [cursor=pointer]:
+              - 'link "Slash Symbols in Writing: When to Use a Backslash vs. a ... YourDictionary" [ref=f3e215]':
+                - /url: /goto?url=CAEScwHrOzAV74gaWBFHMM5R_8YshX2Wo-N70BprbeoCzzIE3A23rOmBx4XyPRQl_6zUwMM4mZQFmX0vM5Y4LIun4693LtzBobv_pZlwNOXaXtg7qiNzb7_u9EWUewha8WMiH7znYQyecwKxL7Aa3OV0sDR_Tk8
+              - button [ref=f3e217]:
+                - 'img "Slash Symbols in Writing: When to Use a Backslash vs. a ..." [ref=f3e219]'
+              - generic [ref=f3e221]:
+                - generic [ref=f3e223]: "Slash Symbols in Writing: When to Use a Backslash vs. a ..."
+                - generic [ref=f3e224]:
+                  - generic [ref=f3e226]: YourDictionary
+                  - button "About this result" [ref=f3e236]
+          - button "Show more images" [ref=f3e242] [cursor=pointer]:
+            - separator [aria-hidden] [ref=f3e243]
+        - generic [ref=f3e257]:
+          - generic [ref=f3e274]:
+            - heading [level=2] [ref=f3e279]:
+              - strong [ref=f3e280]: AI Overview
+            - generic [ref=f3e284]:
+              - generic [ref=f3e285]:
+                - list [ref=f3e286]:
+                  - listitem [ref=f3e287]:
+                    - button [ref=f3e289]:
+                      - 'img "Slash Symbols in Writing: When to Use a Backslash vs. a ..." [ref=f3e290]'
+                  - listitem [ref=f3e291]:
+                    - button [ref=f3e293]:
+                      - img "Medium" [ref=f3e294]
+                  - listitem [ref=f3e295]:
+                    - button [ref=f3e297]:
+                      - img "Backslash Symbol - What It Is, Where It Is & How to Use It ..." [ref=f3e298]
+                  - listitem [ref=f3e299]:
+                    - button [ref=f3e301]:
+                      - img "What is a Backslash () Symbol?" [ref=f3e302]
+                  - listitem [ref=f3e303]:
+                    - button [ref=f3e305]:
+                      - 'img "learningeveryday #slash #forwardslash #backslash #keyboard ..." [ref=f3e306]'
+                  - link "View all related links" [ref=f3e307] [cursor=pointer]:
+                    - /url: https://www.google.com/search?q=%5C&oq=%5C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjI2ajBqNKgCALACAA&sourceid=chrome&source=univ&ie=UTF-8&sei=nj7iaq3fMIKe0PEP8PXH6AE&udm=2&sa=X&ved=0CAAQjYkUahcKEwjwy-TAq92XAxUAAAAAHQAAAAAQBw
+                    - generic [ref=f3e311]: View all
+                - button [aria-hidden] [ref=f3e312] [cursor=pointer]
+              - generic [ref=f3e316]:
+                - text: A
+                - strong [ref=f3e317]: backslash
+                - text: (
+                - code [ref=f3e318]: \
+                - text: ) is a typographic and computer symbol that leans to the left.
+                - generic [ref=f3e322]:
+                  - link "Washington State University" [ref=f3e323] [cursor=pointer]:
+                    - /url: /goto?url=CAESagHrOzAV70KRTlCb9j1oQwLwFkbrQpFi7txxNxk6f_dVm-n5uF9LTzcvgNsWRY9aYAB9BQbYWgR7QlWvHPNeAV9xde71MdEcJiQT_QdMvNhKUPkmwsJkl3Y0sBwMnhe-yYjYYAN5mgI5qlU
+                  - button "Washington State University (+1) - Related results" [ref=f3e324] [cursor=pointer]:
+                    - generic [ref=f3e326]:
+                      - generic [ref=f3e327]: Washington State University
+                      - generic [ref=f3e328]: "+1"
+              - heading "Main Uses" [level=3] [ref=f3e333]
+              - list [ref=f3e334]:
+                - listitem [ref=f3e336]:
+                  - generic [ref=f3e337]:
+                    - strong [ref=f3e338]: "File Paths:"
+                    - text: Used as a directory separator in Windows (e.g.,
+                    - code [ref=f3e339]: C:\Folder\File
+                    - text: ).
+                  - generic [ref=f3e343]:
+                    - link "Proofed" [ref=f3e344] [cursor=pointer]:
+                      - /url: /goto?url=CAESigEB6zswFZaDo1yDaf9sNP3fZEsW1zzE7KWvsLZp9HEu8WKmTkiSM2ew2jrevRsvGFPfLvaWMYqbg5vOQUndyNhuksz-Vp_kxfm42BbEby5zchM68ZikWuACMZLCKRObpZbdDwyrnzg7sO1SHPD_HiiCsWwtr5Wfk0i-WU2XPeXF2S9zGTHNmjcWdao
+                    - button "Proofed (+1) - Related results" [ref=f3e345] [cursor=pointer]:
+                      - generic [ref=f3e347]:
+                        - generic [ref=f3e348]: Proofed
+                        - generic [ref=f3e349]: "+1"
+                - listitem [ref=f3e355]:
+                  - generic [ref=f3e356]:
+                    - strong [ref=f3e357]: "Programming & Code:"
+                    - text: Acts as an
+                    - strong [ref=f3e358]: escape character
+                    - text: to give special meaning to characters that follow it (such as
+                    - code [aria-hidden] [ref=f3e359]: \n
+                    - text: for a new line or
+                    - code [aria-hidden] [ref=f3e360]: \t
+                    - text: for a tab).
+                  - generic [ref=f3e364]:
+                    - link [ref=f3e365] [cursor=pointer]:
+                      - /url: /goto?url=CAESXwHrOzAV9p1uX7ABgXbtoL7bKcxxyiUXB_m_kc5NtMwMKGfi_TwYnO0HnBRiJSsm0hmQMiiHS9qy_AbL5_3s1NHqINXwt2NnChvPdrM4NnVE7FWfTRVWXmibgUixiZCE
+                    - button [ref=f3e366] [cursor=pointer]:
+                      - generic [ref=f3e368]:
+                        - generic [ref=f3e369]: Wikipedia
+                        - generic [ref=f3e370]: "+1"
+                - listitem [ref=f3e377]:
+                  - generic [ref=f3e378]:
+                    - strong [ref=f3e379]: "Mathematics & Markup:"
+                    - text: Used in typesetting languages like TeX to start commands (e.g.,
+                    - code [ref=f3e380]: \pi
+                    - text: ), or to denote set differences.
+                  - generic [ref=f3e384]:
+                    - link [ref=f3e385] [cursor=pointer]:
+                      - /url: /goto?url=CAESZAHrOzAVWYIyp-HNwK4dnosfpxYfQHw9FdMnY8OtWtKWFTvisjbth0uPinbxdNjrbnXTzi81vjJ0W_CZd_VawF_rCs82nKfbfbIN408Qu60UKi4ki032b0HiEpTPYUW0nG3JEtg
+                    - button [ref=f3e386] [cursor=pointer]:
+                      - generic [ref=f3e388]:
+                        - generic [ref=f3e389]: Wolfram MathWorld
+                        - generic [ref=f3e390]: "+2"
+              - generic [ref=f3e395]:
+                - heading [level=3] [ref=f3e397]: How to Type It
+                - list [aria-hidden] [ref=f3e398]:
+                  - listitem [ref=f3e400]:
+                    - generic [ref=f3e401]:
+                      - strong [ref=f3e402]: "Location:"
+                      - text: On a standard QWERTY keyboard, the backslash key sits directly above the
+                      - code [ref=f3e403]: Enter
+                      - text: key and below the
+                      - code [ref=f3e404]: Backspace
+                      - text: key (often shared with the pipe
+                      - code [ref=f3e405]: "|"
+                      - text: symbol).
+                    - generic [ref=f3e409]:
+                      - link [ref=f3e410] [cursor=pointer]:
+                        - /url: /goto?url=CAESfwHrOzAV-mwsfJc_6AUarzJ4YpIb16DfjrTB4UMQe0PI7bxjGnix2JlK2wfyJjOvIZ5GeiGOoul2gk5WsSsxuDMdciNspjiYuEuINok-MHABdXp_b8d_6QDf6jMRCIqt57aIDYPvsC5stwYZ9jhSZF_7xWWNGHPCPVoo0VRqs0s
+                      - button [ref=f3e411] [cursor=pointer]:
+                        - generic [ref=f3e413]:
+                          - generic [ref=f3e414]: GeeksforGeeks
+                          - generic [ref=f3e415]: "+1"
+                  - listitem [ref=f3e421]:
+                    - generic [ref=f3e422]:
+                      - strong [ref=f3e423]: "Distinction:"
+                      - text: Do not confuse it with the
+                      - strong [ref=f3e424]: forward slash
+                      - text: (
+                      - code [ref=f3e425]: /
+                      - text: ), which leans to the right and is used in web URLs and Linux file paths.
+                    - generic [ref=f3e429]:
+                      - link [ref=f3e430] [cursor=pointer]:
+                        - /url: /goto?url=CAESagHrOzAV70KRTlCb9j1oQwLwFkbrQpFi7txxNxk6f_dVm-n5uF9LTzcvgNsWRY9aYAB9BQbYWgR7QlWvHPNeAV9xde71MdEcJiQT_QdMvNhKUPkmwsJkl3Y0sBwMnhe-yYjYYAN5mgI5qlU
+                      - button [ref=f3e431] [cursor=pointer]:
+                        - generic [ref=f3e433]:
+                          - generic [ref=f3e434]: Washington State University
+                          - generic [ref=f3e435]: "+1"
+                - generic [ref=f3e441]:
+                  - text: Read more about its background on
+                  - link [ref=f3e444] [cursor=pointer]:
+                    - /url: /goto?url=CAESXwHrOzAV9p1uX7ABgXbtoL7bKcxxyiUXB_m_kc5NtMwMKGfi_TwYnO0HnBRiJSsm0hmQMiiHS9qy_AbL5_3s1NHqINXwt2NnChvPdrM4NnVE7FWfTRVWXmibgUixiZCE
+                    - text: Wikipedia
+                  - text: .
+                  - button [ref=f3e449] [cursor=pointer]
+                - generic [ref=f3e456]:
+                  - text: Are you trying to use a backslash for a
+                  - strong [ref=f3e457]: specific file path
+                  - text: ","
+                  - strong [ref=f3e458]: coding task
+                  - text: ", or"
+                  - strong [ref=f3e459]: math formula
+                  - text: "? Let me know and I can show you how to format it."
+                - generic [ref=f3e463]:
+                  - list [ref=f3e464]:
+                    - listitem [ref=f3e465]:
+                      - generic [ref=f3e466]:
+                        - link [ref=f3e467] [cursor=pointer]:
+                          - /url: /goto?url=CAESXwHrOzAV9p1uX7ABgXbtoL7bKcxxyiUXB_m_kc5NtMwMKGfi_TwYnO0HnBRiJSsm0hmQMiiHS9qy_AbL5_3s1NHqINXwt2NnChvPdrM4NnVE7FWfTRVWXmibgUixiZCE
+                        - generic [ref=f3e468]:
+                          - generic [ref=f3e469]:
+                            - generic [ref=f3e472]: Wikipedia
+                            - button [ref=f3e476] [cursor=pointer]
+                          - generic [ref=f3e482]:
+                            - generic [aria-hidden] [ref=f3e483]: Backslash - Wikipedia
+                            - generic [ref=f3e484]: "History: Documented in 1930s; proposed by Bob Bemer in 1961 for ASCII to compose ALGOL operators. Usage: Escape character in C, Pe..."
+                    - listitem [ref=f3e487]:
+                      - generic [ref=f3e488]:
+                        - link [ref=f3e489] [cursor=pointer]:
+                          - /url: /goto?url=CAESZAHrOzAVWYIyp-HNwK4dnosfpxYfQHw9FdMnY8OtWtKWFTvisjbth0uPinbxdNjrbnXTzi81vjJ0W_CZd_VawF_rCs82nKfbfbIN408Qu60UKi4ki032b0HiEpTPYUW0nG3JEtg
+                        - generic [ref=f3e490]:
+                          - generic [ref=f3e491]:
+                            - generic [ref=f3e494]: Wolfram MathWorld
+                            - button [ref=f3e498] [cursor=pointer]
+                          - generic [ref=f3e504]:
+                            - generic [aria-hidden] [ref=f3e505]: Backslash -- from Wolfram MathWorld
+                            - generic [ref=f3e506]: The backslash symbol \ is used to denote a set difference, quotient group, or integer division.
+                    - listitem [ref=f3e509]:
+                      - generic [ref=f3e510]:
+                        - link [ref=f3e511] [cursor=pointer]:
+                          - /url: /goto?url=CAESagHrOzAV70KRTlCb9j1oQwLwFkbrQpFi7txxNxk6f_dVm-n5uF9LTzcvgNsWRY9aYAB9BQbYWgR7QlWvHPNeAV9xde71MdEcJiQT_QdMvNhKUPkmwsJkl3Y0sBwMnhe-yYjYYAN5mgI5qlU
+                        - generic [ref=f3e512]:
+                          - generic [ref=f3e513]:
+                            - generic [ref=f3e516]: Washington State University
+                            - button [ref=f3e520] [cursor=pointer]
+                          - generic [ref=f3e526]:
+                            - generic [aria-hidden] [ref=f3e527]: backslash / slash | Common Errors in English Usage and More
+                            - generic [ref=f3e528]: "backslash / slash May 19, 2016 This is a slash: /. Because the top of it leans forward, it is sometimes called a “forward slash.” ..."
+                    - listitem [ref=f3e530]:
+                      - generic [ref=f3e531]:
+                        - link [ref=f3e532] [cursor=pointer]:
+                          - /url: /goto?url=CAESfwHrOzAV-mwsfJc_6AUarzJ4YpIb16DfjrTB4UMQe0PI7bxjGnix2JlK2wfyJjOvIZ5GeiGOoul2gk5WsSsxuDMdciNspjiYuEuINok-MHABdXp_b8d_6QDf6jMRCIqt57aIDYPvsC5stwYZ9jhSZF_7xWWNGHPCPVoo0VRqs0s
+                        - generic [ref=f3e533]:
+                          - generic [ref=f3e534]:
+                            - generic [ref=f3e537]: GeeksforGeeks
+                            - button [ref=f3e541] [cursor=pointer]
+                          - generic [ref=f3e547]:
+                            - generic [aria-hidden] [ref=f3e548]: What is a Backslash on Keyboard? - GeeksforGeeks
+                            - generic [ref=f3e549]: "Location: Above Enter key, below Backspace key (varies by layout). Functions: Windows file path directory separator (C:\\Folder\\Fil..."
+                    - listitem [ref=f3e551]:
+                      - generic [ref=f3e552]:
+                        - link [ref=f3e553] [cursor=pointer]:
+                          - /url: /goto?url=CAESigEB6zswFZaDo1yDaf9sNP3fZEsW1zzE7KWvsLZp9HEu8WKmTkiSM2ew2jrevRsvGFPfLvaWMYqbg5vOQUndyNhuksz-Vp_kxfm42BbEby5zchM68ZikWuACMZLCKRObpZbdDwyrnzg7sO1SHPD_HiiCsWwtr5Wfk0i-WU2XPeXF2S9zGTHNmjcWdao
+                        - generic [ref=f3e554]:
+                          - generic [ref=f3e555]:
+                            - generic [ref=f3e558]: Proofed
+                            - button [ref=f3e562] [cursor=pointer]
+                          - generic [ref=f3e568]:
+                            - generic [aria-hidden] [ref=f3e569]: "Punctuation Tips: The Backslash and Forward Slash | Proofed"
+                            - generic [ref=f3e570]: The Backslash The slash that isn't technically a “punctuation” mark we mentioned is the backslash ( \ ). It is a typographic mark ...
+                    - listitem [ref=f3e573]:
+                      - generic [ref=f3e574]:
+                        - link [ref=f3e575] [cursor=pointer]:
+                          - /url: /goto?url=CAEShQEB6zswFYSjQFxCXl2VSYGqUksK_XR-362pBXpxUyzqiHumLBEkmav5FIBp3dlQUaZa2WWJ04dTFoQ8XL_DPuX6SNSyiVBdGbtssjG8LLenJzaZv9V4XdPUk5crBh5yb1x9SoRq8jLrDPtoreW9iOyNzIM8nlZwBqbvt6zYFjxWNiXXKvE7
+                        - generic [ref=f3e576]:
+                          - generic [ref=f3e577]:
+                            - generic [ref=f3e580]:
+                              - text: Reddit
+                              - generic [ref=f3e581]: ·morgplays26
+                            - button [ref=f3e585] [cursor=pointer]
+                          - generic [ref=f3e590]:
+                            - link [ref=f3e594] [cursor=pointer]:
+                              - /url: /goto?url=CAEShQEB6zswFYSjQFxCXl2VSYGqUksK_XR-362pBXpxUyzqiHumLBEkmav5FIBp3dlQUaZa2WWJ04dTFoQ8XL_DPuX6SNSyiVBdGbtssjG8LLenJzaZv9V4XdPUk5crBh5yb1x9SoRq8jLrDPtoreW9iOyNzIM8nlZwBqbvt6zYFjxWNiXXKvE7
+                              - generic [ref=f3e595]: 0:12
+                            - generic [aria-hidden] [ref=f3e599]: "How do I type a backslash? : r/computers"
+                    - listitem [ref=f3e600]:
+                      - generic [ref=f3e601]:
+                        - link [ref=f3e602] [cursor=pointer]:
+                          - /url: /goto?url=CAESYQHrOzAVaDRaTdAM7tmzJL51vNglzIW8cWO0w4vRH7jBqWGVhoR_SNZ9PRLyAYyGv0VuIyznguI42uOy4M45hzG37qbyGV8pQWHFsejK9EMtkM7uDE5fC-gLAA__-GyDvqE
+                        - generic [ref=f3e603]:
+                          - generic [ref=f3e604]:
+                            - generic [ref=f3e607]: wumbo.net
+                            - button [ref=f3e611] [cursor=pointer]
+                          - generic [ref=f3e617]:
+                            - generic [aria-hidden] [ref=f3e618]: Backward Slash Symbol (\) - wumbo.net
+                            - generic [ref=f3e619]: The backward slash symbol is used in computing as an escape character. In math, the symbol is used in typesetting languages, like ...
+                  - button [aria-hidden] [ref=f3e622] [cursor=pointer]
+            - generic [ref=f3e630]:
+              - generic [ref=f3e631]:
+                - status [ref=f3e632]
+                - button [ref=f3e634] [cursor=pointer]
+              - button [ref=f3e644] [cursor=pointer]
+              - generic [ref=f3e650]:
+                - button [ref=f3e652] [cursor=pointer]
+                - button [ref=f3e657] [cursor=pointer]
+              - button [ref=f3e664] [cursor=pointer]
+          - button "Show more AI Overview" [ref=f3e672]:
+            - generic [ref=f3e673] [cursor=pointer]: Show more
+        - generic [ref=f3e682]:
+          - heading "Web results" [level=2] [ref=f3e683]
+          - generic [ref=f3e684]:
+            - generic [ref=f3e687]:
+              - link "Backslash Wikipedia https://en.wikipedia.org › wiki › Backslash" [ref=f3e689] [cursor=pointer]:
+                - /url: /goto?url=CAESYgHrOzAV0V0UVr1agh7V73K15uSLIs7NMFE6HU_KS_dDsFe5nkH2N7gT2QybIOQgC262qXR7Vj0LhuGdNiKccrDAsr-NOpUULA5p0-LaW4stu6mW7dPwX0vQ_Rzoj8l1JVXC
+                - heading "Backslash" [level=3] [ref=f3e690]
+                - generic [ref=f3e696]:
+                  - generic [ref=f3e697]: Wikipedia
+                  - generic [ref=f3e699]: https://en.wikipedia.org › wiki › Backslash
+              - button "About this result" [ref=f3e705] [cursor=pointer]
+            - generic [ref=f3e712]:
+              - text: The backslash \ is
+              - emphasis [ref=f3e713]: a typographical mark used mainly in computing and mathematics
+              - text: . It is the mirror image of the common slash ('solidus'), /.
+        - generic [ref=f3e717]:
+          - generic [ref=f3e720]:
+            - link "Backslash -- from Wolfram MathWorld Wolfram MathWorld https://mathworld.wolfram.com › Backslash" [ref=f3e722] [cursor=pointer]:
+              - /url: /goto?url=CAESZwHrOzAVtj8yKXFIQTxHPpHYNTNjKDFI-pSYRKNkeGgcrJaUba0WYQuFoqAA7ra_Bhzgii0kyTTrPUBXFPRN1wEt79FiqDK2ODmzzfzCI2Yk2fgZ8-OuY54zfuCDA4jBtupYVZiOlzA
+              - heading "Backslash -- from Wolfram MathWorld" [level=3] [ref=f3e723]
+              - generic [ref=f3e729]:
+                - generic [ref=f3e730]: Wolfram MathWorld
+                - generic [ref=f3e732]: https://mathworld.wolfram.com › Backslash
+            - button "About this result" [ref=f3e738] [cursor=pointer]
+          - generic [ref=f3e745]:
+            - text: The
+            - emphasis [ref=f3e746]: backslash
+            - text: symbol
+            - emphasis [ref=f3e747]: \
+            - text: is used to denote a set difference, quotient group, or integer division.
+        - generic [ref=f3e751]:
+          - generic [ref=f3e754]:
+            - link "Backward Slash Symbol (\\) - wumbo.net wumbo.net https://wumbo.net › symbols › backward-slash" [ref=f3e756] [cursor=pointer]:
+              - /url: /goto?url=CAESZAHrOzAVLAscgP3g-4g8UBwusczVqjiDrZuOJXr5HkVcwPs3hpNogGfct2ZOxXE6AhNt4PfbQfhf-P6gIuEHxRYf3pDuTpokH3VFC2JjC30La8AIvFe_aysRzmyCS0fLpCjWOeg
+              - heading "Backward Slash Symbol (\\) - wumbo.net" [level=3] [ref=f3e757]
+              - generic [ref=f3e763]:
+                - generic [ref=f3e764]: wumbo.net
+                - generic [ref=f3e766]: https://wumbo.net › symbols › backward-slash
+            - button "About this result" [ref=f3e772] [cursor=pointer]
+          - generic [ref=f3e779]:
+            - text: The backward slash symbol
+            - emphasis [ref=f3e780]: is used in computing as an escape character
+            - text: . In math, the symbol is used in typesetting languages, like TeX, to denote the start of a ...
+        - generic [ref=f3e784]:
+          - generic [ref=f3e787]:
+            - 'link "Punctuation: Slash | Writing Style Guide Western Michigan University https://wmich.edu › writing › punctuation › slash" [ref=f3e789] [cursor=pointer]':
+              - /url: /goto?url=CAESZgHrOzAVI-RVYwWvXdtvPRlGmQNXcyRfnIV8I-AobAIZ2I3FNoNYOjGaGT_-ocwC9PTQ6aU3x56M8Bm6d3Z_ZKX7sS2e_4DFM9cMRwWrYayLPFbcnDwVawmuJV_qun8ilXG7CO5IXw
+              - 'heading "Punctuation: Slash | Writing Style Guide" [level=3] [ref=f3e790]'
+              - generic [ref=f3e796]:
+                - generic [ref=f3e797]: Western Michigan University
+                - generic [ref=f3e799]: https://wmich.edu › writing › punctuation › slash
+            - button "About this result" [ref=f3e805] [cursor=pointer]
+          - generic [ref=f3e811]:
+            - generic [ref=f3e812]:
+              - text: The slash ( / )
+              - emphasis [ref=f3e813]: is often incorrectly called a backslash
+              - text: ", especially when a Web address is spoken: \"wmich dot edu slash news,\" not \"backslash.\"."
+            - link "Read more" [ref=f3e814] [cursor=pointer]:
+              - /url: /goto?url=CAEStwEB6zswFXL3Jm8xrojraQOMivsfSloyFO9VYruFBAj9cv7mR0lxgOLqlz8Yu0K14fP1SJ0IypIHMa0aZJpzxW-TeI5dbByMs43K6IvRpNt7Qd27XXPegjtKzmHv7hXkOdONhFkMJh0BwjVrmRBxy7sBaQC6erdQS17k0h_iLRRofrIdhme7aPvRjn9C07ygZJ2l0YxmxoytCW-As52H4If72EO7RASVvjcG94du0xtZ0vjR3SAS5is
+        - generic [ref=f3e818]:
+          - generic [ref=f3e821]:
+            - link "BACKSLASH | English meaning - Cambridge Dictionary Cambridge Dictionary https://dictionary.cambridge.org › dictionary › backslash" [ref=f3e823] [cursor=pointer]:
+              - /url: /goto?url=CAESeAHrOzAV9aOSRG2vy7iMHAeepazcx3PS25xm53laIRXQrb6rOiNa_zFTKa-AhgB8viPepT7nWVverHyKg8M_SErtktls69VSSOhKBRwZKYVxe0RRUVZ9cnPktE4kSOCpi6O6BgldGlzwBPuA3S_PnKDgKc0uUS632w
+              - heading "BACKSLASH | English meaning - Cambridge Dictionary" [level=3] [ref=f3e824]
+              - generic [ref=f3e830]:
+                - generic [ref=f3e831]: Cambridge Dictionary
+                - generic [ref=f3e833]: https://dictionary.cambridge.org › dictionary › backslash
+            - button "About this result" [ref=f3e839] [cursor=pointer]
+          - generic [ref=f3e846]:
+            - text: \
+            - emphasis [ref=f3e847]: used for separating words or numbers in the names of computer files
+            - text: ": Type in the letter followed by a colon and a backslash."
+        - generic [ref=f3e854]:
+          - generic [ref=f3e857]:
+            - 'link "Slash vs backslash: it''s a simple concept YouTube · Practical IT with Jeremy Leik 8.5K+ views · 1 year ago" [ref=f3e859] [cursor=pointer]':
+              - /url: /goto?url=CAESYgHrOzAVJ-kCI_9TeKYpsdea0n6JcH7H9-n5z_Q-fS-28F_j-qLVjndCEXrZmvnayUg2SPqCI7Qlt2vYEOiKEgnhJQhaBxbkNH-oi8hE0CBKnqL5MlaVZ7Muj44vNCpsO258
+              - 'heading "Slash vs backslash: it''s a simple concept" [level=3] [ref=f3e860]'
+              - generic [ref=f3e866]:
+                - generic [ref=f3e867]: YouTube · Practical IT with Jeremy Leik
+                - generic [ref=f3e869]: 8.5K+ views · 1 year ago
+            - button "About this result" [ref=f3e875] [cursor=pointer]
+          - generic [ref=f3e880]:
+            - 'button "Slash vs backslash: it''s a simple concept by Practical IT with Jeremy Leik on YouTube. Play on Google. 0:54" [ref=f3e881] [cursor=pointer]':
+              - generic [ref=f3e882]: 0:54
+            - generic [ref=f3e895]: "A fun little way to keep the Slash (/) and the backslash (\\) straight. slash: it's a simple concept"
+        - generic [ref=f3e900]:
+          - generic [ref=f3e903]:
+            - link "When people say \"backslash\" when spelling out URLs that ... Reddit · r/PetPeeves 40+ comments · 10 months ago" [ref=f3e905] [cursor=pointer]:
+              - /url: /goto?url=CAESoAEB6zswFRi6PeCKrkiJIA7a1DMIGR4ZZUOO675ltcvvQESgPBFy9KkO97NV4Sq7LKRIyi5fVMXH3LJImSD6OcwG2zDN5Ji8dGJonBZLP2z8UVq5bMFXnHyCsL3LC_n7GDdTva723D1iIF94bIfoxxWh1_OrADwJ4MLyQ7sZjKt7bfG3uUheZOE4MDjoL8Sih0fi-KeM3LOsfatg60CYS6Fk
+              - heading "When people say \"backslash\" when spelling out URLs that ..." [level=3] [ref=f3e906]
+              - generic [ref=f3e912]:
+                - generic [ref=f3e913]: Reddit · r/PetPeeves
+                - generic [ref=f3e915]: 40+ comments · 10 months ago
+            - button "About this result" [ref=f3e921] [cursor=pointer]
+          - generic [ref=f3e928]:
+            - text: This is a slash / and this is a
+            - emphasis [ref=f3e929]: backslash \
+            - text: which is like never used as a separator in URLs. The curse of knowing the slash directions.
+          - generic [ref=f3e932]:
+            - generic [ref=f3e933]:
+              - link [ref=f3e936] [cursor=pointer]:
+                - /url: /goto?url=CAESnAEB6zswFR86qKDu_P3nHBWWcHtnwRo8bWIEWRPUaDr4_eqPUJFg2kK3PX9UU2qMp0Oho7KNN53Btn4wHyb-9QJGqtjAicBgiCjmpQciFEk90g2yFBpq16kw7XiF-iakONkUnKRcBTdi5sjybqLHznQLMqGkPptVw7i9dDHEX1Z_Wa1qpzRvTPpYUDGkq9VeUAD_mqYLCFrADC21bHI
+                - generic [ref=f3e937]:
+                  - text: What are the
+                  - emphasis [ref=f3e938]: backslashes
+                  - text: in code for? Why \_ instead of _?
+              - generic [ref=f3e939]: 8 posts
+              - generic [ref=f3e941]: Apr 5, 2022
+            - generic [ref=f3e943]:
+              - link [ref=f3e946] [cursor=pointer]:
+                - /url: /goto?url=CAESnwEB6zswFY0QnrImPfPy6ZCcKRLR6XX5r84OGD2c4_GabyIjWcUChEpbdOqAsw9jh2OxYBeYxsKcO8-hS8s3xUQ6bK0vdbFj8tC0LlnlYkgSuG3oUMSIUv65YCNvh9aUqR4kxZx9EQnEbBnLxcbWiJHpR5K5DPanASSx4JtacTb8F0N-7dQaHHF2Mqs7MeUfwVWZZ5s_mzZThsNWBLnbdv8
+                - generic [ref=f3e947]:
+                  - text: What is the difference between using a
+                  - emphasis [ref=f3e948]: backslash
+                  - text: and ...
+              - generic [ref=f3e949]: 142 posts
+              - generic [ref=f3e951]: Jul 10, 2013
+            - link "More results from www.reddit.com" [ref=f3e956] [cursor=pointer]:
+              - /url: /search?q=%5C+site:www.reddit.com&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&sa=X&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQrQIoAnoECDoQAw
+        - generic [ref=f3e960]:
+          - generic [ref=f3e963]:
+            - link "backslash / slash | Common Errors in English Usage and More Washington State University https://brians.wsu.edu › 2016/05/19 › backslash-slash" [ref=f3e965] [cursor=pointer]:
+              - /url: /goto?url=CAESbQHrOzAV7GBe6UWwUN_IIEW2wfmGkQqjjwzYUY1WjPQoUmqv1Aw9oah_TPJZ_U9fNKNpFrku8GCxcz33UTGYAQ1wIs3GGStfp0bnl1iCT71Abks9ASfolWXyIH_FWqgMFwIfSYiH4DGQ7L0CiAM
+              - heading "backslash / slash | Common Errors in English Usage and More" [level=3] [ref=f3e966]
+              - generic [ref=f3e972]:
+                - generic [ref=f3e973]: Washington State University
+                - generic [ref=f3e975]: https://brians.wsu.edu › 2016/05/19 › backslash-slash
+            - button "About this result" [ref=f3e981] [cursor=pointer]
+          - generic [ref=f3e987]:
+            - generic [ref=f3e988]: May 19, 2016 —
+            - generic [ref=f3e989]:
+              - text: This is a
+              - emphasis [ref=f3e990]: backslash
+              - text: ": \\. Notice the way it leans back, distinguishing it from the regular slash. Slashes are often used to indicate directories ..."
+            - link "Read more" [ref=f3e991] [cursor=pointer]:
+              - /url: /goto?url=CAESvAEB6zswFRoFO3vMhLmbOAztuWzHgptqfKSvvt6KBMykvkox_2A7HBot2sQ6KciM1dcZ4pohjcafKLXNmtjc7r5aO3nAnOUzJcccWeJd0pw_WRAzjMQWCPL7GEzBWTFAqExIxQU50eHckdpuTx15eBs1yU12-oEiE7y_EBe9L9NAE2kjlG8T5ELbcfuHDqe5ezgFGNsvtWkcPG4dec8heg41n4UB1cj7rhqA2cUqPCpcoboeS2EVCTkVcWHhbg
+      - navigation [ref=f3e994]:
+        - heading "Page Navigation" [level=1] [ref=f3e995]
+        - text: "1"
+        - link "Page 2" [ref=f3e998] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=10&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAE
+          - text: "2"
+        - link "Page 3" [ref=f3e1000] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=20&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAG
+          - text: "3"
+        - link "Page 4" [ref=f3e1002] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=30&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAI
+          - text: "4"
+        - link "Page 5" [ref=f3e1004] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=40&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAK
+          - text: "5"
+        - link "Page 6" [ref=f3e1006] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=50&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAM
+          - text: "6"
+        - link "Page 7" [ref=f3e1008] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=60&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAO
+          - text: "7"
+        - link "Page 8" [ref=f3e1010] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=70&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAQ
+          - text: "8"
+        - link "Page 9" [ref=f3e1012] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=80&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAS
+          - text: "9"
+        - link "Page 10" [ref=f3e1014] [cursor=pointer]:
+          - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=90&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8tMDegQIMhAU
+          - text: "10"
+        - heading [level=2] [ref=f3e1016]:
+          - link "Next" [ref=f3e1017] [cursor=pointer]:
+            - /url: /search?q=%5C&sca_esv=e65bf6121730a79e&sxsrf=AKL5yDj-gkT6Tr4J8zor4G9oT2I1vfFNYw:1793212062992&ei=nj7iarWvOobJ0PEP7PrksQI&start=10&sa=N&sstk=AS6-VmIRl-ZTsFJ1N5tzxd0wxz5gv906Owt8pOR6R5OcQLUzOwyS2Fu72sFYvslg2xhVi-Htg5qTzwuGlZBlnS_tbzHaTmu8NC3y7g&ved=2ahUKEwi19pPAq92XAxWGJDQIHWw9OSYQ8NMDegQIMhAW
+      - navigation
+    - contentinfo [ref=f3e1020]:
+      - heading "Footer Links" [level=1] [ref=f3e1021]
+      - generic [ref=f3e1025]:
+        - generic [ref=f3e1027]:
+          - text: Canada
+          - generic [ref=f3e1029]:
+            - button "T5K, Edmonton, AB - From your IP address" [ref=f3e1031] [cursor=pointer]:
+              - generic [ref=f3e1032]: T5K, Edmonton, AB
+              - generic [ref=f3e1034]:
+                - text: "-"
+                - generic [ref=f3e1035]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=f3e1037] [cursor=pointer]
+        - generic [ref=f3e1040]:
+          - link "Help" [ref=f3e1041] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-CA&fg=1
+          - link "Send feedback" [ref=f3e1042] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f3e1043] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-CA&fg=1
+          - link "Terms" [ref=f3e1044] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-CA&fg=1

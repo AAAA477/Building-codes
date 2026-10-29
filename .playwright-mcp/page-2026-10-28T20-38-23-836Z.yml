@@ -1,0 +1,132 @@
+- generic [ref=f8e3]:
+  - link "Skip to main content" [ref=f8e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f8e5]:
+    - generic [ref=f8e6]:
+      - link "Variance Workspace, home" [ref=f8e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f8e8]: Variance Workspace
+        - generic [ref=f8e9]: Alberta building code variances
+      - generic [ref=f8e10]:
+        - status [ref=f8e24]: Saved automatically
+        - group "View as" [ref=f8e11]:
+          - button "Applicant" [pressed] [ref=f8e12] [cursor=pointer]
+          - button "Reviewer" [ref=f8e13] [cursor=pointer]
+  - main [ref=f8e14]:
+    - generic [ref=f8e25]:
+      - navigation "Application steps" [ref=f8e26]:
+        - list [ref=f8e27]:
+          - listitem [ref=f8e28]:
+            - button "Describe, 12 open" [ref=f8e29] [cursor=pointer]:
+              - generic [ref=f8e30]: "1"
+              - generic [ref=f8e31]: Describe
+              - generic [ref=f8e32]: 12 open
+          - listitem [ref=f8e33]:
+            - button "Rules, 1 open" [ref=f8e34] [cursor=pointer]:
+              - generic [ref=f8e35]: "2"
+              - generic [ref=f8e36]: Rules
+              - generic [ref=f8e37]: 1 open
+          - listitem [ref=f8e38]:
+            - button "Fill and review, 26 open, locked" [disabled] [ref=f8e39]:
+              - generic [ref=f8e40]: "3"
+              - generic [ref=f8e41]: Fill and review
+              - generic [ref=f8e42]: 26 open
+          - listitem [ref=f8e43]:
+            - button "Submit, 3 open, locked" [disabled] [ref=f8e44]:
+              - generic [ref=f8e45]: "4"
+              - generic [ref=f8e46]: Submit
+              - generic [ref=f8e47]: 3 open
+      - generic [ref=f8e48]:
+        - generic [ref=f8e49]: Step 2 of 4 · Rules
+        - generic [ref=f8e51]:
+          - generic [ref=f8e52]:
+            - generic [ref=f8e53]:
+              - generic [ref=f8e54]:
+                - heading "Find the rules that apply" [level=1] [ref=f8e55]
+                - paragraph [ref=f8e56]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=f8e57]:
+                - group [ref=f8e58]:
+                  - 'generic "Before you file: may this already be covered? 3 possible matches Show details Possible matches" [ref=f8e59] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=f8e60]'
+                    - generic [ref=f8e61]: 3 possible matches
+                    - generic [ref=f8e62]: Show details
+                    - list "Possible matches" [ref=f8e63]:
+                      - listitem [ref=f8e64]:
+                        - generic [ref=f8e65]: standata variance
+                        - text: Sprinkler-protected glazing in fire-resistant wall assemblies
+                      - listitem [ref=f8e66]:
+                        - generic [ref=f8e67]: standata variance
+                        - text: Fire-resistant wall assemblies
+                - paragraph [ref=f8e68]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=f8e71]:
+                  - heading "In your application 2" [level=2] [ref=f8e72]:
+                    - text: In your application
+                    - generic [ref=f8e73]: "2"
+                  - list [ref=f8e74]:
+                    - listitem [ref=f8e75]:
+                      - generic [ref=f8e76]:
+                        - generic "NBC(AE) 2023" [ref=f8e77]: NBC
+                        - generic [ref=f8e78]: 3.1.7.1.(1)
+                        - generic [ref=f8e79]: Verified in code text
+                      - paragraph [ref=f8e82]:
+                        - generic [ref=f8e83]: Intent
+                        - text: Intent 1. To limit the probability that materials, assemblies or structural members will have insufficient resistance to the spread of fire...
+                      - generic [ref=f8e84]:
+                        - generic [ref=f8e85]: What it protects
+                        - list [ref=f8e87]:
+                          - listitem [ref=f8e88]: fire or explosion impacting areas beyond its point of origin
+                          - listitem [ref=f8e89]: collapse of physical elements due to a fire or explosion
+                        - button "Show 2 more" [ref=f8e90] [cursor=pointer]
+                      - generic [ref=f8e91]:
+                        - generic [ref=f8e92]: NBC(AE) 2023, page 322
+                        - generic [ref=f8e93] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=f8e94]
+                          - generic [ref=f8e95]: Included in my application
+                    - listitem [ref=f8e96]:
+                      - generic [ref=f8e97]:
+                        - generic "NBC(AE) 2023" [ref=f8e98]: NBC
+                        - generic [ref=f8e99]: 9.10.3.1.(1)
+                        - generic [ref=f8e100]: Verified in code text
+                      - paragraph [ref=f8e103]:
+                        - generic [ref=f8e104]: Intent
+                        - text: Intent 1. To expand the application of Sentences 3.1.7.1.(1) and 3.1.8.4.(1) to Part 9 buildings. Intent 2. To direct Code users to Part 3...
+                      - generic [ref=f8e105]:
+                        - generic [ref=f8e106]: NBC(AE) 2023, page 878
+                        - generic [ref=f8e107] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=f8e108]
+                          - generic [ref=f8e109]: Included in my application
+                - region [ref=f8e110]:
+                  - heading "Add another article" [level=2] [ref=f8e111]
+                  - generic [ref=f8e112]:
+                    - generic [ref=f8e113]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=f8e114]:
+                      - option "Single-exit stair (point access block)"
+                      - option "Any other NBC requirement" [selected]
+                  - search [ref=f8e115]:
+                    - generic [ref=f8e116]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=f8e117]
+                    - generic [ref=f8e118]: Search in
+                    - combobox "Search in" [ref=f8e119]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=f8e120]
+            - complementary [ref=f8e124]:
+              - generic [ref=f8e125]:
+                - heading "Why this step?" [level=2] [ref=f8e126]
+                - paragraph [ref=f8e127]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=f8e128]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=f8e129]:
+                - heading "Not sure?" [level=2] [ref=f8e130]
+                - paragraph [ref=f8e131]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=f8e132]:
+            - button "Back" [ref=f8e133] [cursor=pointer]
+            - generic [ref=f8e136]: 2 articles selected
+            - 'button "Next: Fill and review" [ref=f8e137] [cursor=pointer]'
+  - contentinfo [ref=f8e21]:
+    - generic [ref=f8e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=f8e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

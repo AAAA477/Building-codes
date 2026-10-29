@@ -1,0 +1,231 @@
+[
+ {
+  "chunk_id": "standata_bulletin:ata_errata_2023_ma_23_bce_001_errata_pdf-5eb1ac~6-8",
+  "text": "e access route described in Sentence 3.2.2.10.(3) shall be more than 20 m below the uppermost floor level. 3.2.5.7. Water Supply (See Note A-3.2.5.7.) 1) Except as provided in Sentences (3) to (5), and except for a building that is neither more than 3 storeys in building height nor more than 600 m2 in building area, a building shall have water available for firefighting purposes that is provided by a a) piped municipal water supply capable of being delivered at a i) rate of not less than 3 800 L/min, and ii) residu",
+  "truth": {
+   "storeys": [
+    3
+   ],
+   "building_area_m2": [
+    600
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:g_fire_23_bci_003_23_fci_002_2024_04_pdf-d5fabf~6-8",
+  "text": "ss to exit. - Features for exits, particularly for existing buildings, must be in compliance (e.g., flame spread rating, emergency lights, exit lights, door hardware, etc.) to be considered as contributing to exit widths. - In a building that is not sprinklered throughout, the principal entrance serving a dance hall or a licensed beverage establishment with an occupant load more than 250 shall provide at least one half of the required exit width. Exit capacity is calculated by the width of the exit divided by one o",
+  "truth": {
+   "sprinklered": [
+    false
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:variance_building_23_bcv_005_2024_05_pdf-524614~3-3",
+  "text": "hardware, and located remotely from each other where the building exceeds 7.4 m2 in building area so the travel distance to at least one exit from any point in the floor area does not exceed 10 m. • Buildings with related functions or through process may be considered as one building for the purposes of spatial separation between buildings. • Spatial separation calculations for limiting distances to property lines are calculated as per - Subsection 3.2.3. for Part 3 buildings, or - Subsection 9.10.14. for Part 9 bu",
+  "truth": {
+   "building_area_m2": [
+    7.4
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_bulletin:ata_errata_2023_ma_23_bce_001_errata_pdf-5eb1ac~9-13",
+  "text": "1.9., d) are used only in horizontal runs in a building required to be of noncombustible construction or in a building or part of a building permitted to be of encapsulated mass timber construction, e) are not used in vertical runs serving more than 2 storeys in a building permitted to be of combustible construction, and f) are not used in air duct systems in which the air temperature",
+  "truth": {
+   "storeys": [
+    2
+   ]
+  }
+ },
+ {
+  "chunk_id": "edmonton_policy:n_for_secondary_suites_in_row_houses_pdf-d9a839~14-16",
+  "text": "ildings. The firewall introduced by Sentence 9.10.11.2.(2) when a number of secondary suites are present created a significant inconsistency in the maximum building area for rowhouses. At the extreme, a rowhouse without secondary suites may be up to 600m2 in building area, whereas when secondary suites are present, the maximum building area is reduced to as few as two houses (or approximately 140m2 in building area for typical townhomes in Edmonton). This is not congruent with fire risk, or challenge faced by respo",
+  "truth": {
+   "building_area_m2": [
+    600,
+    140
+   ]
+  }
+ },
+ {
+  "chunk_id": "edmonton_policy:lutions_secondary_suite_design_guide_pdf-b5297f~9-7",
+  "text": "d minimum provisions (width X height), ● any doorway providing access to exit and exit from a secondary suite is ○ ≥ 1980mm (78”) high, ○ ≥ 810mm (32”) wide, and ○ may swing inward. Egress from Sleeping Rooms Every room intended for sleeping in an unsprinklered building requires emergency egress: a door to the exterior ORegress window,as shown here, with the following characteristics: ● openable from the inside without removing sashes or any hardware and without keys, tools or special knowledge, ● any security bars",
+  "truth": {
+   "sprinklered": [
+    false
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:v_008_separationofsuitesinstripmalls_pdf-a8a14d~2-2",
+  "text": "ss and personal services occupancy and suites of mercantile occupancy are not required to be separated from each other by fire separations, provided: 1. The building does not exceed one (1) storey in building height, 2. The building has an automatic sprinkler system that meets the requirements of 3.2.5.12.(1), 3. The building has a fire alarm system that meets the requirements of Sentence 3.2.4.5.(1), 4. Each suite is served by not less than two (2) exits which lead directly to the exterior, and 5. The building doe",
+  "truth": {
+   "storeys": [
+    1
+   ],
+   "sprinklered": [
+    true
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:g_fire_23_bci_003_23_fci_002_2024_04_pdf-d5fabf~2-2",
+  "text": "trances 1) For the purposes of this Section, at least one door at every principal entrance to a building providing access from the exterior at ground level shall be designed in accordance with the requirements for exits. 2) In a building that is not sprinklered throughout in accordance with Sentence 3.2.5.12.(1), the principal entrance serving a dance hall or a licensed beverage establishment with an occupant load more than 250 shall provide at least one half of the required exit width. NBC(AE) Article 3.1.17.1. 3.",
+  "truth": {
+   "sprinklered": [
+    false
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:g_fire_23_bci_002_23_fci_009_2024_04_pdf-89438d~1-1",
+  "text": "rdance with Article 9.10.19.6. Clause 3.2.4.1.(4)(f) 3.2.4.1. Determination of Requirement for a Fire Alarm System 4) Except as permitted by Sentence (5), (6) and Sentence 3.2.4.2.(4), a fire alarm system shall be installed in a building that is not sprinklered throughout and that contains f) a school, college, or child care facility, including a daycare facility, with an occupant load more than 40, Sentences 9.10.18.2.(1),(2) and (5) 9.10.18.2. Fire Alarm System Required 1) Except as permitted in Sentences (3) and",
+  "truth": {
+   "sprinklered": [
+    false
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:retation_building_23_bci_034_2025_03_pdf-9f7cc3~2-2",
+  "text": "lchairs is not required a) to service rooms, b) to elevator machine rooms, c) to janitors' rooms, d) to service spaces, e) to crawl spaces, f) to attic or roof spaces, g) to the floor level above or below the entrance level in buildings no more than 2 storeys in building height or in 2-storey suites, unless the floor level above or below (see Note A-3.8.2.3.(2)(g)) i) is served by a passenger elevator, a platform-equipped passenger-elevating device, an escalator or an inclined moving walk, ii) is 600 m2 or more in",
+  "truth": {
+   "storeys": [
+    2
+   ],
+   "building_area_m2": [
+    600
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:_20pcb014r1_25gcb018_24ecb009r2_2026_pdf-78b4d2~2-2",
+  "text": "height, has a building area of 165 m2 or less, e) that is a farm building not for public use, or f) classified as a relocatable industrial camp building. 2) For the purposes of Sentence (1), secondary suites need not be considered as dwelling units. 3) For buildings other than those described in Sentence (1), the drawings and specifications shall be authenticated by one or more registered professionals qualified to engage in the appropriate combination of those areas of the practice of architecture and engineering",
+  "truth": {
+   "building_area_m2": [
+    165
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:variance_building_23_bcv_005_2024_05_pdf-524614~2-2",
+  "text": "fety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Oil or gas processing buildings may be classified as Group F, Division 2 medium-hazard occupancy provided: 1. The building does not exceed 150 m2 in building area. 2. A risk assessment has been prepared by a Registered Engineering Professional, licensed to practice in the province of Alberta, which includes: • The determination of adequate rates of gravity and/or mechanical ventilation based on - requireme",
+  "truth": {
+   "building_area_m2": [
+    150
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:bcv_014_rev1_19_fcv_019_rev1_2023_03_pdf-2487cc~2-2",
+  "text": "code users with the ability to explore construction methods for taller buildings using renewable resources, this variance aims to make designs using EMTC more attainable. The NBC(AE) requires that buildings greater than 6-storeys in height be of noncombustible construction. This variance permits the construction of EMTC buildings of certain occupancy classifications up to 12-storeys in height. Code Reference Article 1.4.1.2. 1) The words and terms in italics in this Code shall have the following meanings: Combustib",
+  "truth": {
+   "storeys": [
+    6,
+    12
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:_multi_level_storage_racking_systems_pdf-e71de8~4-5",
+  "text": "st egress stair shall be not more than 15 m. 6.3. Any single access level in a multi-level storage racking system may be served by a single egress stair leading to the access level immediately below provided, 6.3.1. the access level is not more than 200 m² in area, including the area occupied by the storage racks, 6.3.2. the travel distance from any point on the access level to the bottom of the egress stair on the access level below, including the travel distance along the egress stair, is not more than 25 m, and",
+  "truth": {
+   "building_area_m2": [
+    200
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:oths_application_of_the_safety_codes_pdf-a20a9e~1-0",
+  "text": "as an NFPA standard for use by the registered professional. Permit Regulation pursuant to the Safety Codes Act Building permit 6(1) A permit in the building discipline is required for the following: (a) the construction of a building, including the renovation of or addition",
+  "truth": {
+   "new_or_renovation": [
+    "renovation"
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:ble_industrial_accomodation_labeling_pdf-d5f6d1~1-0",
+  "text": "nstructors for Part 10 and the Alberta Labelling Program will be discontinued effective December 16, 2019 with a transition period for industry to be certified under CSA A277 by March 16, 2020. CODE REFERENCES Sentence 10.1.1.4.(3) states: 10.1.1.4. Renovation Requirement of Existing Units 3) A building referred to in Sentences (1) and (2) must be constructed or renovated by a constructor certified by the Provincial Building Administrator and must carry the appropriate Alberta label. Article 2.4.5.1. (Division C) s",
+  "truth": {
+   "new_or_renovation": [
+    "renovation"
+   ]
+  }
+ },
+ {
+  "chunk_id": "edmonton_policy:lutions_secondary_suite_design_guide_pdf-b5297f~13-11",
+  "text": "inside. In certain cases the natural flow of air up a chimney can be reversed, leading to risk of carbon monoxide poisoning. Depressurization can also contribute to increased entry of soil gas (radon) through basement floor and wall cracks. Newer or renovated houses are generally more tightly constructed than older ones, with less draughty windows, newer weather stripping and caulking. This increases the probability that infiltration of air from joints and penetrations in the exterior walls of the housemay not be a",
+  "truth": {
+   "new_or_renovation": [
+    "renovation"
+   ]
+  }
+ },
+ {
+  "chunk_id": "web_page:pages_edmonton_house_permits_html-954874~1-11",
+  "text": "metres, Irregular configurations , or Non-Part 9 soils conditions Helical Helical (‘torque’ or ‘screw’) piles or concrete piles, and/or grade beam Structural slab for concrete floors-on-ground for any building other than a detached garage less than 55 square metres area associated with a house Preserved wood foundation design Any geotechnical engineer report for: Soil-bearing capacity, Sulphate content, or Top-of-bank conditions. Above-ground Engineering Tall walls exceeding NBC(AE) wall height limits (79.14 KB) '",
+  "truth": {
+   "building_area_m2": [
+    55
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_bulletin:etin_building_23_bcb_007_2025_05_pdf_pdf-e408c8~4-5",
+  "text": "buildings of residential occupancy to which Part 9 applies. 6) Buildings containing non-residential occupancies whose combined total floor area exceeds 300 m2 or medium-hazard industrial occupancies shall comply with the NECB. 7) Buildings or portions of buildings that are not required to be conditioned spaces are exempted from the requirements of this Section. (See Note A-9.36.1.3.(7).) (See also Article 9.25.2.1.) Sentence 9.9.4.4.(1) 9.9.4.4. Openings Near Unenclosed Exterior Exit Stairs and Ramps 1) Unprotected",
+  "truth": {
+   "building_area_m2": [
+    300
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:g_fire_23_bci_010_23_fci_013_2025_01_pdf-172737~9-13",
+  "text": "equipment shall be installed and maintained so as not to create a fire hazard.. NFC(AE) Division B, Subsection 2.7.1. 2.7.1.3. Occupant Load 1) The maximum permissible occupant load for any room shall be calculated on the basis of the lesser of a) 0.4 m2 of net floor space per occupant, or b) the occupant load for which means of egress are provided. (See Note A-2.7.1.3.(1).) 2) The number of occupants permitted to enter a room shall not exceed the maximum occupant load calculated in conformance with Sentence (1). 2",
+  "truth": {
+   "building_area_m2": [
+    0.4
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_variance:015_multi_levelstoragerackingsystems_pdf-3ef614~3-3",
+  "text": "serviceable floor area where the multi-level storage racking system is designed to store 2.3.1. Group A, B or C plastics, as defined in NFPA 13, “Installation of Sprinkler Systems,” 2.3.2. rubber tires, or 2.3.3. combustible fibres. 2.4. Guards in conformance with Article 3.3.1.18. shall be provided 2.4.1. at all edges of access levels, and 2.4.2. around all openings between access levels. 2.5. Toe-boards extending from the surface of the access level to a height not less than 125 mm above the surface of the access",
+  "truth": {}
+ },
+ {
+  "chunk_id": "edmonton_policy:_b19_04_small_building_access_policy_pdf-85f938~2-3",
+  "text": "h of at least 0.9m and an unobstructed clear height of at least 2.0m. Obstructed Side Yard: A path of travel with a clear width less than 0.9m but not less than 0.6m is deemed obstructed, and an alternative solution for the building (e.g., automatic sprinkler system or other) may be required for the obstructed path of travel to be acceptable to the permit oﬃce and the ﬁre department. Unacceptable Conﬁguration: A path of travel with a clear width less than 0.6m is deemed impractical and is not an acceptable path of",
+  "truth": {}
+ },
+ {
+  "chunk_id": "standata_interpretation:_fci_006_existing_fire_alarm_systems_pdf-0b9545~11-17",
+  "text": "/ Renovations   Audit System (Division C, 2.2.9.2.)  (2)  (2) Notes to Table: (1) Electricians and fire alarm technicians must be qualified under the NFC(AE). (2) Electricians and fire alarm technicians qualified as per the NFC(AE) may perform an audit where professional involvement is not required as per the NBC(AE). The Permit Regulation made pursuant to the Safety Codes Act outlines the necessary permit requirements for both building and electrical disciplines. It is essential to contact the local AHJ prior",
+  "truth": {
+   "new_or_renovation": [
+    "renovation"
+   ]
+  }
+ },
+ {
+  "chunk_id": "standata_interpretation:tion_joint_23bci026_23fci014_2026_10_pdf-11de91~6-8",
+  "text": "1.1. General 1) Except as required by Sentence (4), involvement of a registered professional is not required for a building b) classified as a residential occupancy that is i) a single-family dwelling, or ii) a multiple-family dwelling that contains 4 dwelling units or less, NFC(AE) Division C, Sentence 2.3.1.2.(1) 2.3.1.2. Retention of Documentation 1) Documentation conforming to Article 2.3.1.1. shall be retained on the premises to which it pertains for each measure that has been approved by the authority having",
+  "truth": {}
+ },
+ {
+  "chunk_id": "standata_variance:joint_variance_19_fcv_020_19_bcv_016_pdf-2af267~2-2",
+  "text": "in a building of care occupancy, provided i) it contains not more than 2 suites of care occupancy, ii) it has not more than 5 residents throughout, and iii) a 30-minute water supply demand can be met. NFC(AE) Section 6.4 and Appendix states: Section 6.4. Water-Based Fire Protection Systems 6.4.1. General 6.4.1.1. Inspection, Testing and Maintenance 1) Water-based fire protection systems shall be inspected, tested and maintained in conformance with NFPA 25, “Inspection, Testing, and Maintenance of Water-Based Fire P",
+  "truth": {}
+ },
+ {
+  "chunk_id": "standata_interpretation:re_23_bci_003r1_23_fci_002r1_2025_01_pdf-290ba2~11-13",
+  "text": "0.61m Egress width 1.10m Maximum permissible occupant load for the net floor space: • Area – Obstructions – Aisle to each required egress door = Total area o Area = m2 ▪ Length (room/building/space) x Width (room/building/space) = Area ▪ 50m x 30m = 1500m2 ▪ Stage may be provided with an exit at stage level which may create a situation for that space to have its own occupant load calculated (4m x 20m)x0.40m = 32 persons ▪ In the example provided the stage would not be calculate separately as the occupants will be c",
+  "truth": {
+   "building_area_m2": [
+    1500
+   ]
+  }
+ }
+]

@@ -1,0 +1,281 @@
+{
+ "title": "Section D: supporting documentation the application must address",
+ "note": "The tool lists what the documentation must address and leaves each item blank. Section D is checked for 'addressed or not', never for adequacy. Completion of the supporting documentation requires professional expertise in most cases (Challenge Scope p.3).",
+ "note_source": {
+  "doc": "00_Challenge_Scope.pdf",
+  "page": 3
+ },
+ "form_columns": "Name of Supporting Documentation and Name of the Individual/Professional and/or Professional Organization Responsible",
+ "form_source": {
+  "doc": "07_Variance_Form.pdf",
+  "page": 2
+ },
+ "items": [
+  {
+   "id": "SD-01",
+   "title": "Code analysis: methods and rationales",
+   "description": "A Code analysis outlining the analytical methods and rationales used to determine that the proposed alternative solution will achieve at least the level of performance required by Clause 1.2.1.1.(1)(b) of Division A.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(2)(a)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "code_analysis"
+  },
+  {
+   "id": "SD-02",
+   "title": "Applicable objectives, functional statements and acceptable solutions",
+   "description": "The Code analysis shall identify the applicable objectives, functional statements and acceptable solutions. The tool pre-fills the Section C attribution table from the verified lookup; the analysis built on it is the professional's.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(3)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "code_analysis",
+   "prefilled_by": "section_c lookup"
+  },
+  {
+   "id": "SD-03",
+   "title": "Assumptions and limiting or restricting factors",
+   "description": "Any assumptions, and limiting or restricting factors, that support the Code compliance assessment.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(3)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "code_analysis"
+  },
+  {
+   "id": "SD-04",
+   "title": "Testing procedures, engineering studies, building performance parameters",
+   "description": "Testing procedures, engineering studies or building performance parameters that support the Code compliance assessment.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(3)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "code_analysis"
+  },
+  {
+   "id": "SD-05",
+   "title": "Sufficient detail",
+   "description": "Information in sufficient detail to convey the design intent and to support the validity, accuracy, relevance and precision of the Code analysis.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(5)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "code_analysis"
+  },
+  {
+   "id": "SD-06",
+   "title": "Special maintenance or operational requirements",
+   "description": "Information concerning any special maintenance or operational requirements necessary for the alternative solution to achieve compliance after the building is constructed.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(2)(b)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "maintenance_commissioning"
+  },
+  {
+   "id": "SD-07",
+   "title": "Commissioning requirements",
+   "description": "Any building component commissioning requirements necessary for the alternative solution to achieve compliance after the building is constructed.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(2)(b)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "maintenance_commissioning"
+  },
+  {
+   "id": "SD-08",
+   "title": "Inspection, testing and maintenance (ITM) of systems not regulated by the NFC(AE)",
+   "description": "Identify fire and life safety systems introduced by the design that need ITM not otherwise prescribed by the NFC(AE) (for example smoke protection systems); include ITM and commissioning documentation, or state clearly the documentation required and the professional accountable for completing it.",
+   "professional_required": true,
+   "code_ref": "Edmonton Emergency Services Guideline, ITM section",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 22
+   },
+   "group": "maintenance_commissioning",
+   "jurisdiction": "edmonton",
+   "also_source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 20
+   }
+  },
+  {
+   "id": "SD-09",
+   "title": "Qualifications, experience and background",
+   "description": "Information about the qualifications, experience and background of the person or persons taking responsibility for the design.",
+   "professional_required": false,
+   "code_ref": "NBC Div C 2.3.1.1.(4)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "people",
+   "note": "Supplied by the person taking responsibility; for a Point Access Block that includes the qualified Fire Protection or Life Safety Code Consultant."
+  },
+  {
+   "id": "SD-10",
+   "title": "Single coordinating person",
+   "description": "Where more than one person takes responsibility for different aspects of the design, the applicant for the permit shall identify a single person to co-ordinate the preparation of the design, Code analysis and documentation.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.3.1.1.(6)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 739
+   },
+   "group": "people",
+   "also_source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 741
+   },
+   "note": "For projects within 2.4.1.1.(3) the owner retains a coordinating registered professional (2.4.2.2.(1)(a), p.741)."
+  },
+  {
+   "id": "SD-11",
+   "title": "Schedules of professional involvement",
+   "description": "Owner provides the authority having jurisdiction with Schedules A and B before applying for a permit; the coordinating registered professional provides Schedule C-1.",
+   "professional_required": true,
+   "code_ref": "NBC Div C 2.4.2.2.(1)(c), 2.4.2.3.(1)(d)",
+   "source": {
+    "doc": "NBC_2023AE_2nd_printing.pdf",
+    "page": 741
+   },
+   "group": "people",
+   "applies_when": "project falls within 2.4.1.1.(3)"
+  },
+  {
+   "id": "SD-12",
+   "title": "Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant",
+   "description": "Point Access Block applications must submit an Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant.",
+   "professional_required": true,
+   "code_ref": "Edmonton PAB guide, mandatory criteria",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   },
+   "group": "single_exit_stair",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "also_source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 4
+   }
+  },
+  {
+   "id": "SD-13",
+   "title": "Demonstration of equivalent or enhanced resiliency versus two egress stairs",
+   "description": "Show how a Single Egress Stair will perform to an equivalent or enhanced level of resiliency as a development with two egress stairs.",
+   "professional_required": true,
+   "code_ref": "Edmonton PAB guide, mandatory criteria",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   },
+   "group": "single_exit_stair",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton"
+  },
+  {
+   "id": "SD-14",
+   "title": "Report structure: regulatory framework, problem definition, risk assessment, alternative solutions",
+   "description": "The guide's example Technical Report is organised as Regulatory Framework, Problem Definition, Risk Assessment and Alternative Solutions (mitigations); it is demonstrative and not prescribed.",
+   "professional_required": true,
+   "code_ref": "Edmonton PAB guide, example risk mitigation measures",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 5
+   },
+   "group": "single_exit_stair",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton"
+  },
+  {
+   "id": "SD-15",
+   "title": "Emergency services impact",
+   "description": "Answer the four screening questions; if any is met, document assumptions and limiting factors relating to emergency response and the operational impact of any variance of firefighting provisions.",
+   "professional_required": true,
+   "code_ref": "Edmonton Emergency Services Guideline, Sections 1 and 4",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 8
+   },
+   "group": "emergency_services",
+   "jurisdiction": "edmonton",
+   "also_source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 20
+   }
+  },
+  {
+   "id": "SD-16",
+   "title": "Objective demonstration of performance",
+   "description": "Do not rely on subjective assessment. Demonstrate performance relative to the Division B acceptable solutions, or to tenability-based criteria grounded in good engineering practice.",
+   "professional_required": true,
+   "code_ref": "Edmonton Emergency Services Guideline, Subjective Equivalency",
+   "source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 20
+   },
+   "group": "emergency_services",
+   "jurisdiction": "edmonton",
+   "also_source": {
+    "doc": "10_Edmonton_Emergency_Services_Guideline.pdf",
+    "page": 21
+   }
+  },
+  {
+   "id": "SD-17",
+   "title": "Retention of documentation on the premises",
+   "description": "After occupancy, documentation conforming to NFC(AE) Article 2.3.1.1. is retained on the premises for review by fire safety codes officers (NFC(AE) Clause 2.3.1.2.(1)(b)); the owner keeps the issued variance documentation available.",
+   "professional_required": false,
+   "code_ref": "STANDATA 23-BCI-026/23-FCI-014; NFC(AE) Div C 2.3.1.2.(1)",
+   "source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 7
+   },
+   "group": "after_approval",
+   "topic": "single_exit_stair",
+   "also_source": {
+    "doc": "ma-standata-interpretation-joint-23bci026-23fci014-2026-10.pdf",
+    "page": 2
+   },
+   "nfc_source": {
+    "doc": "NFC_2023AE.pdf",
+    "page": 351
+   },
+   "responsible": "owner"
+  },
+  {
+   "id": "SD-18",
+   "title": "Pre-application meeting record (recommended)",
+   "description": "Edmonton recommends a pre-application meeting with Development Services for Point Access Block proposals (with Development Planner and Safety Codes officers).",
+   "professional_required": false,
+   "code_ref": "Edmonton PAB guide",
+   "source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 7
+   },
+   "group": "process",
+   "topic": "single_exit_stair",
+   "jurisdiction": "edmonton",
+   "optional": true,
+   "also_source": {
+    "doc": "11_Edmonton_Point_Access_Block.pdf",
+    "page": 8
+   }
+  }
+ ]
+}

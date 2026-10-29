@@ -1,0 +1,133 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - group "View as" [ref=e12]:
+        - button "Applicant" [ref=e13] [cursor=pointer]
+        - button "Reviewer" [pressed] [ref=e14] [cursor=pointer]
+  - main [ref=e15]:
+    - generic [ref=e205]:
+      - navigation "Form sections" [ref=e206]:
+        - list [ref=e207]:
+          - listitem [ref=e208]:
+            - button "Applicant, 4 open" [ref=e209] [cursor=pointer]:
+              - generic [ref=e210]: A
+              - generic [ref=e211]: Applicant
+              - generic [ref=e212]: 4 open
+          - listitem [ref=e213]:
+            - button "Project, 8 open" [ref=e214] [cursor=pointer]:
+              - generic [ref=e215]: B
+              - generic [ref=e216]: Project
+              - generic [ref=e217]: 8 open
+          - listitem [ref=e218]:
+            - button "Code, 2 open" [ref=e219] [cursor=pointer]:
+              - generic [ref=e220]: C
+              - generic [ref=e221]: Code
+              - generic [ref=e222]: 2 open
+          - listitem [ref=e223]:
+            - button "Docs, 16 open" [ref=e224] [cursor=pointer]:
+              - generic [ref=e225]: D
+              - generic [ref=e226]: Docs
+              - generic [ref=e227]: 16 open
+          - listitem [ref=e228]:
+            - button "Sign, 3 open" [ref=e229] [cursor=pointer]:
+              - generic [ref=e230]: S
+              - generic [ref=e231]: Sign
+              - generic [ref=e232]: 3 open
+      - generic [ref=e233]:
+        - generic [ref=e234]: Reviewing · Section A · Applicant
+        - generic [ref=e236]:
+          - region [ref=e237]:
+            - generic [ref=e238]:
+              - heading "36 gaps to resolve before this can be reviewed" [level=1] [ref=e239]
+              - paragraph [ref=e240]: A registered professional is required (Edmonton PAB guide p.8)
+              - note [ref=e241]:
+                - heading "AI assistance" [level=4] [ref=e242]
+                - paragraph [ref=e243]: No fields were drafted with AI assistance.
+            - generic [ref=e244]:
+              - generic [ref=e246]:
+                - generic [ref=e247]:
+                  - text: Items complete
+                  - generic [ref=e248]: 10/56
+                - progressbar "Items complete" [ref=e249]
+              - button "Draft request for information" [ref=e251] [cursor=pointer]
+              - paragraph [ref=e254]: Creates an editable email listing open items. Completeness only, not a technical opinion.
+          - generic [ref=e255]:
+            - region [ref=e256]:
+              - 'heading "Checklist: Section A" [level=2] [ref=e257]'
+              - list [ref=e259]:
+                - listitem [ref=e260]:
+                  - button "Owner name Missing Administrative" [ref=e261] [cursor=pointer]:
+                    - generic [ref=e262]: Owner name
+                    - generic [ref=e263]: Missing
+                    - generic [ref=e266]: Administrative
+                - listitem [ref=e267]:
+                  - button "Mailing address Missing Administrative" [ref=e268] [cursor=pointer]:
+                    - generic [ref=e269]: Mailing address
+                    - generic [ref=e270]: Missing
+                    - generic [ref=e273]: Administrative
+                - listitem [ref=e274]:
+                  - button "Email Missing Administrative" [ref=e275] [cursor=pointer]:
+                    - generic [ref=e276]: Email
+                    - generic [ref=e277]: Missing
+                    - generic [ref=e280]: Administrative
+                - listitem [ref=e281]:
+                  - button "Date of request Missing Administrative" [ref=e282] [cursor=pointer]:
+                    - generic [ref=e283]: Date of request
+                    - generic [ref=e284]: Missing
+                    - generic [ref=e287]: Administrative
+            - region [ref=e288]:
+              - heading "Mind map" [level=2] [ref=e289]
+              - group "Application mind map. Use the checklist for a keyboard-friendly version." [ref=e290]:
+                - paragraph [ref=e291]: Loading the map...
+                - application [ref=e292]:
+                  - generic "Control Panel" [ref=e295]:
+                    - button "Zoom In" [ref=e296] [cursor=pointer]
+                    - button "Zoom Out" [ref=e299] [cursor=pointer]
+                    - button "Fit View" [ref=e302] [cursor=pointer]
+                - generic [ref=e306]:
+                  - generic [ref=e307]: Click a section to open it.
+                  - button "Expand all" [ref=e308] [cursor=pointer]
+                - list "Legend" [ref=e309]:
+                  - listitem [ref=e310]:
+                    - generic [ref=e311]: Complete
+                  - listitem [ref=e315]:
+                    - generic [ref=e316]: Missing
+                  - listitem [ref=e319]:
+                    - generic [ref=e320]: Please confirm
+                  - listitem [ref=e324]:
+                    - generic [ref=e325]: Professional needed
+                  - listitem [ref=e329]:
+                    - generic [ref=e330]: From code lookup
+            - region [ref=e333]:
+              - heading "Evidence" [level=2] [ref=e334]
+              - generic [ref=e335]:
+                - paragraph [ref=e337]: Select an item on the checklist or the map to see its evidence here.
+                - heading "Documents (6)" [level=3] [ref=e338]
+                - list [ref=e339]:
+                  - listitem [ref=e340]:
+                    - generic [ref=e341]: Alternative Solution prepared by a qualified Fire Protection or Life Safety Code Consultant, including Code analysis ...
+                    - generic [ref=e342]: to be prepared
+                  - listitem [ref=e343]:
+                    - generic [ref=e344]: "Risk assessment and problem definition for the single exit stair (structure per Edmonton PAB guide p.5: regulatory fr..."
+                    - generic [ref=e345]: to be prepared
+                  - listitem [ref=e346]:
+                    - generic [ref=e347]: Special maintenance or operational requirements, including commissioning and inspection, testing and maintenance (ITM...
+                    - generic [ref=e348]: to be prepared
+                  - listitem [ref=e349]:
+                    - generic [ref=e350]: Qualifications, experience and background of the person or persons taking responsibility for the design (Division C 2...
+                    - generic [ref=e351]: to be prepared
+                  - listitem [ref=e352]:
+                    - generic [ref=e353]: Identification of a single person to co-ordinate the design, Code analysis and documentation (Division C 2.3.1.1.(6))
+                    - generic [ref=e354]: to be prepared
+                  - listitem [ref=e355]:
+                    - generic [ref=e356]: Screening against the four emergency-services questions (Emergency Services Guideline p.8-9) and, if triggered, impac...
+                    - generic [ref=e357]: to be prepared
+  - contentinfo [ref=e202]:
+    - generic [ref=e203]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e204]: Approval stays with registered professionals and the Authority Having Jurisdiction.

@@ -1,0 +1,1530 @@
+{
+ "NFC(AE) 2023": {
+  "objectives": {
+   "OS": {
+    "code": "OS",
+    "kind": "objective",
+    "title": "Safety",
+    "text": "An objective of this Code is to limit the probability that, as a result of specific circumstances related to the building or facility, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury.",
+    "pdf_page": 45,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 45,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1": {
+    "code": "OS1",
+    "kind": "objective",
+    "title": "Fire Safety",
+    "text": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "pdf_page": 46,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1.1": {
+    "code": "OS1.1",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion occurring",
+    "pdf_page": 46,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1.2": {
+    "code": "OS1.2",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion impacting areas beyond its point of origin",
+    "pdf_page": 46,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1.3": {
+    "code": "OS1.3",
+    "kind": "risk",
+    "title": null,
+    "text": "collapse of physical elements due to a fire or explosion",
+    "pdf_page": 46,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1.4": {
+    "code": "OS1.4",
+    "kind": "risk",
+    "title": null,
+    "text": "fire safety systems failing to function as expected",
+    "pdf_page": 46,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS1.5": {
+    "code": "OS1.5",
+    "kind": "risk",
+    "title": null,
+    "text": "persons being delayed in or impeded from moving to a safe place during a fire emergency",
+    "pdf_page": 46,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3": {
+    "code": "OS3",
+    "kind": "objective",
+    "title": "Safety in Use",
+    "text": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "pdf_page": 46,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3.1": {
+    "code": "OS3.1",
+    "kind": "risk",
+    "title": null,
+    "text": "tripping, slipping, falling, contact, drowning or collision",
+    "pdf_page": 46,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3.2": {
+    "code": "OS3.2",
+    "kind": "risk",
+    "title": null,
+    "text": "contact with hot surfaces or substances",
+    "pdf_page": 46,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3.3": {
+    "code": "OS3.3",
+    "kind": "risk",
+    "title": null,
+    "text": "contact with energized equipment",
+    "pdf_page": 46,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3.4": {
+    "code": "OS3.4",
+    "kind": "risk",
+    "title": null,
+    "text": "exposure to hazardous substances",
+    "pdf_page": 46,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OS3.7": {
+    "code": "OS3.7",
+    "kind": "risk",
+    "title": null,
+    "text": "persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))",
+    "pdf_page": 46,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OH": {
+    "code": "OH",
+    "kind": "objective",
+    "title": "Health",
+    "text": "An objective of this Code is to limit the probability that, as a result of specific circumstances related to the building or facility, a person will be exposed to an unacceptable risk of illness.",
+    "pdf_page": 46,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OH5": {
+    "code": "OH5",
+    "kind": "objective",
+    "title": "Hazardous Substances Containment",
+    "text": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the public will be exposed to an unacceptable risk of illness due to the release of hazardous substances from the building or facility.",
+    "pdf_page": 46,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 46,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP": {
+    "code": "OP",
+    "kind": "objective",
+    "title": "Fire Protection of Buildings and Facilities",
+    "text": "An objective of this Code is to limit the probability that, as a result of specific circumstances related to the building or facility, the building or facility will be exposed to an unacceptable risk of damage due to fire.",
+    "pdf_page": 47,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP1": {
+    "code": "OP1",
+    "kind": "objective",
+    "title": "Fire Protection of the Building or Facility",
+    "text": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the building or facility will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+    "pdf_page": 47,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP1.1": {
+    "code": "OP1.1",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion occurring",
+    "pdf_page": 47,
+    "parent": "OP1",
+    "parent_title": "Fire Protection of the Building or Facility",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the building or facility will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP1.2": {
+    "code": "OP1.2",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion impacting areas beyond its point of origin",
+    "pdf_page": 47,
+    "parent": "OP1",
+    "parent_title": "Fire Protection of the Building or Facility",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the building or facility will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP1.3": {
+    "code": "OP1.3",
+    "kind": "risk",
+    "title": null,
+    "text": "collapse of physical elements due to a fire or explosion",
+    "pdf_page": 47,
+    "parent": "OP1",
+    "parent_title": "Fire Protection of the Building or Facility",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the building or facility will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP1.4": {
+    "code": "OP1.4",
+    "kind": "risk",
+    "title": null,
+    "text": "fire safety systems failing to function as expected",
+    "pdf_page": 47,
+    "parent": "OP1",
+    "parent_title": "Fire Protection of the Building or Facility",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, the building or facility will be exposed to an unacceptable risk of damage due to fire. The risks of damage due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP3": {
+    "code": "OP3",
+    "kind": "objective",
+    "title": "Protection of Adjacent Buildings or Facilities from Fire",
+    "text": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, adjacent buildings or facilities will be exposed to an unacceptable risk of damage due to fire. The risks of damage to adjacent buildings and facilities due to fire addressed in this Code are those caused by—",
+    "pdf_page": 47,
+    "parent": null,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "OP3.1": {
+    "code": "OP3.1",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion impacting areas beyond the building or facility of origin",
+    "pdf_page": 47,
+    "parent": "OP3",
+    "parent_title": "Protection of Adjacent Buildings or Facilities from Fire",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of (a) activities related to the construction, use or demolition of the building or facility, (b) the condition of specific elements of the building or facility, (c) the design or construction of specific elements of the facility related to certain hazards, or (d) inadequate built-in protection measures for the current or intended use of the building, adjacent buildings or facilities will be exposed to an unacceptable risk of damage due to fire. The risks of damage to adjacent buildings and facilities due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 47,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NFC(AE) 2023"
+   }
+  },
+  "functions": {
+   "F01": {
+    "code": "F01",
+    "text": "To minimize the risk of accidental ignition.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F02": {
+    "code": "F02",
+    "text": "To limit the severity and effects of fire or explosions.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F03": {
+    "code": "F03",
+    "text": "To retard the effects of fire on areas beyond its point of origin.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F04": {
+    "code": "F04",
+    "text": "To retard failure or collapse due to the effects of fire.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F05": {
+    "code": "F05",
+    "text": "To retard the effects of fire on emergency egress facilities.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F06": {
+    "code": "F06",
+    "text": "To retard the effects of fire on facilities for notification, suppression and emergency response.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F10": {
+    "code": "F10",
+    "text": "To facilitate the timely movement of persons to a safe place in an emergency.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F11": {
+    "code": "F11",
+    "text": "To notify persons, in a timely manner, of the need to take action in an emergency.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F12": {
+    "code": "F12",
+    "text": "To facilitate emergency response.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F13": {
+    "code": "F13",
+    "text": "To notify emergency responders, in a timely manner, of the need to take action in an emergency.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F20": {
+    "code": "F20",
+    "text": "To support and withstand expected loads and forces.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F21": {
+    "code": "F21",
+    "text": "To limit or accommodate dimensional change.",
+    "pdf_page": 53,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 53,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F22": {
+    "code": "F22",
+    "text": "To limit movement under expected loads and forces.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F30": {
+    "code": "F30",
+    "text": "To minimize the risk of injury to persons as a result of tripping, slipping, falling, contact, drowning or collision.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F31": {
+    "code": "F31",
+    "text": "To minimize the risk of injury to persons as a result of contact with hot surfaces or substances.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F32": {
+    "code": "F32",
+    "text": "To minimize the risk of injury to persons as a result of contact with energized equipment.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F34": {
+    "code": "F34",
+    "text": "To resist or discourage unwanted access or entry.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F36": {
+    "code": "F36",
+    "text": "To minimize the risk that persons will be trapped in confined spaces.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F40": {
+    "code": "F40",
+    "text": "To limit the level of contaminants.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F43": {
+    "code": "F43",
+    "text": "To minimize the risk of release of hazardous substances.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F44": {
+    "code": "F44",
+    "text": "To limit the spread of hazardous substances beyond their point of release.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F51": {
+    "code": "F51",
+    "text": "To maintain appropriate air and surface temperatures.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F52": {
+    "code": "F52",
+    "text": "To maintain appropriate relative humidity.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F53": {
+    "code": "F53",
+    "text": "To maintain appropriate indoor/outdoor air pressure differences.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F80": {
+    "code": "F80",
+    "text": "To resist deterioration resulting from expected service conditions.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F81": {
+    "code": "F81",
+    "text": "To minimize the risk of malfunction, interference, damage, tampering, lack of use or misuse.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   },
+   "F82": {
+    "code": "F82",
+    "text": "To minimize the risk of inadequate performance due to improper maintenance or lack of maintenance.",
+    "pdf_page": 54,
+    "source": {
+     "doc": "NFC_2023AE.pdf",
+     "page": 54,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NFC(AE) 2023"
+   }
+  }
+ },
+ "NPC 2020": {
+  "objectives": {
+   "OS": {
+    "code": "OS",
+    "kind": "objective",
+    "title": "Safety",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury.",
+    "pdf_page": 48,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS1": {
+    "code": "OS1",
+    "kind": "objective",
+    "title": "Fire Safety",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "pdf_page": 48,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS1.1": {
+    "code": "OS1.1",
+    "kind": "risk",
+    "title": null,
+    "text": "fire or explosion occurring",
+    "pdf_page": 48,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS1.4": {
+    "code": "OS1.4",
+    "kind": "risk",
+    "title": null,
+    "text": "fire safety systems failing to function as expected",
+    "pdf_page": 48,
+    "parent": "OS1",
+    "parent_title": "Fire Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to fire. The risks of injury due to fire addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS2": {
+    "code": "OS2",
+    "kind": "objective",
+    "title": "Structural Safety",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+    "pdf_page": 48,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS2.1": {
+    "code": "OS2.1",
+    "kind": "risk",
+    "title": null,
+    "text": "loads bearing on the building elements that exceed their load-bearing capacity",
+    "pdf_page": 48,
+    "parent": "OS2",
+    "parent_title": "Structural Safety",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building will be exposed to an unacceptable risk of injury due to structural failure. The risks of injury due to structural failure addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS3": {
+    "code": "OS3",
+    "kind": "objective",
+    "title": "Safety in Use",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS3.1": {
+    "code": "OS3.1",
+    "kind": "risk",
+    "title": null,
+    "text": "tripping, slipping, falling, contact, drowning or collision",
+    "pdf_page": 49,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS3.2": {
+    "code": "OS3.2",
+    "kind": "risk",
+    "title": null,
+    "text": "contact with hot surfaces or substances",
+    "pdf_page": 49,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OS3.4": {
+    "code": "OS3.4",
+    "kind": "risk",
+    "title": null,
+    "text": "exposure to hazardous substances",
+    "pdf_page": 49,
+    "parent": "OS3",
+    "parent_title": "Safety in Use",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in or adjacent to the building or facility will be exposed to an unacceptable risk of injury due to hazards. The risks of injury due to hazards addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH": {
+    "code": "OH",
+    "kind": "objective",
+    "title": "Health",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person will be exposed to an unacceptable risk of illness.",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH1": {
+    "code": "OH1",
+    "kind": "objective",
+    "title": "Indoor Conditions",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH1.1": {
+    "code": "OH1.1",
+    "kind": "risk",
+    "title": null,
+    "text": "inadequate indoor air quality",
+    "pdf_page": 49,
+    "parent": "OH1",
+    "parent_title": "Indoor Conditions",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to indoor conditions. The risks of illness due to indoor conditions addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH2": {
+    "code": "OH2",
+    "kind": "objective",
+    "title": "Sanitation",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH2.1": {
+    "code": "OH2.1",
+    "kind": "risk",
+    "title": null,
+    "text": "exposure to human or domestic waste",
+    "pdf_page": 49,
+    "parent": "OH2",
+    "parent_title": "Sanitation",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH2.2": {
+    "code": "OH2.2",
+    "kind": "risk",
+    "title": null,
+    "text": "consumption of contaminated water",
+    "pdf_page": 49,
+    "parent": "OH2",
+    "parent_title": "Sanitation",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH2.3": {
+    "code": "OH2.3",
+    "kind": "risk",
+    "title": null,
+    "text": "inadequate facilities for personal hygiene",
+    "pdf_page": 49,
+    "parent": "OH2",
+    "parent_title": "Sanitation",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH2.4": {
+    "code": "OH2.4",
+    "kind": "risk",
+    "title": null,
+    "text": "contact with contaminated surfaces",
+    "pdf_page": 49,
+    "parent": "OH2",
+    "parent_title": "Sanitation",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, a person in the building or facility will be exposed to an unacceptable risk of illness due to unsanitary conditions. The risks of illness due to unsanitary conditions addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OH5": {
+    "code": "OH5",
+    "kind": "objective",
+    "title": "Hazardous Substances Containment",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, the public will be exposed to an unacceptable risk of illness due to the release of hazardous substances from the building or facility.",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OP": {
+    "code": "OP",
+    "kind": "objective",
+    "title": "Protection of the Building or Facility from Water and Sewage Damage",
+    "text": "",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OP5": {
+    "code": "OP5",
+    "kind": "objective",
+    "title": "Protection of the Building or Facility from Water and Sewage Damage",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, the building or facility will be exposed to an unacceptable risk of damage due to the leakage of service water or sewage.",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OE": {
+    "code": "OE",
+    "kind": "objective",
+    "title": "Environment",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, the environment will be affected in an unacceptable manner.",
+    "pdf_page": 49,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 49,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OE1": {
+    "code": "OE1",
+    "kind": "objective",
+    "title": "Resources",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by—",
+    "pdf_page": 50,
+    "parent": null,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 50,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   },
+   "OE1.2": {
+    "code": "OE1.2",
+    "kind": "risk",
+    "title": null,
+    "text": "excessive use of water",
+    "pdf_page": 50,
+    "parent": "OE1",
+    "parent_title": "Resources",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or installation of the plumbing system, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 50,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NPC 2020"
+   }
+  },
+  "functions": {
+   "F01": {
+    "code": "F01",
+    "text": "To minimize the risk of accidental ignition.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F02": {
+    "code": "F02",
+    "text": "To limit the severity and effects of fire or explosions.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F20": {
+    "code": "F20",
+    "text": "To support and withstand expected loads and forces.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F21": {
+    "code": "F21",
+    "text": "To limit or accommodate dimensional change.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F30": {
+    "code": "F30",
+    "text": "To minimize the risk of injury to persons as a result of tripping, slipping, falling, contact, drowning or collision.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F31": {
+    "code": "F31",
+    "text": "To minimize the risk of injury to persons as a result of contact with hot surfaces or substances.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F40": {
+    "code": "F40",
+    "text": "To limit the level of contaminants.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F41": {
+    "code": "F41",
+    "text": "To minimize the risk of generation of contaminants.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F43": {
+    "code": "F43",
+    "text": "To minimize the risk of release of hazardous substances.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F45": {
+    "code": "F45",
+    "text": "To minimize the risk of the spread of disease through communal shower facilities.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F46": {
+    "code": "F46",
+    "text": "To minimize the risk of contamination of potable water.",
+    "pdf_page": 56,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 56,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F62": {
+    "code": "F62",
+    "text": "To facilitate the dissipation of water and moisture from the building.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F70": {
+    "code": "F70",
+    "text": "To provide potable water.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F71": {
+    "code": "F71",
+    "text": "To provide facilities for personal hygiene.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F72": {
+    "code": "F72",
+    "text": "To provide facilities for the sanitary disposal of human and domestic wastes.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F80": {
+    "code": "F80",
+    "text": "To resist deterioration resulting from expected service conditions.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F81": {
+    "code": "F81",
+    "text": "To minimize the risk of malfunction, interference, damage, tampering, lack of use or misuse.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F82": {
+    "code": "F82",
+    "text": "To minimize the risk of inadequate performance due to improper maintenance or lack of maintenance.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F130": {
+    "code": "F130",
+    "text": "To limit the unnecessary demand and/or consumption of water for fixtures.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   },
+   "F131": {
+    "code": "F131",
+    "text": "To limit the unnecessary demand and/or consumption of water for fittings.",
+    "pdf_page": 57,
+    "source": {
+     "doc": "NPC_2020.pdf",
+     "page": 57,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NPC 2020"
+   }
+  }
+ },
+ "NECB 2020": {
+  "objectives": {
+   "OE": {
+    "code": "OE",
+    "kind": "objective",
+    "title": "Environment",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, the environment will be affected in an unacceptable manner.",
+    "pdf_page": 42,
+    "parent": null,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 42,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NECB 2020"
+   },
+   "OE1": {
+    "code": "OE1",
+    "kind": "objective",
+    "title": "Resources",
+    "text": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by—",
+    "pdf_page": 42,
+    "parent": null,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 42,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NECB 2020"
+   },
+   "OE1.1": {
+    "code": "OE1.1",
+    "kind": "risk",
+    "title": null,
+    "text": "excessive use of energy",
+    "pdf_page": 42,
+    "parent": "OE1",
+    "parent_title": "Resources",
+    "parent_statement": "An objective of this Code is to limit the probability that, as a result of the design or construction of the building, resources will be used in a manner that will have an unacceptable effect on the environment. The risks of unacceptable effect on the environment due to use of resources addressed in this Code are those caused by—",
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 42,
+     "division": "A",
+     "part": 2
+    },
+    "code_name": "NECB 2020"
+   }
+  },
+  "functions": {
+   "F90": {
+    "code": "F90",
+    "text": "To limit the amount of uncontrolled air leakage through the building envelope.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F91": {
+    "code": "F91",
+    "text": "To limit the amount of uncontrolled air leakage through system components.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F92": {
+    "code": "F92",
+    "text": "To limit the amount of uncontrolled thermal transfer through the building envelope.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F93": {
+    "code": "F93",
+    "text": "To limit the amount of uncontrolled thermal transfer through system components.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F94": {
+    "code": "F94",
+    "text": "To limit the unnecessary demand and/or consumption of energy for lighting.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F95": {
+    "code": "F95",
+    "text": "To limit the unnecessary demand and/or consumption of energy for heating and cooling.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F96": {
+    "code": "F96",
+    "text": "To limit the unnecessary demand and/or consumption of energy for service water heating.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F97": {
+    "code": "F97",
+    "text": "To limit the unnecessary demand and/or consumption of energy for electrical equipment and devices.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F98": {
+    "code": "F98",
+    "text": "To limit the inefficiency of equipment.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F99": {
+    "code": "F99",
+    "text": "To limit the inefficiency of systems.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   },
+   "F100": {
+    "code": "F100",
+    "text": "To limit the unnecessary rejection of reusable waste energy.",
+    "pdf_page": 48,
+    "source": {
+     "doc": "NECB_2020_2nd_printing.pdf",
+     "page": 48,
+     "division": "A",
+     "part": 3
+    },
+    "code_name": "NECB 2020"
+   }
+  }
+ },
+ "_meta": {
+  "note": "Division A Part 2 objectives and Part 3 functional statements, extracted per code from its own PDF.",
+  "codes": [
+   "NECB 2020",
+   "NFC(AE) 2023",
+   "NPC 2020"
+  ]
+ }
+}

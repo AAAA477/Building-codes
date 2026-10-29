@@ -1,0 +1,372 @@
+
+=====PAGE 1=====
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca 
+ 
+©2026 Government of Alberta  |  October 2026 | Municipal Affairs 
+ 
+STANDATA interpretation 23-BCI-026/23-FCI-014 
+Building/Fire 
+ 
+Single-Egress-Stairs (SES) for buildings of residential occupancy  
+Date Issued: 
+October 2026 
+Page 1 of 7 
+Purpose 
+To clarify that compliance with the National Building Code – 2023 Alberta Edition (NBC(AE)) can be achieved via 
+alternative solutions (variance) that will achieve at least the minimum level of performance required by Division B 
+in the areas defined by the objectives and functional statements attributed to the applicable acceptable solutions.  
+Where a single-egress-stair (SES) building does not comply with the acceptable solutions of Division B, this 
+STANDATA clarifies that it is possible for the building to comply with the NBC(AE) via alternative solutions.  
+Discussion 
+With growing demands to densify urban areas to address affordable housing, designers are exploring different 
+methods to satisfy the requests of developers and building owners. One such design that enables smaller 
+residential lots in built-up urban areas to be fully utilized is the SES building. This style of building challenges the 
+conventional multi-unit residential building design (comprised of two or more egress stairs), while still supporting 
+multiple dwelling units in a building. 
+Commonly referred to a “SES” building, some designers identified such buildings as a potential answer to the 
+“missing middle” (a concept that highlights a lack of medium-density housing options). Alberta cities need 
+medium-density housing throughout their urban areas, while these urban areas also contain vacant lots not large 
+enough to construct conventional, high-density residential buildings. Designers consequently propose this as an 
+opportunity to solve an urban planning and housing problem via smaller-footprint SES buildings. 
+Change is being sought to introduce prescriptive requirements for SES buildings into a future edition of the 
+National Building Code of Canada. Until such changes are established, designers continue with the current 
+convention of two or more egress stairs for buildings three or more storeys in building height or propose an SES 
+building design in the form of an alternative solution.  
+Alternative solutions are a valid method of demonstrating compliance with the NBC(AE), as per Sentence 
+1.2.1.1.(1) of Division A. Permit applications which include an Alternative Solution for SES buildings must be 
+accepted by authorities having jurisdiction (AHJ) in accordance with the Safety Codes Act (Act).   
+AHJ Issuance or Refusal of a Variance for an Alternative Solution Application 
+A building safety codes officer (building SCO) may refuse to issue a variance for an alternative solution 
+application for the following reasons, which include, but are not limited to: 
+• There is insufficient or incomplete information, 
+• The input parameters or assumptions are incorrect, 
+• The intent of an alternative solution application is not demonstrated in the analysis (approximately equivalent or 
+greater safety performance), or 
+
+=====PAGE 2=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 2 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+• The recommendation is unclear, or impractical/unachievable (i.e. constraints are impossible to achieve or affect 
+other tenancies or buildings). 
+If a building SCO refuses to issue a variance, the applicant must be served with a written notice of the refusal. 
+The applicant may appeal against the refusal of the variance to the Safety Codes Council (Council) within 30 days 
+after the date on which the notice was received (see sections 38(6) and 38(7) of the Act). 
+Professional Involvement 
+Whether professional involvement is required for a building’s design depends on its features, such as, but not 
+limited to, occupancy type, number of storeys, number of dwelling units, and building area. Where compliance 
+with the NBC(AE) is being addressed via an alternative solution submission, the qualification of the person 
+developing the alternative solution may include a registered professional but is not prescribed as such. Subclause 
+2.4.1.1.(1)(b)(ii) of Division C requires professional involvement for buildings containing more than 4 dwelling 
+units.   
+National Fire Code – 2023 Alberta Edition 
+After occupancy is granted for an SES building designed via the alternative solution compliance route, 
+documentation conforming to Article 2.3.1.1. of Division C of the National Fire Code – 2023 Alberta Edition 
+(NFC(AE)) must be retained on the premises for review by fire safety codes officers (fire SCOs). This is required 
+by Clause 2.3.1.2.(1)(b) of the NFC(AE) and serves as a manner of verifying that the conditions under which the 
+variance was issued have not been contravened.  
+ 
+ 
+Safety Codes Act References 
+Safety Codes Act Part 2 Administration 
+Inspections  
+34(1) For the purpose of ensuring that this Act and any thing issued under this Act are complied with, a safety 
+codes officer may, without a warrant, at any reasonable time, enter any premises or place, except a 
+private dwelling place that is in use as a dwelling, in which the officer has reason to believe there is 
+something to which this Act applies and may, using reasonable care, carry out an inspection, review 
+designs and examine and evaluate quality management systems and manufacturing and construction 
+processes. 
+ 
+Safety Codes Act Part 2 Administration 
+Production of documents  
+35(1) For the purpose of ensuring that this Act and anything issued under this Act are complied with, a safety 
+codes officer may demand the production, within a reasonable time, of any record or document pertaining 
+in any manner to compliance with this Act and may on giving a receipt for it remove it for not more than 48 
+hours for the purpose of making copies of it. 
+ 
+ 
+
+=====PAGE 3=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 3 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+Safety Codes Act Part 3 Standards 
+Variances 
+38(1) An Administrator or a safety codes officer may issue a written variance with respect to any thing, process 
+or activity to which this Act applies if the Administrator or officer is of the opinion that the variance provides 
+approximately equivalent or greater safety performance with respect to persons and property as that 
+provided for by this Act. 
+(2) An Administrator or a safety codes officer may include terms and conditions in the variance. 
+(3) A safety codes officer on issuing a variance shall notify an Administrator. 
+(4) The Regulations Act does not apply to variances issued under this section. 
+(5) A decision of the Administrator under subsection (1) is final and not subject to appeal. 
+(6) If a safety codes officer refuses to issue a written variance, the applicant shall be served with a written 
+notice of the refusal. 
+(7) An applicant who receives a notice referred to in subsection (6) may, within 30 days after the date on 
+which the notice is received, appeal the refusal to the Council in accordance with the Council’s bylaws. 
+ 
+Safety Codes Act Part 5 Orders, Appeals 
+Appeal of refusals, suspensions, cancellations  
+51(1) The Council, on receipt of a notice of appeal with respect to  
+(a) a refusal to designate a corporation as an accredited corporation or a person as an accredited 
+agency,  
+(a.1) a refusal by a safety codes officer to issue a written variance,  
+(b) a refusal to register a design or a deregistration of a design, or  
+(c) a suspension or cancellation of a designation of accreditation, a certificate of competency or a 
+permit, 
+shall send a copy of the notice of appeal to the relevant Administrator and the safety codes officer, if any, who 
+issued the suspension or cancellation, and notify them and the appellant of the time and place of the appeal.  
+(2) In order for an appeal to proceed, the Council must receive a notice of appeal in the form approved by the 
+Council within 30 days after the date the corporation or person was served with the written notice of the 
+refusal to designate, refusal by a safety codes officer to issue a written variance, refusal to register, 
+deregistration, suspension or cancellation.  
+ 
+ 
+ 
+
+=====PAGE 4=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 4 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+Code References 
+NBC(AE) Preface 
+In Alberta, the Safety Codes Act recognizes “alternative solutions” as Variances. The Safety Codes Act has 
+provisions to ensure that Variances are issued by appropriate individuals and registered with the Safety Codes 
+Council. The Safety Codes Council can provide additional information on policy and procedures regarding the 
+issuance of Variances. 
+NBC(AE) Division A, Article 1.2.1.1. 
+1.2.1.1. Compliance with this Code 
+ 
+1) Compliance with this Code shall be achieved by 
+    a) complying with the applicable acceptable solutions in Division B   
+    (see Note A-1.2.1.1.(1)(a)), or 
+    b) using alternative solutions that will achieve at least the minimum level of performance required by Division 
+B in the areas defined by the objectives and functional statements attributed to the applicable acceptable 
+solutions 
+    (see Note A-1.2.1.1.(1)(b)). 
+NBC(AE) Division A, Article 1.4.1.2. 
+1.4.1.2. Defined Terms 
+ 
+Authority having jurisdiction means a safety codes officer in the building discipline exercising authority pursuant 
+to designation of powers and terms of employment in accordance with the Safety Codes Act. 
+ 
+Building means any structure used or intended for supporting or sheltering any use or occupancy. 
+Building area means the greatest horizontal area of a building above grade within the outside surface of 
+exterior walls or within the outside surface of exterior walls and the centre line of firewalls. 
+ 
+Building height (in storeys) means the number of storeys contained between the roof and the floor of the first 
+storey. 
+ 
+Exit means that part of a means of egress, including doorways, that leads from the floor area it serves to a 
+separate building, an open public thoroughfare, or an exterior open space protected from fire exposure from 
+the building and having access to an open public thoroughfare. 
+ 
+Floor area means the space on any storey of a building between exterior walls and required firewalls, including 
+the space occupied by interior walls and partitions, but not including exits, vertical service spaces, and their 
+enclosing assemblies. 
+ 
+Means of egress means a continuous path of travel provided for the escape of persons from any point in a 
+building or contained open space to a separate building, an open public thoroughfare, or an exterior open 
+space protected from fire exposure from the building and having access to an open public thoroughfare. Means 
+of egress includes exits and access to exits. 
+ 
+Registered architectural professional means an individual who is authorized to engage in the practice of 
+architecture under the Architects Act and its Regulations. 
+ 
+Registered engineering professional means an individual who is authorized to engage in the practice of 
+engineering under the Engineering and Geoscience Professions Act and its Regulations. 
+
+=====PAGE 5=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 5 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+Registered professional means an individual who qualifies as a 
+(a) registered architectural professional, 
+(b) registered engineering professional, or 
+(c) licensed interior designer. 
+ 
+Storey means that portion of a building that is situated between the top of any floor and the top of the floor next 
+above it, and if there is no floor above it, that portion between the top of such floor and the ceiling above it. 
+NBC(AE) Division C, Section 2.3. and NFC(AE) Division C, Section 2.3. 
+Section 2.3. Alternative Solutions 
+2.3.1. Documentation of Alternative Solutions  
+(See Note A-2.3.1.) 
+ 
+2.3.1.1. Documentation 
+1) Documentation conforming to this Subsection shall be provided by the person requesting the use of an 
+alternative solution to demonstrate that the proposed alternative solution complies with this Code. 
+ 
+2) The documentation referred to in Sentence (1) shall include 
+a) a Code analysis outlining the analytical methods and rationales used to determine that a proposed 
+alternative solution will achieve at least the level of performance required by Clause 1.2.1.1.(1)(b) of 
+Division A, and 
+b) information concerning any special maintenance or operational requirements, including any building 
+component commissioning requirements, that are necessary for the alternative solution to achieve 
+compliance with the Code after the building is constructed. 
+ 
+3) The Code analysis referred to in Clause (2)(a) shall identify the applicable objectives, functional statements 
+and acceptable solutions, and any assumptions, limiting or restricting factors, testing procedures, engineering 
+studies or building performance parameters that will support a Code compliance assessment. 
+ 
+4) The Code analysis referred to in Clause (2)(a) shall include information about the qualifications, experience 
+and background of the person or persons taking responsibility for the design. 
+ 
+5) The information provided under Sentence (3) shall be in sufficient detail to convey the design intent and to 
+support the validity, accuracy, relevance and precision of the Code analysis. 
+ 
+6) Where the design of a building includes proposed alternative solutions that involve more than one person 
+taking responsibility for different aspects of the design, the applicant for the permit shall identify a single person 
+to co-ordinate the preparation of the design, Code analysis and documentation referred to in this Subsection. 
+ 
+A-2.3.1. Documentation of Alternative Solutions. Beyond the purposes of demonstrating 
+compliance and acquiring a building permit, there are other important reasons for requiring that the proponent 
+of an alternative solution submit project documentation (i.e. a compliance report) to the authority having 
+jurisdiction and for the authority having jurisdiction to retain that documentation for a substantial period 
+following the construction of a building: 
+ • Most jurisdictions require that a building be maintained in compliance with the codes under which it  
+ 
+was built. Alternative solutions made possible by objective-based codes may have special maintenance 
+requirements, which would be described in the documentation. 
+ • Documentation helps consultants perform code compliance assessments of existing buildings before 
+ 
+they are sold and informs current owners or prospective buyers of existing buildings of any limitations 
+ 
+pertaining to their future use or development. 
+ • Documentation provides design professionals with the basic information necessary to design changes 
+ 
+to an existing building. 
+
+=====PAGE 6=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 6 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+ • An alternative solution could be invalidated by a proposed alteration to a building. Designers and 
+ 
+regulators must therefore know the details of the particular alternative solutions that were integral to 
+ 
+the original design. Complete documentation should provide insight as to why one alternative solution 
+ 
+was chosen over another. 
+ • Documentation is the “paper trail” of the alternative solution negotiated between the designer and the 
+ 
+regulator and should demonstrate that a rational process led to the acceptance of the alternative solution 
+ 
+as an equivalency. 
+ • It is possible that over time a particular alternative solution may be shown to be inadequate. It would 
+ 
+be advantageous for a jurisdiction to know which buildings included that alternative solution as part of their 
+design: documentation will facilitate this type of analysis. 
+ • Project documentation provides important information to a forensic team that is called to investigate an 
+ 
+accident or why a design failed to provide the level of performance expected. 
+ 
+This subject is discussed in further detail in “Recommended Documentation Requirements for Projects Using 
+Alternative Solutions in the Context of Objective-Based Codes,” which was prepared for the CCBFC Task 
+Group on Implementation of Objective-Based Codes and is available on the NRC's website. 
+ 
+NBC(AE) Division C, Clause 2.4.1.1.(1)(b) 
+2.4.1.1. General  
+1) Except as required by Sentence (4), involvement of a registered professional is not required for a building 
+    b) classified as a residential occupancy that is 
+        i) a single-family dwelling, or 
+       ii) a multiple-family dwelling that contains 4 dwelling units or less, 
+ 
+NFC(AE) Division C, Sentence 2.3.1.2.(1) 
+2.3.1.2. Retention of Documentation  
+1) Documentation conforming to Article 2.3.1.1. shall be retained on the premises to which it pertains for each 
+measure that has been approved by the authority having jurisdiction and implemented as an alternative 
+solution to acceptable solutions  
+a) in this Code, or  
+b) in the NBC(AE) that are attributed to the objectives Fire Safety (OS1), Safety in Use (OS3), Fire 
+Protection of the Building (OP1), or Protection of Adjacent Buildings from Fire (OP3).  
+ 
+ 
+ 
+
+=====PAGE 7=====
+ 
+STANDATA 23-BCI-026/23-FCI-014 
+ 
+Page 7 of 7 
+ 
+Building STANDATA | Alberta.ca 
+Fire STANDATA | Alberta.ca  
+©2026 Government of Alberta  |  October 2026  |  Municipal Affairs 
+ 
+Application 
+This interpretation applies to buildings of residential occupancy that require two or more egress stairs as per the 
+acceptable solutions of Division B of the NBC(AE), where the alternative solution path permitted by Sentence 
+1.2.1.1.(1)(b) of Division A of the NBC(AE), is chosen by the applicant to demonstrate that a single-egress-stair 
+(SES) design complies with the NBC(AE) and the Act. 
+Interpretation 
+1. An AHJ may accept a residential occupancy building of SES design (where the requirements of Division B 
+require two or more exit stairs), provided the following conditions are met:  
+• The documentation submitted to support the alternative solution is in conformance with Section 2.3. of Division 
+C of the NBC(AE). 
+• The design provides for an approximately equivalent or greater safety performance required by Division B of the 
+NBC(AE) in the areas defined by the objectives and functional statements attributed to the applicable 
+acceptable solution(s). 
+ 
+2. To ensure ongoing Code compliance following occupancy, the owner must have the issued variance 
+documentation available on the premises for review by the fire SCO to verify the conditions under which the 
+variance was issued have not been contravened. 
+ 
+ 
+ 
+This INTERPRETATION is applicable throughout the Province of Alberta. 
+ 
+Unless stated otherwise, all Code references in this STANDATA are to Division B of the National Building Code – 
+2023 Alberta Edition and Division C of the National Fire Code – 2023 Alberta Edition 
+Issued by the Provincial Building and Fire Administrators 
+ 
+ 
+ 
+[Original Signed]                                                                 [Original Signed] 
+Paul Chang 
+ 
+ 
+ 
+ 
+ 
+Tina Parker 
+Provincial Building Administrator 
+ 
+ 
+Provincial Fire Administrator 
+ 
+Alberta Municipal Affairs – Technical and Corporate Services 
+Email: safety.services@gov.ab.ca 
+Phone: 1-866-421-6929 
+To sign up for our List Subscription Service: municipalaffairs.gov.ab.ca/am_list_subscription_services 
+ 

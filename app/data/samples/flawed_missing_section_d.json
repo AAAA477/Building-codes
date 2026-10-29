@@ -1,0 +1,199 @@
+{
+ "id": "sample-flawed-missing-section-d",
+ "jurisdiction": "scc",
+ "edition": "NBC(AE) 2023 (2nd printing)",
+ "applicant": {
+  "owner_name": "[to be completed by applicant]",
+  "owner_representative": "[to be completed by applicant]",
+  "mailing_address": "[to be completed by applicant]",
+  "email": "[to be completed by applicant]",
+  "date_of_request": ""
+ },
+ "project": {
+  "description": "",
+  "occupancy": "",
+  "storeys": null,
+  "building_area_m2": null,
+  "units_per_floor": null,
+  "sprinklered": null,
+  "new_or_renovation": null,
+  "part": null
+ },
+ "location": {
+  "jurisdiction_wide": true,
+  "permit_number": "",
+  "municipal_address": "",
+  "lot": "",
+  "block": "",
+  "plan": "",
+  "qtr": "",
+  "sec": "",
+  "twp": "",
+  "rge": "",
+  "mer": ""
+ },
+ "variance": {
+  "topic": "sprinkler_protected_glazing",
+  "code_or_standard": "NBC(AE) 2023 Division B",
+  "acceptable_solution": {
+   "articles": [
+    "3.1.7.1.(1)",
+    "9.10.3.1.(1)"
+   ],
+   "explanation": "Articles named in the Code References of 23-BCV-004."
+  },
+  "proposed_alternative": {
+   "summary": "Glazing assemblies are permitted to be installed for interior or exterior fire rated assemblies that are required to have a fire-resistance rating without being tested to CAN/ULC-S101, \"Standard Method of Fire Endurance Tests of Building Construction and Materials\" as required by Sentences 3.1.7.1.(1) and 9.10.3.1.(1) provided they are protected by a fixed, automatic sprinkler system and the following criteria are met.",
+   "mitigations": [
+    {
+     "id": "C1",
+     "label": "Condition 1 (verbatim from 23-BCV-004)",
+     "detail": "The assembly has been evaluated by a testing agency accredited by the Standards Council of Canada for conformance to CAN/ULC-S136:2021, \"Standard Method of Fire Test for Sprinkler Protected Window Systems\".",
+     "evidence_ids": []
+    },
+    {
+     "id": "C2",
+     "label": "Condition 2 (verbatim from 23-BCV-004)",
+     "detail": "The design, construction and installation of automatic sprinkler system conforms to NFPA 13.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C3",
+     "label": "Condition 3 (verbatim from 23-BCV-004)",
+     "detail": "Sprinklers are listed as specific application window sprinklers.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C4",
+     "label": "Condition 4 (verbatim from 23-BCV-004)",
+     "detail": "Glazing is heat-strengthened, tempered, or glass ceramic and fixed.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C5",
+     "label": "Condition 5 (verbatim from 23-BCV-004)",
+     "detail": "Where the assembly is required to be protected from both sides, sprinklers to be installed on both sides of the glazing.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C6",
+     "label": "Condition 6 (verbatim from 23-BCV-004)",
+     "detail": "If the assembly is located in a loadbearing assembly, all loadbearing components have a fire-resistance rating not less than that required for the supported assembly.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C7",
+     "label": "Condition 7 (verbatim from 23-BCV-004)",
+     "detail": "The glazed assembly does not include any horizontal members interfering with uniform distribution of water over the surface of the glazing, and there are no obstructions between sprinklers and glazing that would obstruct water distribution.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C8",
+     "label": "Condition 8 (verbatim from 23-BCV-004)",
+     "detail": "The fire-resistance rating of the sprinkler-protected glazing system is equal to or greater than the fire-resistance rating required for the wall assembly being installed within, and the sprinkler-protected glazed wall assemblies constructed according to the requirements of the listing of the window sprinkler.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C9",
+     "label": "Condition 9 (verbatim from 23-BCV-004)",
+     "detail": "The assembly is not installed in: a firewall or within a door installed in a firewall, a building that contains a high hazard industrial occupancy, a location where there is a risk of explosion, or any part of a required exit serving: a floor area subjected to the additional requirements for high buildings as per Subsection 3.2.6., a care, treatment or detention occupancy, or a residential occupancy.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C10",
+     "label": "Condition 10 (verbatim from 23-BCV-004)",
+     "detail": "Where the assembly is installed in exits not mentioned in criteria (9.) above, the exits do not comprise more than one half of the required number of exits from any floor area.",
+     "evidence_ids": []
+    },
+    {
+     "id": "C11",
+     "label": "Condition 11 (verbatim from 23-BCV-004)",
+     "detail": "The window sprinkler system: is identified at the isolation valve as supplying a window sprinkler system; is provided with a placard adjacent to the incoming water service with the following wording: \"SPECIAL WINDOW SPRINKLER HEADS ON THIS SYSTEM ARE AN INTEGRAL PART OF THE FIRE SEPARATIONS. THIS WATER SUPPLY MAY ONLY BE SHUT OFF AFTER ALL THE PROPER AUTHORITIES HAVE RECEIVED NOTICE IN WRITING\" (font 12 mm high, red with white lettering, mounted with anchors, adhesive not acceptable); provides a water supply duration for the design area that includes the window sprinklers but not less than the required fire resistance rating of the assembly.",
+     "evidence_ids": []
+    }
+   ]
+  },
+  "section_c": [
+   {
+    "article": "3.1.7.1.(1)",
+    "objective": "OS1.2 (Fire Safety): fire or explosion impacting areas beyond its point of origin; OS1.3 (Fire Safety): collapse of physical elements due to a fire or explosion; OP1.2 (Fire Protection of the Building): fire or explosion impacting areas beyond its point of origin; OP1.3 (Fire Protection of the Building): collapse of physical elements due to a fire or explosion",
+    "function": "F03: To retard the effects of fire on areas beyond its point of origin; F04: To retard failure or collapse due to the effects of fire",
+    "intent": "Intent 1. To limit the probability that materials, assemblies or structural members will have insufficient resistance to the spread of fire, which could lead to harm to persons. Intent 2. To limit the probability that materials, assemblies or structural members will have insufficient resistance to fire, which could lead to their failure or collapse, which could lead to harm to persons. Intent 1. To limit the probability that materials, assemblies or structural members will have insufficient resistance to the spread of fire, which could lead to damage to the building. Intent 2. To limit the probability that materials, assemblies or structural members will have insufficient resistance to fire, which could lead to their failure or collapse, which could lead to damage to the building. [NBC 2020 Intent Statements, p.88; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Fire-resistance rating must be determined by testing to CAN/ULC-S101; the variance accepts sprinkler-protected glazing tested to CAN/ULC-S136:2021 instead.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 322
+    },
+    "article_page": 151,
+    "verified": true,
+    "provenance": "lookup"
+   },
+   {
+    "article": "9.10.3.1.(1)",
+    "objective": "",
+    "function": "",
+    "intent": "Intent 1. To expand the application of Sentences 3.1.7.1.(1) and 3.1.8.4.(1) to Part 9 buildings. Intent 2. To direct Code users to Part 3, Tables 9.10.3.1.-A and 9.10.3.1.-B and Appendix D for the determination of appropriate fire protection and fire-resistance ratings. [NBC 2020 Intent Statements, p.1344; edition caveat: NBC 2020 text, attributions as in NBC(AE) 2023]",
+    "explainer": "Part 9 counterpart: fire-resistance and fire-protection ratings determined by test, calculation or construction tables.",
+    "source": {
+     "doc": "NBC_2023AE_2nd_printing.pdf",
+     "page": 878
+    },
+    "article_page": 878,
+    "verified": true,
+    "provenance": "lookup"
+   }
+  ]
+ },
+ "section_d": [],
+ "professional_flags": [],
+ "declarations": {
+  "privacy_consent": false,
+  "equal_or_better_ack": false,
+  "owner_signed": false,
+  "rep_signed": false
+ },
+ "provenance": {
+  "variance.section_c": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.summary": {
+   "source": "lookup",
+   "confidence": 1.0
+  },
+  "variance.proposed_alternative.mitigations": {
+   "source": "lookup",
+   "confidence": 1.0
+  }
+ },
+ "completeness": {
+  "percent": 0,
+  "items": []
+ },
+ "derived_from": [
+  {
+   "doc": "ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+   "page": 1
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+   "page": 2
+  },
+  {
+   "doc": "ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+   "page": 3
+  }
+ ],
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-004-2024-05.pdf",
+  "page": 1,
+  "standata": "23-BCV-004"
+ },
+ "note": "Application-shaped record derived from real STANDATA variance 23-BCV-004 (Sprinkler-protected glazing in fire-resistant wall assemblies). The STANDATA is issued by the Provincial Building Administrator, so applicant identity, dates and signatures are blank placeholders.",
+ "ablation": {
+  "base": "standata_23_bcv_004_sprinkler_glazing",
+  "removed": [
+   "section_d"
+  ]
+ }
+}

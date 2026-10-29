@@ -1,0 +1,426 @@
+{
+ "n_tune": 99,
+ "n_heldout": 40,
+ "V0 current BM25 (no noise filter)": {
+  "tune": {
+   "n": 99,
+   "hit@1": 0.222,
+   "hit@5": 0.384,
+   "hit@10": 0.485,
+   "recall@5": 0.203,
+   "recall@10": 0.254,
+   "MRR": 0.302
+  },
+  "heldout": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.5,
+   "hit@10": 0.575,
+   "recall@5": 0.255,
+   "recall@10": 0.306,
+   "MRR": 0.439
+  }
+ },
+ "V1 + noise filter": {
+  "tune": {
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.505,
+   "hit@10": 0.566,
+   "recall@5": 0.266,
+   "recall@10": 0.318,
+   "MRR": 0.367
+  },
+  "heldout": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.55,
+   "hit@10": 0.725,
+   "recall@5": 0.285,
+   "recall@10": 0.398,
+   "MRR": 0.473
+  }
+ },
+ "tuned_config": {
+  "k1": 1.8,
+  "b": 0.6,
+  "w_title": 6.0,
+  "w_sect": 3.0,
+  "w_body": 1.0,
+  "stem": true,
+  "phrase_boost": 0.0,
+  "noise_filter": true,
+  "cross_code_factor": 1.3
+ },
+ "grid_size": 60,
+ "grid_top5_by_tune": [
+  {
+   "k1": 1.8,
+   "b": 0.6,
+   "phrase_boost": 3.0,
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.525,
+   "hit@10": 0.566,
+   "recall@5": 0.297,
+   "recall@10": 0.32,
+   "MRR": 0.38
+  },
+  {
+   "k1": 1.3,
+   "b": 0.6,
+   "phrase_boost": 3.0,
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.525,
+   "hit@10": 0.556,
+   "recall@5": 0.292,
+   "recall@10": 0.318,
+   "MRR": 0.375
+  },
+  {
+   "k1": 1.3,
+   "b": 0.8,
+   "phrase_boost": 3.0,
+   "n": 99,
+   "hit@1": 0.283,
+   "hit@5": 0.525,
+   "hit@10": 0.556,
+   "recall@5": 0.289,
+   "recall@10": 0.327,
+   "MRR": 0.378
+  },
+  {
+   "k1": 0.9,
+   "b": 0.8,
+   "phrase_boost": 3.0,
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.525,
+   "hit@10": 0.545,
+   "recall@5": 0.293,
+   "recall@10": 0.319,
+   "MRR": 0.372
+  },
+  {
+   "k1": 2.4,
+   "b": 0.3,
+   "phrase_boost": 3.0,
+   "n": 99,
+   "hit@1": 0.293,
+   "hit@5": 0.515,
+   "hit@10": 0.576,
+   "recall@5": 0.282,
+   "recall@10": 0.33,
+   "MRR": 0.387
+  }
+ ],
+ "heldout_failures_tuned": [
+  {
+   "doc": "b23-002-secondary-suites-existing-prior-to-march-12th-2018.pdf",
+   "title": "Secondary Suites - Existing Prior to March 12th, 2018",
+   "query": "Secondary Suites - Existing Prior to March 12th, 2018. In March 2018, Council approved amendments to the Land Use Bylaw, making it possible for property owners ",
+   "truth_n": 2,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 9.36.7.1",
+    "NBC 10.1.1.4",
+    "NBC A:1.4.1.2"
+   ],
+   "truth_sample": [
+    "NBC 9.32.3.9",
+    "NBC 9.9.10.1"
+   ]
+  },
+  {
+   "doc": "b23-008-temporary-outdoor-tents-and-canopies.pdf",
+   "title": "Temporary Outdoor Tents and Canopies",
+   "query": "Temporary Outdoor Tents and Canopies. This advisory will provide an explanation and guidelines for when temporary tents, canopies and stages that are used in pu",
+   "truth_n": 1,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 10.6.4.2",
+    "NBC 3.1.18.3",
+    "NBC 3.1.18.7"
+   ],
+   "truth_sample": [
+    "NBC 3.1.17.1"
+   ]
+  },
+  {
+   "doc": "br-advisory-permanent-hail-structures.pdf",
+   "title": "Permanent Hail Shelters - Building Code Requirements",
+   "query": "Permanent Hail Shelters - Building Code Requirements. This advisory applies to Permanent Hail Shelter Structures which are not erected and removed seasonally an",
+   "truth_n": 1,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 3.1.18.3",
+    "NBC 10.1.1.5",
+    "NBC 1.1.3.1"
+   ],
+   "truth_sample": [
+    "NBC 3.2.2.2"
+   ]
+  },
+  {
+   "doc": "ma-23-bce-001-errata.pdf",
+   "title": "Errata",
+   "query": "Errata. The National Building Code - 2023 Alberta Edition came into force on May 1, 2024. It was discovered that the published document contains some technical ",
+   "truth_n": 57,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 10.1.1.4",
+    "NBC 10.7.1.1",
+    "NBC 4.1.8.9"
+   ],
+   "truth_sample": [
+    "NBC 1.1.1.1",
+    "NBC 3.1.2.1",
+    "NBC 3.1.4.3",
+    "NBC 3.1.5.1"
+   ]
+  },
+  {
+   "doc": "ma-23-bci-006-approved-organization-underwriters-laboratories-of-canada-inc-ul-solutions.pdf",
+   "title": "Approved organization - Underwriters Laboratories of Canada Inc./UL Solutions",
+   "query": "Approved organization - Underwriters Laboratories of Canada Inc./UL Solutions. To recognize an organization which issues evaluation reports used to determine co",
+   "truth_n": 1,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 6.3.4.4",
+    "NBC 3.1.11.7",
+    "NBC 9.38.1.1"
+   ],
+   "truth_sample": [
+    "NBC 1.2.2.1"
+   ]
+  },
+  {
+   "doc": "ma-23-bci-011-24-eci-009-23-fci-006-existing-fire-alarm-systems.pdf",
+   "title": "Existing fire alarm systems",
+   "query": "Existing fire alarm systems. To clarify requirements where an existing fire alarm system (FAS), regardless of age, requires inspection, testing, maintenance, an",
+   "truth_n": 7,
+   "first_hit_rank": null,
+   "top3": [
+    "NFC 6.5.1.1",
+    "NFC 7.2.4.2",
+    "NFC 6.3.1.2"
+   ],
+   "truth_sample": [
+    "NBC 1.1.1.1",
+    "NBC 1.2.1.1",
+    "NBC 3.2.4.19",
+    "NBC 3.2.4.5"
+   ]
+  },
+  {
+   "doc": "ma-standata-interpretation-building-23-bci-022-2025-05.pdf",
+   "title": "Energy efficiency exemptions for buildings",
+   "query": "Energy efficiency exemptions for buildings. To assist in identifying certain types and uses of buildings, such as buildings constructed to shelter equipment whi",
+   "truth_n": 2,
+   "first_hit_rank": null,
+   "top3": [
+    "NECB 1.3.1.2",
+    "NBC 9.36.3.1",
+    "NBC 9.36.5.13"
+   ],
+   "truth_sample": [
+    "NBC 9.25.2.1",
+    "NBC 9.36.1.3"
+   ]
+  },
+  {
+   "doc": "ma-standata-interpretation-building-fire-23-bci-003-23-fci-002-2024-04.pdf",
+   "title": "Occupant loads",
+   "query": "Occupant loads. To provide a consistent method for calculating occupant loads for assembly occupancies under the National Building Code \u2013 2023 Alberta Edition a",
+   "truth_n": 3,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 5.8.1.5",
+    "NBC 5.8.1.4",
+    "NBC 4.1.5.10"
+   ],
+   "truth_sample": [
+    "NBC 3.1.17.1",
+    "NBC 3.2.5.12",
+    "NBC 3.4.2.6"
+   ]
+  },
+  {
+   "doc": "ma-standata-interpretation-building-fire-23-bci-003r1-23-fci-002r1-2025-01.pdf",
+   "title": "Occupant loads",
+   "query": "Occupant loads. To provide a consistent method for calculating occupant loads for assembly occupancies under the National Building Code \u2013 2023 Alberta Edition a",
+   "truth_n": 4,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 5.8.1.5",
+    "NBC 5.8.1.4",
+    "NBC 4.1.5.10"
+   ],
+   "truth_sample": [
+    "NBC 3.1.17.1",
+    "NBC 3.2.5.12",
+    "NBC 3.4.2.6",
+    "NBC 3.4.3.2"
+   ]
+  },
+  {
+   "doc": "ma-standata-interpretation-joint-23bci025-24eci009-2026-10.pdf",
+   "title": "Service/utility room for energy storage systems",
+   "query": "Service/utility room for energy storage systems. To clarify that a building safety codes officer (SCO) reviews and inspects the design and construction of a roo",
+   "truth_n": 1,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 3.6.2.1",
+    "NBC 9.31.6.2",
+    "NBC 6.2.1.5"
+   ],
+   "truth_sample": [
+    "NBC 9.10.3.1"
+   ]
+  },
+  {
+   "doc": "ma-standata-joint-interpretation-23-fci-010-23-bci-043-2025-11.pdf",
+   "title": "Electromagnetic locks - installation, maintenance, testing, and verification",
+   "query": "Electromagnetic locks - installation, maintenance, testing, and verification. To clarify how the Safety Codes Act (SCA), the National Building Code \u2013 2023 Alber",
+   "truth_n": 7,
+   "first_hit_rank": 7,
+   "top3": [
+    "NFC 2.1.3.6",
+    "NBC 9.31.6.2",
+    "NBC 6.3.2.15"
+   ],
+   "truth_sample": [
+    "NBC 3.2.4.19",
+    "NBC 3.2.4.5",
+    "NBC 3.2.9.1",
+    "NBC 6.1.1.2"
+   ]
+  },
+  {
+   "doc": "ma-standata-19-bcv-009-natural-gas-regulating-and-metering-station-buildings.pdf",
+   "title": "Natural gas regulating and metering station buildings",
+   "query": "Natural gas regulating and metering station buildings. DISCUSSION High Hazard Industrial Occupancy (Group F, Division 1) is defined by the National Building Cod",
+   "truth_n": 2,
+   "first_hit_rank": null,
+   "top3": [
+    "NBC 3.2.2.19",
+    "NBC 3.2.2.75",
+    "NBC 3.2.2.74"
+   ],
+   "truth_sample": [
+    "NBC 6.2.1.1",
+    "NBC 6.3.1.6"
+   ]
+  },
+  {
+   "doc": "ma-standata-joint-variance-19-bcv-014-19-fcv-019.pdf",
+   "title": "12-storey encapsulated mass timber construction",
+   "query": "12-storey encapsulated mass timber construction. DISCUSSION The 2020 editions of the National Building Code of Canada (NBCC) and National Fire Code of Canada (N",
+   "truth_n": 38,
+   "first_hit_rank": 10,
+   "top3": [
+    "NBC 3.2.2.48",
+    "NBC 3.2.2.57",
+    "NBC 3.1.13.12"
+   ],
+   "truth_sample": [
+    "NBC 3.1.11.5",
+    "NBC 3.1.11.6",
+    "NBC 3.1.11.7",
+    "NBC 3.1.12.1"
+   ]
+  },
+  {
+   "doc": "ma-standata-joint-variance-19-fcv-018-19-bcv-015.pdf",
+   "title": "Construction site fire safety plans",
+   "query": "Construction site fire safety plans. of the National Fire Code\u20132019 Alberta Edition ( (AE)) where fire safety codes officers are not readily available. DISCUSSI",
+   "truth_n": 1,
+   "first_hit_rank": null,
+   "top3": [
+    "NFC 2.8.2.11",
+    "NFC 5.6.1.11",
+    "NFC 5.6.1.3"
+   ],
+   "truth_sample": [
+    "NBC 8.1.1.1"
+   ]
+  },
+  {
+   "doc": "ma-23-bcv-010r1-engineers-authentication-welding-procedures.pdf",
+   "title": "Engineer's authentication for welding procedures",
+   "query": "Engineer's authentication for welding procedures. To provide an alternative solution to the National Building Code \u2013 2023 Alberta Edition requirement for certif",
+   "truth_n": 1,
+   "first_hit_rank": 10,
+   "top3": [
+    "NBC C:2.5.1.1",
+    "NBC C:2.2.1.1",
+    "NBC C:2.2.2.4"
+   ],
+   "truth_sample": [
+    "NBC 4.3.4.1"
+   ]
+  }
+ ],
+ "V2_grid_pick_stem_off": {
+  "tune": {
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.525,
+   "hit@10": 0.566,
+   "recall@5": 0.297,
+   "recall@10": 0.32,
+   "MRR": 0.38
+  },
+  "heldout": {
+   "n": 40,
+   "hit@1": 0.375,
+   "hit@5": 0.625,
+   "hit@10": 0.7,
+   "recall@5": 0.336,
+   "recall@10": 0.385,
+   "MRR": 0.492
+  }
+ },
+ "V2 + tuned weights, stemming on, phrase boost 0 (tuned on 70%)": {
+  "tune": {
+   "n": 99,
+   "hit@1": 0.273,
+   "hit@5": 0.485,
+   "hit@10": 0.576,
+   "recall@5": 0.264,
+   "recall@10": 0.326,
+   "MRR": 0.364
+  },
+  "heldout": {
+   "n": 40,
+   "hit@1": 0.4,
+   "hit@5": 0.6,
+   "hit@10": 0.675,
+   "recall@5": 0.306,
+   "recall@10": 0.349,
+   "MRR": 0.473
+  }
+ },
+ "V2b_phrase3_rejected": {
+  "tune": {
+   "n": 99,
+   "hit@1": 0.303,
+   "hit@5": 0.525,
+   "hit@10": 0.566,
+   "recall@5": 0.302,
+   "recall@10": 0.332,
+   "MRR": 0.39
+  },
+  "heldout": {
+   "n": 40,
+   "hit@1": 0.325,
+   "hit@5": 0.65,
+   "hit@10": 0.75,
+   "recall@5": 0.342,
+   "recall@10": 0.388,
+   "MRR": 0.484
+  },
+  "why": "phrase boost 3 scored higher on tune but ranked title-bigram articles (Sprinkler Systems) above the inspection/maintenance articles for real queries and failed 2 regression tests; rejected"
+ }
+}
