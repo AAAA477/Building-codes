@@ -1,0 +1,46 @@
+pipeline:
+  id: pipeline_AAAA477_Building_codes_build_4a86
+  name: pipeline_AAAA477_Building_codes_build_4a86
+  stages:
+    - name: Build and Test
+      id: build_and_test
+      runtime: cloud
+      platform:
+        os: linux
+        arch: amd64
+      clone:
+        enabled: true
+      cache:
+        enabled: true
+      steps:
+        - name: Install Python Dependencies
+          id: install_python_deps
+          run:
+            shell: bash
+            script: |-
+              cd app/backend
+              pip install --upgrade pip
+              pip install -r requirements.txt
+              pip install pymupdf pypdf python-multipart
+        - name: Build Frontend
+          id: build_frontend
+          run:
+            shell: bash
+            script: |-
+              cd app/frontend
+              npm ci
+              npm run build
+        - name: Run Backend Tests
+          id: run_backend_tests
+          run:
+            shell: bash
+            script: |-
+              mkdir -p .harness/reports
+              cd app/backend
+              pytest tests/ -v --junitxml=../../.harness/reports/junit.xml
+            report:
+              type: junit
+              paths:
+                - .harness/reports/junit.xml
+  tags:
+    onboarding: "true"
