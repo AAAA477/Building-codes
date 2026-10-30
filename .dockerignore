@@ -1,0 +1,8 @@
+app/frontend
+app/data/store
+app/backend/.env
+app/backend/tests
+**/__pycache__
+app/backend/.venv
+.playwright-mcp
+.git
