@@ -1,0 +1,40 @@
+{
+ "id": "ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001",
+ "number": "19-BCV-003/19-EDB-001",
+ "numbers": [
+  "19-BCV-003",
+  "19-EDB-001"
+ ],
+ "title": "Elevator and passenger-elevating devices",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "November 2022",
+ "revision": "",
+ "purpose": "This Standata focuses on the use of a passenger elevator instead of a platform lift or stair lift to meet barrier-free requirements, wherein it would also have to conform to CSA-B355, “Platform lifts and stair lifts for barrier-free access,” to meet that specific intended use.",
+ "discussion": "Elevators are designed and constructed to ASME A17.1/CSA B44, “Safety code for elevators and escalators,” as referenced in the Elevating Devices Codes Regulation made pursuant to the Safety Codes Act. Elevators are not constructed to the specifications detailed in CAN/CSA-B355. In some instances where elevators were installed to serve as lifts, safety codes officers have questioned why the elevator did not meet the size requirements to accommodate a stretcher, as instructed in the National Building Code - 2019 Alberta Edition (NBC(AE)). Not all elevator car sizes listed in Table E-1 “Minimum Dimensions of Elevator Cars” in Appendix E of ASME A17.1/CSA B44 have the space requirements to accommodate a stretcher. Clause 4.2.1 of CSA-B355, requires an enclosed lift to be restricted to a maximum vertical travel of 7 000 mm. STANDATA 19-BCV-003(REV1) /19-EDB-001 Building codes and standards Elevator codes and standards",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). 1. Where a passenger elevator is used instead of a lift conforming to CSA-B355 “Platform lifts and stair lifts for barrier-free access”, the elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: a) the elevator is restricted to a vertical travel of 7 000 mm or less, and b) the elevator car dimensions are not less than the minimum as set out in Table 1 of the CSA-B355 standard. 2. Permit applicants using this Variance must provide a copy of this documentation to the Authorities Having Jurisdiction. • Building Permit- Where-to-get-a-permit STANDATA 19-BCV-003(REV1) /19-EDB-001 Building codes and standards Elevator codes and standards • Elevating Devices Permit- Alberta Elevating Devices and Amusement Rides Safety Association (AEDARSA). 3. The NBC(AE) requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO), except where the vertical travel is 7 000 mm or less. FEO elements are not required for platform lifts or stair lifts required for barrier-free access that have a vertical travel of 7 000 mm or less; therefore, an elevator installed in lieu of a platform lift or stair lift for barrier-free access would not require FEO elements. Note: 1. Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance. 2. If you are installing an elevating device instead of a platform lift or a stair lift for barrier-free access, refer to STANDATA ED-2009-005-R1 Elevating Devices Codes Regulation (New Installations).",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). 1. Where a passenger elevator is used instead of a lift conforming to CSA-B355 “Platform lifts and stair lifts for barrier-free access”, the elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: a) the elevator is restricted to a vertical travel of 7 000 mm or less, and b) the elevator car dimensions are not less than the minimum as set out in Table 1 of the CSA-B355 standard. 2. Permit applicants using this Variance must provide a copy of this documentation to the Authorities Having Jurisdiction. • Building Permit- Where-to-get-a-permit STANDATA 19-BCV-003(REV1) /19-EDB-001 Building codes and standards Elevator codes and standards • Elevating Devices Permit- Alberta Elevating Devices and Amusement Rides Safety Association (AEDARSA). 3. The NBC(AE) requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO), except where the vertical travel is 7 000 mm or less. FEO elements are not required for platform lifts or stair lifts required for barrier-free access that have a vertical travel of 7 000 mm or less; therefore, an elevator installed in lieu of a platform lift or stair lift for barrier-free access would not require FEO elements. Note: 1. Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance. 2. If you are installing an elevating device instead of a platform lift or a stair lift for barrier-free access, refer to STANDATA ED-2009-005-R1 Elevating Devices Codes Regulation (New Installations)."
+ ],
+ "articles_varied": [
+  "3.5.4.1",
+  "3.8.3.7"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.5.4.1": "NBC",
+  "3.8.3.7": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance only applies to buildings where an elevator is installed instead of a lift, in situations where a lift would comply with the accessibility requirements of the NBC(AE).",
+ "pdf": "files/standata/variances_2019/ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001.pdf",
+ "source": {
+  "doc": "ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

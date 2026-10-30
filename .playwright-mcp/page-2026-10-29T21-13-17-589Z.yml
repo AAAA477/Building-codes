@@ -1,0 +1,100 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - group "View as" [ref=e11]:
+        - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+        - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e820]:
+      - generic [ref=e821]:
+        - heading "Prepare a building code variance request" [level=1] [ref=e822]
+        - paragraph [ref=e823]: A variance lets you propose a different way to meet the Building Code. This workbook takes you through it in plain language, finds the code articles, shows what is still missing and fills in the official form. You review and sign. It never signs for you.
+        - generic [ref=e824]:
+          - button "Start a new application" [ref=e825] [cursor=pointer]
+          - link "Continue my last application" [ref=e828] [cursor=pointer]:
+            - /url: "#/a/30966de0/1"
+        - region [ref=e829]:
+          - heading "I have already started a request" [level=2] [ref=e830]
+          - paragraph [ref=e831]: Upload the official Safety Codes Council variance form (PDF), or paste what you have written. We check what is there and what is missing. We do not send your draft to any AI service.
+          - generic [ref=e833]:
+            - text: PDF of the form
+            - button "PDF of the form" [ref=e834]
+          - text: Or paste your draft
+          - textbox "Or paste your draft" [ref=e835]
+          - button "Check my draft" [disabled] [ref=e837]
+        - region [ref=e838]:
+          - heading "Contents" [level=2] [ref=e839]
+          - list [ref=e840]:
+            - listitem [ref=e841]:
+              - generic [ref=e842]: "1"
+              - generic [ref=e844]:
+                - strong [ref=e845]: Describe
+                - generic [ref=e846]: Say in plain words what you want to build or do differently.
+            - listitem [ref=e847]:
+              - generic [ref=e848]: "2"
+              - generic [ref=e850]:
+                - strong [ref=e851]: Rules
+                - generic [ref=e852]: Check whether it is already covered, then confirm the code articles that apply.
+            - listitem [ref=e853]:
+              - generic [ref=e854]: "3"
+              - generic [ref=e856]:
+                - strong [ref=e857]: Fill and review
+                - generic [ref=e858]: Close the gaps on a to-do list grouped by form section A to D.
+            - listitem [ref=e859]:
+              - generic [ref=e860]: "4"
+              - generic [ref=e862]:
+                - strong [ref=e863]: Submit
+                - generic [ref=e864]: Read the filled form, download it, confirm the declarations yourself and prepare a package.
+      - region [ref=e865]:
+        - heading "Or open a sample" [level=2] [ref=e866]
+        - paragraph [ref=e867]: Samples are based on real Alberta documents, with names and addresses left blank. They are a quick way to see how the tool works.
+        - list [ref=e868]:
+          - listitem [ref=e869]:
+            - generic [ref=e870]:
+              - heading "Single-exit stair (documents missing)" [level=3] [ref=e871]
+              - paragraph [ref=e872]: Everything is filled in except the supporting documents list.
+            - 'button "Open sample: Single-exit stair (documents missing)" [ref=e873] [cursor=pointer]': Open sample
+          - listitem [ref=e874]:
+            - generic [ref=e875]:
+              - heading "Single-exit stair (no professional named)" [level=3] [ref=e876]
+              - paragraph [ref=e877]: Shows what the tool flags when no registered professional is named.
+            - 'button "Open sample: Single-exit stair (no professional named)" [ref=e878] [cursor=pointer]': Open sample
+          - listitem [ref=e879]:
+            - generic [ref=e880]:
+              - heading "Single-exit stair (unchecked article)" [level=3] [ref=e881]
+              - paragraph [ref=e882]: Includes a code article that could not be verified against the code text.
+            - 'button "Open sample: Single-exit stair (unchecked article)" [ref=e883] [cursor=pointer]': Open sample
+          - listitem [ref=e884]:
+            - generic [ref=e885]:
+              - heading "Single-exit stair, Edmonton (well prepared)" [level=3] [ref=e886]
+              - paragraph [ref=e887]: A residential point-access-block example with its code articles and document list ready.
+            - 'button "Open sample: Single-exit stair, Edmonton (well prepared)" [ref=e888] [cursor=pointer]': Open sample
+          - listitem [ref=e889]:
+            - generic [ref=e890]:
+              - heading "Single-exit stair (just started)" [level=3] [ref=e891]
+              - paragraph [ref=e892]: An application with only a few answers filled in. Good for trying the guided steps.
+            - 'button "Open sample: Single-exit stair (just started)" [ref=e893] [cursor=pointer]': Open sample
+          - listitem [ref=e894]:
+            - generic [ref=e895]:
+              - 'heading "STANDATA variance: wall-mounted exhaust (23-BCV-001)" [level=3] [ref=e896]'
+              - paragraph [ref=e897]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: wall-mounted exhaust (23-BCV-001)" [ref=e898] [cursor=pointer]': Open sample
+          - listitem [ref=e899]:
+            - generic [ref=e900]:
+              - 'heading "STANDATA variance: sprinkler and glazing (23-BCV-004)" [level=3] [ref=e901]'
+              - paragraph [ref=e902]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: sprinkler and glazing (23-BCV-004)" [ref=e903] [cursor=pointer]': Open sample
+          - listitem [ref=e904]:
+            - generic [ref=e905]:
+              - 'heading "STANDATA variance: exhaust clearance (23-BCV-008R1)" [level=3] [ref=e906]'
+              - paragraph [ref=e907]: Based on a real Alberta STANDATA variance.
+            - 'button "Open sample: STANDATA variance: exhaust clearance (23-BCV-008R1)" [ref=e908] [cursor=pointer]': Open sample
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

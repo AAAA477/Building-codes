@@ -1,0 +1,64 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-020",
+ "number": "19-BCV-020",
+ "numbers": [
+  "19-BCV-020"
+ ],
+ "title": "Structural insulated panels",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "May 2021",
+ "revision": "",
+ "purpose": "This variance allows for the use of Structural Insulated Panels (SIPs) in buildings constructed under Part 9 of the National Building Code – 2019 Alberta Edition (NBC(AE)).",
+ "discussion": "SIPs are generally a sandwich-structured composite panel, consisting of an insulating layer of rigid core situated between two layers of structural board (OSB, MgO board, etc.), assembled to form the exterior of the building (walls, roof, floors, etc.). Currently SIPs are not a referenced product or system in the NBC(AE), which historically has created obstacles to the use of SIPs, other than by interpretation or variance provided by the authority having jurisdiction (AHJ). This variance is intended to provide the AHJ the guidance to accept the use of SIPs anywhere in Alberta, by applying a consistent set of criteria to achieve an acceptable degree of safety for the building occupants. Persons responsible for ensuring a material, product, system or service meets the objectives of the NBC(AE) have several means available to assist them. These means vary from on-site inspection to the use of certification services provided by accredited third-party organizations. Where no recognized standard exists for measuring performance, the Canadian Construction Materials Centre (CCMC) provides a national evaluation service for new and innovative materials, products, systems and services that is recognized by provincial and territorial building regulatory bodies. CCMC evaluations provide confirmation that the product, material, system or service complies with the National Building Code of Canada (NBC). Compliance with the NBC(AE) can be achieved by complying with the acceptable solutions of Division B, or by an alternative solution as provided in Section 2.3. of Division C. Sentence 1.2.2.1.(2) of Division A also permits an evaluation report issued by CCMC, a division of the National Research Council of Canada, to be used to determine compliance with the NBC(AE) requirements. CCMC-evaluated products are deemed to comply with the requirements of the NBC when designed and installed in conformance with the conditions and limitations stated in the evaluation report. CCMC evaluations that determine compliance to the NBC are recognized as equivalent compliance to the NBC(AE) and applicable to previous Alberta Building Code editions. As a result, CCMC evaluations recognized by the Provincial Building Administrator do not require a Classification: Public variance issued by a safety codes officer or Administrator under the Safety Codes Act to be used or sold in Alberta. Due to the complexity of constructing with SIPs that have not undergone the evaluation process by CCMC, Sentence 2.4.2.1.(9) of Division C allows the AHJ to require not only plans and specifications stamped/sealed by a registered professional, but also field reviews during the construction of the building, which also can apply to the in-factory fabrication work. While buildings subject to this STANDATA do not require full Schedules of Professional Involvement, letters with similar wording to that used in the Schedules can be used to confirm the registered professional is taking responsibility for the field review, and the applicable aspects of the project substantially comply with the registered professional’s design that was submitted in support of the application for the building permit. Sentence 2.2.10.9.(4) of Division C states a vendor or supplier shall ensure their materials meet the requirements of the Code. In the case of new and innovative products or materials for which no Code requirement exists, the registered professional(s) is responsible for ensuring the product or material is capable of meeting an equivalent performance level to the prescriptive Code requirements, through the alternative solution application process. Information an alternative solution may present to the AHJ when demonstrating compliance to the NBC(AE) includes, but is not limited to, the information provided in the Appendix A example.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Acceptance of SIPs are recognized provided the applicable conditions are met: 1. CCMC evaluations that state materials, products and systems for SIPs are in compliance with the NBC are recognized in Alberta as meeting the requirements of the NBC(AE) and do not require an alternative solution. SIPs must be used in accordance with the manufacturer’s instructions and meet the conditions and limitations specified in the CCMC evaluation report. As part of this variance, provision of a CCMC evaluation report for the SIP to the AHJ is required to demonstrate compliance, along with the SIP installation being subject to the field inspections of the AHJ. Please review the Note as it may be applicable to your project. 2. Any other alternative means for compliance that does not rely on the CCMC evaluation process requires an alternative solution, presented in conformance with Section 2.3. of",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Acceptance of SIPs are recognized provided the applicable conditions are met: 1. CCMC evaluations that state materials, products and systems for SIPs are in compliance with the NBC are recognized in Alberta as meeting the requirements of the NBC(AE) and do not require an alternative solution. SIPs must be used in accordance with the manufacturer’s instructions and meet the conditions and limitations specified in the CCMC evaluation report. As part of this variance, provision of a CCMC evaluation report for the SIP to the AHJ is required to demonstrate compliance, along with the SIP installation being subject to the field inspections of the AHJ. Please review the Note as it may be applicable to your project. 2. Any other alternative means for compliance that does not rely on the CCMC evaluation process requires an alternative solution, presented in conformance with Section 2.3. of"
+ ],
+ "articles_varied": [
+  "1.2.1.1",
+  "1.2.2.1",
+  "2.2.10.9",
+  "2.4.1.1",
+  "2.4.2.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "1.2.1.1": "NBC",
+  "1.2.2.1": "NBC",
+  "2.2.10.9": "NPC",
+  "2.4.1.1": "NBC",
+  "2.4.2.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "CCMC evaluations that state materials, products and systems for SIPs are in compliance with the NBC are recognized in Alberta as meeting the requirements of the NBC(AE) and do not require an alternative solution. SIPs must be used in accordance with the manufacturer’s instructions and meet the conditions and limitations specified in the CCMC evaluation report. As part of this variance, provision of a CCMC evaluation report for the SIP to the AHJ is required to demonstrate compliance, along with the SIP installation being subject to the field inspections of the AHJ. Please review the Note as it may be applicable to your project.",
+   "page": 3
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "Any other alternative means for compliance that does not rely on the CCMC evaluation process requires an alternative solution, presented in conformance with Section 2.3. of Classification: Public Division C of the NBC(AE). Due to the complexity involved, the alternative solution is required to be submitted by a registered professional, as described in Sentence 2.4.2.1.(9) of Division C—being responsible for ensuring a material, product, system or service meets the objectives of the NBC(AE). Sentence 2.4.2.1.(9) requires the plans and specifications be approved by a registered professional, and field reviews be conducted during construction as well. Please review the Note as it may be applicable to your project.",
+   "page": 3
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "When a registered professional provides a design, review or verification required to demonstrate compliance to condition 1 and 2 of this variance; letters with similar wording to that used in the Schedules of Professional Involvement are provided to the Authority Having Jurisdiction to verify a registered professional is taking responsibility as noted in Division C, Note A 2.4.1.1.(1). Note: The use of SIPs may require the evaluation of one or more registered professionals to demonstrate compliance with condition 1 and 2 of this variance when address the materials, products, systems or service and installation or if required demonstrate the conditions and limitations specified in the CCMC evaluation report have been met, each evaluation is project specific.",
+   "page": 4
+  }
+ ],
+ "applies_to": "Structural Insulated Panels (SIPs) forming an integral component for buildings constructed under Part 9.",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-020.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-020.pdf",
+  "page": 1
+ },
+ "current": false,
+ "superseded_by": "ma-standata-building-code-variance-19-bcv-020rev1",
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

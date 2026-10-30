@@ -1,0 +1,33 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-018r2",
+ "number": "19-BCV-018R2",
+ "numbers": [
+  "19-BCV-018R2"
+ ],
+ "title": "Adhered Masonry Veneer - Generic Engineered Details for Part 9 Residential Buildings",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "November 2021",
+ "revision": "R2",
+ "purpose": "To recognize the acceptability of the values within the document “Adhered Masonry Veneer Installations to a Maximum 3.05m Above Local Grade On Part 9 Residential Units In Alberta” prepared by the Alberta Masonry Council.",
+ "discussion": "Part 9 of the National Building Code-2019 Alberta Edition (NBC(AE)) does not prescribe requirements for this type of installation. Subsequently, Safety Codes Officers (SCO) may request installations be individually engineered under Part 4 of the NBC(AE). STANDATA 19-BCV-018 (Rev2) www.alberta.ca/building-standata.aspx",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Adhered Masonry Veneer Installations to a Maximum 3.05 m Above Local Grade On Part 9 Residential Units are permitted using the values from the following document: Adhered Masonry Veneer Installations to a Maximum 3.05 m Above Local Grade On Part 9 Residential Units In Alberta, November 22, 2021 Prepared by Dr. Mark Hagel, PhD., P.Eng. Published by the Alberta Masonry Council, available free of charge, and distributed by: Alberta Masonry Council Mailing address: Suite 166, 3-11 Bellerose Drive St. Albert, AB T8N 5C9 Phone: 780-901-2902 Web: https://albertamasonrycouncil.ca/ This report is acceptable in place of project-specific engineering on a case-by-case basis, provided the project- specific details for the “adhered masonry veneers for installed heights to a maximum 3.05 m above local grade on Part 9 residential units” SHALL appear on the drawings submitted for the building permit. Walls that do not meet the criteria for the document “adhered manufactured masonry veneers for installed heights to a maximum 3.05 m above local grade on Part 9 residential units” may need to have site-specific engineering on a case-by-case basis.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Adhered Masonry Veneer Installations to a Maximum 3.05 m Above Local Grade On Part 9 Residential Units are permitted using the values from the following document: Adhered Masonry Veneer Installations to a Maximum 3.05 m Above Local Grade On Part 9 Residential Units In Alberta, November 22, 2021 Prepared by Dr. Mark Hagel, PhD., P.Eng. Published by the Alberta Masonry Council, available free of charge, and distributed by: Alberta Masonry Council Mailing address: Suite 166, 3-11 Bellerose Drive St. Albert, AB T8N 5C9 Phone: 780-901-2902 Web: https://albertamasonrycouncil.ca/ This report is acceptable in place of project-specific engineering on a case-by-case basis, provided the project- specific details for the “adhered masonry veneers for installed heights to a maximum 3.05 m above local grade on Part 9 residential units” SHALL appear on the drawings submitted for the building permit. Walls that do not meet the criteria for the document “adhered manufactured masonry veneers for installed heights to a maximum 3.05 m above local grade on Part 9 residential units” may need to have site-specific engineering on a case-by-case basis."
+ ],
+ "articles_varied": [],
+ "articles_unverified": [],
+ "article_codes": {},
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-018r2.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-018r2.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

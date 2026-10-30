@@ -1,0 +1,60 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-010-2025-02",
+ "number": "23-BCV-010",
+ "numbers": [
+  "23-BCV-010"
+ ],
+ "title": "Engineer authentication for the qualification of structural steel fabricators",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "February 2025",
+ "revision": "",
+ "purpose": "To provide an alternative solution to the industry in meeting the requirement of using qualified fabricators for the fabrication of structural steel as per CSA W47.1 – “Certification of companies for fusion welding of steel”.",
+ "discussion": "Structural steel is at times fabricated outside of Canada by fabricators who are not certified to the CSA W47.1 standard. The majority of fabricators in Canada are certified to the CSA W47.1 standard. However, it is not common to find CSA W47.1 qualified fabricators outside of Canada. The standard commonly adopted by the international community of fabricators involved in the fabrication and welding of structural steel is AWS D1.1 “Structural Welding Code–Steel”. The Canadian equivalent standard to AWS D1.1 is CSA W59 “Welded steel construction” (metal arc welding). The two standards are quite similar in the welding requirements. The CSA W47.1 “Certification of companies for fusion welding of steel”, is associated with CSA W59, which provides certification requirements to structural steel fabricators. However, there is no equivalent standard to complement CSA W47.1 since the industry relies on fabricators’ own quality programs to comply with the AWS D1.1 requirements during welding activities. The National Building Code – 2023 Alberta Edition (NBC(AE)) mandates the use of CSA S16 “Design of steel structures” and Canadian Welding Bureau (CWB) certification. The requirement to comply with CSA W47.1 stems from CSA S16 (refer to Clause 24.3) which is mandated by the NBC(AE). In scenarios which involve fabricators outside of Canada due to limitations of access to CWB certified companies, allowance should be made available for industry to utilize this variance. This variance provides an analysis of AWS D1.1 as an alternative solution recommendation for instances where CWB certified fabricators are not available. A variance involving the practice of engineering is also a matter for the Association of Professional Engineers and Geoscientists of Alberta (APEGA) to take into consideration, as the practice of engineering is a self-regulated profession governed by APEGA. The references to APEGA’s authentication standard as a condition of this variance is a substantive basis for this variance providing approximately equivalent or greater safety performance.",
+ "variance_text": "Where a non-CSA W47.1 certified fabricator is involved in the fabrication of structural steel, the owner is responsible for the authentication process of the welding program, including the review of weld procedures by a registered engineering professional knowledgeable in welding procedures and techniques. The authenticated thing, process, or activity is considered to provide approximately equivalent or greater safety performance subject to the following conditions: 1. A Quality Management System is in place. 2. A Welding Program is in place, which includes, but is not limited to the following: • Qualified Weld Procedures suitable for the scope of work, • Qualified Welders, • Welding Foreman, Welding Supervisor, or Registered Engineering Professional, and • Procedure for the Management of Welding Consumables. 3. Authenticated documents are submitted to the Authority Having Jurisdiction: • APEGA’s reference guideline - Authenticating Professional Work Products.",
+ "variance_parts": [
+  "Where a non-CSA W47.1 certified fabricator is involved in the fabrication of structural steel, the owner is responsible for the authentication process of the welding program, including the review of weld procedures by a registered engineering professional knowledgeable in welding procedures and techniques. The authenticated thing, process, or activity is considered to provide approximately equivalent or greater safety performance subject to the following conditions: 1. A Quality Management System is in place. 2. A Welding Program is in place, which includes, but is not limited to the following: • Qualified Weld Procedures suitable for the scope of work, • Qualified Welders, • Welding Foreman, Welding Supervisor, or Registered Engineering Professional, and • Procedure for the Management of Welding Consumables. 3. Authenticated documents are submitted to the Authority Having Jurisdiction: • APEGA’s reference guideline - Authenticating Professional Work Products."
+ ],
+ "articles_varied": [
+  "1.4.1.2",
+  "4.3.4.1",
+  "2.2.2.4"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "1.4.1.2": "NBC",
+  "4.3.4.1": "NBC",
+  "2.2.2.4": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "A Quality Management System is in place.",
+   "page": 4
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "A Welding Program is in place, which includes, but is not limited to the following: • Qualified Weld Procedures suitable for the scope of work, • Qualified Welders, • Welding Foreman, Welding Supervisor, or Registered Engineering Professional, and • Procedure for the Management of Welding Consumables.",
+   "page": 4
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "Authenticated documents are submitted to the Authority Having Jurisdiction: • APEGA’s reference guideline - Authenticating Professional Work Products.",
+   "page": 4
+  }
+ ],
+ "applies_to": "This variance applies to the fabrication of steel structures that are fabricated outside of Canada for its installation in the province of Alberta. The following comparison-table summarizes the differences between CSA W47.1 and AWS D1.1 and provides measures to achieve equivalency when a fabricator is not certified to CSA W47.1 or CWB. A project specific Quality Management System and Welding Program as mutually agreed between the registered engineering professional and the owner must be used for the evaluation and assessment of the fabricator. The registered engineering professional must perform an assessment using the table as a tool and document each aspect of the below mentioned comparison-table to demonstrate compliance for the alternative solution of AWS D1.1. Comparison Table Reference Comparison Canadian Standard CSA W47.1 International Standard AWS D1.1 Measures for Equivalency SCOPE This Standard provides the requirements for the certification of companies engaged in the fusion welding of steel and the qualification of their personnel and welding procedures. This code contains the requirements for fabricating and erecting welded steel structures. When this code is stipulated in contract documents, conformance with all provisions of the code must be required, except for those provisions the Engineer or contract documents specifically modifies or exempts Owner’s due diligence by verifying the fabricator has a quality (including welding) program in place. This can be achieved during the review process of fabricator quality/welding documents by registered engineering professional and owner assigned inspector during the fabrication activities Comparison Canadian Standard CSA W47.1 International Standard AWS D1.1 Measures for Equivalency Is administered by CWB, which is mandated to certify fabricators and monitor their conformance to Standards requirement. AWS D1.1 is a voluntary conformance standard, AWS does not monitor and enforce the conformance. The registered engineering professional verifies the competency of fabricator. QUALIFIED WELDING ENGINEERS Companies must employ/retain a CWB qualified welding engineer (Division 1 and 2 only). No requirement. Owner or representative captures the requirement of engaging with a registered engineering professional either as a fabricator employee or third-party consultant in the procurement contract/technical documentation. QUALIFIED WELDING SUPERVISORS All certified companies are required to employ at least one CWB qualified Welding Supervisor. No requirement. Owner or representative captures the requirement of engaging with a welding supervisor either as a fabricator employee or third-party consultant in the procurement contract/technical documentation. QUALIFIED WELDERS Qualification Process: As acceptable to CWB. Qualification Process: As acceptable to Engineer. As acceptable to a registered engineering professional and is verified by the owner assigned inspector during the shop inspection process. Qualification Responsibility: Fabricator/manufacturer; however, requires witnessing by CWB. Union, Test Centre, Education Institutions require CWB accreditation and witnessing by CWB. Qualification Responsibility: Fabricator/manufacturer does not require witnessing by AWS. Union, Test Centre, Education Institutions require AWS accreditation however witnessing by AWS is not required. Owner assigned inspector must review and verify welders’ qualifications during the shop inspection process. Comparison Canadian Standard CSA W47.1 International Standard AWS D1.1 Measures for Equivalency Period of effectiveness: Two years. Period of effectiveness: Indefinite. Review and verification of a welder continuity log or any other shop-maintained document by owner’s inspector. QUALIFIED WELDING PROCEDURES Qualification Process: Acceptable to CWB. Qualification Process: Acceptable to Engineer. Acceptable to the registered engineering professional. Qualification Responsibility: Fabricator/Manufacturer requires witnessing and approval by CWB. Qualification Responsibility: Fabricator/Manufacturer- witnessed by accredited labs or recognized certification bodies acceptable to Engineer. Acceptable to the registered engineering professional. Witnessing of testing: Only by CWB or authorized rep, CWB is the independent administrator. Witnessing of testing: No independent administrator. Owner assigned inspector must review and verify the applicability during the shop inspection. Approval of procedures: CWB is the independent administrator, approval only by CWB. Approval of procedures: Not applicable, no independent administrator required. Approval by the registered engineering professional.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-010-2025-02.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-010-2025-02.pdf",
+  "page": 1
+ },
+ "current": false,
+ "superseded_by": "ma-23-bcv-010r1-engineers-authentication-welding-procedures",
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -3,6 +3,7 @@ import os
 import tempfile
 import zipfile
 import mimetypes
+import reviewer
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from email.utils import formatdate
@@ -29,6 +30,19 @@ def _check_signed(app):
         raise ValueError("Cannot build submission package: an owner's representative is named but declarations.rep_signed is not true.")
 
 
+def _variance_lines(app) -> list:
+    """Name the STANDATA variance relied on only when every condition is confirmed; attribute borrowed conditions."""
+    out = []
+    rel = reviewer._relied(app)
+    if rel and rel["total"] and rel["unmet"] == 0:
+        out += [f"## Relied-on variance", f"- Relies on STANDATA {rel['number']} ({rel['edition']}): all {rel['total']} conditions confirmed by the applicant. "
+                "Whether it applies is for the authority having jurisdiction to decide.", ""]
+    borrowed = [m for m in ((app.get("variance") or {}).get("proposed_alternative") or {}).get("mitigations", []) if str(m.get("id", "")).startswith("V-")]
+    if borrowed:
+        out += ["## Alternative drawn from STANDATA (accepted by the applicant)"] + [f"- {m.get('label')}: {m.get('detail')}" for m in borrowed] + [""]
+    return out
+
+
 def _cover_note(app, enclosed, jur, to_addr, to_note, warnings):
     ap, pr, loc, var = (app.get(k) or {} for k in ("applicant", "project", "location", "variance"))
     L = [f"# Cover note: variance request ({app.get('id', '')})", "",
@@ -46,6 +60,7 @@ def _cover_note(app, enclosed, jur, to_addr, to_note, warnings):
          f"- Code or standard varied: {var.get('code_or_standard') or '[not provided]'} ({app.get('edition', '')})",
          f"- Provisions: {', '.join((var.get('acceptable_solution') or {}).get('articles') or []) or '[not provided]'}",
          f"- Proposed alternative: {(var.get('proposed_alternative') or {}).get('summary') or '[not provided]'}", "",
+         *_variance_lines(app),
          "## AI assistance", __import__("privacy").disclosure(app)["statement"], "",
          "## Enclosed documents"]
     L += [f"{i}. {e}" for i, e in enumerate(enclosed, 1)]

@@ -33,15 +33,31 @@ def suggest_ep(app_id: str, body: dict = Body(...)):
 @router.post("/api/applications/{app_id}/suggest/accept")
 def suggest_accept(app_id: str, body: dict = Body(...)):
     import main  # lazy: main mounts this router
-    a = main.get_app(app_id)
+    import copy
+    a = copy.deepcopy(main.get_app(app_id))   # a rejected value must not leave the stored application half-edited
     path = str((body or {}).get("field_path") or "").strip()
     if not path or "value" not in body:
         raise HTTPException(422, "field_path and value are required")
     if path.split(".")[0] in BLOCKED:
         raise HTTPException(409, f"{path} cannot be filled by a suggestion: declarations, signatures and professional flags are completed by people.")
-    models.set_path(a, path, body["value"])
+    source = body.get("provenance")
+    if source not in (None, "precedent"):
+        raise HTTPException(422, "provenance may only be 'precedent'")
+    if source == "precedent" and body.get("append"):
+        cur = models.get_path(a, path, []) or []
+        new = body["value"]
+        dup = any((x.get("id") == new.get("id")) if isinstance(x, dict) and isinstance(new, dict) else x == new for x in cur)
+        models.set_path(a, path, cur if dup else cur + [new])
+    else:
+        models.set_path(a, path, body["value"])
     prov = a.setdefault("provenance", {})
-    prov[path] = {"source": "ai_draft", "confidence": 0.6, "item_id": body.get("item_id")}
-    a = models.normalize(a)
+    if source == "precedent":
+        prov[path] = {"source": "precedent", "confidence": 0.5, "item_id": body.get("item_id")}
+    else:
+        prov[path] = {"source": "ai_draft", "confidence": 0.6, "item_id": body.get("item_id")}
+    try:
+        a = models.normalize(a)
+    except ValueError as e:   # pydantic.ValidationError is a ValueError
+        raise HTTPException(422, f"{path} does not accept that value")
     main.refresh(a)
     return models.save(a)

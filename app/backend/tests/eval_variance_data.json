@@ -1,0 +1,25 @@
+{
+ "note": "Scenarios written from the titles and purposes of the STANDATA variance PDFs, not from matcher output. expected: the variance number(s) a person would say covers or is closest to it; hint: covered_candidate (current 2023 edition) | near_miss (only an earlier edition exists) | none.",
+ "scenarios": [
+  {"id": "wocd", "description": "We want to use window opening control devices that comply with ASTM F2090 on the bedroom windows of our apartment building.", "expected": ["23-BCV-001"], "hint": "covered_candidate"},
+  {"id": "glazing", "description": "We want clear glass in a fire-resistant wall between a corridor and the suites, protected by sprinklers instead of wired glass.", "expected": ["23-BCV-004"], "hint": "covered_candidate"},
+  {"id": "exhaust", "description": "The dryer and bathroom exhaust outlets in our house with a secondary suite are closer than 1800 mm to an air intake under the soffit.", "expected": ["23-BCV-008"], "hint": "covered_candidate"},
+  {"id": "slab", "description": "We are installing hydronic radiant heating in a slab on grade and want less than 100 mm of insulation under the heated floor.", "expected": ["23-BCV-003"], "hint": "covered_candidate"},
+  {"id": "unvented", "description": "We want to build an unvented roof assembly with spray foam insulation on a house.", "expected": ["23-BCV-017"], "hint": "covered_candidate"},
+  {"id": "soffit", "description": "Protection of vented soffits close to the property line for a house exposure issue.", "expected": ["23-BCV-018"], "hint": "covered_candidate"},
+  {"id": "racking", "description": "A multi-level storage racking system with access levels in an industrial warehouse.", "expected": ["23-BCV-014"], "hint": "covered_candidate"},
+  {"id": "greenhouse", "description": "A greenhouse covered with polyethylene film.", "expected": ["23-BCV-011R1", "23-BCV-011"], "hint": "covered_candidate"},
+  {"id": "pwf", "description": "A permanent wood foundation with mechanical ventilation in a house.", "expected": ["23-BCV-012R1"], "hint": "covered_candidate"},
+  {"id": "welding", "description": "Welding procedures for a structure authenticated by a professional engineer.", "expected": ["23-BCV-010R1"], "hint": "covered_candidate"},
+  {"id": "oilgas", "description": "An oil and gas processing building that we want classified as a medium hazard Group F Division 2 occupancy.", "expected": ["23-BCV-005"], "hint": "covered_candidate"},
+  {"id": "refrigeration", "description": "A mechanical refrigeration system designed to CSA B52:23.", "expected": ["23-BCV-009"], "hint": "covered_candidate"},
+  {"id": "sips", "description": "We want to build the walls of a house from structural insulated panels (SIPs).", "expected": ["19-BCV-020R", "19-BCV-020"], "hint": "near_miss"},
+  {"id": "tallwall", "description": "Residential tall walls higher than 3.6 m using generic engineered details from a guideline instead of project engineering.", "expected": ["14-BCV-002R1", "14-BCV-002"], "hint": "near_miss"},
+  {"id": "masonry", "description": "Adhered masonry veneer using generic engineering details on a house.", "expected": ["19-BCV-018R2", "19-BCV-018R1", "19-BCV-018"], "hint": "near_miss"},
+  {"id": "garage", "description": "A lowered workspace pit in a service garage.", "expected": ["19-BCV-007", "18-BCV-007R1", "14-BCV-014"], "hint": "near_miss"},
+  {"id": "stair", "description": "A six storey apartment building with a single exit stair and four units per floor.", "expected": [], "hint": "none"},
+  {"id": "ev", "description": "Electric vehicle charging stations in an underground parkade.", "expected": [], "hint": "none"},
+  {"id": "solar", "description": "Solar panels installed over a green roof on a flat roof of a school.", "expected": [], "hint": "none"},
+  {"id": "hottub", "description": "A hot tub on a rooftop deck of a condominium.", "expected": [], "hint": "none"}
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03",
+ "number": "19-BCV-014/19-FCV-019",
+ "numbers": [
+  "19-BCV-014",
+  "19-FCV-019"
+ ],
+ "title": "12-Storey encapsulated mass timber construction",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "March 2023",
+ "revision": "",
+ "purpose": "This variance permits the construction of buildings of up to 12-storeys in building height of encapsulated mass timber construction (EMTC), as an alternative solution to the National Building Code - 2019 Alberta Edition (NBC(AE)) and the National Fire Code - 2019 Alberta Edition (NFC(AE)).",
+ "discussion": "The 2020 editions of the National Building Code of Canada (NBCC) and National Fire Code of Canada (NFCC) contain requirements for EMTC up to 12-storeys in building height. The code provisions were developed by the National Research Council. EMTC refers to buildings where the mass timber components of the building are surrounded or encapsulated with fire-resistive material. This allows for equivalent or better fire protection compared to other construction types currently permitted by the NBC(AE). The code provisions also include additional requirements for fire protection during construction and ongoing maintenance. This variance will permit EMTC up to 12-storeys in building height anywhere in Alberta, provided the conditions in this variance are met. Any construction that complies with this variance is permitted just as if the building was constructed under code requirements. The conditions in this variance are based on the code provisions in the 2020 editions of the NBCC and NFCC, which were published in March 2022. As such, when the next Alberta code editions are adopted with minor provincial variations and brought into force, the requirements for EMTC of up to 12-storeys will essentially be unchanged. This variance also includes additional conditions for fire protection during construction and ongoing maintenance. [Original signed] [Original signed] STANDATA 19-BCV-014(REV1) / 19-FCV-019(REV1) alberta.ca/building-codes-and-standards.aspx alberta.ca/fire-codes-and-standards.aspx Construction Categories The current prescriptive requirements in the NBC(AE) separate buildings into two construction type categories: combustible construction and noncombustible construction. The provisions severely restrict the height and area of buildings of combustible construction, whereas they permit unlimited height and area for buildings of noncombustible construction. The combustible/noncombustible construction classification system was introduced in the National Codes over 50 years ago and has increasingly been regarded as outdated and unnecessarily restrictive. The definition of ‘combustible construction’ in Article 1.4.1.2. of Division A, along with Subsection 3.1.5. of Division B of the NBC(AE), prohibit the use of combustible structural elements in noncombustible buildings. Therefore, the use of such elements is restricted to smaller buildings permitted to be of combustible construction. The restriction on the use of combustible structural elements could affect building construction in three ways: • the building height and building area cannot exceed the limits currently placed on all forms of combustible construction, • the building cannot contain any combustible structural elements, or • the designer must submit an alternative solution for approval by the authority having jurisdiction (AHJ) on a project-by-project basis (this process can require significant resources and expertise, both for the designer to develop an alternative solution and for the AHJ to evaluate it). Even with the increased use of performance-based design, some code users will continue to prefer to comply via prescriptive provisions, whether for simplicity, efficiency, cost-effectiveness, or other reasons. In order to provide code users with the ability to explore construction methods for taller buildings using renewable resources, this variance aims to make designs using EMTC more attainable. The NBC(AE) requires that buildings greater than 6-storeys in height be of noncombustible construction. This variance permits the construction of EMTC buildings of certain occupancy classifications up to 12-storeys in height.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the NBC(AE) and NFC(AE). Buildings or parts thereof up to 12-storeys in height that are constructed of encapsulated mass timber are permitted, provided the following condition is met: 1. Their design and construction are in compliance with the NBCC 2020 and NFCC 2020.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the NBC(AE) and NFC(AE). Buildings or parts thereof up to 12-storeys in height that are constructed of encapsulated mass timber are permitted, provided the following condition is met: 1. Their design and construction are in compliance with the NBCC 2020 and NFCC 2020."
+ ],
+ "articles_varied": [
+  "1.4.1.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "1.4.1.2": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to construction of buildings or parts thereof using encapsulated mass timber construction.",
+ "pdf": "files/standata/variances_2019/ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03.pdf",
+ "source": {
+  "doc": "ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

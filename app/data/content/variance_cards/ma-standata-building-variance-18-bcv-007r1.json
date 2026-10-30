@@ -1,0 +1,106 @@
+{
+ "id": "ma-standata-building-variance-18-bcv-007r1",
+ "number": "18-BCV-007R1",
+ "numbers": [
+  "18-BCV-007R1"
+ ],
+ "title": "Lowered workspaces in service garages",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "May 2020",
+ "revision": "R1",
+ "purpose": "This variance recognizes acceptable alternatives for lowered workspaces in service garages under the National Building Code – 2019 Alberta Edition (NBC(AE)).",
+ "discussion": "The variance applies to service garages performing oil change and/or lubricating work only and have spaces below and open to the main floor level. These lowered workspaces provide easier access to the underside of motor vehicles for changing vehicle-lubricating oil. Particular concerns with these lowered workspaces are the reduced headroom and constricted means of access to an exit. Employees working in these spaces are subject to carbon monoxide, carbon dioxide and flammable and toxic vapours from motor vehicles entering and exiting the workspace. With the appropriate conditions in place, the risks to health and safety in these lowered workspaces can be mitigated in an acceptable manner. The NBC(AE) references the National Fire Code-2019 Alberta Edition (NFC(AE)) for portable fire extinguisher requirements.",
+ "variance_text": "The variance provides approximately equivalent or greater safety performance with respect to persons and property provided for by the Safety Codes Act and the NBC(AE). Lowered workspaces may be provided in service garages without separation from the main floor if the following requirements are satisfied: 1. The floor surfaces in the building are noncombustible, 2. The lowered workspace is intended for the use of employees only, 3. The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the NBC(AE), 4. The lowered workspace shall have minimum headroom clearance of 2 m, 5. Except as provided in (6), the lowered workspace shall provide not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the NBC(AE), 6. If the area of the lowered workspace is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder (constructed per Occupational Health and Safety Code) that is protected by a guard at the top that does not block any work activity, 7. The lowered workspace shall contain no fuel-burning appliances, 8. The lowered workspace shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.), 9. As per Sentence 3.2.5.16.(1) and Article 9.10.20.4. of NBC(AE), portable extinguishers shall be provided and installed in conformance with the NFC(AE), 10. All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act, and 11. Conform to the NFC(AE).",
+ "variance_parts": [
+  "The variance provides approximately equivalent or greater safety performance with respect to persons and property provided for by the Safety Codes Act and the NBC(AE). Lowered workspaces may be provided in service garages without separation from the main floor if the following requirements are satisfied: 1. The floor surfaces in the building are noncombustible, 2. The lowered workspace is intended for the use of employees only, 3. The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the NBC(AE), 4. The lowered workspace shall have minimum headroom clearance of 2 m, 5. Except as provided in (6), the lowered workspace shall provide not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the NBC(AE), 6. If the area of the lowered workspace is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder (constructed per Occupational Health and Safety Code) that is protected by a guard at the top that does not block any work activity, 7. The lowered workspace shall contain no fuel-burning appliances, 8. The lowered workspace shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.), 9. As per Sentence 3.2.5.16.(1) and Article 9.10.20.4. of NBC(AE), portable extinguishers shall be provided and installed in conformance with the NFC(AE), 10. All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act, and 11. Conform to the NFC(AE)."
+ ],
+ "articles_varied": [
+  "3.2.5.16",
+  "9.10.20.4"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.2.5.16": "NBC",
+  "9.10.20.4": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "The floor surfaces in the building are noncombustible,",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "The lowered workspace is intended for the use of employees only,",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the NBC(AE),",
+   "page": 2
+  },
+  {
+   "index": 4,
+   "label": "4",
+   "text": "The lowered workspace shall have minimum headroom clearance of 2 m,",
+   "page": 2
+  },
+  {
+   "index": 5,
+   "label": "5",
+   "text": "Except as provided in (6), the lowered workspace shall provide not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the NBC(AE),",
+   "page": 2
+  },
+  {
+   "index": 6,
+   "label": "6",
+   "text": "If the area of the lowered workspace is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder (constructed per Occupational Health and Safety Code) that is protected by a guard at the top that does not block any work activity,",
+   "page": 2
+  },
+  {
+   "index": 7,
+   "label": "7",
+   "text": "The lowered workspace shall contain no fuel-burning appliances,",
+   "page": 2
+  },
+  {
+   "index": 8,
+   "label": "8",
+   "text": "The lowered workspace shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.),",
+   "page": 2
+  },
+  {
+   "index": 9,
+   "label": "9",
+   "text": "As per Sentence 3.2.5.16.(1) and Article 9.10.20.4. of NBC(AE), portable extinguishers shall be provided and installed in conformance with the NFC(AE),",
+   "page": 2
+  },
+  {
+   "index": 10,
+   "label": "10",
+   "text": "All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act, and",
+   "page": 2
+  },
+  {
+   "index": 11,
+   "label": "11",
+   "text": "Conform to the NFC(AE).",
+   "page": 2
+  }
+ ],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2019/ma-standata-building-variance-18-bcv-007r1.pdf",
+ "source": {
+  "doc": "ma-standata-building-variance-18-bcv-007r1.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

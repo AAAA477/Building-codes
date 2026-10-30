@@ -1,0 +1,39 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-022",
+ "number": "19-BCV-022",
+ "numbers": [
+  "19-BCV-022"
+ ],
+ "title": "Unvented roof assembly",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "April 2022",
+ "revision": "",
+ "purpose": "This variance sets out the conditions for a building official to accept the use of an unvented roof assembly under Part 9 of the National Building Code-2019 Alberta Edition (NBC(AE)).",
+ "discussion": "Currently, the NBC(AE) allows unvented roof assemblies referring the reader to the Appendix for further guidance. Sentence 9.19.1.1.(1) suggests there are some types of roof assemblies where venting is not necessary, with the wording “Except where it can be shown to be unnecessary...” and goes on to refer the reader to Appendix Note A-9.19.1.1.(1) for specific examples of assemblies where venting is not required. The Appendix Notes indicate that “The exception provided in Article 9.19.1.1. recognizes for some specialized ceiling-roof assemblies, ventilation would not be required.” Elsewhere in Section 9.19. other roof assemblies are identified as not requiring venting. Sentence 9.19.1.4.(1) indicates “The lower portion of a mansard or gambrel style roof need not be ventilated.” alberta.ca/building-codes-and-standards.aspx",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Roof assemblies in Part 9 residential buildings may have an unvented assembly when using the design requirements from the following document: M-25608.000: ACC - Alberta Unvented Roofs | Evaluation Report Prepared by Jonathan Smegal | M.A.Sc. - RDH Building Science Laboratories Published by American Chemistry Council available free of charge, and distributed by: American Chemistry Council Mailing Address: 700 2nd Street, NE Washington DC 20002 Phone: 202-249-6617 Web: https://www.americanchemistry.com/industry-groups/spray-foam-coalition-sfc/spray-foam-coalition- canadian-resources",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Roof assemblies in Part 9 residential buildings may have an unvented assembly when using the design requirements from the following document: M-25608.000: ACC - Alberta Unvented Roofs | Evaluation Report Prepared by Jonathan Smegal | M.A.Sc. - RDH Building Science Laboratories Published by American Chemistry Council available free of charge, and distributed by: American Chemistry Council Mailing Address: 700 2nd Street, NE Washington DC 20002 Phone: 202-249-6617 Web: https://www.americanchemistry.com/industry-groups/spray-foam-coalition-sfc/spray-foam-coalition- canadian-resources"
+ ],
+ "articles_varied": [
+  "9.19.1.1",
+  "9.19.1.4"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.19.1.1": "NBC",
+  "9.19.1.4": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "Roof assemblies in Part 9 residential buildings.",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-022.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-022.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

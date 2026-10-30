@@ -10,6 +10,7 @@ import { AsideTip, CtaBar, FieldInput, JURISDICTIONS, Page, type Ctx, type SaveS
 import { Step3, Step4, FormPreview } from './step34'
 import { Understanding } from './understand'
 import { RefusalNote } from './privacy'
+import { VarianceOutcomePanel } from './variance'
 
 export type { Ctx, SaveState }
 export { FormPreview }
@@ -157,7 +158,7 @@ function PrecedentPanel({ appId, desc }: { appId: string; desc: string }) {
   return (
     <details className="prec" aria-labelledby="prec-h">
       <summary>
-        <h2 id="prec-h">Before you file: may this already be covered?</h2>
+        <h2 id="prec-h">Other earlier decisions, policies and advisories</h2>
         <span className="sm muted">
           {!res && !fail && 'Looking for earlier decisions...'}
           {fail && 'Not available just now'}
@@ -316,6 +317,7 @@ function Step2({ ctx, go }: { ctx: Ctx; go: (n: number) => void }) {
         </AsideTip>
         <AsideTip title="Not sure?"><p>Keep the suggested articles. Your registered professional can adjust the list later.</p></AsideTip>
       </>}>
+      <VarianceOutcomePanel appId={app.id} desc={clean(app.project?.description)} onApp={setApp} />
       <PrecedentPanel appId={app.id} desc={clean(app.project?.description)} />
       {topic?.message && (
         <p className="notice"><Icon name="info" />{guided ? 'We recognised this as a single-exit stair request. The matching articles are already selected for you. Remove any that do not fit.' : topic.message}</p>

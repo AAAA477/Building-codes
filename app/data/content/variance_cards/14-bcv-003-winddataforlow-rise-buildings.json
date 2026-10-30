@@ -1,0 +1,39 @@
+{
+ "id": "14-bcv-003-winddataforlow-rise-buildings",
+ "number": "14-BCV-003",
+ "numbers": [
+  "14-BCV-003"
+ ],
+ "title": "Wind data for low-rise buildings guideline",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "May 2017",
+ "revision": "",
+ "purpose": "To recognize the acceptability of the values within the “Guideline for specifying the required NAFS ratings of fenestration in low-rise buildings applicable to Part 9 of Division B of the Alberta Building Code 2014,” as prepared by Berkeley Vadocz Engineering Inc. (Issued May 11, 2016)",
+ "discussion": "Article 9.7.4.3. of the Alberta Building Code 2014 (ABC 2014) requires that performance grades for manufactured windows, doors and skylights within the scope of the North American Fenestration Standard (NAFS) standard be selected according to CSA A440S1, “Canadian Supplement to AAMA/WDMA/CSA 101/I.S.2/A440, NAFS – North American Fenestration Standard/Specification for Windows, Doors, and Skylights,” for the conditions and geographic location in which the window, door or skylight will be installed. CSA A440S1 provides a simplified method for determining the Specified Wind Load and Specified Driving Rain Wind Pressure, using exposure factors intended for high rise buildings from User’s Guide – NBC 2010: Structural Commentary I. This has resulted in excessively conservative values for housing and small buildings, requiring much higher ratings for the fenestration products than is necessary to meet the actual environmental loads. The design values listed in the guideline recognized in this STANDATA were prepared by a registered engineering professional in accordance with more detailed methods provided in User’s Guide – NBC 2010: Structural Commentary I, allowing for more appropriate values can be used for low-rise Part 9 buildings. This prepared set of values makes additional engineering services unnecessary on a case-by-case basis.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. The values for the Specified Driving Rain Wind Pressure and Specified Wind Load are permitted to be determined using the values from: Guideline for specifying the required NAFS ratings of fenestration in low-rise buildings applicable to Part 9 of Division B of the Alberta Building Code 2014 (Date of Issue: May 11, 2016) prepared by: Berkeley Vadocz Engineering Inc. published by: Canadian Home Builders’ Association – Alberta distributed by and available for purchase: Canadian Home Builders' Association – Alberta 328, 9707-110 St. Edmonton, AB T5K 2L9 Toll-Free Phone Number: 1-800-661-3348 Phone Number: 780-424-5890 Fax Number: 780-426-0128 E-mail: info@chbaalberta.ca Web: www.chbaalberta.ca This guideline is acceptable in place of project-specific engineering on a case-by-case basis, provided the criteria outlined in the “scope and limitations” section of the guideline are met for the building project in question.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. The values for the Specified Driving Rain Wind Pressure and Specified Wind Load are permitted to be determined using the values from: Guideline for specifying the required NAFS ratings of fenestration in low-rise buildings applicable to Part 9 of Division B of the Alberta Building Code 2014 (Date of Issue: May 11, 2016) prepared by: Berkeley Vadocz Engineering Inc. published by: Canadian Home Builders’ Association – Alberta distributed by and available for purchase: Canadian Home Builders' Association – Alberta 328, 9707-110 St. Edmonton, AB T5K 2L9 Toll-Free Phone Number: 1-800-661-3348 Phone Number: 780-424-5890 Fax Number: 780-426-0128 E-mail: info@chbaalberta.ca Web: www.chbaalberta.ca This guideline is acceptable in place of project-specific engineering on a case-by-case basis, provided the criteria outlined in the “scope and limitations” section of the guideline are met for the building project in question."
+ ],
+ "articles_varied": [
+  "9.7.4.3",
+  "9.7.4.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.7.4.3": "NBC",
+  "9.7.4.2": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/14-bcv-003-winddataforlow-rise-buildings.pdf",
+ "source": {
+  "doc": "14-bcv-003-winddataforlow-rise-buildings.pdf",
+  "page": 1
+ },
+ "current": false,
+ "superseded_by": "14-bcv-003r1-winddataforlow-rise-buildingsbild",
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

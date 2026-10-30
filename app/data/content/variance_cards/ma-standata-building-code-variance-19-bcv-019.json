@@ -1,0 +1,64 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-019",
+ "number": "19-BCV-019",
+ "numbers": [
+  "19-BCV-019"
+ ],
+ "title": "To hvac equipment",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "May 2021",
+ "revision": "",
+ "purpose": "This variance covers the use of steel rung-type ladders or “ship’s ladders”/“fixed industrial stairs” as an alternative for interior stairways for accessing rooftop HVAC equipment.",
+ "discussion": "When access through a roof assembly is required by the National Building Code-2019 Alberta Edition (NBC(AE)) to facilitate the servicing of HVAC equipment, Article 3.6.4.7. specifies the access be provided by an interior stairway. Where ramps and stairways form part of an access to exit, they must conform to the dimensional, guard, and handrail requirements that apply to exits. However, if the ramps and stairways are only intended for occasional use for servicing equipment and machinery, Sentence 3.3.1.14.(2) specifies they do not need to conform to those requirements.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Interior roof access for the servicing of HVAC equipment as per Sentence 3.6.4.7.(1) is permitted to be provided alone or in combination by the following methods: 1. A fixed staircase as shown in, or similar to the illustrated example in Figure 1 in Appendix A of this Standata. Maximum vertical height of 3.7 m between landings. 2. A rung-type fixed ladder from a landing to a roof hatch meeting the requirements of the Occupational Health and Safety Code Section 130, for fixed ladders is permitted. Maximum height of the ladder not to exceed 3 m between landing platforms. (see https://www.qp.alberta.ca/documents/OHS/OHSCode.pdf ) For the purpose of this variance a ship’s stair may be considered as a stairway that is equipped with treads, stair rails, landings c/w guards, open risers, and has a slope that is not more than 70 degrees from the horizontal. A landing shall be provided at the top and bottom of each flight. Notes: Article 3.2.5.3. is deemed to be satisfied by this variance. “Ship’s ladder” and “Ship’s stairs” are interchangeable terms. Ship's “ladders” and rung-type vertical ladders are permanent, load-carrying structures that require engineering. Occupational Health and Safety regulations are applicable. Ship’s ladders and rung-type ladders may be used in combination with each other where divided by landings. Design drawings and specifications should show all information necessary for the fabrication and installation, certified by a professional engineer as being fabricated and installed in accordance with good engineering practice.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Interior roof access for the servicing of HVAC equipment as per Sentence 3.6.4.7.(1) is permitted to be provided alone or in combination by the following methods: 1. A fixed staircase as shown in, or similar to the illustrated example in Figure 1 in Appendix A of this Standata. Maximum vertical height of 3.7 m between landings. 2. A rung-type fixed ladder from a landing to a roof hatch meeting the requirements of the Occupational Health and Safety Code Section 130, for fixed ladders is permitted. Maximum height of the ladder not to exceed 3 m between landing platforms. (see https://www.qp.alberta.ca/documents/OHS/OHSCode.pdf ) For the purpose of this variance a ship’s stair may be considered as a stairway that is equipped with treads, stair rails, landings c/w guards, open risers, and has a slope that is not more than 70 degrees from the horizontal. A landing shall be provided at the top and bottom of each flight. Notes: Article 3.2.5.3. is deemed to be satisfied by this variance. “Ship’s ladder” and “Ship’s stairs” are interchangeable terms. Ship's “ladders” and rung-type vertical ladders are permanent, load-carrying structures that require engineering. Occupational Health and Safety regulations are applicable. Ship’s ladders and rung-type ladders may be used in combination with each other where divided by landings. Design drawings and specifications should show all information necessary for the fabrication and installation, certified by a professional engineer as being fabricated and installed in accordance with good engineering practice."
+ ],
+ "articles_varied": [
+  "3.6.4.7",
+  "3.3.1.14",
+  "3.3.4.7",
+  "3.4.3.2",
+  "3.4.3.4",
+  "3.4.6.1",
+  "3.4.6.9",
+  "3.2.5.3"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.6.4.7": "NBC",
+  "3.3.1.14": "NBC",
+  "3.3.4.7": "NBC",
+  "3.4.3.2": "NBC",
+  "3.4.3.4": "NBC",
+  "3.4.6.1": "NBC",
+  "3.4.6.9": "NBC",
+  "3.2.5.3": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "A fixed staircase as shown in, or similar to the illustrated example in Figure 1 in Appendix A of this Standata. Maximum vertical height of 3.7 m between landings.",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "A rung-type fixed ladder from a landing to a roof hatch meeting the requirements of the Occupational Health and Safety Code Section 130, for fixed ladders is permitted. Maximum height of the ladder not to exceed 3 m between landing platforms. (see https://www.qp.alberta.ca/documents/OHS/OHSCode.pdf ) For the purpose of this variance a ship’s stair may be considered as a stairway that is equipped with treads, stair rails, landings c/w guards, open risers, and has a slope that is not more than 70 degrees from the horizontal. A landing shall be provided at the top and bottom of each flight. Notes: Article 3.2.5.3. is deemed to be satisfied by this variance. “Ship’s ladder” and “Ship’s stairs” are interchangeable terms. Ship's “ladders” and rung-type vertical ladders are permanent, load-carrying structures that require engineering. Occupational Health and Safety regulations are applicable. Ship’s ladders and rung-type ladders may be used in combination with each other where divided by landings. Design drawings and specifications should show all information necessary for the fabrication and installation, certified by a professional engineer as being fabricated and installed in accordance with good engineering practice.",
+   "page": 2
+  }
+ ],
+ "applies_to": "This variance applies specifically for periodic or occasional access to service roof-top HVAC equipment.",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-019.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-019.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

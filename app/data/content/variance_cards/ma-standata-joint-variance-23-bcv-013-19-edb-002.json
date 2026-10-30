@@ -1,0 +1,65 @@
+{
+ "id": "ma-standata-joint-variance-23-bcv-013-19-edb-002",
+ "number": "23-BCV-013/19-EDB-002",
+ "numbers": [
+  "23-BCV-013",
+  "19-EDB-002"
+ ],
+ "title": "Elevator and passenger-elevating devices",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "February 2026",
+ "revision": "",
+ "purpose": "To clarify situations where a passenger elevator is used instead of a platform lift or limited-use/limited-application elevator to meet barrier-free requirements.",
+ "discussion": "Platform lifts and stair lifts conform to CSA B355, “Platform lifts and stair lifts for barrier-free access,” applying to specific intended use and application. In accordance with CSA B355, an enclosed lift is restricted to a maximum vertical travel of 7 000 mm. Limited-use/limited-application elevators (LULA) are limited to a travel of 7 620 mm. A LULA combines features of an elevator and a lift. A LULA provides another option in place of a lift where the additional vertical travel is needed. A LULA is smaller than a traditional elevator and would not meet the size requirements to accommodate a patient stretcher, hence this provision does not apply to a LULA. Elevators are designed and constructed to ASME A17.1/CSA B44, “Safety Code for Elevators and Escalators,” as referenced in the Elevating Devices Codes Regulation made pursuant to the Safety Codes Act. Elevators are not constructed to the specifications detailed in CSA B355. In some instances where elevators were installed to serve as lifts, safety codes officers have questioned why the elevator did not meet the size requirements to accommodate a stretcher in accordance with the National Building Code - 2023 Alberta Edition (NBC(AE)).",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Where a passenger elevator is used instead of a lift conforming to CSA B355, or instead of a LULA the passenger elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: Building codes and standards | Alberta.ca Elevating devices codes and standards | Alberta.ca • the elevator is restricted to a vertical travel of 7 620 mm or less, and • the elevator car dimensions are not less than the minimum as set out in Sentence 3.8.3.7.(2) of the NBC(AE). 2. ASME A17.1/CSA B44 requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO). Since ASME A17.1/CSA B44 does not apply to CSA B355, FEO elements are not required for platform lifts or stair lifts required for barrier-free access; therefore, a passenger elevator installed instead of a platform lift for barrier-free access would not require FEO elements. 3. FEO elements are not required for LULA elevators required for barrier-free access; therefore, a passenger elevator installed instead of a LULA elevator for barrier-free access would not require FEO elements. 4. Permit applicants using this variance are to provide a copy of the following documentation to the Authority Having Jurisdiction: • Building Permit – Located on the Safety Codes Council website (linked here). • Elevating Devices Permit – Located on the Alberta Elevating Devices and Amusement Rides Safety Association website (linked here) Note: Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Where a passenger elevator is used instead of a lift conforming to CSA B355, or instead of a LULA the passenger elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: Building codes and standards | Alberta.ca Elevating devices codes and standards | Alberta.ca • the elevator is restricted to a vertical travel of 7 620 mm or less, and • the elevator car dimensions are not less than the minimum as set out in Sentence 3.8.3.7.(2) of the NBC(AE). 2. ASME A17.1/CSA B44 requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO). Since ASME A17.1/CSA B44 does not apply to CSA B355, FEO elements are not required for platform lifts or stair lifts required for barrier-free access; therefore, a passenger elevator installed instead of a platform lift for barrier-free access would not require FEO elements. 3. FEO elements are not required for LULA elevators required for barrier-free access; therefore, a passenger elevator installed instead of a LULA elevator for barrier-free access would not require FEO elements. 4. Permit applicants using this variance are to provide a copy of the following documentation to the Authority Having Jurisdiction: • Building Permit – Located on the Safety Codes Council website (linked here). • Elevating Devices Permit – Located on the Alberta Elevating Devices and Amusement Rides Safety Association website (linked here) Note: Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance."
+ ],
+ "articles_varied": [
+  "3.5.4.1",
+  "3.8.3.7"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.5.4.1": "NBC",
+  "3.8.3.7": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "Where a passenger elevator is used instead of a lift conforming to CSA B355, or instead of a LULA the passenger elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: Building codes and standards | Alberta.ca Elevating devices codes and standards | Alberta.ca • the elevator is restricted to a vertical travel of 7 620 mm or less, and • the elevator car dimensions are not less than the minimum as set out in Sentence 3.8.3.7.(2) of the NBC(AE).",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "ASME A17.1/CSA B44 requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO). Since ASME A17.1/CSA B44 does not apply to CSA B355, FEO elements are not required for platform lifts or stair lifts required for barrier-free access; therefore, a passenger elevator installed instead of a platform lift for barrier-free access would not require FEO elements.",
+   "page": 3
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "FEO elements are not required for LULA elevators required for barrier-free access; therefore, a passenger elevator installed instead of a LULA elevator for barrier-free access would not require FEO elements.",
+   "page": 3
+  },
+  {
+   "index": 4,
+   "label": "4",
+   "text": "Permit applicants using this variance are to provide a copy of the following documentation to the Authority Having Jurisdiction: • Building Permit – Located on the Safety Codes Council website (linked here). • Elevating Devices Permit – Located on the Alberta Elevating Devices and Amusement Rides Safety Association website (linked here) Note: Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance.",
+   "page": 3
+  }
+ ],
+ "applies_to": "This variance only applies to buildings where a passenger elevator is installed, instead of a lift or a LULA in situations where a lift or a LULA would comply with the accessibility requirements of the NBC(AE).",
+ "pdf": "files/standata/variances_2023/ma-standata-joint-variance-23-bcv-013-19-edb-002.pdf",
+ "source": {
+  "doc": "ma-standata-joint-variance-23-bcv-013-19-edb-002.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

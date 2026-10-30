@@ -1,0 +1,39 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-017-2025-09",
+ "number": "23-BCV-017",
+ "numbers": [
+  "23-BCV-017"
+ ],
+ "title": "Unvented roof assembly",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "September 2025",
+ "revision": "",
+ "purpose": "This variance sets out the conditions for a safety codes officer (SCO) to accept the use of an unvented roof assembly under Part 9 of the National Building Code – 2023 Alberta Edition (NBC(AE)).",
+ "discussion": "Currently, the NBC(AE) allows unvented roof assemblies referring the reader to the Note for further guidance. Sentence 9.19.1.1.(1) suggests there are some types of roof assemblies where venting is not necessary, with the wording “Except where it can be shown to be unnecessary...” and goes on to refer the reader to Note A- 9.19.1.1.(1) for specific examples of assemblies where venting is not required. The Note indicates that “The exception provided in Article 9.19.1.1. recognizes for some specialized ceiling-roof assemblies, ventilation would not be required.” Elsewhere in Section 9.19. other roof assemblies are identified as not requiring venting. Sentence 9.19.1.4.(1) indicates “The lower portion of a mansard or gambrel style roof need not be ventilated.”",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Roof assemblies in Part 9 residential buildings may have an unvented assembly when using the design requirements from the following documents which are to be provided with the permit application: 32139.000: Alberta Unvented Roofs | Evaluation Report Prepared by Jonathan Smegal | M.A.Sc. - RDH Building Science Laboratories Published by Spray Foam Coalition available free of charge, and distributed by: Spray Foam Coalition Mailing Address: 700 2nd Street, NE Washington DC 20002 Web: https://sprayfoamcoalition.org/wp-content/uploads/32139_000-2025-09-10-RDH-Alberta-Unvented- Roofs-Report.pdf",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Roof assemblies in Part 9 residential buildings may have an unvented assembly when using the design requirements from the following documents which are to be provided with the permit application: 32139.000: Alberta Unvented Roofs | Evaluation Report Prepared by Jonathan Smegal | M.A.Sc. - RDH Building Science Laboratories Published by Spray Foam Coalition available free of charge, and distributed by: Spray Foam Coalition Mailing Address: 700 2nd Street, NE Washington DC 20002 Web: https://sprayfoamcoalition.org/wp-content/uploads/32139_000-2025-09-10-RDH-Alberta-Unvented- Roofs-Report.pdf"
+ ],
+ "articles_varied": [
+  "9.19.1.1",
+  "9.19.1.4"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.19.1.1": "NBC",
+  "9.19.1.4": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "Roof assemblies in Part 9 residential buildings.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-017-2025-09.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-017-2025-09.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

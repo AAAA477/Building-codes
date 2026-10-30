@@ -1,0 +1,108 @@
+{
+ "id": "14-bcv-014-loweredworkspacesinservicegarages",
+ "number": "14-BCV-014",
+ "numbers": [
+  "14-BCV-014"
+ ],
+ "title": "Lowered workspaces in service garages",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "December 2017",
+ "revision": "",
+ "purpose": "The purpose of this variance is to recognize acceptable alternatives for lowered workspaces in service garages under the Alberta Building Code 2014 (ABC 2014).",
+ "discussion": "This variance applies to service garages that are performing oil change and/or lubricating work only and have spaces that are below and open to the main floor level. These lowered workspaces provide easier access to the underside of motor vehicles for changing vehicle lubricating oil. Particular concerns with these lowered workspaces are the reduced headroom and constricted means of access to an exit. Employees working in these spaces are subject to carbon monoxide, carbon dioxide and flammable and toxic vapours from motor vehicles entering and exiting the workspace. With the appropriate conditions in place, the risks to health and safety in these lowered workspaces can be acceptably mitigated and removed.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. Lowered work spaces may be provided in service garages without separation from the main floor provided the following requirements are satisfied: 1. The floor surfaces in the building are noncombustible, 2. The lowered workspace is intended for the use of employees only, 3. The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the ABC 2014, 4. The lowered workspace shall have minimum headroom clearance of 2 m, 5. Except as provided in (6), the lowered work space shall be provided with not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the ABC 2014, 6. If the area of the lowered work space is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder that is protected by a guard at the top that does not block any work activity. 7. The lowered work space shall contain no fuel-burning appliances, 8. The lowered work space shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.), 9. As per Articles 3.2.5.16. and 9.10.20.4. of ABC 2014, portable extinguishers shall be provided and installed in conformance with the Alberta Fire Code 2014, and 10. All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act. In addition, there are requirements in Division B of the Alberta Fire Code 2014 that relate to the storage of flammable and combustible liquids: 1. Used lubricating oil storage tanks located inside buildings and in a lowered work space are permitted to be outside of a designated storage room provided they are installed in conformance with Sentence 4.3.13.1.(3) and Article 4.3.13.9. 2. Storage tanks shall be built and installed in conformance with the standards for aboveground storage tanks for flammable liquids and combustible liquids in Article 4.3.1.2. 3. Storage tanks meeting ULC standards for double-walled, protected or contained tank assemblies as permitted in Article 4.3.1.2. are considered an acceptable alternative to providing required spill control measures. 4. In conformance with Article 4.2.8.2., the maximum capacity for used oil storage tanks that are located in a lowered work space shall be not more than 5 000 L.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. Lowered work spaces may be provided in service garages without separation from the main floor provided the following requirements are satisfied: 1. The floor surfaces in the building are noncombustible, 2. The lowered workspace is intended for the use of employees only, 3. The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the ABC 2014, 4. The lowered workspace shall have minimum headroom clearance of 2 m, 5. Except as provided in (6), the lowered work space shall be provided with not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the ABC 2014, 6. If the area of the lowered work space is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder that is protected by a guard at the top that does not block any work activity. 7. The lowered work space shall contain no fuel-burning appliances, 8. The lowered work space shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.), 9. As per Articles 3.2.5.16. and 9.10.20.4. of ABC 2014, portable extinguishers shall be provided and installed in conformance with the Alberta Fire Code 2014, and 10. All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act. In addition, there are requirements in Division B of the Alberta Fire Code 2014 that relate to the storage of flammable and combustible liquids: 1. Used lubricating oil storage tanks located inside buildings and in a lowered work space are permitted to be outside of a designated storage room provided they are installed in conformance with Sentence 4.3.13.1.(3) and Article 4.3.13.9. 2. Storage tanks shall be built and installed in conformance with the standards for aboveground storage tanks for flammable liquids and combustible liquids in Article 4.3.1.2. 3. Storage tanks meeting ULC standards for double-walled, protected or contained tank assemblies as permitted in Article 4.3.1.2. are considered an acceptable alternative to providing required spill control measures. 4. In conformance with Article 4.2.8.2., the maximum capacity for used oil storage tanks that are located in a lowered work space shall be not more than 5 000 L."
+ ],
+ "articles_varied": [
+  "3.2.5.16",
+  "9.10.20.4",
+  "4.3.13.1",
+  "4.3.13.9",
+  "4.3.1.2",
+  "4.2.8.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.2.5.16": "NBC",
+  "9.10.20.4": "NBC",
+  "4.3.13.1": "NFC",
+  "4.3.13.9": "NFC",
+  "4.3.1.2": "NBC",
+  "4.2.8.2": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "The floor surfaces in the building are noncombustible,",
+   "page": 1
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "The lowered workspace is intended for the use of employees only,",
+   "page": 1
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "The lowered workspace shall be ventilated in accordance with the requirements of Part 6 of the ABC 2014,",
+   "page": 1
+  },
+  {
+   "index": 4,
+   "label": "4",
+   "text": "The lowered workspace shall have minimum headroom clearance of 2 m,",
+   "page": 1
+  },
+  {
+   "index": 5,
+   "label": "5",
+   "text": "Except as provided in (6), the lowered work space shall be provided with not less than two accesses to exit stairs located remotely from each other and constructed in conformance with Section 3.4. of the ABC 2014,",
+   "page": 1
+  },
+  {
+   "index": 6,
+   "label": "6",
+   "text": "If the area of the lowered work space is not more than 150 m2 and the travel distance to the nearest exit is not more than 15 m, one of the exit stairs required by (5) may be substituted with an access ladder that is protected by a guard at the top that does not block any work activity.",
+   "page": 1
+  },
+  {
+   "index": 7,
+   "label": "7",
+   "text": "The lowered work space shall contain no fuel-burning appliances,",
+   "page": 1
+  },
+  {
+   "index": 8,
+   "label": "8",
+   "text": "The lowered work space shall have no open flame or spark-producing devices, appliances or operations (e.g., welding, grinding, cutting, blowtorch, etc.),",
+   "page": 1
+  },
+  {
+   "index": 9,
+   "label": "9",
+   "text": "As per Articles 3.2.5.16. and 9.10.20.4. of ABC 2014, portable extinguishers shall be provided and installed in conformance with the Alberta Fire Code 2014, and",
+   "page": 1
+  },
+  {
+   "index": 10,
+   "label": "10",
+   "text": "All electrical installations in the lowered workspace shall conform to the electrical regulations made pursuant to the Safety Codes Act. In addition, there are requirements in Division B of the Alberta Fire Code 2014 that relate to the storage of flammable and combustible liquids: 1. Used lubricating oil storage tanks located inside buildings and in a lowered work space are permitted to be outside of a designated storage room provided they are installed in conformance with Sentence 4.3.13.1.(3) and Article 4.3.13.9. 2. Storage tanks shall be built and installed in conformance with the standards for aboveground storage tanks for flammable liquids and combustible liquids in Article 4.3.1.2. 3. Storage tanks meeting ULC standards for double-walled, protected or contained tank assemblies as permitted in Article 4.3.1.2. are considered an acceptable alternative to providing required spill control measures. 4. In conformance with Article 4.2.8.2., the maximum capacity for used oil storage tanks that are located in a lowered work space shall be not more than 5 000 L.",
+   "page": 2
+  }
+ ],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/14-bcv-014-loweredworkspacesinservicegarages.pdf",
+ "source": {
+  "doc": "14-bcv-014-loweredworkspacesinservicegarages.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

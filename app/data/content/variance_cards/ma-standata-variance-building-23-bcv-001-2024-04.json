@@ -1,0 +1,50 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-001-2024-04",
+ "number": "23-BCV-001",
+ "numbers": [
+  "23-BCV-001"
+ ],
+ "title": "Window opening control devices (WOCD)",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "April 2024",
+ "revision": "",
+ "purpose": "To provide an alternative solution in meeting the requirements of Sentences 9.8.8.1 (4) and (5) Guards on windows of residential occupancy in the National Building Code – 2023 Alberta Edition (NBC (AE)).",
+ "discussion": "The National Building Code - 2023 Alberta Edition introduced a new requirement in Clause 9.8.8.1 (4) (b) and Sentence 9.8.8.1.(5) by requiring a mechanism that can only be released with the use of tools or special knowledge to control the free swinging or sliding operation of all openable windows that are less than 900mm from the finished floor and more than 1800mm from the floor or ground level on the other side of the window. The intention of this requirement is to reduce the probability of young children opening a window greater than 100mm and falling out of that window opening. The Appendix Note A-9.8.8.1 (4) refers to ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” as a way of providing the protection required in 9.8.8.1 (4) (b) and (5). Also, Sentence 9.9.10.1 (1) requires that each bedroom must have at least one outside window or exterior door openable from the inside without the use of keys, tools, or special knowledge. However, there is no reference under Sentence 9.9.10.1.(1) to ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” as a means of providing the required window (openable with a minimum dimension of 380mm, and a minimum unobstructed area of .35m2). This variance allows for the installation of a mechanism that complies with ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” to be installed.",
+ "variance_text": "A WOCD mechanism that complies with ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” as a means of complying with the requirements of 9.8.8.1 (4) and 9.9.10.1 (1) with the following condition. 1. WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units.",
+ "variance_parts": [
+  "A WOCD mechanism that complies with ASTM F2090 “Standard Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms” as a means of complying with the requirements of 9.8.8.1 (4) and 9.9.10.1 (1) with the following condition. 1. WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units."
+ ],
+ "articles_varied": [
+  "9.8.8.1",
+  "9.8.8.3",
+  "9.9.10.1",
+  "9.5.1.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.8.8.1": "NBC",
+  "9.8.8.3": "NBC",
+  "9.9.10.1": "NBC",
+  "9.5.1.2": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units.",
+   "page": 3
+  }
+ ],
+ "applies_to": "This variance applies to buildings of residential occupancy covered by Part 9 of the National Building Code – 2023 Alberta Edition.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-001-2024-04.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

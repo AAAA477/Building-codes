@@ -1,0 +1,64 @@
+{
+ "id": "ma-standata-19-bcv-010-oil-and-gas-processing-facilities",
+ "number": "19-BCV-010",
+ "numbers": [
+  "19-BCV-010"
+ ],
+ "title": "Oil and gas processing facilities",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "December 2019",
+ "revision": "",
+ "purpose": "The purpose of this variance is to allow small oil and gas high hazard industrial occupancies to be classified as Group F, Division 2 as an alternative solution under the National Building Code- 2019 Alberta Edition (NBC(AE)).",
+ "discussion": "Oil and gas processing buildings are often classified as Group F, Division 1, high hazard industrial occupancies. In this environment, safe work procedures and worker safety training is an important complement to the building’s fire protection and suppression systems. Oil and gas companies have developed guides that describe design and operation practices that support safe working conditions at small, portable oil and gas production facilities, often classified as high hazard industrial occupancies. The objective of these guides is to limit the probability that a person in or adjacent to a facility may be exposed to an unacceptable level of risk of injury or illness. “Safety Guidelines for Small, Portable Oil and Gas Production Facilities: Training, Operating and Design Recommendations” is produced by the Canadian Association of Petroleum Producers (CAPP). The guide is intended to supplement other applicable standards and regulatory codes including the NBC(AE). It recommends solutions for safe design, operation and maintenance practices for field facilities including worker training and competency. There are three main areas of focus: process safety, public safety and occupational health and safety. Owners should assess their own requirements to establish design, operating, maintenance, and work. The implementation of this CAPP guide in addition to other safety conditions described in this variance allow for small oil and gas processing buildings to be classified as Group F, Division 2 occupancies.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Oil and gas processing buildings may be classified as Group F, Division 2 occupancy provided: 1. The building does not exceed 150 m2 in building area. 2. A risk assessment has been prepared by a registered engineering professional, licensed to practice in the province of Alberta, which includes a. The determination of adequate rates of gravity and/or mechanical ventilation based on i. requirements for electrical area classification and recommendations given in API RP500, “Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities as Class I, Division 1 and Division 2” for normal or continuous operation, ii. a minimum of 6 air changes per hour, or iii. higher ventilation rates where sour gas may be present. b. The installation of combustible and/or toxic gas detection, c. The installation of emergency shut down stations with remote activators, d. The installation of listed fire detection equipment (which may include flame detectors in lieu of smoke or heat detectors) to automatically shut down and depressurize the facility, and e. The provision of a supply of water for external fire fighting for buildings in remote areas. Note: The recommendations given by the Registered Engineering Professional are to be listed in the building permit application submission. 3. The appropriate training and procedure measures outlined in the CAPP Guidelines are in place. 4. The following measures, as described by the following and the NBC(AE), are incorporated: a. At least two exit doors are installed, equipped with panic hardware, and located remotely from each other where the building exceeds 7.4 m2 in building area so that the travel distance to at least one exit from any point in the floor area does not exceed 10 m. b. Buildings that are related functionally or through process may be considered as one building for the purposes of spatial separation between buildings. c. Spatial separation calculations for limiting distances to property lines are calculated as per i. Subsection 3.2.3. for Part 3 buildings, or ii. Subsection 9.10.14. for Part 9 buildings. d. Portable fire extinguishers are provided in accordance with the National Fire Code- 2019 Alberta Edition.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Oil and gas processing buildings may be classified as Group F, Division 2 occupancy provided: 1. The building does not exceed 150 m2 in building area. 2. A risk assessment has been prepared by a registered engineering professional, licensed to practice in the province of Alberta, which includes a. The determination of adequate rates of gravity and/or mechanical ventilation based on i. requirements for electrical area classification and recommendations given in API RP500, “Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities as Class I, Division 1 and Division 2” for normal or continuous operation, ii. a minimum of 6 air changes per hour, or iii. higher ventilation rates where sour gas may be present. b. The installation of combustible and/or toxic gas detection, c. The installation of emergency shut down stations with remote activators, d. The installation of listed fire detection equipment (which may include flame detectors in lieu of smoke or heat detectors) to automatically shut down and depressurize the facility, and e. The provision of a supply of water for external fire fighting for buildings in remote areas. Note: The recommendations given by the Registered Engineering Professional are to be listed in the building permit application submission. 3. The appropriate training and procedure measures outlined in the CAPP Guidelines are in place. 4. The following measures, as described by the following and the NBC(AE), are incorporated: a. At least two exit doors are installed, equipped with panic hardware, and located remotely from each other where the building exceeds 7.4 m2 in building area so that the travel distance to at least one exit from any point in the floor area does not exceed 10 m. b. Buildings that are related functionally or through process may be considered as one building for the purposes of spatial separation between buildings. c. Spatial separation calculations for limiting distances to property lines are calculated as per i. Subsection 3.2.3. for Part 3 buildings, or ii. Subsection 9.10.14. for Part 9 buildings. d. Portable fire extinguishers are provided in accordance with the National Fire Code- 2019 Alberta Edition."
+ ],
+ "articles_varied": [
+  "3.3.1.5",
+  "3.3.1.3"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.3.1.5": "NBC",
+  "3.3.1.3": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "The building does not exceed 150 m2 in building area.",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "A risk assessment has been prepared by a registered engineering professional, licensed to practice in the province of Alberta, which includes a. The determination of adequate rates of gravity and/or mechanical ventilation based on i. requirements for electrical area classification and recommendations given in API RP500, “Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities as Class I, Division 1 and Division 2” for normal or continuous operation, ii. a minimum of 6 air changes per hour, or iii. higher ventilation rates where sour gas may be present. b. The installation of combustible and/or toxic gas detection, c. The installation of emergency shut down stations with remote activators, d. The installation of listed fire detection equipment (which may include flame detectors in lieu of smoke or heat detectors) to automatically shut down and depressurize the facility, and e. The provision of a supply of water for external fire fighting for buildings in remote areas. Note: The recommendations given by the Registered Engineering Professional are to be listed in the building permit application submission.",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "The appropriate training and procedure measures outlined in the CAPP Guidelines are in place.",
+   "page": 3
+  },
+  {
+   "index": 4,
+   "label": "4",
+   "text": "The following measures, as described by the following and the NBC(AE), are incorporated: a. At least two exit doors are installed, equipped with panic hardware, and located remotely from each other where the building exceeds 7.4 m2 in building area so that the travel distance to at least one exit from any point in the floor area does not exceed 10 m. b. Buildings that are related functionally or through process may be considered as one building for the purposes of spatial separation between buildings. c. Spatial separation calculations for limiting distances to property lines are calculated as per i. Subsection 3.2.3. for Part 3 buildings, or ii. Subsection 9.10.14. for Part 9 buildings. d. Portable fire extinguishers are provided in accordance with the National Fire Code- 2019 Alberta Edition.",
+   "page": 3
+  }
+ ],
+ "applies_to": "This STANDATA applies to oil or gas processing buildings that are 1. considered as low human occupancy buildings, 2. located outside of urban areas, and 3. used to house oil and gas processing equipment, such as a. compressor stations, b. heater packages, c. pump packages, d. separator packages, e. treater packages, f. dehydrator units, g. field equipment, h. L.P.G. handling facilities, i. refrigeration process units, j. oil batteries, and k. similar types of buildings. This STANDATA does not apply to residential buildings, office buildings, warehousing and other buildings not specifically used for oil or gas processing even though these buildings may be located on the same site.",
+ "pdf": "files/standata/variances_2019/ma-standata-19-bcv-010-oil-and-gas-processing-facilities.pdf",
+ "source": {
+  "doc": "ma-standata-19-bcv-010-oil-and-gas-processing-facilities.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

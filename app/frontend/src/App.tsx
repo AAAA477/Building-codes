@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useState } from 'react'
 import { api, onOffline } from './api'
 import { MOCK_NOTE } from './fixtures/mock'
-import type { AppData, MapGraph } from './types'
+import type { AppData, ImportReport, MapGraph } from './types'
+import { ImportBox, ImportReportBanner } from './importdraft'
 import { Applicant, useAutosave, type Ctx, type SaveState } from './applicant'
 import { Reviewer } from './reviewer'
 import { Icon, prettySample } from './ui'
@@ -74,6 +75,15 @@ export default function App() {
     } catch (e) { setErr(String(e instanceof Error ? e.message : e)) }
     setBusy(false)
   }
+  const [imp, setImp] = useState<{ id: string; report: ImportReport } | null>(null)
+  const importDraft = async (input: { file?: File; text?: string }) => {
+    setBusy(true); setErr('')
+    try {
+      const r = await api.importDraft(input)
+      remember(r.id); setApp(r.application); setGraph(null); setImp({ id: r.id, report: r.report }); go(`#/a/${r.id}/1`)
+    } catch (e) { setErr(String(e instanceof Error ? e.message : e)) }
+    setBusy(false)
+  }
   const reload = useCallback(async () => { if (!app) return null; const a = await api.getApplication(app.id); setApp(a); return a }, [app?.id]) // eslint-disable-line react-hooks/exhaustive-deps
   const ctx: Ctx | null = app ? { app, setApp, save, flush, saveNow, reload } : null
 
@@ -106,9 +116,10 @@ export default function App() {
       <main id="main" tabIndex={-1}>
         {err && <div className="errata" role="alert"><strong>Error</strong><span>{err}</span><button type="button" className="linkbtn" onClick={() => setErr('')}>Dismiss</button></div>}
         {busy && <div className="binder norail"><div className="board cover hue-ultra"><div className="stripline" /><div className="leaf"><p className="muted loadline"><span className="spin" aria-hidden="true" />Opening your application...</p></div></div></div>}
-        {!busy && route.kind === 'home' && <Home samples={samples} onStart={start} resumeId={recall()} />}
+        {!busy && route.kind === 'home' && <Home samples={samples} onStart={start} onImport={importDraft} busy={busy} resumeId={recall()} />}
         {!busy && route.kind === 'review' && !app && <ReviewerHome samples={samples} onOpen={async n => { setBusy(true); try { const a = await api.loadSample(n); remember(a.id); setApp(a); go(`#/review/${a.id}`) } catch (e) { setErr(String(e)) } setBusy(false) }} />}
         {!busy && route.kind === 'review' && app && <Reviewer app={app} graph={graph} />}
+        {!busy && route.kind === 'app' && imp && app?.id === imp.id && <ImportReportBanner report={imp.report} onClose={() => setImp(null)} />}
         {!busy && route.kind === 'app' && ctx && app?.id === route.id && (
           <Applicant ctx={ctx} step={route.step} go={n => go(`#/a/${route.id}/${n}`)} graph={graph} loadGraph={loadGraph} />
         )}
@@ -128,7 +139,7 @@ const INDEX: [string, string, string, string][] = [
   ['4', 'Submit', 'ultra', 'Read the filled form, download it, confirm the declarations yourself and prepare a package.'],
 ]
 
-function Home({ samples, onStart, resumeId }: { samples: any[]; onStart: (sample?: string) => void; resumeId: string | null }) {
+function Home({ samples, onStart, onImport, busy, resumeId }: { samples: any[]; onStart: (sample?: string) => void; onImport: (input: { file?: File; text?: string }) => void; busy: boolean; resumeId: string | null }) {
   return (
     <div className="binder norail">
       <div className="board cover hue-ultra">
@@ -141,6 +152,7 @@ function Home({ samples, onStart, resumeId }: { samples: any[]; onStart: (sample
             <button type="button" className="btn primary lg" onClick={() => onStart()}>Start a new application<Icon name="arrow" /></button>
             {resumeId && <a className="btn lg" href={`#/a/${resumeId}/1`}>Continue my last application</a>}
           </div>
+          <ImportBox onImport={onImport} busy={busy} />
           <section aria-labelledby="how-h" className="how">
             <h2 id="how-h">Contents</h2>
             <ol className="contents">

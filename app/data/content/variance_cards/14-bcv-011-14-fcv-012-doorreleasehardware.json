@@ -1,0 +1,59 @@
+{
+ "id": "14-bcv-011-14-fcv-012-doorreleasehardware",
+ "number": "14-BCV-011/14-FCV-012",
+ "numbers": [
+  "14-BCV-011",
+  "14-FCV-012"
+ ],
+ "title": "Door release hardware",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "October 2017",
+ "revision": "",
+ "purpose": "To provide an alternative solution to limit the probability of residents in treatment and care occupancies with safety restrictions exiting a building or supervised area and exposing themselves or others to undue risks.",
+ "discussion": "Residents in treatment and care occupancies, with memory related condition or disorders may be subject to harm by wandering away from supervised areas without staff being aware that the resident has exited the supervised floor area or building. Often the resident will leave through an emergency exit. If the door is not alarmed then staff are unaware the patient has left the area or the building. If the door is alarmed then the fire alarm system is set off causing an automatic signal to the local fire department resulting in costly nuisance alarms. Currently systems are being installed which may be unsafe and non-compliant that restrict egress and create a risk to life safety. The Alberta Building Code 2014 (ABC 2014) has allowances for using electromagnetic locks on exit doors provided that these locks release within 15 seconds of actuation. These provisions have also been applied to existing buildings whose operation and modification are regulated by the Alberta Fire Code 2014 (AFC 2014). The National Building Code of Canada 2015 (NBC 2015) includes a new Sentence 3.4.6.16.(5) with specific conditions related to using electromagnetic locking devices in Treatment-Group B, Division 2 (B2) and Care-Group B, Division 3 (B3) occupancies. Transparent boxes that set off an audible signal when opened can be installed to cover the manual stations. Also, one optional additional release device (e.g. swipe card device, key pad) can be installed to facilitate the free movement of staff and visitors in the building without setting off the alarm system from the electromagnetic locks.",
+ "variance_text": "This variance, which can be applied to new and existing buildings, provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the ABC 2014 and the AFC 2014. 1. Electromagnetic locks that do not incorporate latches, pins or other similar devices to keep the door in the closed position are permitted to be installed on doors in Group B, Division 2 and Division 3 occupancies, provided a) the building is i) equipped with a fire alarm system, and ii) sprinklered, b) the electromagnetic lock releases upon i) actuation of the alarm signal from the building’s fire alarm system, ii) loss of its power supply and of power to its auxiliary controls, iii) actuation of a manually operated switch that is readily accessible at a constantly attended location within the locked space, and iv) actuation of the manual station installed within 0.5 m of each door and equipped with an auxiliary contact, which directly releases the electromagnetic lock, (these manual stations may be covered with a transparent box that sets off an audible signal when opened). c) upon release, the electromagnetic lock requires manual resetting by actuation of the switch referred to in Subclause (b)(iii), d) a legible sign with the words “EMERGENCY EXIT UNLOCKED BY FIRE ALARM” written in letters at least 25 mm high with a stroke at least 5 mm wide is permanently mounted on the door, e) the operation of any by-pass switch, where provided for testing of the fire alarm system, sets off an audible signal and a visual signal at the fire alarm annunciator panel and at the monitoring station referred to in Sentence 3.2.4.8.(4) of ABC 2014, and f) emergency lighting is provided at the doors. 2. One optional additional release device (e.g. swipe card device, key pad) can be installed to facilitate the free movement of staff and visitors in the building.",
+ "variance_parts": [
+  "This variance, which can be applied to new and existing buildings, provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the ABC 2014 and the AFC 2014. 1. Electromagnetic locks that do not incorporate latches, pins or other similar devices to keep the door in the closed position are permitted to be installed on doors in Group B, Division 2 and Division 3 occupancies, provided a) the building is i) equipped with a fire alarm system, and ii) sprinklered, b) the electromagnetic lock releases upon i) actuation of the alarm signal from the building’s fire alarm system, ii) loss of its power supply and of power to its auxiliary controls, iii) actuation of a manually operated switch that is readily accessible at a constantly attended location within the locked space, and iv) actuation of the manual station installed within 0.5 m of each door and equipped with an auxiliary contact, which directly releases the electromagnetic lock, (these manual stations may be covered with a transparent box that sets off an audible signal when opened). c) upon release, the electromagnetic lock requires manual resetting by actuation of the switch referred to in Subclause (b)(iii), d) a legible sign with the words “EMERGENCY EXIT UNLOCKED BY FIRE ALARM” written in letters at least 25 mm high with a stroke at least 5 mm wide is permanently mounted on the door, e) the operation of any by-pass switch, where provided for testing of the fire alarm system, sets off an audible signal and a visual signal at the fire alarm annunciator panel and at the monitoring station referred to in Sentence 3.2.4.8.(4) of ABC 2014, and f) emergency lighting is provided at the doors. 2. One optional additional release device (e.g. swipe card device, key pad) can be installed to facilitate the free movement of staff and visitors in the building."
+ ],
+ "articles_varied": [
+  "3.4.6.16",
+  "3.3.1.13",
+  "3.4.6.17",
+  "3.2.4.8",
+  "3.2.4.7"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.4.6.16": "NBC",
+  "3.3.1.13": "NBC",
+  "3.4.6.17": "NBC",
+  "3.2.4.8": "NBC",
+  "3.2.4.7": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "Electromagnetic locks that do not incorporate latches, pins or other similar devices to keep the door in the closed position are permitted to be installed on doors in Group B, Division 2 and Division 3 occupancies, provided a) the building is i) equipped with a fire alarm system, and ii) sprinklered, b) the electromagnetic lock releases upon i) actuation of the alarm signal from the building’s fire alarm system, ii) loss of its power supply and of power to its auxiliary controls, iii) actuation of a manually operated switch that is readily accessible at a constantly attended location within the locked space, and iv) actuation of the manual station installed within 0.5 m of each door and equipped with an auxiliary contact, which directly releases the electromagnetic lock, (these manual stations may be covered with a transparent box that sets off an audible signal when opened). c) upon release, the electromagnetic lock requires manual resetting by actuation of the switch referred to in Subclause (b)(iii), d) a legible sign with the words “EMERGENCY EXIT UNLOCKED BY FIRE ALARM” written in letters at least 25 mm high with a stroke at least 5 mm wide is permanently mounted on the door, e) the operation of any by-pass switch, where provided for testing of the fire alarm system, sets off an audible signal and a visual signal at the fire alarm annunciator panel and at the monitoring station referred to in Sentence 3.2.4.8.(4) of ABC 2014, and f) emergency lighting is provided at the doors.",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "One optional additional release device (e.g. swipe card device, key pad) can be installed to facilitate the free movement of staff and visitors in the building.",
+   "page": 3
+  }
+ ],
+ "applies_to": "This Variance applies to doors in Group B, Division 2 and Division 3 occupancies.",
+ "pdf": "files/standata/variances_2014/14-bcv-011-14-fcv-012-doorreleasehardware.pdf",
+ "source": {
+  "doc": "14-bcv-011-14-fcv-012-doorreleasehardware.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,0 +1,56 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-018-2025-09",
+ "number": "23-BCV-018",
+ "numbers": [
+  "23-BCV-018"
+ ],
+ "title": "Vented soffit protection",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "September 2025",
+ "revision": "",
+ "purpose": "This variance provides an alternative solution for the protection of soffits where typical vented soffit materials are otherwise not permitted.",
+ "discussion": "Sentences 9.10.14.5.(12), 9.10.15.5.(11) and 9.10.12.4.(2) and (3) of the National Building Code – 2023 Alberta Edition (NBC(AE)) require soffits in areas of concern to have no openings and be protected by specific thicknesses of sheet steel, aluminum, gypsum board, OSB, plywood or lumber to provide a higher level of fire protection. Having to provide solid (unvented) soffits in lieu of vented ones in areas of concern means designers must achieve the ventilation required at the roof space’s lower end(s) via alternative means. Although viewed as unideal by most designers, builders and owners, this is commonly accomplished by installing surface roof vents in the area of the lower ends of the roof space. With the use of a material comprised of an intumescent coating on a vented substrate, it is possible to provide ventilation to a roof space through the soffit area, while simultaneously providing fire protection that meets or exceeds NBC(AE) requirements where openings in soffits are not permitted. The material is fastened to the underside of roof or floor projections, and a finished vented soffit material can be installed to cover it for aesthetic purposes. When elevated temperatures are present due to a fire, the intumescent coating expands to seal the openings within the vented substrate.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act, and the NBC(AE). The use of materials comprised of an intumescent coating on a vented fiberglass or metal substrate are an acceptable alternative solution to the requirements of Sentences 9.10.14.5.(12), 9.10.15.5.(11) and 9.10.12.4.(2) and (3), provided the following conditions are met: 1. The material is tested by a laboratory accredited by the Standards Council of Canada, and documentation of the test results is provided to verify the material performs equal to or greater than the performance of 11 mm plywood as specified in Table 1 of Appendix A. 2. The material is installed in accordance with the: • manufacturer’s installation instructions or • testing documentation",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act, and the NBC(AE). The use of materials comprised of an intumescent coating on a vented fiberglass or metal substrate are an acceptable alternative solution to the requirements of Sentences 9.10.14.5.(12), 9.10.15.5.(11) and 9.10.12.4.(2) and (3), provided the following conditions are met: 1. The material is tested by a laboratory accredited by the Standards Council of Canada, and documentation of the test results is provided to verify the material performs equal to or greater than the performance of 11 mm plywood as specified in Table 1 of Appendix A. 2. The material is installed in accordance with the: • manufacturer’s installation instructions or • testing documentation"
+ ],
+ "articles_varied": [
+  "9.10.14.5",
+  "3.2.3.6",
+  "9.10.15.5",
+  "9.10.12.4"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.10.14.5": "NBC",
+  "3.2.3.6": "NBC",
+  "9.10.15.5": "NBC",
+  "9.10.12.4": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "The material is tested by a laboratory accredited by the Standards Council of Canada, and documentation of the test results is provided to verify the material performs equal to or greater than the performance of 11 mm plywood as specified in Table 1 of Appendix A.",
+   "page": 3
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "The material is installed in accordance with the: • manufacturer’s installation instructions or • testing documentation",
+   "page": 3
+  }
+ ],
+ "applies_to": "This variance applies to Part 9 buildings in which there is a requirement for solid (unvented) soffits constructed of specific materials, due to roof or floor projections being in areas of concern – typically, proximity to property line.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-018-2025-09.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-018-2025-09.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

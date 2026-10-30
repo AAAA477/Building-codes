@@ -7,3 +7,5 @@ httpx==0.28.1
 # also used (already installed): pymupdf, pypdf
 anthropic==2.3.0
 openai==3.40.0
+psycopg[binary]==3.2.9
+psycopg_pool==3.2.6

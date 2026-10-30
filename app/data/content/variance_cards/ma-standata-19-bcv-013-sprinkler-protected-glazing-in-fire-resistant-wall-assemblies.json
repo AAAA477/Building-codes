@@ -1,0 +1,114 @@
+{
+ "id": "ma-standata-19-bcv-013-sprinkler-protected-glazing-in-fire-resistant-wall-assemblies",
+ "number": "19-BCV-013",
+ "numbers": [
+  "19-BCV-013"
+ ],
+ "title": "Fire-resistant wall assemblies",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "December 2019",
+ "revision": "",
+ "purpose": "This variance sets out the conditions for a safety codes officer to accept the use of sprinkler- protected glazing assemblies in interior and exterior fire rated wall assemblies.",
+ "discussion": "Sentence 3.1.7.1.(1) of the National Building Code-2019 Alberta Edition (NBC(AE)) specifies that the fire-resistance rating of a material, assembly or structural component shall be determined by testing to CAN/ULC-S101, “Fire Endurance Tests of Building Construction and Materials.” Designers want to install clear glass in fire separations and exit enclosures to provide greater visibility within the building. Glass block and wired glass panels do not provide the visibility that designers would like to incorporate into their designs. As such, an alternative to using glass block and wired glass panels has been requested by designers and other code users. “Sprinkler-protected glazing” is a design alternative that has been in use for years. It varies slightly from the concept of using glass block and wired glass panels in that the glazing that is protected is not to be considered as a closure in a fire-rated assembly. Instead, the fire-resistance rating assigned to the combination of glazing assembly and sprinkler heads must be able to achieve at least the same fire-resistance rating of the fire separation it is being installed within. Unfortunately, ULC-S101 does not contain requirements that adequately address “sprinkler-protected glazing.” Since the “sprinkler-protected glazing” is used as an alternative to the traditional fire-rated assembly, the installation of the sprinkler–protected glazing panels does not reduce the number of unprotected openings permitted in a given exterior wall assembly. Consequently, glazing assemblies are permitted to be installed for interior or exterior fire rated assemblies that are required to have a fire-resistance rating without being tested to CAN/ULC-S101 as required by Sentences 3.1.7.1.(1) and 9.10.3.1.(1) provided they are protected by a fixed, automatic sprinkler system and the criteria of this variance are followed. Underwriter’s Laboratories Canada has published ULC/ORD C263.1-99 (Reaffirmed 2018), “Sprinkler-Protected Windows Systems.”",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Glazing assemblies are permitted to be installed for interior or exterior fire rated assemblies that are required to have a fire-resistance rating without being tested to CAN/ULC-S101, “Fire Endurance Tests of Building Construction and Materials” as required by Sentences 3.1.7.1.(1) and 9.10.3.1.(1) provided they are protected by a fixed, automatic sprinkler system and the following criteria are met: 1. the assembly has been evaluated by a testing agency that has been accredited by the Standards Council of Canada for conformance to ULC/ORD C263.1-99 (Reaffirmed 2018), “Sprinkler-Protected Windows Systems,” 2. installation shall conform to NFPA 13; 3. sprinklers shall be listed as specific application window sprinklers; 4. glazing shall be heat-strengthened, tempered, or glass ceramic and shall be fixed; 5. where the assembly is required to be protected from both sides, sprinklers shall be installed on both sides of the glazing; 6. if the assembly is located in a loadbearing assembly, all loadbearing components shall have a fire-resistance rating not less than that required for the supported assembly; 7. the glazed assembly shall not have any horizontal members that would interfere with uniform distribution of water over the surface of the glazing, and there shall be no obstructions between sprinklers and glazing that would obstruct water distribution; 8. the fire-resistance rating of the sprinkler-protected glazing system shall be not less than the fire-resistance rating required for the wall assembly that it is being installed within, sprinkler- protected glazed wall assemblies to be constructed in accordance with the requirements of the listing of the window sprinkler; 9. the assembly is not installed in: a. a firewall or within a door installed in a firewall, b. a building that contains a high hazard industrial occupancy, c. a location where there is a risk of explosion, or d. any part of a required exit serving i. a floor area subject to the requirements of Subsection 3.2.6., ii. a care, treatment or detention occupancy, or iii. a residential occupancy. 10. where the assembly is installed in exits not mentioned in item (9.d.) above, the exits shall not comprise more than one half of the required number of exits from any floor area; 11. The window sprinkler system shall: a. be identified at the isolation valve as supplying a window sprinkler system, b. be provided with a placard adjacent to the incoming water service with the following wording; “SPECIAL WINDOW SPRINKLER HEADS ON THIS SYSTEM ARE AN INTEGRAL PART OF THE FIRE SEPARATIONS. THIS WATER SUPPLY MAY ONLY BE SHUT OFF AFTER ALL THE PROPER AUTHORITIES HAVE RECEIVED NOTICE IN WRITING”. Font size to be 12mm high. Placard to be “RED” in colour with white lettering. Mount to existing wall with appropriate anchors. Adhesive is not acceptable. c. have a water supply duration for the design area that includes the window sprinklers shall not be less than the required fire resistance rating of the assembly. Notes: 1. As with all fire protection measures, care must be exercised in the design, installation and maintenance of the active fire protection system to ensure its reliability throughout the life of the building. 2. Sprinkler-protected glazing may be used as a protected opening in an exposing building face where sprinkler heads are provided on the interior side of the glazing only. 3. Sprinkler-protected glazing may be used in an interior fire separation if sprinkler heads are provided to protect both sides of the glazing. 4. Sprinkler-protected glazing may be used in a sprinklered or an unsprinklered building. 5. The installation of sprinkler-protected glazing will also require the installation of a fire alarm system for the building, as required by Article 3.2.4.1.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Glazing assemblies are permitted to be installed for interior or exterior fire rated assemblies that are required to have a fire-resistance rating without being tested to CAN/ULC-S101, “Fire Endurance Tests of Building Construction and Materials” as required by Sentences 3.1.7.1.(1) and 9.10.3.1.(1) provided they are protected by a fixed, automatic sprinkler system and the following criteria are met: 1. the assembly has been evaluated by a testing agency that has been accredited by the Standards Council of Canada for conformance to ULC/ORD C263.1-99 (Reaffirmed 2018), “Sprinkler-Protected Windows Systems,” 2. installation shall conform to NFPA 13; 3. sprinklers shall be listed as specific application window sprinklers; 4. glazing shall be heat-strengthened, tempered, or glass ceramic and shall be fixed; 5. where the assembly is required to be protected from both sides, sprinklers shall be installed on both sides of the glazing; 6. if the assembly is located in a loadbearing assembly, all loadbearing components shall have a fire-resistance rating not less than that required for the supported assembly; 7. the glazed assembly shall not have any horizontal members that would interfere with uniform distribution of water over the surface of the glazing, and there shall be no obstructions between sprinklers and glazing that would obstruct water distribution; 8. the fire-resistance rating of the sprinkler-protected glazing system shall be not less than the fire-resistance rating required for the wall assembly that it is being installed within, sprinkler- protected glazed wall assemblies to be constructed in accordance with the requirements of the listing of the window sprinkler; 9. the assembly is not installed in: a. a firewall or within a door installed in a firewall, b. a building that contains a high hazard industrial occupancy, c. a location where there is a risk of explosion, or d. any part of a required exit serving i. a floor area subject to the requirements of Subsection 3.2.6., ii. a care, treatment or detention occupancy, or iii. a residential occupancy. 10. where the assembly is installed in exits not mentioned in item (9.d.) above, the exits shall not comprise more than one half of the required number of exits from any floor area; 11. The window sprinkler system shall: a. be identified at the isolation valve as supplying a window sprinkler system, b. be provided with a placard adjacent to the incoming water service with the following wording; “SPECIAL WINDOW SPRINKLER HEADS ON THIS SYSTEM ARE AN INTEGRAL PART OF THE FIRE SEPARATIONS. THIS WATER SUPPLY MAY ONLY BE SHUT OFF AFTER ALL THE PROPER AUTHORITIES HAVE RECEIVED NOTICE IN WRITING”. Font size to be 12mm high. Placard to be “RED” in colour with white lettering. Mount to existing wall with appropriate anchors. Adhesive is not acceptable. c. have a water supply duration for the design area that includes the window sprinklers shall not be less than the required fire resistance rating of the assembly. Notes: 1. As with all fire protection measures, care must be exercised in the design, installation and maintenance of the active fire protection system to ensure its reliability throughout the life of the building. 2. Sprinkler-protected glazing may be used as a protected opening in an exposing building face where sprinkler heads are provided on the interior side of the glazing only. 3. Sprinkler-protected glazing may be used in an interior fire separation if sprinkler heads are provided to protect both sides of the glazing. 4. Sprinkler-protected glazing may be used in a sprinklered or an unsprinklered building. 5. The installation of sprinkler-protected glazing will also require the installation of a fire alarm system for the building, as required by Article 3.2.4.1."
+ ],
+ "articles_varied": [
+  "3.1.7.1",
+  "3.1.7.2",
+  "3.6.3.5",
+  "9.10.3.1",
+  "3.2.5.12",
+  "3.2.4.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.1.7.1": "NBC",
+  "3.1.7.2": "NBC",
+  "3.6.3.5": "NBC",
+  "9.10.3.1": "NBC",
+  "3.2.5.12": "NBC",
+  "3.2.4.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "the assembly has been evaluated by a testing agency that has been accredited by the Standards Council of Canada for conformance to ULC/ORD C263.1-99 (Reaffirmed 2018), “Sprinkler-Protected Windows Systems,”",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "installation shall conform to NFPA 13;",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "sprinklers shall be listed as specific application window sprinklers;",
+   "page": 2
+  },
+  {
+   "index": 4,
+   "label": "4",
+   "text": "glazing shall be heat-strengthened, tempered, or glass ceramic and shall be fixed;",
+   "page": 2
+  },
+  {
+   "index": 5,
+   "label": "5",
+   "text": "where the assembly is required to be protected from both sides, sprinklers shall be installed on both sides of the glazing;",
+   "page": 2
+  },
+  {
+   "index": 6,
+   "label": "6",
+   "text": "if the assembly is located in a loadbearing assembly, all loadbearing components shall have a fire-resistance rating not less than that required for the supported assembly;",
+   "page": 2
+  },
+  {
+   "index": 7,
+   "label": "7",
+   "text": "the glazed assembly shall not have any horizontal members that would interfere with uniform distribution of water over the surface of the glazing, and there shall be no obstructions between sprinklers and glazing that would obstruct water distribution;",
+   "page": 2
+  },
+  {
+   "index": 8,
+   "label": "8",
+   "text": "the fire-resistance rating of the sprinkler-protected glazing system shall be not less than the fire-resistance rating required for the wall assembly that it is being installed within, sprinkler- protected glazed wall assemblies to be constructed in accordance with the requirements of the listing of the window sprinkler;",
+   "page": 3
+  },
+  {
+   "index": 9,
+   "label": "9",
+   "text": "the assembly is not installed in: a. a firewall or within a door installed in a firewall, b. a building that contains a high hazard industrial occupancy, c. a location where there is a risk of explosion, or d. any part of a required exit serving i. a floor area subject to the requirements of Subsection 3.2.6., ii. a care, treatment or detention occupancy, or iii. a residential occupancy.",
+   "page": 3
+  },
+  {
+   "index": 10,
+   "label": "10",
+   "text": "where the assembly is installed in exits not mentioned in item (9.d.) above, the exits shall not comprise more than one half of the required number of exits from any floor area;",
+   "page": 3
+  },
+  {
+   "index": 11,
+   "label": "11",
+   "text": "The window sprinkler system shall: a. be identified at the isolation valve as supplying a window sprinkler system, b. be provided with a placard adjacent to the incoming water service with the following wording; “SPECIAL WINDOW SPRINKLER HEADS ON THIS SYSTEM ARE AN INTEGRAL PART OF THE FIRE SEPARATIONS. THIS WATER SUPPLY MAY ONLY BE SHUT OFF AFTER ALL THE PROPER AUTHORITIES HAVE RECEIVED NOTICE IN WRITING”. Font size to be 12mm high. Placard to be “RED” in colour with white lettering. Mount to existing wall with appropriate anchors. Adhesive is not acceptable. c. have a water supply duration for the design area that includes the window sprinklers shall not be less than the required fire resistance rating of the assembly. Notes: 1. As with all fire protection measures, care must be exercised in the design, installation and maintenance of the active fire protection system to ensure its reliability throughout the life of the building. 2. Sprinkler-protected glazing may be used as a protected opening in an exposing building face where sprinkler heads are provided on the interior side of the glazing only. 3. Sprinkler-protected glazing may be used in an interior fire separation if sprinkler heads are provided to protect both sides of the glazing. 4. Sprinkler-protected glazing may be used in a sprinklered or an unsprinklered building. 5. The installation of sprinkler-protected glazing will also require the installation of a fire alarm system for the building, as required by Article 3.2.4.1.",
+   "page": 3
+  }
+ ],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2019/ma-standata-19-bcv-013-sprinkler-protected-glazing-in-fire-resistant-wall-assemblies.pdf",
+ "source": {
+  "doc": "ma-standata-19-bcv-013-sprinkler-protected-glazing-in-fire-resistant-wall-assemblies.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

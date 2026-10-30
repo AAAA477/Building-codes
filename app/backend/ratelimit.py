@@ -88,7 +88,7 @@ def scrub(text) -> str:
 # ---------------------------------------------------------------- middleware
 _LLM_PATH = re.compile(r"^/api/(?:deep-search$|graph/expand$|applications/[^/]+/(?:suggest$|intake/next$|section-c/generate$|deep-search$))")
 _APP_PATH = re.compile(r"^/api/applications/([^/]+)")
-_UPLOAD = re.compile(r"^/api/.*evidence")
+_UPLOAD = re.compile(r"^/api/(.*evidence|applications/import)")
 _EXPORT = re.compile(r"/export/|submission-package|/export$")
 
 SECURITY_HEADERS = [

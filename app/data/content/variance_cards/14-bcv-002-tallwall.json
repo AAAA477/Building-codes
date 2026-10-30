@@ -1,0 +1,37 @@
+{
+ "id": "14-bcv-002-tallwall",
+ "number": "14-BCV-002",
+ "numbers": [
+  "14-BCV-002"
+ ],
+ "title": "Tall wall generic engineered details",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "May 2017",
+ "revision": "",
+ "purpose": "To recognize the acceptability of the values within the “Guidelines for the Construction of Residential Tall Walls” prepared by Grubb Engineering Corporation.",
+ "discussion": "Part 9 of the Alberta Building Code 2014 (ABC 2014) defines the maximum allowable heights for load bearing and non-load bearing walls. Table 9.23.10.1. specifies the requirements for exterior walls only up to 3.6 metres and for interior walls up to 4.2 metres in height. Walls exceeding the heights listed in the table must be individually engineered under Part 4 of the ABC 2014.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. The values for the maximum unsupported heights of walls referenced in Article 9.23.10.1. of the ABC 2014 are permitted to be determined using the values from: Guidelines for the Construction of Residential Tall Walls (Revised January 2016) (Amendment 1 – June 29, 2016) prepared by: Grubb Engineering Corporation published by: The Alberta Housing Industry Technical Committee (AHITC) available for purchase and distributed by: Canadian Home Builders' Association – Alberta 328, 9707-110 St. Edmonton, AB T5K 2L9 Toll-Free Phone Number: 1-800-661-3348 Phone Number: 780-424-5890 Fax Number: 780-426-0128 Web: www.chbaalberta.ca This report is acceptable in place of project-specific engineering on a case-by-case basis, provided that the project-specific details for the tall wall construction SHALL appear on the drawings submitted for the building permit. Walls that do not meet the criteria for the “Guidelines for the Construction of Residential Tall Walls” will still need to have site-specific engineering on a case-by-case basis.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the ABC 2014. The values for the maximum unsupported heights of walls referenced in Article 9.23.10.1. of the ABC 2014 are permitted to be determined using the values from: Guidelines for the Construction of Residential Tall Walls (Revised January 2016) (Amendment 1 – June 29, 2016) prepared by: Grubb Engineering Corporation published by: The Alberta Housing Industry Technical Committee (AHITC) available for purchase and distributed by: Canadian Home Builders' Association – Alberta 328, 9707-110 St. Edmonton, AB T5K 2L9 Toll-Free Phone Number: 1-800-661-3348 Phone Number: 780-424-5890 Fax Number: 780-426-0128 Web: www.chbaalberta.ca This report is acceptable in place of project-specific engineering on a case-by-case basis, provided that the project-specific details for the tall wall construction SHALL appear on the drawings submitted for the building permit. Walls that do not meet the criteria for the “Guidelines for the Construction of Residential Tall Walls” will still need to have site-specific engineering on a case-by-case basis."
+ ],
+ "articles_varied": [
+  "9.23.10.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.23.10.1": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/14-bcv-002-tallwall.pdf",
+ "source": {
+  "doc": "14-bcv-002-tallwall.pdf",
+  "page": 1
+ },
+ "current": false,
+ "superseded_by": "14-bcv-002r1-tallwall",
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

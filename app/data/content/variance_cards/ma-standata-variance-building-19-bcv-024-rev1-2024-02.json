@@ -1,0 +1,41 @@
+{
+ "id": "ma-standata-variance-building-19-bcv-024-rev1-2024-02",
+ "number": "19-BCV-024",
+ "numbers": [
+  "19-BCV-024"
+ ],
+ "title": "Schedules of professional involvement",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "February 2024",
+ "revision": "",
+ "purpose": "This variance recognizes the schedules of professional involvement in the National Building Code – 2023 Alberta Edition as an alternative solution to the requirements in Articles 2.4.3.1., 2.4.3.2. and 2.4.4.1. of Division C of the National Building Code – 2019 Alberta Edition.",
+ "discussion": "The National Building Code – 2023 Alberta Edition comes into force on May 1, 2024, and the ability to use the schedules in the National Building Code – 2023 Alberta Edition facilitates a more streamlined process for schedule users. The requirements for the schedules of professional involvement are contained in Articles 2.4.3.1., 2.4.3.2. and 2.4.4.1. of Division C of the National Building Code – 2019 Alberta Edition and the schedules of professional involvement are provided in Appendix B of Division C in the National Building Code – 2019 Alberta Edition. The Alberta Association of Architects (AAA) and the Association of Professional Engineers and Geoscientists of Alberta (APEGA) reviewed the schedules of professional involvement in the National Building Code – 2019 Alberta Edition and provided Municipal Affairs with revised schedules of professional involvement for use in the National Building Code – 2023 Alberta Edition. The revised schedules of professional involvement contain major changes to the content, including a different process from what is required by Section 2.4. of Division C of the National Building Code – 2019 Alberta Edition. AAA and APEGA also created a user guide for the schedules of professional involvement that can be found on their respective association’s website. P a g e 2 | 3",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the National Building Code – 2019 Alberta Edition. 1. The Schedules in Appendix B of Division C in the National Building Code – 2023 Alberta Edition provide approximately equivalent or greater safety as the requirements in Articles 2.4.3.1., 2.4.3.2., and 2.4.4.1. of Division C of the National Building Code – 2019 Alberta Edition. 2. Projects started using the schedules in Appendix A of 19-BCV-024 may be completed using those schedules. NOTE: Schedules A and C-1 in Appendix B of Division C of the National Building Code – 2023 Alberta Edition have a box at the top of every page with space to provide the building permit number for the authority having jurisdiction and the project reference/components for the coordinating registered professional. This space for the project reference/components currently references the registered professional of record but this should be read to mean the coordinating registered professional. The web-based PDF Schedule forms will have the correct reference to the coordinating registered professional.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the National Building Code – 2019 Alberta Edition. 1. The Schedules in Appendix B of Division C in the National Building Code – 2023 Alberta Edition provide approximately equivalent or greater safety as the requirements in Articles 2.4.3.1., 2.4.3.2., and 2.4.4.1. of Division C of the National Building Code – 2019 Alberta Edition. 2. Projects started using the schedules in Appendix A of 19-BCV-024 may be completed using those schedules. NOTE: Schedules A and C-1 in Appendix B of Division C of the National Building Code – 2023 Alberta Edition have a box at the top of every page with space to provide the building permit number for the authority having jurisdiction and the project reference/components for the coordinating registered professional. This space for the project reference/components currently references the registered professional of record but this should be read to mean the coordinating registered professional. The web-based PDF Schedule forms will have the correct reference to the coordinating registered professional."
+ ],
+ "articles_varied": [
+  "2.4.3.1",
+  "2.4.3.2",
+  "2.4.4.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "2.4.3.1": "NFC",
+  "2.4.3.2": "NFC",
+  "2.4.4.1": "NFC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to all projects where the schedules of professional involvement are required by Articles 2.4.3.1., 2.4.3.2. and 2.4.4.1. of Division C of the National Building Code – 2019 Alberta Edition. P a g e 3 | 3",
+ "pdf": "files/standata/variances_2019/ma-standata-variance-building-19-bcv-024-rev1-2024-02.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-19-bcv-024-rev1-2024-02.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,4 +1,4 @@
-import type { Refusal, AfterSubmit, ChangesView, QuestionsView, AppData, IntakeResult, MapGraph, Overlay, PrecedentResult, SuggestResponse, EvidenceFile } from './types'
+import type { Refusal, AfterSubmit, ChangesView, QuestionsView, AppData, IntakeResult, MapGraph, Overlay, PrecedentResult, SuggestResponse, EvidenceFile, VarianceMatch, VarianceItem, ConditionAnswer, StartingPointItem, ImportReport } from './types'
 import { MOCK_OVERLAY, MOCK_PRECEDENTS, MOCK_QUESTIONS, blankApp, computeCompleteness, computeMap, mockSample } from './fixtures/mock'
 
 export const API_BASE: string = (import.meta as any).env?.VITE_API_BASE || 'http://localhost:8000/api'
@@ -115,6 +115,23 @@ export const api = {
   setAiEnabled: (id: string, ai_enabled: boolean) => req<{ ai_enabled: boolean }>(`/applications/${id}/ai-setting`, { method: 'PUT', body: J({ ai_enabled }) }),
   suggestAccept: (id: string, body: { field_path: string; value: unknown; item_id?: string }) => req<AppData>(`/applications/${id}/suggest/accept`, { method: 'POST', body: J(body) }),
   precedents: (id: string) => newer<PrecedentResult>(() => req(`/applications/${id}/precedents`)).catch(() => MOCK_PRECEDENTS),
+  varianceMatch: (id: string) => newer<VarianceMatch>(() => req(`/applications/${id}/variance-match`)),
+  putReliedOn: (id: string, number: string, condition_answers: { index: number; answer: ConditionAnswer }[]) =>
+    newer<VarianceItem>(() => req(`/applications/${id}/variance/relied-on`, { method: 'PUT', body: J({ number, condition_answers }) })),
+  startingPoint: (id: string, number: string) => newer<{ items: StartingPointItem[]; note?: string }>(() => req(`/applications/${id}/variance/starting-point?number=${encodeURIComponent(number)}`)),
+  acceptPrecedent: (id: string, it: StartingPointItem) =>
+    newer<AppData>(() => req(`/applications/${id}/suggest/accept`, { method: 'POST', body: J({ field_path: it.field_path, value: it.value, item_id: it.id, provenance: 'precedent', append: !!it.append }) })),
+  importDraft: async (input: { file?: File; text?: string }): Promise<{ id: string; application: AppData; report: ImportReport }> => {
+    if (input.file) {
+      const fd = new FormData(); fd.append('file', input.file)
+      return newer(async () => {   // no Content-Type header: the browser sets the multipart boundary
+        const r = await fetch(`${API_BASE}/applications/import`, { method: 'POST', body: fd, headers: aiOff ? { 'X-AI-Enabled': '0' } : {} })
+        if (!r.ok) throw new ApiError(r.status, detailOf(await r.text()))
+        return r.json()
+      })
+    }
+    return newer(() => req('/applications/import', { method: 'POST', body: J({ text: input.text || '' }) }))
+  },
   overlay: (id: string, jurisdiction?: string) => newer<Overlay>(() => req(`/applications/${id}/overlay`)).catch(() => MOCK_OVERLAY(jurisdiction)),
   overlayAnswer: (id: string, question_id: string, answer: string) => newer<any>(() => req(`/applications/${id}/overlay/answer`, { method: 'POST', body: J({ question_id, answer }) })),
   preApplicationBrief: (id: string) => newer<{ title: string; text: string }>(() => req(`/applications/${id}/pre-application-brief`)),

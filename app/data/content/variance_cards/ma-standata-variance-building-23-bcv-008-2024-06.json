@@ -1,0 +1,37 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-008-2024-06",
+ "number": "23-BCV-008",
+ "numbers": [
+  "23-BCV-008"
+ ],
+ "title": "Residential exhaust outlet clearance from air intakes",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "June 2024",
+ "revision": "",
+ "purpose": "To provide an alternative solution to clearance requirements between domestic kitchen, bathroom and clothes dryer exhaust outlets from air intakes.",
+ "discussion": "The requirements for exhaust clearances from soffits were updated in the National Building Code of Canada 2020 and subsequently harmonized within the National Building Code - 2023 Alberta Edition (NBC(AE)). The requirements prescribed a clearance of 1800 mm from exhaust vents below soffits or to install solid soffits where the clearance is less than 1800 mm below soffits. Clearance was increased from 900 mm to 1800 mm for clothes dryer exhaust vents to air intakes. This change did not differentiate between clothes dryers in common laundry rooms serving residential buildings or domestic clothes dryers serving a single dwelling unit or a house with a secondary suite. Clearance of 1800 mm was also added for bathroom ventilation exhaust from air intakes. The rationale presented within the requirements for exhaust clearances explained the application to soffits but did not provide a rationale applicable to clothes dryer exhaust or bathroom exhaust from air intakes. The rationale also describes “air containing moisture rises from the exhaust outlets” as part of the problem. The rationale was silent on kitchen exhaust from dwelling units. But to clarify are also addressing kitchen exhaust outlets. Kitchen, bathroom, and clothes dryer exhaust serving individual dwelling units or houses with a secondary suite typically operate intermittently. CSA-B149.1 “Natural gas and propane installation code” (CSA B149.1) provides for vent terminations from building air intakes prescribing a clearance of 900 mm for domestic clothes dryers and 1800 mm for commercial clothes dryers. This supports the allowance for the clearance reduction when dealing with domestic clothes dryers. The domestic clothes dryer exhaust air would typically contain more moisture than bathroom exhaust air.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. The horizontal clearance of kitchen, bathroom and clothes dryer exhaust outlets is permitted to be within 900 mm from air intakes serving the individual dwelling unit or house with a secondary suite. Note: Air intake is understood to be connected to a fan.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. The horizontal clearance of kitchen, bathroom and clothes dryer exhaust outlets is permitted to be within 900 mm from air intakes serving the individual dwelling unit or house with a secondary suite. Note: Air intake is understood to be connected to a fan."
+ ],
+ "articles_varied": [
+  "9.32.3.13"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.32.3.13": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to kitchen, bathroom, and clothes dryer exhaust outlets serving individual dwelling units or a house with a secondary suite.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-008-2024-06.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-008-2024-06.pdf",
+  "page": 1
+ },
+ "current": false,
+ "superseded_by": "ma-standata-variance-building-23-bcv-008-rev1-2024-10",
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

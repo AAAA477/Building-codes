@@ -48,6 +48,22 @@ def _ref(app):
     return f"the {_topic(app)} variance application"
 
 
+def _relied(app: dict):
+    rel = (app.get("variance") or {}).get("relied_on") or {}
+    if not rel.get("number"):
+        return None
+    try:
+        from corpus import variance_match as V
+        card = V.get_card(rel["number"])
+    except Exception:
+        return None
+    if card is None:
+        return None
+    unmet = len(V.gaps(card["conditions"], rel.get("condition_answers")))
+    return {"number": card["number"], "edition": card["edition"], "total": len(card["conditions"]),
+            "met": len(card["conditions"]) - unmet, "unmet": unmet}
+
+
 def summary(app: dict, comp: dict) -> dict:
     gaps = _gaps(comp)
     n = {s: sum(1 for g in gaps if g["status"] == s) for s in ("missing", "uncertain", "needs_professional")}
@@ -58,11 +74,15 @@ def summary(app: dict, comp: dict) -> dict:
     parts = [_clean(comp.get("detail", ""))]
     if top:
         parts.append((f"Check first: {_clean(top[0]['label'])}. {_clean(top[0]['why'])}").rstrip(".") + ".")
+    rel = _relied(app)
+    if rel:
+        parts.append(f"Relies on STANDATA {rel['number']}: {rel['met']} of {rel['total']} conditions confirmed by the applicant.")
     parts.append(DISCLAIMER)
     words = " ".join(p for p in parts if p).split()
     text = " ".join(words[:79]) + "." if len(words) > 80 else " ".join(words)
     return {"headline": headline, "top_issues": top, "summary": text, "word_count": len(text.split()),
             "counts": n, "percent": comp["percent"], "meters": m, "signatures": comp.get("signatures"),
+            "relied_variance": _relied(app),
             "ai_assisted": __import__("privacy").disclosure(app)}
 
 
@@ -76,6 +96,10 @@ def _item_text(it):
     art = _article_of(lab)
     if i.startswith("C.article.") and art:
         return f"Section C: article {art} was not found in NBC(AE) 2023; please correct it.", art
+    if i.startswith("V.cond."):
+        number = i.split(".")[2]
+        return (f"Section C: the application relies on STANDATA {number}, but its condition {lab.rsplit(' condition ', 1)[-1]} is not confirmed as met "
+                f"({msg}). Please adjust the design to meet it, or file your own variance request."), f"STANDATA {number}"
     if i.startswith("C.row."):
         cite = lab.split(": ", 1)[-1]
         if "no objectives" in msg:

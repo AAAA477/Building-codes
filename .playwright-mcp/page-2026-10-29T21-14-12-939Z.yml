@@ -1,0 +1,167 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e909]: Saved automatically
+        - group "View as" [ref=e11]:
+          - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+          - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - region [ref=e910]:
+      - heading "We read your draft from the text you pasted" [level=2] [ref=e911]
+      - paragraph [ref=e912]: 4 parts of the application were filled from it. Nothing was invented; check each one.
+      - strong [ref=e913]: "Code articles we could not find:"
+      - list [ref=e914]:
+        - listitem [ref=e915]: 9.99.99.99 is not in the indexed codes. Check the number.
+      - paragraph [ref=e916]: The draft was stored as the project description. Review Sections A to D; nothing else was filled from it except what is listed.
+      - button "Got it" [ref=e917] [cursor=pointer]
+    - generic [ref=e918]:
+      - navigation "Application steps" [ref=e919]:
+        - list [ref=e920]:
+          - listitem [ref=e921]:
+            - button "Describe, 10 open" [ref=e922] [cursor=pointer]:
+              - generic [ref=e923]: "1"
+              - generic [ref=e924]: Describe
+              - generic [ref=e925]: 10 open
+          - listitem [ref=e926]:
+            - button "Rules, nothing open" [ref=e927] [cursor=pointer]:
+              - generic [ref=e928]: "2"
+              - generic [ref=e929]: Rules
+              - generic [ref=e930]: clear
+          - listitem [ref=e931]:
+            - button "Fill and review, 17 open" [ref=e932] [cursor=pointer]:
+              - generic [ref=e933]: "3"
+              - generic [ref=e934]: Fill and review
+              - generic [ref=e935]: 17 open
+          - listitem [ref=e936]:
+            - button "Submit, 3 open" [ref=e937] [cursor=pointer]:
+              - generic [ref=e938]: "4"
+              - generic [ref=e939]: Submit
+              - generic [ref=e940]: 3 open
+          - listitem [ref=e941]:
+            - button "After submitting, nothing open" [ref=e942] [cursor=pointer]:
+              - generic [ref=e943]: "5"
+              - generic [ref=e944]: After submitting
+              - generic [ref=e945]: clear
+      - generic [ref=e946]:
+        - generic [ref=e947]: Step 2 of 4 · Rules
+        - generic [ref=e1089]:
+          - generic [ref=e1090]:
+            - generic [ref=e1091]:
+              - generic [ref=e1092]:
+                - heading "Find the rules that apply" [level=1] [ref=e1093]
+                - paragraph [ref=e1094]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=e1095]:
+                - group [ref=e1096]:
+                  - 'generic "Before you file: may this already be covered? Your situation is close to an issued variance Show details" [ref=e1162] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=e1098]'
+                    - generic [ref=e1099]: Your situation is close to an issued variance
+                    - generic [ref=e1100]: Show details
+                  - generic [ref=e1163]:
+                    - paragraph [ref=e1164]: We found these by searching the Alberta STANDATA variances. Read each one yourself; the authority having jurisdiction decides whether it applies to your project.
+                    - article [ref=e1165]:
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]: Close, but not a match as it stands
+                        - 'heading "STANDATA 19-BCV-020R: Structural Insulated Panels" [level=3] [ref=e1168]'
+                      - paragraph [ref=e1169]: NBC(AE) 2019 · issued October 2021 · ma-standata-building-code-variance-19-bcv-020rev1, page 1
+                      - paragraph [ref=e1170]: Issued under an earlier code edition (NBC(AE) 2019). Confirm with your authority that it still applies.
+                      - paragraph [ref=e1171]: Matched by text similarity only; check whether it applies.
+                      - paragraph [ref=e1172]: "This variance does not list numbered conditions. Read it in full before you rely on it. It says: This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). https://www.alberta.ca/building-codes-and-standards.aspx Acceptance of SIPs are recognized provided the applicable conditions are met: 1. CCMC evaluations that state materials, products and systems for SIPs are in compliance wit..."
+                      - status [ref=e1173]:
+                        - paragraph [ref=e1174]: Issued under an earlier code edition (NBC(AE) 2019); confirm it still applies. This variance is close to your situation but not a match you can rely on as it stands. To rely on this variance your design must meet these conditions. Either adjust the design to meet them, or file your own variance request.
+                      - generic [ref=e1175]:
+                        - paragraph [ref=e1182]: These come from 19-BCV-020R, not from you. Accept only what fits your project; each one is marked as borrowed.
+                        - list [ref=e1183]:
+                          - listitem [ref=e1184]:
+                            - generic [ref=e1185]:
+                              - strong [ref=e1186]: Code article 1.2.1.1 (varied by STANDATA 19-BCV-020R)
+                              - paragraph [ref=e1187]: Named in 19-BCV-020R. Keep it only if your project varies the same requirement.
+                            - button "Added" [disabled] [ref=e1204]
+                          - listitem [ref=e1189]:
+                            - generic [ref=e1190]:
+                              - strong [ref=e1191]: Code article 1.2.2.1 (varied by STANDATA 19-BCV-020R)
+                              - paragraph [ref=e1192]: Named in 19-BCV-020R. Keep it only if your project varies the same requirement.
+                            - button "Add to my request" [ref=e1193] [cursor=pointer]
+                          - listitem [ref=e1194]:
+                            - generic [ref=e1195]:
+                              - strong [ref=e1196]: Code article 2.4.1.1 (varied by STANDATA 19-BCV-020R)
+                              - paragraph [ref=e1197]: Named in 19-BCV-020R. Keep it only if your project varies the same requirement.
+                            - button "Add to my request" [ref=e1198] [cursor=pointer]
+                          - listitem [ref=e1199]:
+                            - generic [ref=e1200]:
+                              - strong [ref=e1201]: Code article 2.4.2.1 (varied by STANDATA 19-BCV-020R)
+                              - paragraph [ref=e1202]: Named in 19-BCV-020R. Keep it only if your project varies the same requirement.
+                            - button "Add to my request" [ref=e1203] [cursor=pointer]
+                    - paragraph [ref=e1177]: Found by search; read the variance yourself. This does not confirm that your design is covered.
+                - group [ref=e1101]:
+                  - generic "Other earlier decisions, policies and advisories No earlier decision found Show details" [ref=e1178] [cursor=pointer]:
+                    - heading "Other earlier decisions, policies and advisories" [level=2] [ref=e1103]
+                    - generic [ref=e1104]: No earlier decision found
+                    - generic [ref=e1105]: Show details
+                - paragraph [ref=e1179]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=e1106]:
+                  - heading "In your application 1" [level=2] [ref=e1107]:
+                    - text: In your application
+                    - generic [ref=e1108]: "1"
+                  - list [ref=e1109]:
+                    - listitem [ref=e1110]:
+                      - generic [ref=e1111]:
+                        - generic "NBC" [ref=e1112]
+                        - generic [ref=e1113]: 9.23.10.1
+                        - generic [ref=e1114]: NBC(AE) 2023
+                        - generic [ref=e1115]: Verified in code text
+                      - paragraph [ref=e1118]:
+                        - generic [ref=e1119]: Intent
+                        - text: unresolved
+                      - generic [ref=e1120]:
+                        - generic [ref=e1121]: What it protects
+                        - list [ref=e1123]:
+                          - listitem [ref=e1124]: loads bearing on the building elements that exceed their loadbearing capacity
+                          - listitem [ref=e1125]: instability of the building or part thereof
+                        - button "Show 12 more" [ref=e1126] [cursor=pointer]
+                      - generic [ref=e1127]:
+                        - generic [ref=e1128]: NBC, page 974
+                        - generic [ref=e1129] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e1130]
+                          - generic [ref=e1131]: Included in my application
+                - region [ref=e1132]:
+                  - heading "Add another article" [level=2] [ref=e1133]
+                  - generic [ref=e1134]:
+                    - generic [ref=e1135]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=e1136]:
+                      - option "Single-exit stair (point access block)"
+                      - option "Any other NBC requirement" [selected]
+                  - search [ref=e1137]:
+                    - generic [ref=e1138]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=e1139]
+                    - generic [ref=e1140]: Search in
+                    - combobox "Search in" [ref=e1141]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=e1142]
+            - complementary [ref=e1146]:
+              - generic [ref=e1147]:
+                - heading "Why this step?" [level=2] [ref=e1148]
+                - paragraph [ref=e1149]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=e1150]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=e1151]:
+                - heading "Not sure?" [level=2] [ref=e1152]
+                - paragraph [ref=e1153]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=e1154]:
+            - button "Back" [ref=e1155] [cursor=pointer]
+            - generic [ref=e1158]: 1 article selected
+            - 'button "Next: Fill and review" [ref=e1159] [cursor=pointer]'
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

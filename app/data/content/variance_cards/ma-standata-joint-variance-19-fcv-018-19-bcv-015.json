@@ -1,0 +1,38 @@
+{
+ "id": "ma-standata-joint-variance-19-fcv-018-19-bcv-015",
+ "number": "19-FCV-018/19-BCV-015",
+ "numbers": [
+  "19-FCV-018",
+  "19-BCV-015"
+ ],
+ "title": "Construction site fire safety plans",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "March 2020",
+ "revision": "",
+ "purpose": "This variance has been developed to allow building safety codes officers to accept fire safety plans for construction and demolition sites as required under Section 5.6. of the National Fire Code–2019 Alberta Edition (NFC(AE)) where fire safety codes officers are not readily available.",
+ "discussion": "Requirements for fire safety plans at construction and demolition sites are regulated under the National Building Code–2019 Alberta Edition (NBC(AE)) and the NFC(AE). Under NBC(AE) Divison B, Sentence 8.1.1.1., which applies to all buildings regulated by the NBC(AE), fire safety at construction and demolition sites shall conform to Section 5.6. of Division B of the NFC(AE). Article 5.6.1.3. of the NFC(AE), which sets out criteria for fire safety plans, requires that a fire safety plan shall be prepared for the site and accepted in writing by the fire department and the authority having jurisdiction (AHJ) prior to commencement of construction and demolition. The NFC(AE) defines the AHJ as a fire safety codes officer. ISSUE Article 5.6.1.3. is an Alberta specific code requirement and creates an unintended restriction for the acceptance of fire safety plans. The wording of 5.6.1.3. does not specifically provide for the option of a building safety codes officer accepting fire safety plans. In some areas of the province, a fire safety codes officer and fire department staff are not readily available or accessible or may not be prepared for this undertaking. Both the Provincial Building Administrator and the Provincial Fire Administrator support and encourage the practice for building and fire safety codes officers and the fire department to accept construction site fire safety plans as part of a joint risk management process. CODE REQUIREMENTS NFC(AE) Article 5.6.1.3. states: 5.6.1.3. Fire Safety Plan 1) Except as required in Sentence (2), prior to the commencement of construction, alteration or demolition operations, a fire safety plan, accepted in writing by the fire department and the authority having jurisdiction, shall be prepared for the site and shall include a) the designation and organization of site personnel to carry out fire safety duties, including a fire watch service if applicable, b) the emergency procedures to be followed in the event of a fire, including i) initiating a fire warning, ii) notifying the fire department, iii) instructing site personnel on the procedures to be followed once the warning has been initiated, and iv) confining, controlling and extinguishing the fire, c) measures for controlling fire hazards in and around the building (see Note A- 5.6.1.3.(1)(c)), and d) a maintenance procedure for firefighting measures required in Section 5.6. 2) Where construction, alteration or demolition operations occur in an existing building that is required to have a fire safety plan conforming to Section 2.8., the fire safety plan shall take into account the changes occurring to the building. NBC(AE) Division B, Article 8.1.1.1. states: 8.1.1.1. Scope 1) The scope of this Part shall be as described in Subsection 1.3.3. of Division A. 2) This Part applies to fire safety and the protection of the public during the construction, alteration or demolition of every building, including any in-completed or abandoned building. 3) Fire safety at construction and demolition sites shall conform to Section 5.6. of Division B of the NFC(AE).",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. A building safety codes officer exercising powers pursuant to their designation of powers and terms of employment in accordance with the Safety Codes Act, may accept fire safety plans as authorized under Article 8.1.1.1. of the NBC(AE) and in accordance with the terms and conditions of Section 5.6 of Division B of the NFC(AE) throughout the Province of Alberta.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. A building safety codes officer exercising powers pursuant to their designation of powers and terms of employment in accordance with the Safety Codes Act, may accept fire safety plans as authorized under Article 8.1.1.1. of the NBC(AE) and in accordance with the terms and conditions of Section 5.6 of Division B of the NFC(AE) throughout the Province of Alberta."
+ ],
+ "articles_varied": [
+  "8.1.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "8.1.1.1": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2019/ma-standata-joint-variance-19-fcv-018-19-bcv-015.pdf",
+ "source": {
+  "doc": "ma-standata-joint-variance-19-fcv-018-19-bcv-015.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,0 +1,39 @@
+{
+ "id": "14-bcv-019-insulationbelowheatedfloors",
+ "number": "14-BCV-019",
+ "numbers": [
+  "14-BCV-019"
+ ],
+ "title": "Insulation below a heated floor",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "October 2018",
+ "revision": "",
+ "purpose": "This variance has been developed to address issues with providing adequate insulation value below a heated floor in contact with the ground.",
+ "discussion": "The objective of insulation below a heated floor in contact with the ground is to reduce the environmental impact due to heat transmission to the ground from the heated floor. Under Section 9.36. of the Alberta Building Code 2014 (ABC 2014), this objective is achieved but this code provision impacts the viability of hydronic heating systems in floors in contact with the ground. Hydronic heat is an energy efficient method for heating a home that uses tubing to run a hot liquid in the floor, along base board heaters or through radiators to heat your home. Also referred to as radiant heating, this type of system has become increasingly popular in Alberta for homeowners who want added comfort and control in their heating zones, savings through lower heating bills, and a decrease in their environmental impact by making smart green building choices. There is sufficient evidence that indicates that the current under slab-insulation code provisions are excessive and jeopardize the availability of hydronic heating as an option for Albertans. The plumbing and heating industry from across Canada has also indicated that the current slab- insulation provision is more than what is needed for meeting energy efficiency objectives. Alberta Municipal Affairs supports this conclusion and will consult with the National Research Council (NRC) to recommend an appropriate insulation rating that will allow for hydronic heating installations while also supporting Alberta’s energy efficiency goals. In the interim period, this province-wide variance will allow an alternative solution to the provisions under 9.36. and is strongly recommended for use in installations below heated floors in contact with the ground by the Provincial Building Administrator of Alberta. It is important to note that this variance will not remove the insulation requirement from Section 9.36. of ABC 2014, but the variance will allow, as an alternative, less than the 4-inches of under- slab insulation where hydronic or radiant heating is installed in the province.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. A minimum RSI 0.88 (R-5) under slab insulation is in compliance when installed for a heated floor in contact with the ground where the floor is fully below frost line. 2. A minimum RSI 1.32 (R 7.5) under slab insulation is in compliance when installed for a heated floor in contact with the ground where the floor is above the frost line.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. A minimum RSI 0.88 (R-5) under slab insulation is in compliance when installed for a heated floor in contact with the ground where the floor is fully below frost line. 2. A minimum RSI 1.32 (R 7.5) under slab insulation is in compliance when installed for a heated floor in contact with the ground where the floor is above the frost line."
+ ],
+ "articles_varied": [
+  "9.36.2.8",
+  "3.2.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.36.2.8": "NBC",
+  "3.2.1.1": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/14-bcv-019-insulationbelowheatedfloors.pdf",
+ "source": {
+  "doc": "14-bcv-019-insulationbelowheatedfloors.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

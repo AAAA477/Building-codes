@@ -1,0 +1,37 @@
+{
+ "id": "14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings",
+ "number": "14-BCV-005",
+ "numbers": [
+  "14-BCV-005"
+ ],
+ "title": "Prefabricated buildings, modules, and panels",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "May 2017",
+ "revision": "",
+ "purpose": "To recognize the acceptability of CSA-A277-16 “Procedure for certification of prefabricated buildings, modules, and panels”.",
+ "discussion": "The Alberta Building Code 2014 (ABC 2014) applies the same requirements to site-built and factory-constructed buildings. It may be difficult to determine whether a factory-constructed building complies with the ABC 2014 once it has been delivered to the construction site because many of the wall, roof and floor assemblies are closed in and their components cannot be inspected. CSA A277-16, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” was developed to address this problem with regard to residential, commercial and industrial buildings. CSA-A277-08 “Procedure for factory certification of buildings” is the current standard referenced in ABC 2014, and was recently updated to CSA-A277-16. CSA-A277-16 has updated criteria that is aligned with the requirements of the ABC 2014 and provides greater safety performance than the currently referenced CSA-A277-08 edition.  CSA-A277-16 includes but is not limited to the following categories: Energy Performance  Thermal Performance  Trade-offs related to Thermal Resistance Performance  Occupancy Classifications  Part 10 of the ABC",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. Under section 38 of the Safety Codes Act, a written variance may apply to any thing, process or activity to which the Act applies, including any code, standards or body of rules declared in force by this Act. The Act is paramount to the ABC 2014, which is why variances may be issued related to Division C of the ABC 2014. Certification in conformance with CSA A277-16, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” is considered to comply with ABC 2014 Division C, Article 2.4.5.1. Factory-Built Assemblies. CSA A277-16, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” ISBN : 978-1-4883-0209-1 published and distributed by: CSA Group 178 Rexdale Boulevard, Toronto, Ontario Canada M9W 1R3 Toll-Free Phone Number: 1-800-463-6727 Phone Number: (416)-747-4044 Web: shop.csa.ca",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. Under section 38 of the Safety Codes Act, a written variance may apply to any thing, process or activity to which the Act applies, including any code, standards or body of rules declared in force by this Act. The Act is paramount to the ABC 2014, which is why variances may be issued related to Division C of the ABC 2014. Certification in conformance with CSA A277-16, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” is considered to comply with ABC 2014 Division C, Article 2.4.5.1. Factory-Built Assemblies. CSA A277-16, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” ISBN : 978-1-4883-0209-1 published and distributed by: CSA Group 178 Rexdale Boulevard, Toronto, Ontario Canada M9W 1R3 Toll-Free Phone Number: 1-800-463-6727 Phone Number: (416)-747-4044 Web: shop.csa.ca"
+ ],
+ "articles_varied": [
+  "2.4.5.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "2.4.5.1": "NFC"
+ },
+ "conditions": [],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings.pdf",
+ "source": {
+  "doc": "14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

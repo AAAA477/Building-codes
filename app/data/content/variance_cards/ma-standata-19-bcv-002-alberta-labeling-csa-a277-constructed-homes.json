@@ -1,0 +1,52 @@
+{
+ "id": "ma-standata-19-bcv-002-alberta-labeling-csa-a277-constructed-homes",
+ "number": "19-BCV-002",
+ "numbers": [
+  "19-BCV-002"
+ ],
+ "title": "Alberta labeling for csa a277 constructed homes",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "December 2019",
+ "revision": "",
+ "purpose": "This variance recognizes CSA A277, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” labels (without accompaniment of an Alberta Municipal Affairs label) for factory-constructed and other off-site-constructed homes as proof of conformance with Part 9 of the National Building Code–2019 Alberta Edition (NBC(AE)).",
+ "discussion": "In light of CSA A277, “Procedure for Certification of Prefabricated Buildings, Modules, and Panels,” already being a prescribed requirement in Sentence 2.4.5.1.(2) of Division C of the NBC(AE) for factory-constructed and other off-site-constructed buildings, constructors certified under CSA A277 do not require provincial labels for the homes they produce. The CSA A277 standard provides the process for an independent certification agency to review the quality system of a constructor and periodically conduct unannounced audits of the constructor’s quality system to verify ongoing compliance. Sentence 2.4.5.1.(2) of Division C of the NBC(AE) states that CSA A277 certification confirms “the building complies with the technical requirements, or objectives and functional statements, of this Code.” A factory-constructed building bearing a CSA A277 certification label of an accredited certification agency indicates the building is constructed in compliance with the CSA A277 standard and the building construction is deemed to comply with the NBC(AE). There is no prescriptive requirement for the Alberta Label for factory-constructed homes; however, the requirement for Alberta Labels on factory-constructed homes has been the normal practice by industry and regulatory stakeholders in addition to the CSA A277 labeling. A variance to provide assurance that factory-constructed homes certified under CSA A277 provide equivalent safety performance to the Alberta Label will be of assistance for both industry and authorities having jurisdiction.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. Factory-constructed homes bearing a CSA A277 certification label are considered acceptable verification that the home was designed and built in compliance with Part 9 of the NBC(AE). 2. The Alberta-specific label is not required in addition to the CSA A277 certification label and applicable specification sheet.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. Factory-constructed homes bearing a CSA A277 certification label are considered acceptable verification that the home was designed and built in compliance with Part 9 of the NBC(AE). 2. The Alberta-specific label is not required in addition to the CSA A277 certification label and applicable specification sheet."
+ ],
+ "articles_varied": [
+  "2.4.5.1",
+  "1.1.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "2.4.5.1": "NFC",
+  "1.1.1.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "Factory-constructed homes bearing a CSA A277 certification label are considered acceptable verification that the home was designed and built in compliance with Part 9 of the NBC(AE).",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "The Alberta-specific label is not required in addition to the CSA A277 certification label and applicable specification sheet.",
+   "page": 2
+  }
+ ],
+ "applies_to": "This variance applies to any building indicating compliance to the NBC(AE) in accordance to the certification listing of the manufacturer under the CSA A277 program, constructed on or after December 16, 2019.",
+ "pdf": "files/standata/variances_2019/ma-standata-19-bcv-002-alberta-labeling-csa-a277-constructed-homes.pdf",
+ "source": {
+  "doc": "ma-standata-19-bcv-002-alberta-labeling-csa-a277-constructed-homes.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,0 +1,41 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-007-2024-05",
+ "number": "23-BCV-007",
+ "numbers": [
+  "23-BCV-007"
+ ],
+ "title": "Maximum span values for joists, rafters and beams",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "May 2024",
+ "revision": "",
+ "purpose": "To recognize the acceptability of the values within the “The Span Book” published by the Canadian Wood Council (CWC).",
+ "discussion": "Article 9.23.4.2. of the National Building Code - 2023 Alberta Edition (NBC(AE)) references the span tables located at the end of Part 9 for determining the maximum permissible spans of joists, rafters, and beams under various loading conditions. These tables are formulated by the CWC on behalf of the National Research Council of Canada, as noted in the Appendix Note A-9.23.4.2.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). The values for the maximum spans of joists, rafters, and beams referenced in Article 9.23.4.2. of the NBC(AE) are permitted to be determined using the values from: The Span Book (2020 Edition) ISBN: 978-1-989039-06-9 available for purchase, published and distributed by: The Canadian Wood Council 99 Bank Street, Suite 420 Ottawa, Ontario K1P 6B9 Phone Number: (613) 747-5544 Fax Number: (613) 747-6264 Web: www.cwc.ca",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). The values for the maximum spans of joists, rafters, and beams referenced in Article 9.23.4.2. of the NBC(AE) are permitted to be determined using the values from: The Span Book (2020 Edition) ISBN: 978-1-989039-06-9 available for purchase, published and distributed by: The Canadian Wood Council 99 Bank Street, Suite 420 Ottawa, Ontario K1P 6B9 Phone Number: (613) 747-5544 Fax Number: (613) 747-6264 Web: www.cwc.ca"
+ ],
+ "articles_varied": [
+  "9.23.4.2",
+  "9.23.14.10",
+  "9.4.2.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.23.4.2": "NBC",
+  "9.23.14.10": "NBC",
+  "9.4.2.2": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to the alternative configuration of joists, rafters, and beams available in ‘The Span Book’ published by CWC.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-007-2024-05.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-007-2024-05.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

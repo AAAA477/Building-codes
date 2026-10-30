@@ -87,7 +87,7 @@ Rubric weights (from the challenge brief): Intake 20% · Code identification 20%
 | F13 | Data model shaped like the SCC form; Calgary and Edmonton as overlays | P0 | Portability |
 | F14 | Provenance on every field: *applicant said*, *code lookup*, *AI draft*, *needs professional* | P0 | Intake |
 | F15 | Edmonton emergency-services screen (four questions from COE-IM-GUIDE-0040; F06/F12/F13 trigger) and ITM/commissioning documentation prompt | P1 | Recommendations |
-| F16 | "Does a variance already exist?" search over STANDATA variances, bulletins and interpretations | P1 | Code ID |
+| F16 | "Does a variance already exist?" search over STANDATA variances, bulletins and interpretations. Extended by structured variance cards, condition checklists and import of a started draft: see `docs/superpowers/specs/2026-10-29-variance-cards-design.md` | P1 | Code ID |
 | F17 | Pre-application meeting brief (one page) | P1 | Applicability |
 | F18 | Plain-language glossary for objective, function, intent, acceptable solution | P1 | Applicability |
 | F19 | Baseline vs alternative cost comparison: two-stair baseline vs one stair plus mitigations, **sample data clearly labelled**, ranges and assumptions visible, safety checks shown separately from price | P2 | n/a (team add-on) |

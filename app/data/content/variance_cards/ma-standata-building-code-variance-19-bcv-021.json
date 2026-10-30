@@ -1,0 +1,39 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-021",
+ "number": "19-BCV-021",
+ "numbers": [
+  "19-BCV-021"
+ ],
+ "title": "Off-site review of buildings",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "January 2022",
+ "revision": "",
+ "purpose": "To clarify the intent of off-site review as applicable to off-site construction of buildings.",
+ "discussion": "Off-site construction of buildings is a process of maximizing the delivery of building products as much as possible as one module/building. Currently it has become a well-suited solution to control project schedules and budgets while controlling quality and reducing environmental impact. Regulatory compliance of off-site construction is currently addressed under Division C Sentence 2.4.5.1.(2) of National Building Code-2019 Alberta Edition (NBC(AE)) by seeking certification from an accredited third party in accordance with the CSA A277 standard. Alberta recognizes the standard as confirming the building complies with the technical requirements, or objectives and functional statements, of the NBC(AE). Method of off-site review by registered professionals and/or inspections by the Authority Having Jurisdiction (AHJ) achieves a minimum level of performance as required by the NBC(AE) in areas defined by the code objectives. Additionally, functional statements on the applicable acceptable solution may be considered as an alternative to achieving code compliance. CSA-A660 “Certification of manufacturers of steel building systems” may be recognized for completed steel building modules. An additional letter of assurance by a registered professional or permit service report by an AHJ will be required for any installation of building services. (such as electrical, plumbing, HVAC, building envelope). www.alberta.ca/building-standata.aspx",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act. The following alternative methods as applicable are deemed acceptable to ensure compliance with NBC(AE) for off-site constructed buildings: 1. Certified in accordance with CSA A660 by an accredited organization with an A660 Certificate of Design and Manufacturing Conformance for completed steel building modules. (I) 2. Verified by registered architectural/engineering professionals in accordance with Division C, Subsections 2.4.3., 2.4.4., and 2.4.5. of the NBC(AE).(i) 3. Verified through off-site inspections by the (AHJ) at the location of the work being undertaken. (ii) Notes: (i) Design drawings, specifications, and letter of conformance imprinted with the seals or stamps of a registered professional are required for this method. (ii) If off-site inspection by the local authority where construction is carried out is not feasible, on-site inspection may be performed for critical items mutually agreed upon by the AHJ and permit applicant during the plan examination stage. This may be listed as a condition at the time of the permit is issued.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act. The following alternative methods as applicable are deemed acceptable to ensure compliance with NBC(AE) for off-site constructed buildings: 1. Certified in accordance with CSA A660 by an accredited organization with an A660 Certificate of Design and Manufacturing Conformance for completed steel building modules. (I) 2. Verified by registered architectural/engineering professionals in accordance with Division C, Subsections 2.4.3., 2.4.4., and 2.4.5. of the NBC(AE).(i) 3. Verified through off-site inspections by the (AHJ) at the location of the work being undertaken. (ii) Notes: (i) Design drawings, specifications, and letter of conformance imprinted with the seals or stamps of a registered professional are required for this method. (ii) If off-site inspection by the local authority where construction is carried out is not feasible, on-site inspection may be performed for critical items mutually agreed upon by the AHJ and permit applicant during the plan examination stage. This may be listed as a condition at the time of the permit is issued."
+ ],
+ "articles_varied": [
+  "2.4.5.1",
+  "1.2.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "2.4.5.1": "NFC",
+  "1.2.1.1": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to off-site constructed buildings (except relocatable industrial camp buildings).",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-021.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-021.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

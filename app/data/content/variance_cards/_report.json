@@ -1,0 +1,57 @@
+{
+ "total": 74,
+ "by_edition": {
+  "NBC(AE) 2014": 23,
+  "NBC(AE) 2019": 32,
+  "NBC(AE) 2023": 19
+ },
+ "parsed": 74,
+ "needs_review": [],
+ "unverified_articles": {
+  "14-bcv-015-multi-levelstoragerackingsystems": [
+   "5.3.4.1",
+   "5.3.4.2"
+  ],
+  "ma-standata-19-bcv-008-multi-level-storage-racking-systems": [
+   "5.3.4.1",
+   "5.3.4.2"
+  ]
+ },
+ "no_numbered_conditions": [
+  "14-bcv-002-tallwall",
+  "14-bcv-002r1-tallwall",
+  "14-bcv-003-winddataforlow-rise-buildings",
+  "14-bcv-003r1-winddataforlow-rise-buildingsbild",
+  "14-bcv-004-spansjoistsrafterandbeams",
+  "14-bcv-005-csa-a277procedureforcertificationofprefabricatedbuildings",
+  "14-bcv-006-elevatorsandpassengerelevatingdevices",
+  "14-bcv-008-separationofsuitesinstripmalls",
+  "14-bcv-010-interconnectedsmokealarms",
+  "14-bcv-017-energuideratingsystem",
+  "14-bcv-019-insulationbelowheatedfloors",
+  "ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices",
+  "ma-standata-19-bcv-004-energuide-rating-system-for-new-homes",
+  "ma-standata-19-bcv-005-insulation-below-heated-floors",
+  "ma-standata-19-bcv-006-interconnected-smoke-alarms",
+  "ma-standata-19-bcv-012-spans-for-joists-rafters-and-beams",
+  "ma-standata-building-code-variance-19-bcv-018r2",
+  "ma-standata-building-code-variance-19-bcv-020rev1",
+  "ma-standata-building-code-variance-19-bcv-021",
+  "ma-standata-building-code-variance-19-bcv-022",
+  "ma-standata-building-code-variance-19-bcv-023",
+  "ma-standata-building-code-variance-19-bcv-024",
+  "ma-standata-joint-variance-19-bcv-003-rev1-19-edb-001",
+  "ma-standata-joint-variance-19-bcv-014-19-fcv-019",
+  "ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03",
+  "ma-standata-joint-variance-19-fcv-018-19-bcv-015",
+  "ma-standata-variance-building-19-bcv-024-rev1-2024-02",
+  "ma-standata-variance-building-19-bcv-025",
+  "ma-standata-variance-building-23-bcv-002-2024-05",
+  "ma-standata-variance-building-23-bcv-007-2024-05",
+  "ma-standata-variance-building-23-bcv-008-2024-06",
+  "ma-standata-variance-building-23-bcv-011-2025-02",
+  "ma-standata-variance-building-23-bcv-011r1-2026-10",
+  "ma-standata-variance-building-23-bcv-017-2025-09"
+ ],
+ "overridden": []
+}

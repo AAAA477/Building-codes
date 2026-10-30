@@ -1,0 +1,43 @@
+{
+ "id": "14-bcv-010-interconnectedsmokealarms",
+ "number": "14-BCV-010",
+ "numbers": [
+  "14-BCV-010"
+ ],
+ "title": "Interconnected smoke alarms",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "October 2017",
+ "revision": "",
+ "purpose": "To provide an alternative solution to the requirement for interconnecting smoke alarms by wire under the Alberta Building Code (ABC) 2014.",
+ "discussion": "Smoke alarms and their installation in new dwellings must conform to the requirements of the ABC 2014. Smoke alarms shall conform to the CAN/ULC-S531, “Smoke-Alarms” manufacturing standard and be installed to CAN/ULC-S553, “Installation of Smoke-Alarms.” Under the ABC 2014, all required smoke alarms shall be interconnected. Under the ABC 2014, smoke alarms must be provided with power from a hardwired source and provided with a battery back-up. To satisfy the requirement for interconnected smoke alarms, historically the only option available to industry had been to connect the smoke alarms by hard wiring. Certified smoke alarms that utilise wireless interconnection technology have been available for some time, but were prevented from installation because of the common understanding that the ABC prohibited wireless technology for this purpose. The intent of the requirement for interconnected smoke alarms in the ABC 2014 is to limit the probability that persons in one part of the dwelling unit or any part of the house with a secondary suite will not be promptly notified of a fire in another part of the dwelling unit, or any part of the house with a secondary suite. Sentence 3.2.4.21.(9) of the ABC 2014 includes the wording that “if more than one smoke alarm is required in a dwelling unit, the smoke alarms shall be wired so that the actuation of one smoke alarm will cause all smoke alarms within the dwelling unit to sound.” The actuation of one smoke alarm that will cause all smoke alarms to sound may be achieved by wired or wireless systems using certified equipment. Hardwiring between smoke alarms was the industry method available during the original code development. Under CAN/ULC-S553, “Installation of Smoke-Alarms” standard, interconnected smoke alarms are “installed to operate in combination with other smoke-alarms to provide common signalling on all smoke-alarms such that activation of one smoke-alarm will cause all connected smoke- alarms to sound.” While the referenced standard is subordinate to the requirements of the ABC 2014, the wording of the standard is further evidence for interpreting the meaning of the words “shall be wired” under the ABC 2014 to mean “shall be connected”.",
+ "variance_text": "This variance, which can be applied to new and existing buildings, provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the ABC 2014 and the AFC 2014. A smoke alarm that is certified in conformance with CAN/ULC-S531, “Smoke-Alarms” and uses a wireless interconnection system is an acceptable alternative solution to the interconnection requirements of Sentence 3.2.4.21.(9) and Sentences 9.10.19.5.(1) and (2) in the ABC 2014.",
+ "variance_parts": [
+  "This variance, which can be applied to new and existing buildings, provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the ABC 2014 and the AFC 2014. A smoke alarm that is certified in conformance with CAN/ULC-S531, “Smoke-Alarms” and uses a wireless interconnection system is an acceptable alternative solution to the interconnection requirements of Sentence 3.2.4.21.(9) and Sentences 9.10.19.5.(1) and (2) in the ABC 2014."
+ ],
+ "articles_varied": [
+  "3.2.4.21",
+  "9.10.19.5",
+  "9.10.19.4",
+  "9.10.19.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.2.4.21": "NBC",
+  "9.10.19.5": "NBC",
+  "9.10.19.4": "NBC",
+  "9.10.19.1": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This Variance applies where smoke alarms are required to be interconnected under the ABC 2014, so that the actuation of one smoke alarm will cause all interconnected smoke alarms within the dwelling unit or any part of a house with a secondary suite to sound.",
+ "pdf": "files/standata/variances_2014/14-bcv-010-interconnectedsmokealarms.pdf",
+ "source": {
+  "doc": "14-bcv-010-interconnectedsmokealarms.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

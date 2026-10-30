@@ -1,17 +1,17 @@
 """Pydantic models matching app/CONTRACT.md plus JSON-file persistence."""
 from __future__ import annotations
-import copy, json, uuid
+import copy, json, os, uuid
 from pathlib import Path
 from typing import Any, Optional
 from pydantic import BaseModel, ConfigDict, Field
 
 BASE = Path(__file__).resolve().parent
 DATA = BASE.parent / "data"
-STORE_DIR = DATA / "store"
+STORE_DIR = Path(os.environ["STORE_DIR"]) if os.environ.get("STORE_DIR") else DATA / "store"  # evidence + local fallback (Railway: mount a volume)
 SAMPLES_DIR = DATA / "samples"
 CONTENT_DIR = DATA / "content"
 EDITION = "NBC(AE) 2023"
-PROVENANCE_SOURCES = ("applicant", "lookup", "ai_draft", "needs_professional")
+PROVENANCE_SOURCES = ("applicant", "lookup", "ai_draft", "needs_professional", "precedent")
 
 
 class _M(BaseModel):
@@ -208,8 +208,21 @@ def set_path(d: dict, path: str, value) -> None:
 _MEM: dict[str, dict] = {}
 
 
+def _db():
+    """Postgres store (Supabase) when DATABASE_URL is set; None means local JSON files."""
+    import pgstore
+    return pgstore if pgstore.enabled() else None
+
+
 def save(app: dict) -> dict:
     _MEM[app["id"]] = app
+    db = _db()
+    if db:
+        try:
+            db.put(app["id"], app)
+            return app
+        except Exception:
+            pass   # fall through to the local copy rather than lose the edit
     try:
         STORE_DIR.mkdir(parents=True, exist_ok=True)
         (STORE_DIR / f"{app['id']}.json").write_text(json.dumps(app, indent=2), encoding="utf-8")
@@ -221,6 +234,15 @@ def save(app: dict) -> dict:
 def load(app_id: str) -> Optional[dict]:
     if app_id in _MEM:
         return _MEM[app_id]
+    db = _db()
+    if db:
+        try:
+            got = db.get(app_id)
+        except Exception:
+            got = None
+        if got is not None:
+            _MEM[app_id] = got
+            return got
     f = STORE_DIR / f"{Path(app_id).name}.json"
     if f.exists():
         try:

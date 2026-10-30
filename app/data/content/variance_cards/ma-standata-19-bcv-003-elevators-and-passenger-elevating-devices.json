@@ -1,0 +1,41 @@
+{
+ "id": "ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices",
+ "number": "19-BCV-003",
+ "numbers": [
+  "19-BCV-003"
+ ],
+ "title": "Elevator and passenger-elevating devices",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "December 2019",
+ "revision": "",
+ "purpose": "This variance has been developed regarding the use of a passenger elevator where a lift for persons with physical disabilities (LPPD) that conforms to the CSA-B355 standard would suffice to meet the requirements of a barrier free path of travel.",
+ "discussion": "Elevators are designed and constructed to ASME A17.1/CSA B44-13, “Safety Code for Elevators and Escalators” and not to the CAN/CSA-B355 “Lifts for Persons with Physical Disabilities.” Some instances in the past, safety codes officers questioned the use of an elevator that does not meet the size requirements to accommodate a stretcher when substituted for a lift, as the National Building Code-2019 Alberta Edition (NBC(AE)) has a separate requirement that passenger elevators be large enough to accommodate a stretcher. Not all elevator car sizes listed in Table E-1 “Minimum Dimensions of Elevator Cars” in Appendix E of ASME A17.1/CSA B44 have the space requirements to handle a stretcher. One of the stipulations in the CSA-B355-09, “Lifts for Persons with Physical Disabilities” standard is that a lift would be restricted to a maximum rise of 7000 mm.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Where an passenger elevator is used instead of a lift conforming to CSA-B355 “Lifts for Persons with Physical Disability”, the elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) provided: a) the elevator is restricted to a maximum rise of 7000 mm, and b) the elevator car dimensions are not less than the minimum as set-out in Table 1 of the CSA-B355 standard. If you are installing an elevating device as a substitute for a Lift for Persons with Physical Disabilities refer to STANDATA ED-2009-005-R1 Elevating Devices Codes Regulation (New Installations). All new automatic elevators must have Firefighters’ Emergency Operation (FEO) except where the travel does not exceed 7000 mm Currently under the NBC(AE) , FEO is not required for Lifts for Persons with Physical Disabilities (LPPD) that have a travel of 7000 mm or less. Therefore, an elevator that is substituted for LPPD would not require FEO.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act and the NBC(AE). Where an passenger elevator is used instead of a lift conforming to CSA-B355 “Lifts for Persons with Physical Disability”, the elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) provided: a) the elevator is restricted to a maximum rise of 7000 mm, and b) the elevator car dimensions are not less than the minimum as set-out in Table 1 of the CSA-B355 standard. If you are installing an elevating device as a substitute for a Lift for Persons with Physical Disabilities refer to STANDATA ED-2009-005-R1 Elevating Devices Codes Regulation (New Installations). All new automatic elevators must have Firefighters’ Emergency Operation (FEO) except where the travel does not exceed 7000 mm Currently under the NBC(AE) , FEO is not required for Lifts for Persons with Physical Disabilities (LPPD) that have a travel of 7000 mm or less. Therefore, an elevator that is substituted for LPPD would not require FEO."
+ ],
+ "articles_varied": [
+  "3.5.4.1",
+  "3.8.3.5",
+  "3.8.3.7"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "3.5.4.1": "NBC",
+  "3.8.3.5": "NBC",
+  "3.8.3.7": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance only applies to buildings where an elevator is substituted for a lift.",
+ "pdf": "files/standata/variances_2019/ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices.pdf",
+ "source": {
+  "doc": "ma-standata-19-bcv-003-elevators-and-passenger-elevating-devices.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -18,6 +18,17 @@ export interface TopIssue { id: string; label: string; why?: string; group?: Gro
 export interface Meters { admin: Meter2; technical: Meter2; signatures: Meter2 }
 export interface Precedent { id: string; source_type: string; jurisdiction?: string; title: string; doc?: string; page?: number | string; issue_date?: string; articles_cited?: string[]; quote?: string; why_relevant?: string; legal_status_note?: string; citation?: string; quote_truncated_start?: boolean; quote_truncated_end?: boolean }
 export interface PrecedentResult { coverage: 'possible' | 'none'; items: Precedent[]; note?: string }
+export type VarianceState = 'covered' | 'conditional' | 'near_miss' | 'none'
+export type ConditionAnswer = 'yes' | 'no' | 'unsure'
+export interface VarianceCondition { index: number; label: string; text: string; page: number; answer: ConditionAnswer | 'unanswered' }
+export interface VarianceItem {
+  number: string; title: string; edition: string; date_issued: string; hint: 'covered_candidate' | 'near_miss'
+  state: Exclude<VarianceState, 'none'>; reason: string; matched_articles: string[]; earlier_edition: boolean
+  conditions: VarianceCondition[]; gaps: VarianceCondition[]; message: string; variance_text: string; source: { doc: string; page: number }
+}
+export interface VarianceMatch { outcome: VarianceState; items: VarianceItem[]; note?: string }
+export interface StartingPointItem { id: string; kind: 'precedent'; field_path: string; label: string; value: unknown; append?: boolean; why?: string; source?: { doc: string; page: number } }
+export interface ImportReport { source: 'form' | 'pdf_text' | 'text'; filled: string[]; unmapped: { label: string; text: string }[]; unverified_citations: string[]; declarations_seen_ticked: string[]; warnings: string[] }
 export interface OverlayCheck { id: string; label: string; kind?: string; status: string; why?: string; source?: string; answer?: string }
 export interface OverlayQuestion { id: string; prompt: string; help?: string; options: string[]; source?: string; answer?: string }
 export interface Overlay { jurisdiction: string; label: string; note?: string; sections: { id: string; title: string; checks: OverlayCheck[] }[]; questions: OverlayQuestion[] }

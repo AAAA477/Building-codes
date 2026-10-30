@@ -1,0 +1,54 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-003-2024-05",
+ "number": "23-BCV-003",
+ "numbers": [
+  "23-BCV-003"
+ ],
+ "title": "Insulation below a heated floor",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "May 2024",
+ "revision": "",
+ "purpose": "To provide an alternative solution for providing adequate insulation value below a heated floor in contact with the ground.",
+ "discussion": "The objective of insulation below a heated floor in contact with the ground is to reduce the environmental impact due to heat transmission to the ground from the heated floor. Section 9.36. of the National Building Code – 2023 Alberta Edition (NBC(AE)) ensures this objective is achieved. However, this code provision impacts the viability of hydronic heating systems in floors in contact with the ground. Hydronic heat is an energy efficient method for heating a home that uses tubing to run a hot liquid in the floor, along base board heaters or through radiators to heat your home. Also referred to as radiant heating, this type of system has become increasingly popular in Alberta for homeowners who want added comfort and control in their heating zones, savings through lower heating bills, and a decrease in their environmental impact by making smart green building choices. Current under slab-insulation code provisions do not take into account hydronic heating systems as an appropriate method of adequate insulation value below a heated floor in contact with the ground. Municipal Affairs identified that the provisions for current slab-insulation are more than what is required to meet energy efficiency objectives and is consulting with the National Research Council (NRC) to recommend an appropriate insulation rating that will allow for hydronic heating installations while also supporting Alberta’s energy efficiency goals. This province-wide variance will allow an alternative solution to the provisions under Section 9.36. for use in installations below heated floors in contact with the ground. It is important to note, this variance will not remove the insulation requirement from Section 9.36. of NBC(AE), but the variance will allow, as an alternative, less than the RSI 2.84 (R-16) of under-slab insulation where hydronic or radiant floor heating is installed in the province.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. A minimum RSI 1.32 (R 7.5) under slab insulation complies when installed for a heated floor in contact with the ground.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. A minimum RSI 1.32 (R 7.5) under slab insulation complies when installed for a heated floor in contact with the ground."
+ ],
+ "articles_varied": [
+  "9.36.2.8",
+  "9.36.2.5",
+  "9.36.3.9",
+  "9.38.1.1",
+  "2.2.1.1",
+  "3.2.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.36.2.8": "NBC",
+  "9.36.2.5": "NBC",
+  "9.36.3.9": "NBC",
+  "9.38.1.1": "NBC",
+  "2.2.1.1": "NBC",
+  "3.2.1.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "A minimum RSI 1.32 (R 7.5) under slab insulation complies when installed for a heated floor in contact with the ground.",
+   "page": 3
+  }
+ ],
+ "applies_to": "This variance applies to Part 9 buildings where a heating system creates a heated floor in contact with the ground, either fully below the frost line or above the frost line.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-003-2024-05.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-003-2024-05.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

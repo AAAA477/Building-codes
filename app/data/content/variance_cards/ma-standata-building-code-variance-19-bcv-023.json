@@ -1,0 +1,43 @@
+{
+ "id": "ma-standata-building-code-variance-19-bcv-023",
+ "number": "19-BCV-023",
+ "numbers": [
+  "19-BCV-023"
+ ],
+ "title": "Insulation values for flat or cathedral roofs serving residential garages",
+ "kind": "variance",
+ "edition": "NBC(AE) 2019",
+ "date_issued": "April 2022",
+ "revision": "",
+ "purpose": "This variance addresses thermal resistance requirements for flat and cathedral roofs above attached garages and heated detached garages for residential occupancies.",
+ "discussion": "The National Building Code - 2019 Alberta Edition (NBC(AE)) Section 9.25.2.1. requires RSI 6.0 effective thermal insulation value for roof ceiling assemblies for roofs above attached garages and heated detached garages. The objective is to eliminate condensation issues for heated detached garages or if attached garages are to be heated in the future. This requirement assumes an attic style roof and not a flat or cathedral style roof. These values are different from the thermal insulation requirements listed in (NBC(AE)) Section 9.36. alberta.ca/building-codes-and-standards.aspx",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. Thermal insulation values listed in NBC(AE) Section 9.36. Tables 9.36.2.6.-A and 9.36.2.6.-B are permitted to be used for both flat and cathedral roofs above attached garages and heated detached garages for residential occupancies.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act. 1. Thermal insulation values listed in NBC(AE) Section 9.36. Tables 9.36.2.6.-A and 9.36.2.6.-B are permitted to be used for both flat and cathedral roofs above attached garages and heated detached garages for residential occupancies."
+ ],
+ "articles_varied": [
+  "9.25.2.1",
+  "9.36.2.6",
+  "1.1.3.1",
+  "9.36.2.8"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.25.2.1": "NBC",
+  "9.36.2.6": "NBC",
+  "1.1.3.1": "NBC",
+  "9.36.2.8": "NBC"
+ },
+ "conditions": [],
+ "applies_to": "This variance applies to flat or cathedral roofs serving residential attached garages or heated detached garages.",
+ "pdf": "files/standata/variances_2019/ma-standata-building-code-variance-19-bcv-023.pdf",
+ "source": {
+  "doc": "ma-standata-building-code-variance-19-bcv-023.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,0 +1,56 @@
+{
+ "id": "jointafc-bcvfiresafetyplans-april2016",
+ "number": "14-BCV-001/AFC 5.6.1.3",
+ "numbers": [
+  "14-BCV-001"
+ ],
+ "title": "Construction site fire safety plans",
+ "kind": "variance",
+ "edition": "NBC(AE) 2014",
+ "date_issued": "April 2016",
+ "revision": "",
+ "purpose": "This STANDATA has been developed to allow building safety codes officers to accept fire safety plans for construction and demolition sites as required under Section 5.6. of the Alberta Fire Code 2014 where fire safety codes officers are not readily available.",
+ "discussion": "Requirements for fire safety plans at construction and demolition sites are regulated under the Alberta Building Code 2014 (ABC) and the Alberta Fire Code 2014 (AFC). Under ABC 8.1.1.1., which applies to all buildings regulated by the ABC, fire safety at construction and demolition sites shall conform to Section 5.6. of Division B of the AFC. Article 5.6.1.3. of the AFC, which sets out criteria for fire safety plans, requires that a fire safety plan shall be prepared for the site and accepted in writing by the fire department and the authority having jurisdiction prior to commencement of construction and demolition. The AFC defines the authority having jurisdiction as a fire safety codes officer. ISSUE Article 5.6.1.3. is an Alberta specific code requirement and creates an unintended restriction for the acceptance of fire safety plans. The wording of 5.6.1.3. does not specifically provide for the option of a building safety codes officer accepting fire safety plans. In some areas of the province, a fire safety codes officer and fire department staff are not readily available or accessible or may not be prepared for this undertaking. Both the Chief Building Administrator and the Chief Fire Administrator support and encourage the practice for building and fire safety codes officers and the fire department to accept construction site fire safety plans as part of a joint risk management process. While the intent of the 2014 changes to Article 5.6.1.3. was to provide a clear method for information dissemination and enforcement, this code requirement will be reassessed as part of Alberta’s national/provincial code harmonization project for the next Alberta building and fire code editions. In the duration, a variance is necessary to provide authority for building safety codes officers to accept fire safety plans, where fire safety codes officers and fire departments are not readily available, as a matter of public safety. All Code references in this STANDATA are to Division B of the Alberta Fire and Building Codes 2014. Issue of this Joint STANDATA is authorized by the Chief Fire and Building Administrator [Original Signed] [Original Signed] Kevan Jess James Orr Alberta Municipal Affairs – Safety Services, 16th Floor, 10155-102 Street, Edmonton, Alberta, Canada, T5J 4L4 Safety Codes Council, Suite 1000, 10665 Jasper Avenue, Edmonton, Alberta, Canada, T5J 3S9 AFC 5.6.1.3. CODE REQUIREMENTS Alberta Fire Code 2014 Alberta Building Code 2014",
+ "variance_text": "A building safety codes officer exercising powers pursuant to their designation of powers and terms of employment in accordance with the Safety Codes Act, may accept fire safety plans as authorized under Article 8.1.1.1. of the ABC and in accordance with the terms and conditions of Section 5.6 of Division B of the AFC throughout the Province of Alberta.",
+ "variance_parts": [
+  "A building safety codes officer exercising powers pursuant to their designation of powers and terms of employment in accordance with the Safety Codes Act, may accept fire safety plans as authorized under Article 8.1.1.1. of the ABC and in accordance with the terms and conditions of Section 5.6 of Division B of the AFC throughout the Province of Alberta."
+ ],
+ "articles_varied": [
+  "8.1.1.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "8.1.1.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "The scope of this Part shall be as described in Subsection 1.3.3. of Division A.",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "This Part applies to fire safety and the protection of the public during the construction, alteration or demolition of every building, including any incompleted or abandoned building.",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "Fire safety at construction and demolition sites shall conform to Section 5.6. of Division B of the Alberta Fire Code 2014. 5.6.1.3. Fire Safety Plan 1) Except as required in Sentence (2), prior to the commencement of construction, alteration or demolition operations, a fire safety plan, accepted in writing by the fire department and the authority having jurisdiction, shall be prepared for the site and shall include a) the designation and organization of site personnel to carry out fire safety duties, including a fire watch service if applicable, b) the emergency procedures to be followed in the event of a fire, including i) initiating a fire warning, ii) notifying the fire department, iii) instructing site personnel on the procedures to be followed once the warning has been initiated, and iv) confining, controlling and extinguishing the fire, c) measures for controlling fire hazards in and around the building (see Appendix A), and d) a maintenance procedure for firefighting measures required in Section 5.6. 2) Prior to the commencement of construction, alteration or demolition operations that occur in an existing building required to have a fire safety plan conforming to Section 2.8., the revised fire safety plan shall take into account the changes occurring to the building and shall be accepted in writing by the fire department and the authority having jurisdiction. 3) Where construction, alteration or demolition involves hot work, a fire safety plan, accepted in writing by the fire department and the authority having jurisdiction, shall be prepared for the site.",
+   "page": 2
+  }
+ ],
+ "applies_to": "",
+ "pdf": "files/standata/variances_2014/jointafc-bcvfiresafetyplans-april2016.pdf",
+ "source": {
+  "doc": "jointafc-bcvfiresafetyplans-april2016.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

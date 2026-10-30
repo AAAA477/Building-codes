@@ -1,0 +1,277 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e24]: Saved automatically
+        - group "View as" [ref=e11]:
+          - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+          - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e25]:
+      - navigation "Application steps" [ref=e26]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - button "Describe, 10 open" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: "1"
+              - generic [ref=e31]: Describe
+              - generic [ref=e32]: 10 open
+          - listitem [ref=e33]:
+            - button "Rules, nothing open" [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: "2"
+              - generic [ref=e36]: Rules
+              - generic [ref=e37]: clear
+          - listitem [ref=e38]:
+            - button "Fill and review, 14 open, locked" [disabled] [ref=e39]:
+              - generic [ref=e40]: "3"
+              - generic [ref=e41]: Fill and review
+              - generic [ref=e42]: 14 open
+          - listitem [ref=e43]:
+            - button "Submit, 3 open, locked" [disabled] [ref=e44]:
+              - generic [ref=e45]: "4"
+              - generic [ref=e46]: Submit
+              - generic [ref=e47]: 3 open
+          - listitem [ref=e48]:
+            - button "After submitting, nothing open, locked" [disabled] [ref=e49]:
+              - generic [ref=e50]: "5"
+              - generic [ref=e51]: After submitting
+              - generic [ref=e52]: clear
+      - generic [ref=e53]:
+        - generic [ref=e54]: Step 2 of 4 · Rules
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - generic [ref=e59]:
+                - heading "Find the rules that apply" [level=1] [ref=e60]
+                - paragraph [ref=e61]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=e62]:
+                - group [ref=e63]:
+                  - 'generic "Before you file: may this already be covered? An issued variance may cover this, if you meet its conditions Show details" [ref=e64] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=e65]'
+                    - generic [ref=e66]: An issued variance may cover this, if you meet its conditions
+                    - generic [ref=e67]: Show details
+                  - generic [ref=e68]:
+                    - paragraph [ref=e69]: We found these by searching the Alberta STANDATA variances. Read each one yourself; the authority having jurisdiction decides whether it applies to your project.
+                    - article [ref=e70]:
+                      - generic [ref=e71]:
+                        - generic [ref=e72]: Conditions to meet
+                        - 'heading "STANDATA 23-BCV-001: Window opening control devices (WOCD)" [level=3] [ref=e73]'
+                      - paragraph [ref=e74]: NBC(AE) 2023 · issued April 2024 · ma-standata-variance-building-23-bcv-001-2024-04, page 1
+                      - paragraph [ref=e75]: "Cites 9.8.8.1, 9.9.10.1, which your application also relies on. Its title covers the same subject: window opening control devices."
+                      - group "Conditions in this variance. Tell us which you can meet." [ref=e76]:
+                        - generic [ref=e78]:
+                          - paragraph [ref=e79]:
+                            - generic [ref=e80]: "1."
+                            - text: WOCD mechanisms are not permitted for use in adaptable or barrier-free dwelling units.
+                            - generic [ref=e81]: (page 3)
+                          - radiogroup "Condition 1" [ref=e82]:
+                            - generic [ref=e83] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e84]
+                              - text: Yes, we meet it
+                            - generic [ref=e85] [cursor=pointer]:
+                              - radio "No" [ref=e86]
+                              - text: "No"
+                            - generic [ref=e87] [cursor=pointer]:
+                              - radio "Not sure" [ref=e88]
+                              - text: Not sure
+                      - status [ref=e89]:
+                        - strong [ref=e90]: 1 of 1 conditions not confirmed.
+                        - list [ref=e91]:
+                          - listitem [ref=e92]:
+                            - generic [ref=e93]: "1."
+                            - text: Not answered yet.
+                        - paragraph [ref=e94]: To rely on this variance your design must meet these conditions. Either adjust the design to meet them, or file your own variance request.
+                    - article [ref=e95]:
+                      - generic [ref=e96]:
+                        - generic [ref=e97]: Close, but not a match as it stands
+                        - 'heading "STANDATA 23-BCV-013/19-EDB-002: Elevator and passenger-elevating devices" [level=3] [ref=e98]'
+                      - paragraph [ref=e99]: NBC(AE) 2023 · issued February 2026 · ma-standata-joint-variance-23-bcv-013-19-edb-002, page 1
+                      - paragraph [ref=e100]: "Its title covers the same subject: window opening control devices."
+                      - group "Conditions in this variance. Tell us which you can meet." [ref=e101]:
+                        - generic [ref=e103]:
+                          - paragraph [ref=e104]:
+                            - generic [ref=e105]: "1."
+                            - text: "Where a passenger elevator is used instead of a lift conforming to CSA B355, or instead of a LULA the passenger elevator car dimensions are not required to conform to Sentence 3.5.4.1.(1) of the NBC(AE) to have elevator dimensions accommodate a stretcher, provided: Building codes and standards | Alberta.ca Elevating devices codes and standards | Alberta.ca • the elevator is restricted to a vertical travel of 7 620 mm or less, and • the elevator car dimensions are not less than the minimum as set out in Sentence 3.8.3.7.(2) of the NBC(AE)."
+                            - generic [ref=e106]: (page 2)
+                          - radiogroup "Condition 1" [ref=e107]:
+                            - generic [ref=e108] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e109]
+                              - text: Yes, we meet it
+                            - generic [ref=e110] [cursor=pointer]:
+                              - radio "No" [ref=e111]
+                              - text: "No"
+                            - generic [ref=e112] [cursor=pointer]:
+                              - radio "Not sure" [ref=e113]
+                              - text: Not sure
+                        - generic [ref=e114]:
+                          - paragraph [ref=e115]:
+                            - generic [ref=e116]: "2."
+                            - text: ASME A17.1/CSA B44 requires new automatic elevators to contain elements for Firefighters’ Emergency Operation (FEO). Since ASME A17.1/CSA B44 does not apply to CSA B355, FEO elements are not required for platform lifts or stair lifts required for barrier-free access; therefore, a passenger elevator installed instead of a platform lift for barrier-free access would not require FEO elements.
+                            - generic [ref=e117]: (page 3)
+                          - radiogroup "Condition 2" [ref=e118]:
+                            - generic [ref=e119] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e120]
+                              - text: Yes, we meet it
+                            - generic [ref=e121] [cursor=pointer]:
+                              - radio "No" [ref=e122]
+                              - text: "No"
+                            - generic [ref=e123] [cursor=pointer]:
+                              - radio "Not sure" [ref=e124]
+                              - text: Not sure
+                        - generic [ref=e125]:
+                          - paragraph [ref=e126]:
+                            - generic [ref=e127]: "3."
+                            - text: FEO elements are not required for LULA elevators required for barrier-free access; therefore, a passenger elevator installed instead of a LULA elevator for barrier-free access would not require FEO elements.
+                            - generic [ref=e128]: (page 3)
+                          - radiogroup "Condition 3" [ref=e129]:
+                            - generic [ref=e130] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e131]
+                              - text: Yes, we meet it
+                            - generic [ref=e132] [cursor=pointer]:
+                              - radio "No" [ref=e133]
+                              - text: "No"
+                            - generic [ref=e134] [cursor=pointer]:
+                              - radio "Not sure" [ref=e135]
+                              - text: Not sure
+                        - generic [ref=e136]:
+                          - paragraph [ref=e137]:
+                            - generic [ref=e138]: "4."
+                            - text: "Permit applicants using this variance are to provide a copy of the following documentation to the Authority Having Jurisdiction: • Building Permit – Located on the Safety Codes Council website (linked here). • Elevating Devices Permit – Located on the Alberta Elevating Devices and Amusement Rides Safety Association website (linked here) Note: Also issued as an elevating devices bulletin to provide awareness to the elevator industry of the conditions applicable to the use of this variance."
+                            - generic [ref=e139]: (page 3)
+                          - radiogroup "Condition 4" [ref=e140]:
+                            - generic [ref=e141] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e142]
+                              - text: Yes, we meet it
+                            - generic [ref=e143] [cursor=pointer]:
+                              - radio "No" [ref=e144]
+                              - text: "No"
+                            - generic [ref=e145] [cursor=pointer]:
+                              - radio "Not sure" [ref=e146]
+                              - text: Not sure
+                      - status [ref=e147]:
+                        - strong [ref=e148]: 4 of 4 conditions not confirmed.
+                        - list [ref=e149]:
+                          - listitem [ref=e150]:
+                            - generic [ref=e151]: "1."
+                            - text: Not answered yet.
+                          - listitem [ref=e152]:
+                            - generic [ref=e153]: "2."
+                            - text: Not answered yet.
+                          - listitem [ref=e154]:
+                            - generic [ref=e155]: "3."
+                            - text: Not answered yet.
+                          - listitem [ref=e156]:
+                            - generic [ref=e157]: "4."
+                            - text: Not answered yet.
+                        - paragraph [ref=e158]: This variance is close to your situation but not a match you can rely on as it stands. To rely on this variance your design must meet these conditions. Either adjust the design to meet them, or file your own variance request.
+                      - button "Use as a starting point" [ref=e160] [cursor=pointer]
+                    - paragraph [ref=e161]: Found by search; read the variance yourself. This does not confirm that your design is covered.
+                - group [ref=e162]:
+                  - generic "Other earlier decisions, policies and advisories 5 possible matches Show details Possible matches" [ref=e163] [cursor=pointer]:
+                    - heading "Other earlier decisions, policies and advisories" [level=2] [ref=e164]
+                    - generic [ref=e165]: 5 possible matches
+                    - generic [ref=e166]: Show details
+                    - list "Possible matches" [ref=e167]:
+                      - listitem [ref=e168]:
+                        - generic [ref=e169]: standata variance
+                        - text: Window opening control devices (WOCD)
+                      - listitem [ref=e170]:
+                        - generic [ref=e171]: edmonton policy
+                        - text: Window opening control devices
+                - paragraph [ref=e172]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=e175]:
+                  - heading "In your application 3" [level=2] [ref=e176]:
+                    - text: In your application
+                    - generic [ref=e177]: "3"
+                  - list [ref=e178]:
+                    - listitem [ref=e179]:
+                      - generic [ref=e180]:
+                        - generic "NBC(AE) 2023" [ref=e181]: NBC
+                        - generic [ref=e182]: 9.8.8.1.(4)
+                        - generic [ref=e183]: Verified in code text
+                      - paragraph [ref=e186]:
+                        - generic [ref=e187]: Intent
+                        - text: Intent 1. To expand the application of Section 9.8. to include guards for windows. Intent 1. To limit the probability that inadequate fall protection...
+                      - generic [ref=e188]:
+                        - generic [ref=e189]: What it protects
+                        - list [ref=e191]:
+                          - listitem [ref=e192]: tripping, slipping, falling, contact, drowning or collision
+                      - generic [ref=e193]:
+                        - generic [ref=e194]: NBC(AE) 2023, page 1124
+                        - generic [ref=e195] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e196]
+                          - generic [ref=e197]: Included in my application
+                    - listitem [ref=e198]:
+                      - generic [ref=e199]:
+                        - generic "NBC(AE) 2023" [ref=e200]: NBC
+                        - generic [ref=e201]: 9.8.8.1.(5)
+                        - generic [ref=e202]: Verified in code text
+                      - paragraph [ref=e205]:
+                        - generic [ref=e206]: Intent
+                        - text: Intent 1. To exempt windows from the application of Sentence 9.8.8.1.(4) where the risk of falling or the harm that would result from a fall is limited...
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: What it protects
+                        - list [ref=e210]:
+                          - listitem [ref=e211]: tripping, slipping, falling, contact, drowning or collision
+                      - generic [ref=e212]:
+                        - generic [ref=e213]: NBC(AE) 2023, page 1124
+                        - generic [ref=e214] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e215]
+                          - generic [ref=e216]: Included in my application
+                    - listitem [ref=e217]:
+                      - generic [ref=e218]:
+                        - generic "NBC(AE) 2023" [ref=e219]: NBC
+                        - generic [ref=e220]: 9.9.10.1.(1)
+                        - generic [ref=e221]: Verified in code text
+                      - paragraph [ref=e224]:
+                        - generic [ref=e225]: Intent
+                        - text: Intent 1. To limit the probability that, in an emergency situation, all means of egress will be blocked, which could lead to persons being trapped in a bedroom...
+                      - generic [ref=e226]:
+                        - generic [ref=e227]: What it protects
+                        - list [ref=e229]:
+                          - listitem [ref=e230]: persons being delayed in or impeded from moving to a safe place during an emergency (see Note A-2.2.1.1.(1))
+                      - generic [ref=e231]:
+                        - generic [ref=e232]: NBC(AE) 2023, page 1126
+                        - generic [ref=e233] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e234]
+                          - generic [ref=e235]: Included in my application
+                - region [ref=e236]:
+                  - heading "Add another article" [level=2] [ref=e237]
+                  - generic [ref=e238]:
+                    - generic [ref=e239]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=e240]:
+                      - option "Single-exit stair (point access block)"
+                      - option "Any other NBC requirement" [selected]
+                  - search [ref=e241]:
+                    - generic [ref=e242]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=e243]
+                    - generic [ref=e244]: Search in
+                    - combobox "Search in" [ref=e245]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=e246]
+            - complementary [ref=e250]:
+              - generic [ref=e251]:
+                - heading "Why this step?" [level=2] [ref=e252]
+                - paragraph [ref=e253]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=e254]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=e255]:
+                - heading "Not sure?" [level=2] [ref=e256]
+                - paragraph [ref=e257]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=e258]:
+            - button "Back" [ref=e259] [cursor=pointer]
+            - generic [ref=e262]: 3 articles selected
+            - 'button "Next: Fill and review" [ref=e263] [cursor=pointer]'
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

@@ -1,0 +1,365 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Variance Workspace, home" [ref=e7] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e8]: Variance Workspace
+        - generic [ref=e9]: Alberta building code variances
+      - generic [ref=e10]:
+        - status [ref=e521]: Saved automatically
+        - group "View as" [ref=e11]:
+          - button "Applicant" [pressed] [ref=e12] [cursor=pointer]
+          - button "Reviewer" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e522]:
+      - navigation "Application steps" [ref=e523]:
+        - list [ref=e524]:
+          - listitem [ref=e525]:
+            - button "Describe, 12 open" [ref=e526] [cursor=pointer]:
+              - generic [ref=e527]: "1"
+              - generic [ref=e528]: Describe
+              - generic [ref=e529]: 12 open
+          - listitem [ref=e530]:
+            - button "Rules, 1 open" [ref=e531] [cursor=pointer]:
+              - generic [ref=e532]: "2"
+              - generic [ref=e533]: Rules
+              - generic [ref=e534]: 1 open
+          - listitem [ref=e535]:
+            - button "Fill and review, 33 open, locked" [disabled] [ref=e536]:
+              - generic [ref=e537]: "3"
+              - generic [ref=e538]: Fill and review
+              - generic [ref=e539]: 33 open
+          - listitem [ref=e540]:
+            - button "Submit, 3 open, locked" [disabled] [ref=e541]:
+              - generic [ref=e542]: "4"
+              - generic [ref=e543]: Submit
+              - generic [ref=e544]: 3 open
+          - listitem [ref=e545]:
+            - button "After submitting, nothing open, locked" [disabled] [ref=e546]:
+              - generic [ref=e547]: "5"
+              - generic [ref=e548]: After submitting
+              - generic [ref=e549]: clear
+      - generic [ref=e550]:
+        - generic [ref=e551]: Step 2 of 4 · Rules
+        - generic [ref=e553]:
+          - generic [ref=e554]:
+            - generic [ref=e555]:
+              - generic [ref=e556]:
+                - heading "Find the rules that apply" [level=1] [ref=e557]
+                - paragraph [ref=e558]: These are the Building Code articles your request is measured against. Keep the ones that fit and remove any that do not.
+              - generic [ref=e559]:
+                - group [ref=e560]:
+                  - 'generic "Before you file: may this already be covered? An issued variance may cover this, if you meet its conditions Show details" [ref=e561] [cursor=pointer]':
+                    - 'heading "Before you file: may this already be covered?" [level=2] [ref=e562]'
+                    - generic [ref=e563]: An issued variance may cover this, if you meet its conditions
+                    - generic [ref=e564]: Show details
+                  - generic [ref=e565]:
+                    - paragraph [ref=e566]: We found these by searching the Alberta STANDATA variances. Read each one yourself; the authority having jurisdiction decides whether it applies to your project.
+                    - article [ref=e567]:
+                      - generic [ref=e568]:
+                        - generic [ref=e569]: Conditions to meet
+                        - 'heading "STANDATA 23-BCV-004: Sprinkler-protected glazing in fire-resistant wall assemblies" [level=3] [ref=e570]'
+                      - paragraph [ref=e571]: NBC(AE) 2023 · issued May 2024 · ma-standata-variance-building-23-bcv-004-2024-05, page 1
+                      - paragraph [ref=e572]: "Cites 3.1.7.1, 9.10.3.1, which your application also relies on. Its title covers the same subject: sprinkler protected glazing."
+                      - group "Conditions in this variance. Tell us which you can meet." [ref=e573]:
+                        - generic [ref=e575]:
+                          - paragraph [ref=e576]:
+                            - generic [ref=e577]: "1."
+                            - text: The assembly has been evaluated by a testing agency accredited by the Standards Council of Canada for conformance to CAN/ULC-S136:2021, “Standard Method of Fire Test for Sprinkler Protected Window Systems”.
+                            - generic [ref=e578]: (page 2)
+                          - radiogroup "Condition 1" [ref=e579]:
+                            - generic [ref=e580] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e581]
+                              - text: Yes, we meet it
+                            - generic [ref=e582] [cursor=pointer]:
+                              - radio "No" [ref=e583]
+                              - text: "No"
+                            - generic [ref=e584] [cursor=pointer]:
+                              - radio "Not sure" [ref=e585]
+                              - text: Not sure
+                        - generic [ref=e586]:
+                          - paragraph [ref=e587]:
+                            - generic [ref=e588]: "2."
+                            - text: The design, construction and installation of automatic sprinkler system conforms to NFPA 13.
+                            - generic [ref=e589]: (page 2)
+                          - radiogroup "Condition 2" [ref=e590]:
+                            - generic [ref=e591] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e592]
+                              - text: Yes, we meet it
+                            - generic [ref=e593] [cursor=pointer]:
+                              - radio "No" [ref=e594]
+                              - text: "No"
+                            - generic [ref=e595] [cursor=pointer]:
+                              - radio "Not sure" [ref=e596]
+                              - text: Not sure
+                        - generic [ref=e597]:
+                          - paragraph [ref=e598]:
+                            - generic [ref=e599]: "3."
+                            - text: Sprinklers are listed as specific application window sprinklers.
+                            - generic [ref=e600]: (page 2)
+                          - radiogroup "Condition 3" [ref=e601]:
+                            - generic [ref=e602] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e603]
+                              - text: Yes, we meet it
+                            - generic [ref=e604] [cursor=pointer]:
+                              - radio "No" [ref=e605]
+                              - text: "No"
+                            - generic [ref=e606] [cursor=pointer]:
+                              - radio "Not sure" [ref=e607]
+                              - text: Not sure
+                        - generic [ref=e608]:
+                          - paragraph [ref=e609]:
+                            - generic [ref=e610]: "4."
+                            - text: Glazing is heat-strengthened, tempered, or glass ceramic and fixed.
+                            - generic [ref=e611]: (page 2)
+                          - radiogroup "Condition 4" [ref=e612]:
+                            - generic [ref=e613] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e614]
+                              - text: Yes, we meet it
+                            - generic [ref=e615] [cursor=pointer]:
+                              - radio "No" [ref=e616]
+                              - text: "No"
+                            - generic [ref=e617] [cursor=pointer]:
+                              - radio "Not sure" [ref=e618]
+                              - text: Not sure
+                        - generic [ref=e619]:
+                          - paragraph [ref=e620]:
+                            - generic [ref=e621]: "5."
+                            - text: Where the assembly is required to be protected from both sides, sprinklers to be installed on both sides of the glazing.
+                            - generic [ref=e622]: (page 2)
+                          - radiogroup "Condition 5" [ref=e623]:
+                            - generic [ref=e624] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e625]
+                              - text: Yes, we meet it
+                            - generic [ref=e626] [cursor=pointer]:
+                              - radio "No" [ref=e627]
+                              - text: "No"
+                            - generic [ref=e628] [cursor=pointer]:
+                              - radio "Not sure" [ref=e629]
+                              - text: Not sure
+                        - generic [ref=e630]:
+                          - paragraph [ref=e631]:
+                            - generic [ref=e632]: "6."
+                            - text: If the assembly is located in a loadbearing assembly, all loadbearing components have a fire-resistance rating not less than that required for the supported assembly.
+                            - generic [ref=e633]: (page 2)
+                          - radiogroup "Condition 6" [ref=e634]:
+                            - generic [ref=e635] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e636]
+                              - text: Yes, we meet it
+                            - generic [ref=e637] [cursor=pointer]:
+                              - radio "No" [ref=e638]
+                              - text: "No"
+                            - generic [ref=e639] [cursor=pointer]:
+                              - radio "Not sure" [ref=e640]
+                              - text: Not sure
+                        - generic [ref=e641]:
+                          - paragraph [ref=e642]:
+                            - generic [ref=e643]: "7."
+                            - text: The glazed assembly does not include any horizontal members interfering with uniform distribution of water over the surface of the glazing, and there are no obstructions between sprinklers and glazing that would obstruct water distribution.
+                            - generic [ref=e644]: (page 2)
+                          - radiogroup "Condition 7" [ref=e645]:
+                            - generic [ref=e646] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e647]
+                              - text: Yes, we meet it
+                            - generic [ref=e648] [cursor=pointer]:
+                              - radio "No" [ref=e649]
+                              - text: "No"
+                            - generic [ref=e650] [cursor=pointer]:
+                              - radio "Not sure" [ref=e651]
+                              - text: Not sure
+                        - generic [ref=e652]:
+                          - paragraph [ref=e653]:
+                            - generic [ref=e654]: "8."
+                            - text: The fire-resistance rating of the sprinkler-protected glazing system is equal to or greater than the fire- resistance rating required for the wall assembly being installed within, and the sprinkler-protected glazed wall assemblies constructed according to the requirements of the listing of the window sprinkler.
+                            - generic [ref=e655]: (page 2)
+                          - radiogroup "Condition 8" [ref=e656]:
+                            - generic [ref=e657] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e658]
+                              - text: Yes, we meet it
+                            - generic [ref=e659] [cursor=pointer]:
+                              - radio "No" [ref=e660]
+                              - text: "No"
+                            - generic [ref=e661] [cursor=pointer]:
+                              - radio "Not sure" [ref=e662]
+                              - text: Not sure
+                        - generic [ref=e663]:
+                          - paragraph [ref=e664]:
+                            - generic [ref=e665]: "9."
+                            - text: "The assembly is not installed in: • a firewall or within a door installed in a firewall, • a building that contains a high hazard industrial occupancy, • a location where there is a risk of explosion, or • any part of a required exit serving: - a floor area subjected to the additional requirements for high buildings as per Subsection 3.2.6., - a care, treatment or detention occupancy, or - a residential occupancy."
+                            - generic [ref=e666]: (page 3)
+                          - radiogroup "Condition 9" [ref=e667]:
+                            - generic [ref=e668] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e669]
+                              - text: Yes, we meet it
+                            - generic [ref=e670] [cursor=pointer]:
+                              - radio "No" [ref=e671]
+                              - text: "No"
+                            - generic [ref=e672] [cursor=pointer]:
+                              - radio "Not sure" [ref=e673]
+                              - text: Not sure
+                        - generic [ref=e674]:
+                          - paragraph [ref=e675]:
+                            - generic [ref=e676]: "10."
+                            - text: Where the assembly is installed in exits not mentioned in criteria (9.) above, the exits do not comprise more than one half of the required number of exits from any floor area.
+                            - generic [ref=e677]: (page 3)
+                          - radiogroup "Condition 10" [ref=e678]:
+                            - generic [ref=e679] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e680]
+                              - text: Yes, we meet it
+                            - generic [ref=e681] [cursor=pointer]:
+                              - radio "No" [ref=e682]
+                              - text: "No"
+                            - generic [ref=e683] [cursor=pointer]:
+                              - radio "Not sure" [ref=e684]
+                              - text: Not sure
+                        - generic [ref=e685]:
+                          - paragraph [ref=e686]:
+                            - generic [ref=e687]: "11."
+                            - text: "The window sprinkler system: • Is identified at the isolation valve as supplying a window sprinkler system. • Is provided with a placard adjacent to the incoming water service with the following wording: “SPECIAL WINDOW SPRINKLER HEADS ON THIS SYSTEM ARE AN INTEGRAL PART OF THE FIRE SEPARATIONS. THIS WATER SUPPLY MAY ONLY BE SHUT OFF AFTER ALL THE PROPER AUTHORITIES HAVE RECEIVED NOTICE IN WRITING”. - Font size to be 12mm high. - Placard to be ‘RED’ in colour with white lettering. - Mount to existing wall with appropriate anchors. - Adhesive is not acceptable. • Provides a water supply duration for the design area that includes the window sprinklers but not less than the required fire resistance rating of the assembly. Notes: 1. As with all fire protection measures, care to be exercised in the design, installation, and maintenance of the active fire protection system to ensure its reliability throughout the life of the building. 2. Sprinkler-protected glazing may be used as a protected opening in an exposing building face where sprinkler heads are provided only on the interior side of the glazing. 3. Sprinkler-protected glazing may be used in an interior fire separation if sprinkler heads are provided to protect both sides of the glazing. 4. Sprinkler-protected glazing may be used in a sprinklered or an unsprinklered building. The installation of sprinkler-protected glazing will also require the installation of a fire alarm system for the building, as required by Sentence 3.2.4.1.(1)."
+                            - generic [ref=e688]: (page 3)
+                          - radiogroup "Condition 11" [ref=e689]:
+                            - generic [ref=e690] [cursor=pointer]:
+                              - radio "Yes, we meet it" [ref=e691]
+                              - text: Yes, we meet it
+                            - generic [ref=e692] [cursor=pointer]:
+                              - radio "No" [ref=e693]
+                              - text: "No"
+                            - generic [ref=e694] [cursor=pointer]:
+                              - radio "Not sure" [ref=e695]
+                              - text: Not sure
+                      - status [ref=e696]:
+                        - strong [ref=e697]: 11 of 11 conditions not confirmed.
+                        - list [ref=e698]:
+                          - listitem [ref=e699]:
+                            - generic [ref=e700]: "1."
+                            - text: Not answered yet.
+                          - listitem [ref=e701]:
+                            - generic [ref=e702]: "2."
+                            - text: Not answered yet.
+                          - listitem [ref=e703]:
+                            - generic [ref=e704]: "3."
+                            - text: Not answered yet.
+                          - listitem [ref=e705]:
+                            - generic [ref=e706]: "4."
+                            - text: Not answered yet.
+                          - listitem [ref=e707]:
+                            - generic [ref=e708]: "5."
+                            - text: Not answered yet.
+                          - listitem [ref=e709]:
+                            - generic [ref=e710]: "6."
+                            - text: Not answered yet.
+                          - listitem [ref=e711]:
+                            - generic [ref=e712]: "7."
+                            - text: Not answered yet.
+                          - listitem [ref=e713]:
+                            - generic [ref=e714]: "8."
+                            - text: Not answered yet.
+                          - listitem [ref=e715]:
+                            - generic [ref=e716]: "9."
+                            - text: Not answered yet.
+                          - listitem [ref=e717]:
+                            - generic [ref=e718]: "10."
+                            - text: Not answered yet.
+                          - listitem [ref=e719]:
+                            - generic [ref=e720]: "11."
+                            - text: Not answered yet.
+                        - paragraph [ref=e721]: To rely on this variance your design must meet these conditions. Either adjust the design to meet them, or file your own variance request.
+                    - article [ref=e722]:
+                      - generic [ref=e723]:
+                        - generic [ref=e724]: Close, but not a match as it stands
+                        - 'heading "STANDATA 19-BCV-014/19-FCV-019: 12-Storey encapsulated mass timber construction" [level=3] [ref=e725]'
+                      - paragraph [ref=e726]: NBC(AE) 2019 · issued March 2023 · ma-standata-joint-variance-19-bcv-014-rev1-19-fcv-019-rev1-2023-03, page 1
+                      - paragraph [ref=e727]: Issued under an earlier code edition (NBC(AE) 2019). Confirm with your authority that it still applies.
+                      - paragraph [ref=e728]: Matched by text similarity only; check whether it applies.
+                      - paragraph [ref=e729]: "This variance does not list numbered conditions. Read it in full before you rely on it. It says: This variance provides approximately equivalent or greater safety performance with respect to persons and property as that provided for by the Safety Codes Act, the NBC(AE) and NFC(AE). Buildings or parts thereof up to 12-storeys in height that are constructed of encapsulated mass timber are permitted, provided the following condition is met: 1. Their design and construction are in compliance with..."
+                      - status [ref=e730]:
+                        - paragraph [ref=e731]: Issued under an earlier code edition (NBC(AE) 2019); confirm it still applies. This variance is close to your situation but not a match you can rely on as it stands. To rely on this variance your design must meet these conditions. Either adjust the design to meet them, or file your own variance request.
+                      - button "Use as a starting point" [ref=e733] [cursor=pointer]
+                    - paragraph [ref=e734]: Found by search; read the variance yourself. This does not confirm that your design is covered.
+                - group [ref=e735]:
+                  - generic "Other earlier decisions, policies and advisories 3 possible matches Show details Possible matches" [ref=e736] [cursor=pointer]:
+                    - heading "Other earlier decisions, policies and advisories" [level=2] [ref=e737]
+                    - generic [ref=e738]: 3 possible matches
+                    - generic [ref=e739]: Show details
+                    - list "Possible matches" [ref=e740]:
+                      - listitem [ref=e741]:
+                        - generic [ref=e742]: standata variance
+                        - text: Sprinkler-protected glazing in fire-resistant wall assemblies
+                      - listitem [ref=e743]:
+                        - generic [ref=e744]: standata variance
+                        - text: Fire-resistant wall assemblies
+                - paragraph [ref=e745]: "Lookup mode: any other NBC(AE) 2023 requirement. Search for the article(s) being varied and add them to Section C; Section C attribution is looked up from the code text. No guided stair module applies."
+                - region [ref=e748]:
+                  - heading "In your application 2" [level=2] [ref=e749]:
+                    - text: In your application
+                    - generic [ref=e750]: "2"
+                  - list [ref=e751]:
+                    - listitem [ref=e752]:
+                      - generic [ref=e753]:
+                        - generic "NBC(AE) 2023" [ref=e754]: NBC
+                        - generic [ref=e755]: 3.1.7.1.(1)
+                        - generic [ref=e756]: Verified in code text
+                      - paragraph [ref=e759]:
+                        - generic [ref=e760]: Intent
+                        - text: Intent 1. To limit the probability that materials, assemblies or structural members will have insufficient resistance to the spread of fire...
+                      - generic [ref=e761]:
+                        - generic [ref=e762]: What it protects
+                        - list [ref=e764]:
+                          - listitem [ref=e765]: fire or explosion impacting areas beyond its point of origin
+                          - listitem [ref=e766]: collapse of physical elements due to a fire or explosion
+                        - button "Show 2 more" [ref=e767] [cursor=pointer]
+                      - generic [ref=e768]:
+                        - generic [ref=e769]: NBC(AE) 2023, page 322
+                        - generic [ref=e770] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e771]
+                          - generic [ref=e772]: Included in my application
+                    - listitem [ref=e773]:
+                      - generic [ref=e774]:
+                        - generic "NBC(AE) 2023" [ref=e775]: NBC
+                        - generic [ref=e776]: 9.10.3.1.(1)
+                        - generic [ref=e777]: Verified in code text
+                      - paragraph [ref=e780]:
+                        - generic [ref=e781]: Intent
+                        - text: Intent 1. To expand the application of Sentences 3.1.7.1.(1) and 3.1.8.4.(1) to Part 9 buildings. Intent 2. To direct Code users to Part 3...
+                      - generic [ref=e782]:
+                        - generic [ref=e783]: NBC(AE) 2023, page 878
+                        - generic [ref=e784] [cursor=pointer]:
+                          - checkbox "Included in my application" [checked] [ref=e785]
+                          - generic [ref=e786]: Included in my application
+                - region [ref=e787]:
+                  - heading "Add another article" [level=2] [ref=e788]
+                  - generic [ref=e789]:
+                    - generic [ref=e790]: What kind of variance is this?
+                    - combobox "What kind of variance is this?" [ref=e791]:
+                      - option "Single-exit stair (point access block)"
+                      - option "Any other NBC requirement" [selected]
+                  - search [ref=e792]:
+                    - generic [ref=e793]: Search by words or article number
+                    - searchbox "Search by words or article number" [ref=e794]
+                    - generic [ref=e795]: Search in
+                    - combobox "Search in" [ref=e796]:
+                      - 'option "Search in: All codes" [selected]'
+                      - option "Building"
+                      - option "Fire"
+                      - option "Plumbing"
+                      - option "Energy"
+                    - button "Search" [disabled] [ref=e797]
+            - complementary [ref=e801]:
+              - generic [ref=e802]:
+                - heading "Why this step?" [level=2] [ref=e803]
+                - paragraph [ref=e804]:
+                  - text: A variance explains how your design meets the
+                  - emphasis [ref=e805]: purpose
+                  - text: of each rule. Each article lists what it protects, taken word for word from the code supplement.
+              - generic [ref=e806]:
+                - heading "Not sure?" [level=2] [ref=e807]
+                - paragraph [ref=e808]: Keep the suggested articles. Your registered professional can adjust the list later.
+          - generic [ref=e809]:
+            - button "Back" [ref=e810] [cursor=pointer]
+            - generic [ref=e813]: 2 articles selected
+            - 'button "Next: Fill and review" [ref=e814] [cursor=pointer]'
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]: Checks completeness only. It does not assess whether a design is safe or equivalent.
+    - generic [ref=e23]: Approval stays with registered professionals and the Authority Having Jurisdiction.

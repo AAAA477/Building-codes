@@ -1,0 +1,62 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-006-2024-05",
+ "number": "23-BCV-006",
+ "numbers": [
+  "23-BCV-006"
+ ],
+ "title": "Occupancy classification of natural gas regulating and metering buildings",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "May 2024",
+ "revision": "",
+ "purpose": "To provide an alternative solution for occupancy classification of Group F, Division 1 high-hazard industrial occupancies that house natural gas and metering equipment to be classified as Group F, Division 2 medium- hazard occupancy under certain conditions.",
+ "discussion": "High Hazard Industrial Occupancy (Group F, Division 1) is defined by the National Building Code - 2023 Alberta Edition (NBC(AE)) as an industrial occupancy containing sufficient quantities of highly combustible, flammable or explosive materials which, because of their inherent characteristics, may constitute a special fire hazard. Buildings containing natural gas regulating and metering equipment are typically designed to protect the equipment. These buildings are not accessible by the public and are only intended for occupancy by employees for maintenance so the risk of harm to the public is lower than other buildings. Such features allow for accepting Group F, Division 2 medium-hazard occupancy as an alternative occupancy classification.",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Buildings used to house natural gas regulating and metering equipment may be classified as Group F, Division 2 medium-hazard occupancy provided: 1. the building does not exceed 55 m2 in building area or one storey in building height, 2. the building is considered as a low human occupancy building, and 3. sufficient ventilation is available as per Sentence 6.3.1.5.(1) so any small leaks from fittings will not accumulate and there is a constant movement of air.",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). Buildings used to house natural gas regulating and metering equipment may be classified as Group F, Division 2 medium-hazard occupancy provided: 1. the building does not exceed 55 m2 in building area or one storey in building height, 2. the building is considered as a low human occupancy building, and 3. sufficient ventilation is available as per Sentence 6.3.1.5.(1) so any small leaks from fittings will not accumulate and there is a constant movement of air."
+ ],
+ "articles_varied": [
+  "6.3.1.5",
+  "6.2.1.1",
+  "1.4.1.2",
+  "3.7.2.1"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "6.3.1.5": "NBC",
+  "6.2.1.1": "NBC",
+  "1.4.1.2": "NBC",
+  "3.7.2.1": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "the building does not exceed 55 m2 in building area or one storey in building height,",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "the building is considered as a low human occupancy building, and",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "sufficient ventilation is available as per Sentence 6.3.1.5.(1) so any small leaks from fittings will not accumulate and there is a constant movement of air.",
+   "page": 2
+  }
+ ],
+ "applies_to": "This variance applies to Group F, Division 1 high-hazard industrial occupancies housing natural gas and metering equipment.",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-006-2024-05.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-006-2024-05.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

@@ -1,0 +1,58 @@
+{
+ "id": "ma-standata-variance-building-23-bcv-012r1-2025-05",
+ "number": "23-BCV-012R1",
+ "numbers": [
+  "23-BCV-012R1"
+ ],
+ "title": "Permanent wood foundations with mechanically laminated timber panels for Part 9",
+ "kind": "variance",
+ "edition": "NBC(AE) 2023",
+ "date_issued": "May 2025",
+ "revision": "R1",
+ "purpose": "To permit permanent wood foundations made from mechanically laminated timber panels (MLTP) as detailed within the document “Permanent Wood Foundations with Mechanically Laminated Timber Panels for Part 9 Residential Buildings in Alberta” (the document), as an alternative solution under the National Building Code – 2023 Alberta Edition (NBC(AE)).",
+ "discussion": "Sentence 9.15.2.4.(1) of Division B of the NBC(AE) contains requirements for permanent wood foundations in buildings designed in compliance with Part 9. Clause 9.15.2.4.(1)(a) permits permanent wood foundations if the foundation conforms to CSA S406-16 “Specification of permanent wood foundations for housing and small buildings.” MLTP are not included within the scope of the CSA S406-16 standard. Therefore, permanent wood foundations made from MLTP would have to comply with Clause 9.15.2.4.(1)(b) of Division B which indicates the foundation is to conform to Part 4. Sentence 2.4.1.2.(1) of Division C requires designs in accordance with Part 4 to be carried out by a registered professional skilled in the work concerned. Sentence 2.4.1.2.(2) of Division C requires a registered professional to perform field reviews of preserved wood foundations designed in accordance to Part 4. The document supplements the CSA S406-16 standard and provides pre-engineered structural designs for MLTP for permanent wood foundations. This permits permanent wood foundations made from MLTP designed in compliance with the document to fall within the scope of Clause 9.15.2.4.(1)(a) of the NBC(AE).",
+ "variance_text": "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Foundations of wood-frame construction made from MLTP are permitted within the scope of Clause 9.15.2.4.(1)(a) provided the design complies with the following document: Permanent Wood Foundations with Mechanically Laminated Timber Panels for Part 9 Residential Buildings in Alberta, December, 2024 (the document) Prepared by: Milan Marojevic, MSc. Student Dr. Ying Hei Chui, Professor Dr. Yuxiang Chen, Associate Professor Reviewed by: Dr. Hossein Daneshvar, Director, Danesh Inc. Published by: Nasseri School of Building Science and Engineering 7-203 DICE, 9211-116 Street NW University of Alberta Edmonton, AB T6G 1H9 https://www.nasserischool.ca/ 2. The drawings submitted for the building permit must include the project specific details for the permanent wood foundation constructed from MLTP. 3. MLTP foundations that do not fall within the scope of the document and Clause 9.15.2.4.(1)(a) must comply with Clause 9.15.2.4.(1)(b).",
+ "variance_parts": [
+  "This variance provides approximately equivalent or greater safety performance with respect to persons and property as provided for by the Safety Codes Act and the NBC(AE). 1. Foundations of wood-frame construction made from MLTP are permitted within the scope of Clause 9.15.2.4.(1)(a) provided the design complies with the following document: Permanent Wood Foundations with Mechanically Laminated Timber Panels for Part 9 Residential Buildings in Alberta, December, 2024 (the document) Prepared by: Milan Marojevic, MSc. Student Dr. Ying Hei Chui, Professor Dr. Yuxiang Chen, Associate Professor Reviewed by: Dr. Hossein Daneshvar, Director, Danesh Inc. Published by: Nasseri School of Building Science and Engineering 7-203 DICE, 9211-116 Street NW University of Alberta Edmonton, AB T6G 1H9 https://www.nasserischool.ca/ 2. The drawings submitted for the building permit must include the project specific details for the permanent wood foundation constructed from MLTP. 3. MLTP foundations that do not fall within the scope of the document and Clause 9.15.2.4.(1)(a) must comply with Clause 9.15.2.4.(1)(b)."
+ ],
+ "articles_varied": [
+  "9.15.2.4",
+  "2.4.1.2"
+ ],
+ "articles_unverified": [],
+ "article_codes": {
+  "9.15.2.4": "NBC",
+  "2.4.1.2": "NBC"
+ },
+ "conditions": [
+  {
+   "index": 1,
+   "label": "1",
+   "text": "Foundations of wood-frame construction made from MLTP are permitted within the scope of Clause 9.15.2.4.(1)(a) provided the design complies with the following document: Permanent Wood Foundations with Mechanically Laminated Timber Panels for Part 9 Residential Buildings in Alberta, December, 2024 (the document) Prepared by: Milan Marojevic, MSc. Student Dr. Ying Hei Chui, Professor Dr. Yuxiang Chen, Associate Professor Reviewed by: Dr. Hossein Daneshvar, Director, Danesh Inc. Published by: Nasseri School of Building Science and Engineering 7-203 DICE, 9211-116 Street NW University of Alberta Edmonton, AB T6G 1H9 https://www.nasserischool.ca/",
+   "page": 2
+  },
+  {
+   "index": 2,
+   "label": "2",
+   "text": "The drawings submitted for the building permit must include the project specific details for the permanent wood foundation constructed from MLTP.",
+   "page": 2
+  },
+  {
+   "index": 3,
+   "label": "3",
+   "text": "MLTP foundations that do not fall within the scope of the document and Clause 9.15.2.4.(1)(a) must comply with Clause 9.15.2.4.(1)(b).",
+   "page": 2
+  }
+ ],
+ "applies_to": "This variance applies to buildings classified as Group C residential occupancies designed in compliance with Part 9 of the NBC(AE).",
+ "pdf": "files/standata/variances_2023/ma-standata-variance-building-23-bcv-012r1-2025-05.pdf",
+ "source": {
+  "doc": "ma-standata-variance-building-23-bcv-012r1-2025-05.pdf",
+  "page": 1
+ },
+ "current": true,
+ "superseded_by": null,
+ "needs_review": false,
+ "review_reasons": [],
+ "extraction_confidence": 1.0
+}

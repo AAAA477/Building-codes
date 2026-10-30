@@ -345,6 +345,11 @@ def compute(app: dict) -> dict:
         items.extend(consistency.items(app))
     except ImportError:
         pass
+    try:  # conditions of the relied-on STANDATA variance (variance_items.py)
+        import variance_items
+        items.extend(variance_items.items(app))
+    except ImportError:
+        pass
     try:  # open officer questions (questions_items.py)
         import questions_items
         items.extend(questions_items.items(app))
